@@ -9,8 +9,9 @@ Mo. 13.05.              0.5 Tage
 Mi. 29.05.              1 Tag
 Fr. 07.06.              1 Tag
 Mo. 01.07. - Fr. 26.07. 20 Tage
+Mo. 23.12. - Fr. 03.01. 5 Tage
 
-Resturlaubstage: 6.5
+Resturlaubstage: 5.5 (Jahresrest 0.5)
 
 
 
