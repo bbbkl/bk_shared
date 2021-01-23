@@ -1,10 +1,6 @@
-2020 (Resturlaub 2019 = 2.5 Tage)
-Do 02.01. - Fr 03.01.	 2 Tage
-Mi 08.04. - Do 09.04.	1.5 Tage
-Fr 12.06. - Fr 12.06.	 1 Tag
-Do 16.07. - Fr 17.07.	 2 Tage
-Mo 27.07. - Fr 07.08.	10 Tage
-Mo 10.10. - Fr 16.10.    5 Tage
+2021 (Resturlaub 2020 = 2 Tage)
+Do 02.01. - Fr 03.01.	 0 Tage
                        =========
-                        21.5 Tage
-Resturlaub: 11
+                        0 Tage
+Resturlaub: 32
+
