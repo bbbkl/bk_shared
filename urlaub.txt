@@ -1,13 +1,7 @@
-2021 (Resturlaub 2020 = 2 Tage)
+2022 (Resturlaub 2021 = 9 Tage)
 
-14. - 17.05.= 02 Tage
-02.07.      = 01 Tage
-16. - 27.8. = 10 Tage
-20. - 21.9. = 02 Tage
-24.09.      = 0.5 Tage
-01.10.      = 0.5 Tage
-27.12-04.1. = 06 Tage
+dd.mm. - dd.mm.= tt Tage
            =============
-		      22 Tage
+		      nn Tage
 			
-Resturlaub: 10
+Resturlaub: 39
