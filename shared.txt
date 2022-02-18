@@ -1,3 +1,6 @@
+Kündigung 6 Wochen zum Quartalsende
+Fr 15.04.2022 Kündigung für 31.5.2022 (Q2/2022)
+
 - Klärung der Führungskompetenz APS
   Ich bin gerne bereit da aktiv zu führen, möchte das aber explizit ansprechen
   
@@ -14,3 +17,34 @@
 - Ich erwarte dieses Jahr eine stärkere Gehaltserhöhung als sonst 
   (Budget Problem mit Jens Leoff?)
   
+* Buchbeschaffung C++ Move (musste ich selbst bezahlen)
+
+* Quartalsupdate zeigt mir, dass er der Firma super geht
+
+* Firmengröße > 1000 --> Großunternehmen (> 500 MA, 50 Mio Umsatz)
+  
+* Gehalt Einstieg mit 53 TE war günstig für pa 
+Mein Endgehalt bei Insiders war 65 TE
+Aktuelles Gehalt = 65 TE --> 2,3% Erhöhung (9x)
+"Mehr Erhöhung als 2% bei SAP 2021" -> fühle ich mich nicht ernst genommen
+
+* Inflation 2021 = 3.1%
+* Inflation 2022 = 5%
+
+* 25 Jahre Berufserfahrung, 10 Jahre Berufserfahrung in ERP Branche
+
+* 'Leite/Koordiniere' APS (Robert, Jonathan, ITWM)
+
+* Funktionierende 
+  - Continous Build Umgebung
+  - Regressions-Umgebung
+  - Unit Tests
+  
+* Sonic Testprogramm als Hobbyprojekt
+
+* APS Kundenprobleme zu hauf erledigt (macht bedingt Spaß)
+
+* angekündigter Spaß an der Arbeit durch Scrum kann ich nicht bestätigen
+
+* In X/Y Theorie bin ich ein Y-Mitarbeiter (Eigenmotiviert, eher kooperativ)
+
