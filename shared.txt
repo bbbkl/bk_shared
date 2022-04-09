@@ -1,5 +1,5 @@
 Kündigung 6 Wochen zum Quartalsende
-Fr 15.04.2022 Kündigung für 31.5.2022 (Q2/2022)
+Fr 13.05.2022 Kündigung für 30.6.2022 (Q2/2022)
 
 - Klärung der Führungskompetenz APS
   Ich bin gerne bereit da aktiv zu führen, möchte das aber explizit ansprechen
@@ -47,4 +47,126 @@ Aktuelles Gehalt = 65 TE --> 2,3% Erhöhung (9x)
 * angekündigter Spaß an der Arbeit durch Scrum kann ich nicht bestätigen
 
 * In X/Y Theorie bin ich ein Y-Mitarbeiter (Eigenmotiviert, eher kooperativ)
+
+* Firma verdient mehr mit Einnahmen für Kunden die extra für Call-Bearbeitung bezahlen.
+Dafür gibt es extra SAM-Mitarbeiter, die mich anrufen. Da sehe ich keine Euro extra.
+
+Forderung: 
+8% mehr Gehalt = 65 -> 70 TE rückwirkend ab 1.4.2022
+
+Mit der Standard-Erhöhrung <= 2% bin ich dieses Jahr nicht mehr zufrieden.
+Die Inflation wird dieses Jahr Richtung 5 - 6% gehen.
+Der Arbeitsmarkt für IT Fachkräfte ist zur Zeit hervorragend und eine andere Stelle zu bekommen, wird kein Problem sein.
+Ich merke, wie ich zunehmend unzufrieden bin und oft an 'die Situation' denke und nicht an meine Arbeitsaufgaben.
+Wenn ich mit dem Rad zur Arbeit fahre, denke ich oft an akutelle Herausforderungen; mittlerweile aber zunehmend über meine Unzufriedenheit; das ist Mist.
+Als ich bei proAlpha vor 10 Jahren anfing; verdiente ich soviel wie jetzt (65 TE). Mein Einstiegsgehalt bei pa war günstig.
+Zu denken hat mir die Kurzvorstellung von Wolgang Fuhr gegeben. Der kam, sah und ging wieder.
+
+
+Folgende Reaktionen seitens der Firma kann ich mir vorstellen:
+a) Die Firma geht auf meine Forderung ein. Alles gut.
+b) Die Firma will ein Angebot mit höherem Gehalt vorgelegt bekommen. Dann wird es voraussichtlich deutlich mehr als 70 TE.
+c) Die Firma macht 'nichts'.
+
+Fall b) oder c) passieren, werde ich aktiv prüfen, ob eine neue Herausforderung für mich möglich ist. 
+Die Suche nach einer neuen Herausforderung beginnt ab jetzt.
+Gerne bin ich für ein Mitarbeitergespräch bereit. 
+Aus betriebswirtschaftlicher Sicht wäre meiner Meinung nach a) am günstigsten für die Firma.
+
+
+Für das APS Team kann ich sagen, dass der Weggang von mir oder Robert ein Problem verursachen wird.
+Es ist vieles automatisiert und wird eine zeitlang noch gut funktonieren. 
+Die Belastung durch auflaufende Kundenprobleme wird meines Erachtens einen Entwickler allein überlasten.
+Ich bin sehr gut eingearbeitet; insbesonder im C++ Code vom Optimierer und dem Zusammenspiel ERP/Optimierer.
+Aufbau einer funktionierenden Coninous Integration Umbebung.
+QS in Form einer Python Script automatierten Regressionsumgebung.
+QS in Form von Unit-Tests im C++ Code.
+Die APS QS ist automatisiert und deutlich besser als die vom ABL Code.
+Ich bin informeller APS-Teamleiter; allerdings ohne echte Kompetenzen.
+
+Was kann ich anbieten:
+- offizielle APS Teamleitung
+- zur Not auch PPS Teamleitung, falls die Leitung noch 50% APS Entwicklung zulässt
+- mehr konzeptionelle (PO-) Arbeit für APS. Das muss dann aber auch so festgelegt werden.
+  Eine Pseudo-/Proxy-Chefstelle wie die von Peter Köhler will ich nicht
+- wieder mehr Lust auf agiles Ausprobieren von neuen Sachen  
+- konstruktive Mitarbeit in den kommenden voraussichtlich stürmischen Zeiten
+  
+Status
+Die Arbeit macht mir und grundsätzlich Spaß.
+Ich bin der richtige Mann am richtigen Platz.
+Dem Kollegen kann ich Führung geben und das APS-Team voranbringen.
+Ich bin wichtiges Bindeglied zwischen PA und dem ITWM. Die Zusammenarbeit ist sehr gut und wir vertrauen einander.
+Die Loyalität zur Firma war groß und nimmt zunehmend ab bei mir.
+Auf einer Zufriedenheits-Skala von 0 - 10 bin ich aktuell bei 5, ich war mal bei 8+.
+
+Das mit Jens Leoff aus meiner Sicht hervorragende APS-Team wurde aus meiner Sicht kaputt gemacht. Das war eine Firmenentscheidung, die ich sehr bedaure.
+
+
+
+==================================
+
+Management Summary: 
+Bernd Krüger will 8% mehr Gehalt. Handlungsbedarf - Eskalation droht.
+
+
+Die Arbeit im APS-Team ist herausfordernd und macht meist Spaß.
+Beim Radeln zur Arbeit habe ich schon so manche Idee vorgedacht; das Radeln hält mit fit und ich bin sehr selten krank.
+In der Kantine die Pause tut gut. Ich treffe auch Kollegen aus anderen Teams und mache so nebenbei den ein oder anderen Blick über den Tellerrand.
+Zu dritt mit Jens Leoff hatten wir ein super Team und haben gemeinsam so manches Feature entwickelt. 
+Auch jetzt mit Robert und den ITWMlern ist die Zusammenarbeit vertrauensvoll.
+Überstunden hab ich des öfteren gemacht um mich in Aufgaben reinzudenken. 
+Ich habe in APS Unit-Tests, Continuus Integration und Regressionstests eingeführt. Alles automatisiert und mit Mail bei Problemen.
+Wir haben die temporären Strukturen übernommen, die einen Hauptteil der aktuellen Kundenprobleme ausmachen. Hier ist konzeptionell noch einiges zu verbessern.
+Markus als Ansprechpartner mit viel PPS/APS KnowHow und historischem Überblick war gut. Wir hatten einen Fixtermin pro Woche.
+
+Davon ist einiges in der Vergangenheitsform.
+Die Chefstelle ist seit einiger Zeit vakant und die Firma spart da gut Gehalt ein. 
+Kurz tauchte Wolfgang Fuhr als Chef auf; kam, sah, dachte nach und ging.
+Die Firma wünscht sich viel Einsatzbereitschaft für die anstehenden Aufgaben. 
+Meine Motiviation da extra Schritte zu gehen sinkt. Selbstverständlich bin ich noch loyal zu meinem Team und meiner Aufgabe. 
+Ich möchte meine Arbeit gut machen und habe eine wachen Blick für Verbesserungsmöglichkeiten und neue Impulse.
+Wir arbeiten eigenmotiviert und kommen im Prinzip ohne Chef gut klar.
+Der Weggang von Jens in der Nacht und Nemo Aktion hat einiges von der Team Schaffenskraft her zerstört - Firmenentscheidung.
+Geblieben sind die Kundenprobleme, vor allem rund um die temporären Strukturen.
+
+Obwohl ein "best ever" Quartal das nächste jagt, gibt es bei den Gehaltsrunden <= 2% und 2% ist 'viel'.
+Die Firma ist groß geworden und gibt sich auch so. Das große Firmen auch größer bezahlen ist aber noch nicht Realität bei mir.
+Viele haben gemerkt, dass die Bezahlung nicht mehr marktgerecht ist. Die Nachfrage an ITlern ist groß. 
+Homeoffice ermöglicht auch arbeiten in weiter Entfernung.
+Die Firma verdient Extra-Geld damit, dass Kunden sich VIP Status kaufen. Extra Deeskalationsmanager und SAMs rufen mich an, 
+um mir zu sagen, dass der eine Call/Case wichtiger als der andere ist. Von dem Extra-Geld kommt bei mir nichts an.
+Was für eine Gehalt bekommt so ein Deeskalationsmanger oder SAM?, frage ich mich nun immer öfter beim Radeln zur Arbeit.
+Ich denke immer öfter an die eigene Unzufriedenheit und nicht mehr an meine eigentliche Arbeit - das ist nicht gut.
+
+Da will ich was ändern.
+Deshalb möchte ich jetzt eine Gehaltsanpassung von 8% ab April 2022.
+
+Folgendes biete ich an um das zu rechtfertigen:
+De-Facto Teamführung vom APS Team. Das würde ich gern amtlicher machen.
+Angebot zur PPS Teamleitung, vorausgesetzt, dass dies noch 50% APS Entwicklung zulässt.
+Mehr konzeptionelle PO-Arbeit für APS.
+Konstruktive Mitarbeit in den kommenden voraussichtlich stürmischen Zeiten.
+Ein loyaler super eingearbeiteter Mitarbeiter, der C++, Python und ABL beherrscht.
+
+Folgendes mag bei der Entscheidungsfindung helfen:
+Einstieg 2012 mit 53 TE (vorher bei Insiders 65 TE), jetzt 65 TE. 8% -> 70 TE.
+Der Literpreis Diesel war 2016 1.08 - jetzt eher 2,-. Inflation 2022 ca. 6%.
+Einige gute agile Mitarbeiter werden die nächste Gehaltsrunde nicht mitgehen - ich zumindest nicht.
+Die Einsparung meines Gehalts würde auf das kurzfristige Ziel Kosten reduzieren einzahlen.
+Eventuell wächst Robert allein gestellt über sicht hinaus und hält APS zusammen - unwahrscheinlich aber nicht unmöglich.
+
+
+Folgende Reaktionen seitens der Firma kann ich mir vorstellen:
+a) Die Firma geht auf meine Forderung ein. 
+Wir besprechen was wir von den "ich biete an" Punken umsetzen. Alles gut.
+b) Die Firma will ein Angebot mit höherem Gehalt vorgelegt bekommen. Dann wird es voraussichtlich teuerer als Vorschlag bei a).
+c) Die Firma macht 'nichts'.
+
+Fall b) oder c) passieren, werde ich aktiv prüfen, ob eine neue Herausforderung für mich möglich ist. Die Suche nach einer neuen Herausforderung beginne ich jetzt.
+Gerne bin ich für ein Mitarbeitergespräch bereit. 
+Aus betriebswirtschaftlicher Sicht ist meiner Meinung nach a) am günstigsten für die Firma.
+
+Gruß,
+Bernd
 
