@@ -106,16 +106,18 @@ Das mit Jens Leoff aus meiner Sicht hervorragende APS-Team wurde aus meiner Sich
 
 ==================================
 
+Betreff: Love it, leave it or change it -> current attempt: change it
+
 Management Summary: 
-Bernd Krüger will 8% mehr Gehalt. Handlungsbedarf - Eskalation droht.
+Bernd Krüger will 8% mehr Gehalt. Es besteht Handlungsbedarf.
 
 
 Die Arbeit im APS-Team ist herausfordernd und macht meist Spaß.
 Beim Radeln zur Arbeit habe ich schon so manche Idee vorgedacht; das Radeln hält mit fit und ich bin sehr selten krank.
 In der Kantine die Pause tut gut. Ich treffe auch Kollegen aus anderen Teams und mache so nebenbei den ein oder anderen Blick über den Tellerrand.
-Zu dritt mit Jens Leoff hatten wir ein super Team und haben gemeinsam so manches Feature entwickelt. 
+Zu dritt mit Jens Leoff hatten wir ein super Team und haben gemeinsam so einige Feature entwickelt. 
 Auch jetzt mit Robert und den ITWMlern ist die Zusammenarbeit vertrauensvoll.
-Überstunden hab ich des öfteren gemacht um mich in Aufgaben reinzudenken. 
+Überstunden hab ich des öfteren gemacht um mich in Aufgaben rein zudenken. 
 Ich habe in APS Unit-Tests, Continuus Integration und Regressionstests eingeführt. Alles automatisiert und mit Mail bei Problemen.
 Wir haben die temporären Strukturen übernommen, die einen Hauptteil der aktuellen Kundenprobleme ausmachen. Hier ist konzeptionell noch einiges zu verbessern.
 Markus als Ansprechpartner mit viel PPS/APS KnowHow und historischem Überblick war gut. Wir hatten einen Fixtermin pro Woche.
@@ -163,7 +165,8 @@ Wir besprechen was wir von den "ich biete an" Punken umsetzen. Alles gut.
 b) Die Firma will ein Angebot mit höherem Gehalt vorgelegt bekommen. Dann wird es voraussichtlich teuerer als Vorschlag bei a).
 c) Die Firma macht 'nichts'.
 
-Fall b) oder c) passieren, werde ich aktiv prüfen, ob eine neue Herausforderung für mich möglich ist. Die Suche nach einer neuen Herausforderung beginne ich jetzt.
+Fall b) oder c) passieren, werde ich aktiv prüfen, ob eine neue Herausforderung für mich möglich ist. 
+Die Suche nach einer neuen Herausforderung beginne ich jetzt.
 Gerne bin ich für ein Mitarbeitergespräch bereit. 
 Aus betriebswirtschaftlicher Sicht ist meiner Meinung nach a) am günstigsten für die Firma.
 
