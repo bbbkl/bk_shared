@@ -1,7 +1,10 @@
 2022 (Resturlaub 2021 = 9 Tage)
 
 21.02. - 28.02. = 6 Tage
+21.04. - 22.04. = 2 Tage
+19.05. - 20.05. = 2 Tage
+03.06.          = 1 Tag
            =============
-		      6 Tage
+		      11 Tage
 			
-Resturlaub: 33
+Resturlaub: 28
