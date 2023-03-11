@@ -1,0 +1,128 @@
+TrAct long identAct + bool isTemporary + long type
+  type 
+  erpAct = 0
+  AOB EARUEST
+  AOB WORKDAY
+  AUTO WAIT
+  SqR-BOUND
+  RES-BOUND
+  AUTO RES-BUFFER
+  AUTO BUFFER
+  AUTO SPLIT + counter = {1, 2, ...}
+  
+tuple<long, bool, long>
+
+Problem sind Durchlaufzeit-Aktivitäten mit identAct = -1
+
+TrKalenderMapType long (cal)/resArt, string sKalender|sRessource
+tuple<long, string>
+
+TrRessAltMapType long resArt, string altGrp, string res
+tuple <long, string, string>
+vermutlich besser multimap<resArt, altGrp> mit key = tuple<long, string>
+Dient nur für AltGrp Mitgliedschaft
+
+TrRessAltGrpMapType long resArt, string altGrp
+tuple<long, string>
+
+TrMaterialMapType long identAct, bool isTemporary, long pos
+Prüfen, ob key = identAct/isTemp ausreicht, d.h. ohne matPos
+tuple<long, bool> 
+
+TrResourceMapType 
+
+
+Rückverbindung Aps -> Tr
+=========================
+ApsProcess               -> ApsERPIdent*       / string get/setHelpKey
+ApsPartProcess           -> ApsERPIdent*       / string get/setHelpKey
+ApsAct                   -> ApsActivityIdent*  / string get/setTrActID
+ApsCalendar              -> ApsERPIdent*
+ApsPrecedence            -> ApsErpIdent*
+ApsResCompatibilityEntry -> ApsErpIdent*
+ApsResourceCst           -> ApsEr	pIdent* oder ApsResourceCstIdent* ?
+
+ApsDepot                 -> ApsResourceIdent*
+ApsResource              -> ApsResourceIdent*
+ApsAlternativRes         -> ApsResourceIdent*
+ApsCalendarRes           -> ApsResourceIdent*
+ApsProcedure             -> ApsResourceIdent*
+ApsTool                  -> ApsResourceIdent*
+
+
+KEINE Rückverbindung
+=====================
+ApsActSplitt
+ApsAlternativElem
+ApsCalElement
+ApsDemandProxy ? -> Act/MrpMovement?
+ApsMRPMovement ?
+ApsPeggingInfo
+ApsTransitionMatrix
+ApsTransitionMatrixEntry
+
+
+POTENTIELL ÜBERFLÜSSIG
+ApsOverloadMat -> scheint für Overload specific zu sein?
+ApsOverloadRes -> scheint für Overload specific zu sein?
+ApsUpdateActivity
+apsUpdateOrderMaterial
+DEF_ERPCommandupdate_Activity_____
+DEF_ERPCommandupdate_Splitt_Act___
+DEF_ERPCommandupdate_ContTimePoint
+DEF_ERPCommandupdate_ActivityRF___
+DEF_ERPCommandupdate_Resource_____
+
+
+
+ActivityIdent
+tuple<ident_act, isTemporary, act_type> getIdentAct()  Wozu ist act_type nötig? Was ist das?
+pair<partproc, isTemporary> getIdentPartProc()
+pair<process, isTemporary> getIdentProc()
+
+PartprocIdent
+pair<partproc, isTemporary> getIdentPartProc()
+pair<process, isTemporary> getIdentProc()
+
+ResourceIdent
+tuple<ident_act, isTemporary, act_type> getIdentAct()
+pair<res_kind, res, res_type> getIdentResource()
+type = normal, wait
+
+DepotIdent
+tuple<ident_act, isTemporary, act_type> getIdentAct()
+
+
+
+BuildObjectModel
+1. TrRes Ojekte als Liste in TrAct einfügen.
+2. Kalender 
+   for each TrRes in getHelpTableRessource
+     cal_key = cal_kind, cal_name
+	 cal = getHelpTableCalendar(cal_key)
+	 diff_cal_key = res_kind, res_name
+	 diff_cal = getHelpTableCalendar(diff_cal_key)
+   create company calendars
+3. Depots
+   Dummy-Chargen anlegen
+   getHelpTableMaterial / getHelpTableMCCharge / getHelpTableProcess / getHelpTableSArtikel
+4. updateDepotsOfOrders ??
+5. transitionTimeBuilder
+6. createResource
+	getHelpTableRessource
+    createResCalendar companyCal, resCal
+    createMashineToolComp
+7. createAltGroup
+8. createSplittAct
+9. adjustTransitionAndBufferTime
+10. createActivities
+11. createResConstraint
+12. createPrecedenceConstraints
+13. createSetupResourceFeatures / createPartFeatures
+14. preprocessActivities
+15. createProcess
+16. fixGeneratedActsInProcesses
+17. createActInformationPartProcess (first/last act)
+18. createDepotConstraint
+
+

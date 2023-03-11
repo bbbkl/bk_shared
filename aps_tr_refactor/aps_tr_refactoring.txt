@@ -1,0 +1,261 @@
+class ApsERPIdent
+	enum class EERPType { Undefined; activity, Resource, Depot, Movement, SetupMatrix }
+	const string& getIdent() const { return m_sIdent; }
+	Void setCTPId( const string& p_sId ) { m_sCtpId = p_sId; }
+    const string& getCTPId() const { return m_sCtpId; }
+		newAltResIdent->setCTPId = ApsAlternativRes->ownIdent->getCTPId() + "WAITRESS"
+		ApsResourceIdent->setCTPId = buildKey( m_sRessArt, m_sRessource )
+		ApsResourceIdent->setCTPId = bk(calArt, "CCR-" + p_lCompanyCalendar)
+		ApsResourceIdent->setCTPId = bk(pAltGruppe->getRessArt(), pAltGruppe->getAltGruppe())
+	    ApsActivityIdent(pTrAct) = ApsCommunicationsMgr::getInstance().getCtpId() 
+	 
+    void setProcessKey( const string& p_sProcessKey ) { m_sProcessKey = p_sProcessKey; }
+    const string& getProcessKey() const { return m_sProcessKey; }
+    virtual string getName() const;
+	
+	string m_sIdent;
+    string m_sCtpId;
+    string m_sProcessKey; = m_sProzessBereichKopf, m_sProzess
+    EERPType m_erpType = EERPType::Undefined;
+=================================================================================
+class ApsActivityIdent : public ApsERPIdent
+  void setIdentAkt( long p_lIdentAkt );
+  void setTeilprozess(long p_lTeilprozess );
+  void setAktPos( long p_lAktPos );
+  void setProzessBereich( const string& p_sPB ) { m_sProzessBereich = p_sPB; }
+  long getIdentAkt() const;
+  long getTeilprozess() const;
+  long getAktPos() const;
+  const string& getProzessBereich() const { return m_sProzessBereich; }
+  string getActKey() const { return buildKey(m_sProzessBereich, m_lIdentAkt); }
+  string getName() const override;
+  
+  long     m_lIdentAkt;
+  long     m_lTeilprozess;
+  long     m_lAktPos;
+  string m_sProzessBereich;
+=================================================================================
+class ApsDepotIdent : public ApsERPIdent
+  const string& getMRPArea() const { return m_mrpArea; }
+  const string& getPart() const { return m_part; }
+  const string& getVariant() const { return m_variant; }
+  const string& getLot() const { return m_lot; }
+  const string& getCroNo() const { return m_croNo; }
+  const string& getReservation() const { return m_reservation; }
+  string getName() const override;
+  
+  string m_mrpArea;
+  string m_part;
+  string m_variant;
+  string m_lot;
+  string m_croNo;
+  string m_reservation;
+=================================================================================
+class ApsResourceIdent : public ApsERPIdent
+- nix -
+=================================================================================
+class CommMgr
+  TrProcessMapType& getHelpTableProcess()     { return m_htProcess;    }
+	pTrAct->getProcessKeyRueckNr() = buildKey(m_sProzessBereichOrig,m_sProzess,m_lTeilprozess)
+	p_pTrMaterial->getProzessKey() = buildKey(m_sProzessBereich,m_sProzess,m_lTeilprozess)
+  
+  TrCoverageMapType& getHelpTableTrCoverage() { return m_trCoverage; } multimap
+	trCoverage->getIdentProcKey() = buildKey(m_processArea, m_process, m_partProcess)
+	deleteBySubId(processId) --> alle für Process löschen
+   
+  TrActivityMapType& getHelpTableActivity()    { return m_htActivity;   } multimap
+	p_activity.getTrActID() = m_sIdentPartProcKey || m_sIdentPartProcKey + p_sAOBRelation
+	  p_sAOBRelation = { "AOB EARUEST", "AOB WORKDAY", "AUTO WAIT", 
+	    "SqR-BOUND", "RES-BOUND", "AUTO RES-BUFFER", "AUTO BUFFER" -> enum class EReasonGen
+	act->getIdentPartProcKey() + "AUTO SPLIT " << ++counter
+	act->getIdentPartProcKey()
+	pTrConstraint->getActFromKey() || pTrConstraint->getActToKey()
+	p_trMaterial.getActKey() = buildKey(m_sProzessBereich,m_sProzess,m_lTeilprozess,m_lIdentAkt
+	deleteBySubId(processId)
+  
+  TrKalenderMapType& getHelpTableCalendar() { return m_htKalender; }
+	getKalenderKey = buildKey( m_sKalArt, m_sKalender )
+    getAbweichKalenderKey() = buildKey( m_sRessArt, m_sRessource )
+	resTypErp = {compCal=-100, dayChange=-99, unknown=0, 1-9}
+  
+  TrRessAltMapType& getHelpTableAltRes()      { return m_htRessalt;    }
+	getResKey = buildKey( m_sRessArt, m_sRessource ); m_sRessource -> m_sAltGruppe
+	ressAlt->getResAltKey() = buildKey( m_sRessArt, m_sAltGruppe, m_sRessource )
+	ApsM_RessAltGr::getIdentKey() = buildKey( m_sRessArt, m_sAltGruppe )
+  
+  TrRessAltGrpMapType& getHelpTableAltResGr()    { return m_htRessaltgr;  }
+    p_ptrTrRes->getAltGroupKey() = buildKey( m_eResArt, m_sRessource ) eResArt=-100,-99,0-9 
+    p_pTrRes->getResKey() = buildKey( m_eResArt, m_sRessource )
+	altRessGr->getIdentKey() = buildKey( m_sRessArt, m_sAltGruppe )
+  
+  const TrMaterialMapType& getHelpTableMaterial() const   { return m_htMaterial;   }
+    material->getIdentKey = bk(m_sProzessBereich,m_sProzess,m_lTeilprozess,m_lAktPos,m_lPosition)
+	Worauf bezieht sich Prozessbereich: Prozess -> dann nicht eindeutig
+	                           partproc und act -> ok
+  
+  TrArtMapType& getHelpTableMCArt()       { return m_htMc_art;     }
+    p_lotTypeKey = m_sChargenart
+  
+  TrChargeMapType& getHelpTableMCCharge()    { return m_htMc_charge;  }
+     apsMC_Charge::getKeyMain = buildKey(p_apsTrMRPMovement.getLot(), p_apsTrMRPMovement.getPart())
+	 
+  TrResourceMapType& getHelpTableResource()  { return m_htResource;   }
+	 workDayResCst->getIdentKey=bk(m_sProzessBereich,m_sProzess,m_lTeilprozess,m_lAktPos,m_lResPos)
+	 deleteBySubId(processId)
+  
+  TrResourceReservedMapType& getHelpTableResourceReserved() { return m_htResourceReserved; }
+    key = pair(identAct, isTemporary)
+  
+  TrRessourceMapType& getHelpTableRessource() { return m_htRessource;  }
+    buildKey( m_sRessArt, m_sRessource )
+    p_ptrTrRes->getSelectedResKey() = buildKey( m_eResArt, m_sSelectedRess );
+	p_sCalendarResKey = resIdent->getCTPId() 
+  
+  TrRessGrpMapType& getHelpTableRessGruppe()  { return m_htRessgruppe; }
+	p_pMRes->getRessGruppe() = m_sRessGruppe
+  
+  TrTimeConstMapType& getHelpTableTimeConst()   { return m_htTimeConst;      }
+    buildKey( m_sProzessBereich, m_sProzess, m_lTeilprozess, m_lIdentAkt )
+    deleteBySubId(processId)
+  
+  TrZeitMngEinhMapType& getHelpTableZeitMengEinh(){ return m_htZeitmngeinh;    }
+    ApsTrActivity::getZeitmengeneinheitKey() = m_lZeitmengeneinheit
+	
+  TrConstraintMapType& getHelpTableConstraints(){ return m_htConstraint; }
+    cst->getActFromKey() = bk(m_sProzessBereichFrom,m_sProzess,m_lTeilprozessVon,m_lIdentAktVon)
+	cst->getActToKey() = bk(m_sProzessBereichTo,m_sProzess,m_lTeilprozessNach,m_lIdentAktNach)
+	Cst->getIdentKey() = getActToKey() 
+  
+  TrConstraintMapType& getHelpTableHelpConstraints(){ return m_htHelpConstraint; }
+    cst->getActFromKey() -> cst
+	
+  deleteProcess(processId)
+    m_htActivity, m_htMaterial, m_htResource, m_htConstraint, 
+	m_htTimeConst, m_trCoverage, m_htProcessCacheLookup
+	
+=================================================================================
+
+class ApsBaseDataObject : public IApsStreamable
+  virtual long getId() const { return 0; }   
+  virtual ApsERPIdent* getERPIdent() { return nullptr; } 
+  virtual const ApsERPIdent* getERPIdent() const { return nullptr; } 
+  virtual int getObjectType() const = 0;
+  static ApsBaseDataObject* createDataObject(int p_iObjectType);
+  
+TR-Layer
+void ApsTrSplittActivity::buildIdentKey()
+	m_sIdentPartProcKey = buildKey(m_sProzessBereichOrig, m_sProzess, m_lTeilprozess, m_lIdentAkt);
+	long m_lSplittPoint
+
+class ApsTrActivity : public ApsERPObject = ApsBaseDataObject
+  Kann temporär sein, aber zu einen nicht temporären Process gehören (CTV Unterstruktur)
+  string m_sProzessBereichKopf m_sProzessBereichOrig
+  m_sIdentPartProcKey = buildKey(m_sProzessBereichOrig,m_sProzess,m_lTeilprozess,m_lIdentAkt);
+  m_sHeadProcessKey = buildKey(m_sProzessBereichKopf, m_sProzess);
+  m_sProcessKeyRueckNr = buildKey(m_sProzessBereichOrig, m_sProzess, m_lTeilprozess);
+
+call ApsTrProcess
+  m_sIdentProcKey = buildKey(m_sProzessBereichOrig, m_sProzess, m_lTeilprozess);
+  m_sIdentProcKeyAll = buildKey(m_sProzessBereichKopf, m_sProzess);
+  m_sIdentKeyPartProcessDepot = buildKey(m_sIdentProcKeyAll, m_part, m_variant);
+  sring part/variant/lot/croNo
+  long m_lLagerGruppe
+
+class ApsTrProcessCst : public ApsERPObject
+class ApsTrConstraint : public ApsERPObject
+  m_sActFromKey = buildKey(m_sProzessBereichFrom,m_sProzess,m_lTeilprozessVon,m_lIdentAktVon );
+  m_sActToKey = buildKey(m_sProzessBereichTo,m_sProzess,m_lTeilprozessNach,m_lIdentAktNach);
+	getHelpTableConstraints() insert buildKey(tmpTrCst->getIdentKey(), string("GEN"))
+	                          insert constraint->getIdentKey() = m_sActToKey
+	getHelpTableHelpConstraints() getActFromKey -> ApsTrConstraint
+
+class ApsTrMaterial : public ApsERPObject
+  string m_sProzessBereich, m_sProzess
+  long m_lTeilprozess, m_lAktPos, m_lPosition, m_lIdentAkt
+  getPart/Variant/Lot/Reservation
+  getTeilprozess/AktPos/Position/LagerGruppe/BelegartHerkunft/SchlHerkunft/ZeilenARt
+  getIdentKey/ProzessKey/ActKey
+
+ApsTrResource : public ApsERPObject
+  m_sIdentKey = buildKey(m_sProzessBereich,m_sProzess,m_lTeilprozess,m_lAktPos,m_lResPos );
+  m_sResKey = buildKey( m_eResArt, m_sRessource );
+  m_sActKey = buildKey( m_sProzessBereich, m_sProzess, m_lTeilprozess, m_lIdentAkt );
+  m_sPartProcessKey = buildKey( m_sProzessBereich, m_sProzess, m_lTeilprozess );
+  m_sSelectedResKey = buildKey( m_eResArt, m_sSelectedRess );
+  m_sAltGroupKey = buildKey( m_eResArt, m_sRessource );
+
+  const string& getActKey() const { return m_sActKey; }  
+  const string& getIdentKey() const { return m_sIdentKey; }
+  const string& getResKey() const override { return m_sResKey; }
+  const string& getAltGroupKey() const { return m_sAltGroupKey; }
+  const string& getSelectedResKey() const override { return m_sSelectedResKey; }
+  const string& getPartProcessKey() const { return m_sPartProcessKey; }
+
+  const string& getProzessBereich() const { return m_sProzessBereich; }
+  const string& getProzess() const { return m_sProzess; }
+  long getTeilprozess() const { return m_lTeilprozess; }
+  long getAktPos() const { return m_lAktPos; }
+  long getResPos() const { return m_lResPos; }
+  EResourceTypeERP getResArt() const { return m_eResArt; }
+  const string& getRessource()    const { return m_sRessource; }
+  const string& getSelectedRess() const { return m_sSelectedRess; }
+  long getIdentAkt() const { return m_lIdentAkt; }
+  
+  
+class ApsTrStock : public ApsERPObject
+  const std::string& getPart() const { return m_part; }
+  const std::string& getVariant() const { return m_variant; }
+  const std::string& getLot() const { return m_lot; }
+  const std::string& getCroNo() const { return m_croNo; }
+  const std::string& getReservation() const { return m_reservation; }
+  long getMRPArea() const { return m_MRPArea; }
+  double getStock() const { return m_stock; }
+  
+=================================================================================  
+  
+APS-Layer
+ApsDataObject : public ApsBaseDataObject
+  ApsDataObject( class ApsERPIdent* p_pKennung, long p_lIdent ) : m_lIdent(p_lIdent)
+  long getId() const { return m_lIdent; }
+  string getName()
+
+ApsActivity(ApsERPIdent* p_pK, long p_lIdent) : ApsDataObject(p_pK, p_lIdent)
+	string getProcessArea()
+	EActivityType getType() -> Prod, Foreign, Verfahren, Transport, Flaeche, StartEnd, FlexLen
+	EReasonGen getReasonForGenerating() -> start, end, forerun, setupSpacer, ... ResProxy
+	long getProcessId()
+	long getPartProcessId()
+	long getActPos()
+	bool isTemporary()
+	
+	const IApsActivity* get/set-ERPActivity() const
+	const IApsActivity* get/setParentActivity
+	long get/set-SplittPoint() 
+	string get/setTrActID -> m_sTrActID
+	
+ApsPartProcess : public ApsDataObject
+  string get/setHelpKey
+  long getRueckNr()
+  bool isTemporary()
+	
+class ApsProcess : public ApsDataObject
+	long getHeadOrderNumber()
+	EProcessType getProcessType() -> CTP, Process, Preassembly, CtpStatus, 
+	                                 Ground, CtpProduction, Sync
+	string get/setHelpKey
+	
+class ApsResourceCst : public ApsDataObject
+	long getIdActivity()
+	long getIdResource() 
+	EResourceType getResType() -> AltRes, MixedRes, Depot, Tool, BufferedRes, Procedure
+	string getOriginDocumentKey() const { return m_sSchl_Herkunft; }
+	
+	// if an act has more than one material cst for the same material, 
+	// one is the boss, indicated as 0.
+    long getMainCstID() const { return m_lMainCstID; }
+	
+class ApsPrecedence : public ApsDataObject
+	long getActPrevIdent()
+	long getActNextIdent()
+	long get/setDelay
+	EPrecConstraintsClass getClass() -> unknown, Internal, External
