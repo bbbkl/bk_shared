@@ -13,6 +13,7 @@ TrAct long identAct + bool isTemporary + long type
 tuple<long, bool, long>
 
 Problem sind Durchlaufzeit-Aktivitäten mit identAct = -1
+Diese Abbilden durch -1 * partproc_no
 
 TrKalenderMapType long (cal)/resArt, string sKalender|sRessource
 tuple<long, string>
