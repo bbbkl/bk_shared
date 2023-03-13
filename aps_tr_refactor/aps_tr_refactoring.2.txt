@@ -1,3 +1,16 @@
+
+Idee: tuple<bool, string> ProcessId durch hash auf int ersetzen.
+zu Beginn einer Komplettopti / Sync reset
+muss gestreamed werden.
+
+int getProcessId(string process_area, string process)
+bool isTemp(int processId)
+string getProcessArea(int processId)
+string getProcessName(int processId)
+
+
+====================================================================
+
 TrAct long identAct + bool isTemporary + long type
   type 
   erpAct = 0
