@@ -1,0 +1,60 @@
+// main id parts
+process_area_head
+process_name
+partprocess_area
+partproc_num
+ident_act //act_pos
+
+process -> process_area_head / process_name
+partprocess -> partprocess_area / partproc_num
+activity -> partprocess_area / partproc_num / ident_act
+NOT(process_area_head / process_name / ident_act) THIS IS AMBIGEOUS
+NOT(process_area_head / process_name / partproc_num / ident_act) THIS IS AMBIGEOUS
+
+
+
+ApsTrActivity
+wird genau für ein übertragnes TrActivity erstellt.
+Künstliche Doppel für z.B. Split, Wait, Trans, Buf, ... sind unnötig.
+Diese brauchen nur einen Bezug zur realen Erzeuger ApsTrActivity, damit 
+sie in ApsCommMgrObjHandling::makeProcessNotes dem ApsProcess, ApsPartProcess zugeordnet werden können.
+
+* Aktivität
+Relevante Daten
+process_area_head + process -> ProcessKey
+process_area_orig + part_process + ident_act -> ActivityKey
+Im Rahmen vom Teilprozess ist die Aktivität eindeutig.
+Es kann z.B. PPA 4711 -1 und CTV 4711 -1 geben.
+
+Alternativ process_area_orig + part_process + act_pos
+
+Jede Aktivitä bietet: 
+ProcessKey getProcessKey
+PartProcId getPartProcId
+
+* ApsERPIdent
+
+Ziel string ApsERPIdent::getProcessKey = PPA ProcName oder PPA 4711 raus
+Umbenennung in ApsERPIdent::getProcessKeyERPIdent() um das eindeutig zu kriegen
+Damit sind die Verwendungsstellen klarer.
+
+xxx ApsERPIdent::setProcessKey=PPA	LA-80212890
+xxx ApsERPIdent::setProcessKey=PPA	14957
+-> Verwendung für Process und PartProcess gemischt. 
+Teilweise code erst Process prüfen, dann PartProcess: ApsDepot::clearObsoleteDepotMovements
+xxx clearObsoleteDepotMovements getCoverageIdentKey=PPA	112923
+
+Abbildung auf 2 optional Member
+optional<ProcessKey>
+optional<PartProcId>
+
+
+xxx ApsERPIdent::setCTPId=7	12190
+xxx ApsERPIdent::setCTPId=-100	CCR-200
+xxx ApsERPIdent::setCTPId=7	30
+xxx ApsERPIdent::setCTPId=DayChange_CalendarDays
+ApsERPIdent::setCTPId=  // leer
+
+Stand ApsERPIdent
+getProcessKey = PPA ProcName oder PPA 4711 ist raus
+Offen ist noch ctpId Member
