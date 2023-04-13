@@ -1,3 +1,35 @@
+Bei den gesendeten Tr-Daten (TrProcess, TrActivity, TrMaterial, TrRessource) ist besonders,
+dass die meisten IDs nur im Kontext isTemp eindeutig sind.
+isTemp ergibt sich daraus, ob ein Prozessbereich mit 'C' beginnt.
+Oft gibt es bei gesendeten Objekten 2 Prozessbereiche: 1. Vom Kopfteilprozess, 2. Aktueller Prozess.
+Falls hier noch eine identAkt oder AktPos mitkommt, ist die im Kontext von 2 aktueller Prozess.
+
+processArea, processName ist der eindeutige Bezeichner für einen Auftrag.
+processArea, partprocNum ist der eindeutige Bezeichner für eine Baugruppe.
+processArea, partprocNum, identAct ist der eindeutige Bezeichner für eine Aktivität.
+
+Bei einer Aktivität würde meist (processArea, identAct) reichen, 
+da es aber im Fall der Grobterminierung identAct=-1 gibt, ist noch partProcNum nötig.
+Statt der identAct könnte alternativ auch die actPos genommen werden: (processArea, partprocNum, actPos).
+
+Eine gesendete TrActivity zeigt auf den zugehörigen PartProcess. 
+Die mitgesendete Information process_area_head/process ist im Prinzip redundant.
+Der part_process kennt den process.
+
+Ein nicht temporärer Auftrag kann auch temporäre Teilprozesse beinhalten.
+
+Die jetzt durch tuple abgebildeten TrKeys wurden vorher durch teilweise redundante String-Kombinationen abgebildet.
+
+Für generierte Aktivitäten (Wait, Buf, ...) ist es *nicht* nötig, eine korrespondierende TrActivity anzulegen.
+Es muss nur ein Vermerk auf eine Ursprungs-TrActivity hinterlegt werden, da dieser nötig ist um im createProcess Schritt den richtigen PartProcess zuordnen zu können.
+
+
+
+
+
+
+
+
 
 Idee: tuple<bool, string> ProcessId durch hash auf int ersetzen.
 zu Beginn einer Komplettopti / Sync reset
