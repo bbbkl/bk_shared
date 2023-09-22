@@ -85,10 +85,10 @@ Wahlvorstand:
 4. Holger Ulrich
 5. Bernd Krüger
 ---
-6. Markus Evert
-7. Martin Kohl
-8. Kirsten Röhrs
 
+6. Martin Kohl
+7. Kirsten Röhrs
+8. Markus Evert
 
 
 
@@ -112,3 +112,6 @@ Jens Port
 Info unter paWold BR Seiten
 
 Klarstellen, dass am Do. 28.9. *nicht* der BR gewählt wird, sondern der Wahlvorstand für die Durchführung der Wahl des BR.
+
+Fragen zum Ablauf:
+Wenn die IGM uns durch die Versammlung führen soll, muss deren Vertreter auch mit in die Versammlungsleitung, oder?
