@@ -125,3 +125,5 @@ Arbeitspakete:
 A1: Tür/Anzahl Leute
 A2: Wahlzettel drucken, verteilen
 A3: Technik, Folien an die Wand
+
+IT Support: Komm hierzu gerne am Donnerstag ab 8 in unser Büro 15/17    Ansprechpartner: Richard Sodtke
