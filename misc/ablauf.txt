@@ -8,11 +8,11 @@ Vor Beginn der Veranstaltung:
 
 2. Information über die Arbeit des Wahlvorstands durch die IG Metall
 - mündliche Information
-- Feststellung der anwesenden Bschäftigtenzahl (Vorschlag Info-Flugblatt)
+- Feststellung der anwesenden Beschäftigtenzahl (Vorschlag Info-Flugblatt)
 
 3. Wahl der Versammlungsleitung
 - Kandidaten-Vorschlag für die Versammlungsleitung - Michael Knopp
-- 1. Abstimmung:
+- Abstimmung_1:
   a. Akklamation (nur möglich, wenn nur ein Vorschlag vorhanden ist)
   b. schriftlich
   c. schriftlich geheim
@@ -25,58 +25,32 @@ Hinweise: Beim Wahlvorgang müssen leitende Angestellte und Arbeitgebervertreter
 
 4. Festlegung der Anzahl der Wahlvorstandsmitglieder
 - Vorschlag 5 Wahlvorstände
-- 2. Abstimmung (Akklamation / schriftlich / schriftlich geheim)
+- Abstimmung_2 (Akklamation / schriftlich / schriftlich geheim)
 - Anzahl der Wahlvorstandsmitglieder steht fest
-Alternativ: Kandidaten zuerst abfragen, wenn z.B. 3 oder 5 kandidieren diese Zahl als Wahlvorstandsgröße vorschlagen,
 Rückfrage ob es Einwände gegen die Wahl per Akklamation gibt.
 
 5. Wahl des ordentlichen Wahlvorstands
-    Knut Giebel
-    Ute Schiffer
-    Tim Winter
-    Holger Ulrich
-    Bernd Krüger
-
 - Vorschläge für den ordentlichen Wahlvorstand der Einladenden / der IG Metall
 - Vorstellung der Kandidaten
-- 3. Abstimmung (Akklamation / schriftlich / schriftlich geheim)
+  Knut Giebel, Ute Schiffer, Tim Winter, Holger Ulrich, Bernd Krüger
+- Abstimmung_3 (Akklamation / schriftlich / schriftlich geheim)
 - Annahme der Wahl?
 - ordentlicher Wahlvorstand ist gewählt
 
 6. Wahl der Ersatzmitglieder des Wahlvorstands
 - Vorschläge für die Ersatzmitglieder des Wahlvorstands
-    Martin Kohl
-    Markus Evert
-	Kirsten Röhrs
-
+  Martin Kohl, Markus Evert, Kirsten Röhrs
 - Vorstellung der Kandidaten
-- 4. Abstimmung (Akklamation (nur möglich, wenn Reihenfolge akzeptiert wird) / schriftlich / schriftlich geheim)
+- Abstimmung_4 (Akklamation (nur möglich, wenn Reihenfolge akzeptiert wird) / schriftlich / schriftlich geheim)
 - Annahme der Wahl?
 - Ersatzmitglieder des Wahlvorstands sind gewählt
 
 7. Wahl des Wahlvorstandsvorsitzenden
-- Vorschläge für den Vorsitz des Wahlvorstands
-  Bernd Krüger
+- Vorschläge für den Vorsitz des Wahlvorstands: Bernd Krüger
   Stellvertreter: Holger Ulrich
-
-- 5. Abstimmung (Akklamation (nur möglich, wenn gleich viele Bewerber wie Mandate vorhanden sind / schr. / schr. geheim)
+- Abstimmung_5 (Akklamation (nur möglich, wenn gleich viele Bewerber wie Mandate vorhanden sind / schr. / schr. geheim)
 - Annahme der Wahl
 - Vorsitz des Wahlvorstands ist gewählt
 
 8. verschiedenes (Ausblick, was sind die nächsten Schritte ...)
 9. Verabschiedung, Ende der Betriebsversammlung (Vorsitzender WV)
-
-Personen:
-Versammlungsleitung
-Schriftführer (nicht erforderlich)
-2x Person Versammlungseingang (Ein- / Ausgangskontrolle)
-Eventuell 3x Wahlhelfer
-
-Material:
-2x Tisch
-Flipchart
-Beschallungsanlage und Podest für Versammlungsleitung
-Tisch für Schriftführerin
-Notebook / PC für Stimmzettelherstellung
-Da bist zu 5 schriftlich geheime Wahlgänge möglich sein können, sollte Papier in unterschiedlichen Farben vor jedem Wahlgang in ausreichender Menge vorhanden sein.
-Für geheime Wahl 2 Wahlkabinen und eine Wahlurne (2 Tische für Wahlkabinen, 1 Tisch für Stimmzettelausgabe, ein Tisch für die Urne).
