@@ -1,0 +1,75 @@
+Zum Zeitpunkt des Testaments am 20.11.2013 betrug das Vermögen von Klas 330.ooo Euro.
+Er hat damit vermutlich nicht mit der erfolgten Steigerung gerechnet und das damit Erbschaftssteuer fällig wird.
+
+Klas Wille ist, dass Hille gut versorgt ist und da an nichts gespart wird.
+Hille ist aus meiner Sicht finanziell gut versorgt.
+Eigene Rente, Witwenrente (?), Wohnungsmiete.
+Ich würde außerdem garantieren, dass bei irgendwelchen finanziellen Problemen, ich diese begleiche.
+
+Das Vermögen von Klas beträgt 1.458.000 Euro.
+
+Beim Erben sieht es nach meinem aktuellen Wissensstand so aus, dass Hille Vorerbin ist und 
+bei ihrem Tod dieses 'Zwischen-Erbe' an Fabian und mich übergeht.
+
+Wenn das so durchgeführt wird, werden 187.ooo Euro Erbschaftssteuer insgeamt fällig (Hille und später Fabi/Bernd).
+Wenn Hille das Erbe ausschlägt, werden 87.ooo Euro Erbschaftssteuer fällig.
+Der Unterschied von 100.ooo Euro ist beträchtlich und deshalb möchte ich eine Ausschlagung gut prüfen.
+
+* Abfindung bei Ausschlagung
+Es kann bei Ausschlagung eine Abfindung vereinbart werden.
+Hier muss klar sein, wieviel Hille im Erbfall pro Jahr aus der Kapitalanlage bekommen würde.
+Das sollte der Vermögensverwalter "Fisher Investments" sagen können.
+Wenn die Abfindung an Hille geht, sind Anne und Jan dann die Erben. Damit könnten wir auch die Herausforderung des Gemeinschaftskontos über 111.ooo Euro bei comdirect regeln, das aber auf Klas Krüger läuft und laut Testament (§6.1) dann an Fabian und mich ginge. 
+
+* Nießbrauch Hille (3b aus Schreiben Hartig/Lockmann)
+Die Pflege von Hille kann aus Nießbrauch Erträgen finanziert werden.
+Die Rente/Miete spart Hille für Jan/Anne (?)
+
+* Abschätzumg Kapitalertrag
+Eine gegoogelte Faustregel sagt: 
+pro 800.ooo Euro Aktien -> 1000 Euro Dividende pro Monat, bei 1.3 Mio Euro -> 1625 Euro/mnt.
+Der Kapitalertrag sind die Dividenden. Ein Kurssteigerung zählt meine ich nicht als Kapitalertrag (?)
+Das Depot bei Fisher Investment ist gemanaged und wird aus den Erträgen bezahlt. 
+Die Management Kosten sind auch einiges = 4.000 pro 3 Monate. Wie wird das bei Nießbrauch gehandhabt?
+Bei den Zahlen zum Kapitalertrag ist einiges geschätzt und sollte sich klarer beauskunften lassen.
+Die Dividendenzahlungen werden mit 26% (oder 28% mit Kirchensteuer) versteuert.
+Damit sind 1625 * 0.74 = 1200 / mnt nach Steuern von der Dividende übrig.
+
+
+* Geschätzte Dauer des Nießbrauch
+Wie lange wird Hille vermutlich noch leben? So lange zählt der Nießbauch.
+Ich würde 5 Jahre als Obergrenze abschätzen und vermute eher weniger.
+5 * 12 * 1625 = 97500 Euro/mnt
+
+
+
+Binnen 6 Wochen nach Tod, d.h. bis 19.3.2026 müssen wir die Erbangelegenheiten geregelt haben.
+Da es ein notariell hinterlegtes Testament gibt, ist kein Erbschein nötig.
+
+Eine Info Seite ist https://www.erbrecht-ratgeber.de/erbrecht/steuern/ausschlagung-der-erbschaft.html
+"""
+Wann kann eine Ausschlagung der Erbschaft Sinn machen?
+
+In aller Regel wird man eine Erbschaft natürlich nicht mit dem alleinigen Ziel ausschlagen, der Erbschaftsteuer zu entgehen.
+
+Zwar kann der Fiskus je nach einschlägiger Steuerklasse und Wert der Erbschaft im Einzelfall durchaus 50% des Wertes einer Erbschaft in Form der Erbschaftsteuer für sich beanspruchen.
+
+In jedem Fall verbleibt aber bei dem Erben und Steuerpflichtigen im Erbfall eine nicht unbeträchtliche Vermögensmehrung. Auf den ersten Blick macht daher eine Ausschlagung der Erbschaft regelmäßig kaum Sinn.
+
+Wer rückt in der Erbfolge nach?
+
+Diese Betrachtung ändert sich aber in dem Moment, in dem man durch eine gezielte Ausschlagung die Erbfolge insgesamt im Ergebnis steuerlich optimieren kann.
+
+Eine Ausschlagung einer Erbschaft führt ja nicht nur dazu, dass ein Erbe aus der Erbfolge ausscheidet. Mit dem Ausscheiden des ursprünglich vorgesehenen Erben rückt vielmehr in den frei gewordenen Erbteil der nächstberufene Erbe nach.
+
+Liegen bei diesem Nachrücker günstigere erbschaftsteuerliche Voraussetzungen vor, dann kann die Ausschlagung der Erbschaft unter dem Strich sehr sinnvoll sein.
+
+Günstigere Voraussetzungen können bei dem nachrückenden Erben insbesondere in Form von Freibeträgen vorliegen, die dieser Nachrücker gegenüber dem Finanzamt geltend machen kann.
+
+Ebenso kann die Ausschlagung der Erbschaft im Einzelfall zu einer Minderung der in der Erbschaftsteuer vorgesehenen Steuerprogression führen.
+
+Soweit der Ausschlagende – im Beispielsfall die Mutter – ihre Erbschaft nicht ohne jede Gegenleistung aufgeben und finanziell abgesichert werden will, kann mit den nachrückenden Erben die Zahlung einer Abfindung vereinbart werden.
+"""
+
+Gruß,
+Bernd
