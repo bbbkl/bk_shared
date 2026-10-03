@@ -1,0 +1,485 @@
+================================================================================
+BERATUNGSVERLAUF – ERBSCHAFT KLAS KRÜGER
+Erstellt am: 03.10.2026
+================================================================================
+
+AUSGANGSSITUATION
+================================================================================
+
+Erblasser: Klas Krüger, verstorben am 05.02.2026
+Nachlass: Aktiendepot von ca. 1.450.000 Euro
+
+Beteiligte:
+- Hille Krüger (Ehefrau, Stiefmutter von Bernd und Fabian)
+  - 89 Jahre alt, 100% dement, lebt in Dementen-WG
+  - Eigenes Vermögen: 400.000 Euro
+  - Monatliche Einnahmen übersteigen Ausgaben um 1.000 Euro
+  - Fortgeschrittene Krebserkrankung (laut Hausarzt Dr. Schultens)
+- Bernd Krüger (Sohn des Erblassers)
+- Fabian Krüger (Sohn des Erblassers)
+- Anne Weniger geb. Trüper (Tochter von Hille, Betreuerin von Hille)
+- Jan Trüper (Sohn von Hille)
+
+Kein Ehevertrag vorhanden.
+
+Testament (notariell, 20.11.2013):
+- §5: Hille Krüger ist nicht befreite Vorerbin des Erblassers
+- Bernd und Fabian sind Nacherben (je 1/2)
+- Nacherbfolge tritt ein mit dem Tod der Vorerbin
+- §6: Nießbrauchsvermächtnis zugunsten Hille an sämtlichen Kapitalanlagen
+
+Abfindungsvertrag (13.03.2026, notariell beurkundet):
+- Anne (als Betreuerin) schlägt die Erbschaft für Hille aus
+- Bernd und Fabian zahlen 190.000 Euro Abfindung (als Gesamtschuldner)
+- Aufschiebend bedingt auf betreuungsgerichtliche Genehmigung
+- Zahlung in drei Raten (je 63.333,33 EUR)
+- Zwangsvollstreckungsunterwerfung durch Bernd und Fabian
+
+Verfahrenspfleger RA Jonas Binder:
+- Vom Betreuungsgericht Ende September 2026 eingesetzt
+- Genehmigung vertretbar, WENN Ergänzung des Abfindungsvertrags erfolgt
+- Fordert: Nachlassverzeichnis, Stammerhaltung, jährliche Feststellung,
+  Nachzahlungspflicht bei Überschreitung der 190.000 Euro
+
+Ergänzung des Abfindungsvertrags (Entwurf):
+- §1: Nachlassverzeichnis als Anlage
+- §2: Stammerhaltungspflicht, jährliche Feststellung der Zuflüsse
+- §3: Nachzahlungspflicht bei Überschreitung von 190.000 Euro
+
+
+================================================================================
+1. BEWERTUNG DER ERGÄNZUNG AUS SICHT VON BERND UND FABIAN
+================================================================================
+
+1.1 Grundsätzlich: Die Ergänzung ist Voraussetzung für die Genehmigung
+
+Die Ausschlagung durch Hille ist für Bernd und Fabian enorm vorteilhaft:
+- Ohne Ausschlagung: Erbschaftssteuer von ca. 171.000 Euro fällt an
+- Mit Ausschlagung + Abfindung: deutlich geringere Steuer
+- Die Ergänzung ist Voraussetzung für die Genehmigung durch das
+  Betreuungsgericht
+
+Die Ergänzung setzt Binders Forderungen wörtlich um:
+- Nachlassverzeichnis mit Renditen (§1)
+- Vermögensstamm erhalten (§2)
+- Jährliche Feststellung der Zuflüsse (§2)
+- Nachzahlung wenn >190.000 Euro (§3)
+
+1.2 Problempunkte und Risiken
+
+a) Erhalt des Vermögensstamms (§2) – KRITISCH
+- Bernd und Fabian dürfen das Aktiendepot zu Lebzeiten von Hille nicht
+  angreifen
+- Bei einem Aktiendepot schwankt der Wert – unklar, ob "Vermögensstamm"
+  den Nominalwert zum Todeszeitpunkt meint
+- Es fehlt eine klare Definition
+- Empfehlung: Klarstellung verlangen (Umschichtungen erlaubt,
+  Kursverluste kein Verschulden, Stichtagswert definieren)
+
+b) Nachzahlungspflicht ohne Deckelung (§3) – BEACHTENSWERT
+- Die Nachzahlungspflicht ist nach oben offen
+- Bei 3-4% Rendite p.a. (43.500-58.000 Euro) nach ca. 3,5-4,5 Jahren
+  Schwelle überschritten
+- Danach fließen alle Erträge komplett an Hille bzw. deren Erben
+- Allerdings: entspricht dem, was Hille als Nießbrauch erhalten hätte
+- Eigentlicher Vorteil ist die Steuerersparnis von ~171.000 Euro
+
+c) Fehlende Gegenverpflichtung / Informationsrechte
+- Keine Regelung für Hilles Tod vor Ablauf eines Jahres
+- Keine anteilige Berechnung im Todesjahr
+
+d) "Bzw. deren Erben" (§3) – ACHTUNG
+- Hilles Erben sind Anne und Jan (nicht Bernd und Fabian)
+- Nachzahlungspflicht könnte über Hilles Tod hinaus bestehen
+
+e) Keine Regelung zur Beendigung der Verpflichtungen
+
+1.3 Empfehlungen
+
+1. Ergänzung grundsätzlich akzeptieren
+2. Klarstellung zum "Vermögensstamm" verlangen
+3. Klarstellung zu den "entgangenen Zuflüssen" (brutto/netto, Kursgewinne?)
+4. Beendigungsklausel aufnehmen
+5. Anteilige Berechnung im Todesjahr regeln
+6. Nachlassverzeichnis (Anlage 2) prüfen
+7. Steuerberater konsultieren
+8. Eigenen Anwalt beauftragen
+
+
+================================================================================
+2. PFLICHTTEILSANSPRÜCHE BEI ERBAUSSCHLAGUNG
+================================================================================
+
+2.1 Pflichtteil von Hille Krüger (Ehefrau)
+
+Grundsätzlich entsteht durch die Ausschlagung ein Pflichtteilsanspruch:
+- Hilles gesetzlicher Pflichtteil als Ehefrau (Zugewinngemeinschaft):
+  - Gesetzlicher Erbteil = 1/2 (§1931 + §1371 BGB)
+  - Pflichtteil = 1/4 des Nachlasses = 362.500 Euro
+- Der Abfindungsvertrag enthält KEINEN ausdrücklichen Pflichtteilsverzicht
+- Risiko: Abfindung (190.000 Euro) + Pflichtteil (362.500 Euro) = bis zu
+  552.500 Euro theoretisch möglich
+- In der Praxis: Abfindung wäre anzurechnen, aber Aufstockung zum
+  vollen Pflichtteil denkbar
+
+2.2 Pflichtteil von Bernd und Fabian
+- Kein Pflichtteilsanspruch, da sie als Nacherben die volle Erbschaft
+  erhalten
+
+2.3 Pflichtteil von Anne und Jan (Stiefkinder)
+- Stiefkinder haben KEINEN Pflichtteilsanspruch (§2303 BGB)
+
+2.4 Empfehlung
+- Dringend: Pflichtteilsverzicht in den Abfindungsvertrag/Ergänzung
+  aufnehmen lassen
+- Pflichtteilsanspruch verjährt in 3 Jahren ab Kenntnis des Erbfalls
+
+
+================================================================================
+3. MÖGLICHKEITEN ZUR VERHINDERUNG DER ERBAUSSCHLAGUNG
+================================================================================
+
+3.1 Ergänzung des Abfindungsvertrags verweigern oder verzögern (STÄRKSTES MITTEL)
+- Ohne Ergänzung keine Genehmigungsempfehlung durch Binder
+- Ohne Genehmigung keine wirksame Ausschlagung
+- Sachlich begründete Nachverhandlungen sind rechtlich einwandfrei
+- Risiko: Gericht könnte theoretisch ohne Ergänzung genehmigen
+  (unwahrscheinlich nach Binders Stellungnahme)
+
+3.2 Zeitfaktor nutzen (Tod der Betreuten vor Genehmigung)
+- RA Binder: "Das Verfahren endet mit dem Tod des Betroffenen. Eine
+  Genehmigung kann dann nicht mehr erteilt werden."
+- Bei Hilles Gesundheitszustand (89, Demenz, Krebs) realistisches Szenario
+- Ausschlagung wird nie wirksam, Abfindungspflicht entfällt
+- Testamentarische Erbfolge greift: Nacherbfall → Bernd und Fabian erben
+
+3.3 Stellungnahme beim Betreuungsgericht einreichen
+- Möglich, aber widersprüchlich zum eigenen Verhalten
+  (eigener Abfindungsvertrag unterschrieben)
+- Taktisch heikel
+
+3.4 Fristablauf der Ausschlagung
+- Bei betreuten Personen Frist gehemmt während Genehmigungsverfahren
+  (§1855 BGB)
+- Nicht gangbar solange Verfahren läuft
+
+3.5 Anfechtung der Ausschlagung
+- Nur bei Irrtum oder arglistiger Täuschung möglich
+- Praktisch schwierig, kaum Anfechtungsgründe
+
+HINWEIS: Korrektur des Abfindungsvertrags
+- Der ursprünglich erfasste Vertrag enthielt eine Passage, wonach der
+  Vertrag erst mit Eingang der Genehmigungserklärung von Fabian bei der
+  Notarin wirksam werde (schwebende Unwirksamkeit)
+- Diese Passage war nur in einem Entwurf, nicht im tatsächlich
+  beurkundeten Vertrag
+- Konsequenz: "Fabians Genehmigung verweigern" war NIE eine
+  Handlungsoption
+- Der Vertrag wurde am 13.03.2026 wirksam geschlossen, aufschiebend
+  bedingt nur auf die betreuungsgerichtliche Genehmigung
+
+
+================================================================================
+4. WIDERRUFBARKEIT DER ABFINDUNGSERKLÄRUNG
+================================================================================
+
+4.1 Einseitiger Widerruf: NEIN
+- Notariell beurkundeter zweiseitiger Vertrag
+- Kann nicht einseitig widerrufen werden
+
+4.2 Einvernehmliche Aufhebung: Theoretisch ja, praktisch unrealistisch
+- Alle Parteien müssten zustimmen
+- Notarielle Beurkundung erforderlich
+- Betreuungsgerichtliche Genehmigung nötig
+- Anne hat kein Interesse
+
+4.3 Anfechtung wegen Irrtums (§119 BGB): Sehr geringe Erfolgschance
+- Notarin hat beraten, Vertrag bewusst geschlossen
+- Motivirrtum ist kein Anfechtungsgrund
+
+4.4 Anfechtung wegen Täuschung (§123 BGB): Keine Anhaltspunkte
+
+4.5 Wegfall der Geschäftsgrundlage (§313 BGB): Denkbar, aber gering
+- Ergänzung verändert Gesamtbelastung erheblich
+- Aber: Ergänzung ist separater Vertrag, noch nicht unterschrieben
+
+4.6 Rücktritt: Nicht möglich
+- Kein vertragliches Rücktrittsrecht
+- Keine Pflichtverletzung der Gegenseite
+
+Fazit: Bernd und Fabian sind an den Abfindungsvertrag gebunden.
+Die realistischste Strategie bleibt, die Ergänzung nicht zu unterschreiben.
+
+
+================================================================================
+5. STRATEGIEEMPFEHLUNG FÜR BERND UND FABIAN
+================================================================================
+
+5.1 Option A: Ausschlagung verhindern (Ergänzung nicht unterschreiben)
+
+Vorgehensweise:
+1. Ergänzung nicht unterschreiben
+2. Sachlich begründen (offene Fragen)
+3. Abwarten bis Gericht Genehmigung versagt oder Hille verstirbt
+
+Finanzielle Bilanz:
+- Nachlass:                          1.450.000 Euro
+- Erbschaftssteuer (Vorerbschaft):    -171.000 Euro
+- Abfindung:                                0 Euro
+- Nachzahlungen:                            0 Euro
+- VERBLEIB BEI BERND & FABIAN:     ~1.279.000 Euro
+
+Vorteile:
+- Keine Abfindungszahlung (190.000 Euro)
+- Keine offene Nachzahlungspflicht
+- Keine Stammerhaltungspflicht
+- Keine laufenden Rechenschaftspflichten gegenüber Anne
+- Volle Verfügungsfreiheit über das Depot nach Nacherbfall
+
+Nachteile:
+- ~171.000 Euro Erbschaftssteuer fällt an
+- Kein Zugriff auf das Depot bis zum Tod von Hille
+- Zeitlich ungewiss, wann der Nacherbfall eintritt
+
+5.2 Option B: Ergänzung unterschreiben, mit Nachverhandlungen
+
+Vorgehensweise:
+1. Ergänzung grundsätzlich akzeptieren, aber Änderungen verlangen
+2. Klare Definition Vermögensstamm, Zuflüsse, Pflichtteilsverzicht
+3. Ergänzung unterschreiben → Genehmigung → Ausschlagung wirksam
+
+Finanzielle Bilanz (geschätzt, Hille lebt noch 2-3 Jahre):
+- Nachlass:                          1.450.000 Euro
+- Erbschaftssteuer:                   ~-70.000 Euro
+- Abfindung:                         -190.000 Euro
+- Nachzahlungen:                    0 bis -60.000 Euro
+- VERBLEIB BEI BERND & FABIAN:  ~1.130.000-1.190.000 Euro
+
+5.3 Vergleich
+
+                          Option A           Option B
+Verbleib (geschätzt)      ~1.279.000 Euro    ~1.130.000-1.190.000 Euro
+Liquidität sofort         Nein               Ja (eingeschränkt)
+Risiko                    Gering             Nachzahlungshöhe ungewiss
+Pflichtteilsrisiko        Keines             Ja, falls kein Verzicht
+Komplexität               Gering             Hoch
+Abhängigkeit von Anne     Gering             Hoch
+
+5.4 Empfehlung: OPTION A
+
+Option A ist klar vorteilhafter:
+1. Finanziell besser (~1.279.000 vs. ~1.130.000-1.190.000 Euro)
+2. Kein Pflichtteilsrisiko
+3. Keine laufenden Verpflichtungen
+4. Keine Abhängigkeit von Anne
+5. Gesundheitszustand von Hille: Nacherbfall in absehbarer Zeit realistisch
+6. Rechtlich einfach: Nur die Ergänzung nicht unterschreiben
+
+Konkret empfohlene Schritte:
+1. Eigenen Rechtsanwalt beauftragen
+2. Ergänzung nicht unterschreiben (sachlich begründet)
+3. Keine Einwände beim Betreuungsgericht einreichen
+4. Nicht aktiv blockieren, sondern passiv abwarten
+5. Steuerberater konsultieren
+6. Situation beobachten
+
+
+================================================================================
+6. KOOPERATIONSWEG MIT ANNE – BEWERTUNG
+================================================================================
+
+Szenario: Bernd und Fabian sprechen sich mit Anne ab:
+- Abfindung wird aus dem Nachlassvermögen gezahlt
+- Pflichtteilsverzicht wird in die Ergänzung aufgenommen
+
+6.1 Abfindung aus dem Nachlassvermögen
+
+- Wirtschaftlich kein Unterschied (ob Privat- oder Nachlassvermögen)
+- Praktischer Vorteil: Keine Vorab-Aufbringung aus eigener Tasche
+- Achtung: Erste Rate 8 Wochen nach Genehmigung fällig, Erbschein und
+  Depotumschreibung könnten länger dauern → Fristverlängerung nötig
+
+6.2 Pflichtteilsverzicht
+
+Kritisches Problem:
+- Anne handelt als Betreuerin → muss Hilles Interessen wahren
+- Pflichtteilsverzicht: Hille verzichtet auf 362.500 Euro, erhält nur
+  190.000 Euro
+- Betreuungsgericht MUSS den Verzicht genehmigen
+- Auf den ersten Blick nachteilig für Hille
+
+Argumente für Genehmigung:
+- Hille hat eigenes Vermögen und Einnahmenüberschuss
+- Mutmaßlicher Wille: Begünstigung ihrer Kinder
+- Nachzahlungsklausel gleicht Differenz teilweise aus
+
+6.3 Annes Interessenkonflikte
+
+Anne hat mehrere Rollen:
+- Betreuerin von Hille (muss Hilles Interessen wahren)
+- Tochter von Hille (erbt von Hille)
+- Testamentsvollstreckerin (nach Tod des Längstlebenden)
+
+Annes eigenes Interesse:
+- Je mehr Geld bei Hille bleibt, desto mehr erbt Anne später
+- Steuerersparnis kommt NICHT Anne zugute, sondern Bernd und Fabian
+
+6.4 Risiko: Hält Anne sich an ihr Wort?
+
+- Mündliche Absprachen sind NICHT bindend
+- Pflichtteilsverzicht muss notariell beurkundet werden (§2348 BGB)
+- Anne könnte als Betreuerin abgelöst werden
+- Nach Hilles Tod könnte Anne als Erbin neue Ansprüche stellen
+
+6.5 Finanzielle Bilanz bei Kooperation
+
+Kooperation:   ~1.190.000 Euro minus X (Nachzahlungen)
+Option A:      ~1.279.000 Euro
+
+Kooperationsweg nur besser, wenn Nachzahlungen unter ~89.000 Euro bleiben.
+Bei 3-4% Rendite nach ca. 3,5-4 Jahren Schwelle überschritten.
+
+6.6 Fazit
+
+Kooperationsweg ist gangbar, aber:
+- Komplizierter und risikoreicher als Option A
+- Voraussichtlich finanziell nicht besser
+- Einziger Vorteil: Sofortiger Zugriff auf das Depot
+- Option A bleibt empfohlen, es sei denn gewichtige nicht-finanzielle
+  Gründe sprechen für Kooperation (Familienfrieden)
+
+
+================================================================================
+7. KONKRETE UMFORMULIERUNGEN FÜR DIE ERGÄNZUNG
+================================================================================
+
+Falls Bernd und Fabian sich für Option B (Ergänzung unterschreiben)
+entscheiden, sollten folgende Änderungen verlangt werden:
+
+7.1 §1 Nachlassverzeichnis – Ergänzung um Stichtagswert
+
+AKTUELLE FORMULIERUNG:
+"Zunächst wird daher auf das Nachlassverzeichnis mitsamt den zugewendeten
+Renditen verwiesen, welches diesem Vertrag als Anlage 2 beigefügt ist."
+
+EMPFOHLENE ERGÄNZUNG:
+"Zunächst wird daher auf das Nachlassverzeichnis mitsamt den zugewendeten
+Renditen verwiesen, welches diesem Vertrag als Anlage 2 beigefügt ist.
+Das Nachlassverzeichnis weist den Bestand und den Wert des Nachlasses zum
+Todestag des Erblassers (05.02.2026) aus. Dieser Stichtagswert ist
+maßgeblich für die Berechnung des Vermögensstamms gemäß §2."
+
+BEGRÜNDUNG: Ohne Stichtagsdefinition ist unklar, worauf sich der
+"Vermögensstamm" bezieht.
+
+7.2 §2 Erhalten des Vermögensstamms – Drei Klarstellungen
+
+AKTUELLE FORMULIERUNG:
+"Die testamentarischen Nacherben, also die Erschienenen zu 1. und 2.,
+verpflichten sich, den Vermögensstamm zu Lebzeiten der Betreuten Frau
+Hille Krüger zu erhalten."
+
+EMPFOHLENE UMFORMULIERUNG:
+"Die testamentarischen Nacherben, also die Erschienenen zu 1. und 2.,
+verpflichten sich, den Vermögensstamm zu Lebzeiten der Betreuten Frau
+Hille Krüger zu erhalten. Die Verpflichtung zur Erhaltung des
+Vermögensstamms bezieht sich auf den Wert des Nachlasses zum Stichtag
+gemäß §1. Umschichtungen innerhalb des Depots (Verkauf und Neukauf von
+Wertpapieren) sind zulässig, sofern sie dem Erhalt des Vermögensstamms
+dienen. Marktbedingte Wertminderungen (Kursverluste), die nicht auf
+vorsätzliches oder grob fahrlässiges Handeln der Erschienenen zu 1. und 2.
+zurückzuführen sind, stellen keine Verletzung der Stammerhaltungspflicht
+dar."
+
+BEGRÜNDUNG: Aktiendepot schwankt im Wert. Ohne Klarstellung Haftung
+bei jedem Kursrückgang möglich. Umschichtungen müssen erlaubt sein.
+
+7.3 §2 Jährliche Feststellung – Definition der "entgangenen Zuflüsse"
+
+AKTUELLE FORMULIERUNG:
+"...die tatsächlich entgangenen Zuflüsse festzustellen..."
+
+EMPFOHLENE ERGÄNZUNG nach diesem Satz:
+"Als entgangene Zuflüsse gelten ausschließlich die laufenden Erträge des
+Nachlassvermögens (Dividenden, Zinsen, Ausschüttungen), abzüglich der
+darauf entfallenden Steuern (Kapitalertragsteuer, Solidaritätszuschlag,
+ggf. Kirchensteuer) sowie Depot- und Verwaltungsgebühren (Nettoerträge).
+Kursgewinne und Kursveränderungen der Vermögenswerte zählen nicht als
+Zuflüsse im Sinne dieser Vereinbarung."
+
+BEGRÜNDUNG: Nießbrauch umfasst nur laufende Erträge, nicht
+Substanzgewinne. Nettoberechnung ist fair.
+
+7.4 §3 Anpassung – Beendigungsklausel, Streichung "bzw. deren Erben"
+
+AKTUELLE FORMULIERUNG:
+"...an die Betreute Frau Hille Krüger bzw. deren Erben auszuzahlen."
+
+EMPFOHLENE UMFORMULIERUNG:
+"...an die Betreute Frau Hille Krüger auszuzahlen.
+
+Die Verpflichtungen aus diesem Vertrag enden mit dem Tod der Betreuten
+Frau Hille Krüger. Für das Kalenderjahr, in dem der Tod eintritt, erfolgt
+eine anteilige Berechnung der entgangenen Zuflüsse (pro rata temporis)
+bis zum Todestag. Eine etwaige Schlusszahlung ist innerhalb von drei
+Monaten nach dem Todestag fällig. Darüber hinausgehende Ansprüche
+bestehen nicht."
+
+BEGRÜNDUNG: "Bzw. deren Erben" streichen, da der Nießbrauch mit Hilles
+Tod erloschen wäre. Nachzahlungspflicht an Anne/Jan über den Tod hinaus
+geht über das hinaus, was Hille je zugestanden hätte.
+
+7.5 Neuer §3a – Pflichtteilsverzicht (EINFÜGEN) – UNVERZICHTBAR
+
+"§3a Abgeltung sämtlicher Ansprüche
+
+Mit der vollständigen Zahlung der Abfindung gemäß §3 des
+Abfindungsvertrags vom 13.03.2026 sowie der etwaigen
+Anpassungszahlungen gemäß §3 dieser Ergänzung sind sämtliche Ansprüche
+der Frau Hille Krüger aus der Erbschaft nach dem Erblasser Klas Krüger,
+einschließlich etwaiger Pflichtteilsansprüche und Pflichtteilsergänzungs-
+ansprüche, vollständig und abschließend abgegolten. Frau Hille Krüger,
+vertreten durch die Betreuerin Frau Dr. Anne Weniger, verzichtet hiermit
+auf die Geltendmachung weiterer Ansprüche aus der Erbschaft nach dem
+Erblasser."
+
+BEGRÜNDUNG: Ohne diese Klausel Risiko, dass nach Ausschlagung zusätzlich
+der Pflichtteil (362.500 Euro) geltend gemacht wird. Bedarf der
+betreuungsgerichtlichen Genehmigung.
+
+7.6 Neuer §5a – Zustellungsregelung (OPTIONAL)
+
+"§5a Zustellungen
+
+Sämtliche Mitteilungen und Nachweise gemäß §2 dieser Ergänzung gelten
+als zugegangen, wenn sie per Einschreiben/Rückschein oder nachweisbar per
+E-Mail an die in der Ergänzung genannten Adressen übermittelt werden.
+Adressänderungen sind unverzüglich mitzuteilen."
+
+BEGRÜNDUNG: Vermeidet Streit über Zugang von Mitteilungen.
+
+7.7 Zusammenfassung der verlangten Änderungen
+
+Nr.  Änderung                                              Priorität
+1    Stichtagswert für Vermögensstamm definieren (§1)       Hoch
+2    Umschichtungen erlauben, keine Haftung Kursverluste(§2) Hoch
+3    Zuflüsse = nur Nettoerträge, keine Kursgewinne (§2)    Hoch
+4    "Bzw. deren Erben" streichen (§3)                       Hoch
+5    Beendigungsklausel mit anteiliger Schlussrechnung (§3)   Hoch
+6    Pflichtteilsverzicht / Abgeltungsklausel (neuer §3a)    UNVERZICHTBAR
+7    Zustellungsregelung (neuer §5a)                          Niedrig
+
+
+================================================================================
+HINWEIS
+================================================================================
+
+Diese Analyse stellt keine Rechtsberatung dar. Bernd und Fabian sollten
+dringend einen eigenen Rechtsanwalt und Steuerberater konsultieren, die
+die Situation unter Berücksichtigung aller Umstände professionell bewerten
+können. RA Binder vertritt als Verfahrenspfleger die Interessen von Hille,
+nicht die von Bernd und Fabian.
+
+================================================================================
+ENDE DES BERATUNGSVERLAUFS
+================================================================================
