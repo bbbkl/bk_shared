@@ -1,0 +1,345 @@
+===============================================================================
+HAUPTSCHREIBEN AN RA BINDER - VORBEREITETE FASSUNG
+Versand geplant: nach dem Anwaltstermin am 14.10.2026
+===============================================================================
+
+STATUS: ENTWURF. NICHT VERSENDEN, OHNE DIE DREI ENTSCHEIDUNGEN AUS
+ABSCHNITT A GETROFFEN ZU HABEN.
+
+Vorgeschichte: Am 08.10.2026 ist eine kurze Empfangsbestaetigung gegangen
+(mail_bernd_an_binder.20261008.txt). Darin ist eine Aeusserung "in der
+kommenden Woche" angekuendigt und die eigene anwaltliche Beratung
+offengelegt. Dieses Schreiben loest diese Ankuendigung ein.
+
+Grundlagen: analyse.20261008.txt, anwaltstermin.20261014.txt
+
+
+-------------------------------------------------------------------------------
+A. DREI ENTSCHEIDUNGEN AUS DEM TERMIN AM 14.10.
+-------------------------------------------------------------------------------
+
+ENTSCHEIDUNG 1 - Wird der Pflichtteil angesprochen?
+  Nach Aktenlage ist der Punkt der Gegenseite nicht bewusst (00:33).
+  [ ] JA  -> Baustein 5A verwenden
+  [ ] NEIN -> Baustein 5B verwenden (allgemeine Abgeltungsklausel)
+  Konsequenz: 5A schafft Schutz, bringt Anne aber auf die Spur. 5B laesst
+  das Risiko bestehen, ist aber im Wortlaut weit genug, um den Pflichtteil
+  mitzuerfassen - sofern der Anwalt das bestaetigt.
+
+ENTSCHEIDUNG 2 - Stimmen die Steuerzahlen?
+  187.000 EUR ohne Ausschlagung gegen 87.000 EUR mit Ausschlagung
+  (erbschaft_20260222.txt:14-15), ungeprueft.
+  [ ] bestaetigt    -> Zahlen koennen im Schreiben genannt werden
+  [ ] korrigiert auf ____________ / ____________
+  [ ] weiter offen  -> KEINE Steuerzahlen im Schreiben nennen
+  Hinweis: Das Schreiben in der vorliegenden Fassung nennt bewusst KEINE
+  eigenen Steuerzahlen. Es verweist nur auf die von Binder selbst genannten
+  171.000 EUR (04:37). Das ist die sicherere Variante.
+
+ENTSCHEIDUNG 3 - Will Bernd die Ausschlagung noch?
+  [ ] JA, aber nur mit Abgeltungsklausel  -> Fassung I (unten)
+  [ ] NEIN, Abwarten ist guenstiger       -> Fassung II (unten)
+  [ ] offen halten                        -> Fassung I verwenden, sie
+                                             bindet nicht
+  Konsequenz: Fassung I ist konstruktiv und haelt die Verhandlung offen.
+  Fassung II ist ein klares Nein und beendet sie. Fassung I ist auch dann
+  tragfaehig, wenn Bernd innerlich zu Abwarten neigt - sie verpflichtet zu
+  nichts.
+
+WEITERE ENTSCHEIDUNGEN
+  [ ] Schreiben von Bernd selbst oder vom Anwalt? Bei anwaltlichem Versand
+      Anrede und Schlussformel anpassen, Vollmacht beifuegen.
+  [ ] Nachlassverzeichnis als Anlage beifuegen? Empfehlung: ja.
+  [ ] Cc an Anne Weniger und Fabian Krueger? Empfehlung: ja, wie bei der
+      Empfangsbestaetigung.
+  [ ] Soll das Betreuungsgericht direkt nachrichtlich erhalten? Binder
+      verfaehrt so (04:111-113). Empfehlung: dem Anwalt ueberlassen.
+
+
+===============================================================================
+FASSUNG I - KONSTRUKTIV, HAELT DIE VERHANDLUNG OFFEN
+===============================================================================
+
+An:   RA Jonas Binder <jonasbinder@web.de>
+Cc:   Anne Weniger <anne.weniger@gmail.com>
+Cc:   Fabian Krueger <[E-Mail-Adresse einfuegen]>
+
+Betreff: Betreuungssache Hille Krueger, AG Oldenburg 110 XVII (K) 1375 -
+         Nachlassverzeichnis, Ihr Schreiben vom 28.09.2026 und Ihre
+         E-Mail vom 08.10.2026
+
+-------------------------------------------------------------------------------
+
+Sehr geehrter Herr Binder,
+
+wie angekuendigt nehme ich nach Abschluss meiner anwaltlichen Beratung zu
+Ihrem Schreiben vom 28.09.2026 und zu Ihrer E-Mail vom 08.10.2026
+Stellung. Das Nachlassverzeichnis fuege ich bei.
+
+
+1. Tatsaechliche Ertraege aus dem Niessbrauchsvermaechtnis
+
+Das Nachlassverzeichnis liegt nunmehr vollstaendig vor und weist die
+Ertraege aus. Sie ergeben sich wie folgt:
+
+  Fisher Investments, Einnahmen 2025                 23.548,63 EUR
+  abzueglich Steuern 2025                            -6.558,25 EUR
+  Ergebnis nach Steuern                              16.990,38 EUR
+  abzueglich Depotverwaltungsgebuehren Q1-Q4 2025   -14.695,98 EUR
+  comdirect Depot 2025                                 1.413,00 EUR
+  ------------------------------------------------------------------
+  Ertraege 2025 netto                                 3.484,02 EUR
+
+Fuer den Zeitraum 01.01. bis 30.09.2026 ergibt sich nach derselben
+Methodik ein Betrag in vergleichbarer Groessenordnung.
+
+Maßgeblich ist dabei, dass die Depotverwaltungsgebuehren von Fisher
+Investments nach der dortigen Vereinbarung vom Niessbraucher zu tragen
+sind; lediglich die erfolgsabhaengige Gebuehr traegt er nicht. Sie belaufen
+sich auf 0,25 % pro Quartal, mithin rund 1 % jaehrlich, und betrugen 2025
+insgesamt 14.695,98 EUR.
+
+Ihrer Stellungnahme vom 28.09.2026 liegt demgegenueber eine Jahres-
+Nettorendite von 27.150,00 EUR zugrunde. Dieser Betrag laesst die vom
+Niessbraucher zu tragenden Depotverwaltungsgebuehren unberuecksichtigt.
+
+
+2. Folgerung fuer die vorgeschlagene Ergaenzung
+
+Sie haben Ihre Empfehlung zur Genehmigung davon abhaengig gemacht, dass die
+Abfindungsvereinbarung um die Verpflichtung ergaenzt wird, lebzeitige
+Zufluesse oberhalb von 190.000,00 EUR an die Betreute auszuzahlen.
+
+Bei den vorstehend belegten Ertraegen kann diese Regelung nicht zum Tragen
+kommen. Ausgehend von 3.484,02 EUR jaehrlich waere die Summe von
+190.000,00 EUR erst nach etwa 54 Jahren erreicht. Auch bei deutlich
+guenstigerer Entwicklung ist ein Erreichen dieser Summe zu Lebzeiten der
+Betreuten nach Aktenlage ausgeschlossen.
+
+Die vorgeschlagene Auszahlungsverpflichtung ist damit gegenstandslos. Die
+daneben vorgesehenen Verpflichtungen - Erhalt des Vermoegensstamms sowie
+jaehrliche Feststellung und Nachweisfuehrung - sind dagegen unbefristet,
+der Hoehe nach unbegrenzt und wuerden allein meinen Bruder und mich
+belasten. Ich bitte um Verstaendnis, dass ich eine solche Verpflichtung
+nicht uebernehmen kann.
+
+Zugleich ergibt sich aus den Zahlen, dass die vereinbarte Abfindung die
+durch die Ausschlagung entgehenden Zufluesse bereits in der bestehenden
+Fassung des Vertrages vom 13.03.2026 um ein Vielfaches uebersteigt. Der von
+Ihnen zu Recht als maßgeblich bezeichnete Gesichtspunkt - dass die
+Abfindung die entgehenden Zufluesse ersetzt - ist damit erfuellt. Einer
+Ergaenzung bedarf es hierfuer nicht.
+
+
+3. Zu Ihrem Vorschlag vom 08.10.2026
+
+Ihren Vorschlag, die Abfindung auch fuer den Fall einer Ausschlagung durch
+die Erben der Betreuten nach § 1952 BGB geschuldet sein zu lassen, habe ich
+geprueft.
+
+Frau Dr. Weniger hat mir Ihre Ausfuehrungen mit dem Hinweis uebermittelt,
+dies bedeute fuer meinen Bruder und mich keinen Nachteil. Das trifft nicht
+zu. Der Vertrag vom 13.03.2026 bestimmt in § 3 ausdruecklich, dass die
+Bedingung als endgueltig ausgefallen gilt und keine Abfindung zu zahlen
+ist, wenn die Erbausschlagung nicht betreuungsgerichtlich genehmigt wird.
+Sie selbst weisen in Ihrem Schreiben vom 28.09.2026 darauf hin, dass das
+Genehmigungsverfahren mit dem Tod der Betroffenen endet und eine
+Genehmigung dann nicht mehr erteilt werden kann.
+
+Der Vorschlag wuerde diese vertraglich vereinbarte Risikoverteilung
+einseitig zu unseren Lasten aufheben. Er stellt damit keine Klarstellung,
+sondern eine wesentliche Aenderung des Vertrages dar. Ich bin hierzu in der
+vorgeschlagenen Form nicht bereit.
+
+
+4. Offener Punkt: abschliessende Erledigung
+
+[HIER BAUSTEIN 5A ODER 5B EINFUEGEN - siehe unten]
+
+
+5. Weiteres Vorgehen
+
+An einer sachgerechten und fuer alle Seiten tragfaehigen Loesung ist mir
+weiterhin gelegen. Ich bin bereit, an einer Fassung der Vereinbarung
+mitzuwirken, die
+
+  - auf die nach dem Nachlassverzeichnis belegten tatsaechlichen Ertraege
+    abstellt,
+  - etwaige Nachweis- oder Erhaltungspflichten der Hoehe nach und zeitlich
+    angemessen begrenzt, und
+  - die unter Ziffer 4 angesprochene Frage abschliessend regelt.
+
+Fuer ein Gespraech - gemeinsam mit meinem Bruder, Frau Dr. Weniger und
+meiner anwaltlichen Vertretung - stehe ich nach Ihrer Rueckkehr gerne zur
+Verfuegung.
+
+Mit freundlichen Gruessen
+
+Bernd Krueger
+
+
+Anlage: Nachlassverzeichnis zum Nachlass Klas Krueger, Stand 08.10.2026,
+        mit Ertragsaufstellungen 2025 und 2026
+
+
+===============================================================================
+BAUSTEIN 5A - PFLICHTTEIL WIRD ANGESPROCHEN
+===============================================================================
+
+Verwenden, wenn Entscheidung 1 = JA.
+
+-------------------------------------------------------------------------------
+
+Unabhaengig von den vorstehenden Punkten ist mir im Zuge der Pruefung ein
+Gesichtspunkt aufgefallen, der bislang - soweit ich sehe - weder im Vertrag
+vom 13.03.2026 noch in Ihrer Stellungnahme vom 28.09.2026 noch in Ihrem
+Vorschlag vom 08.10.2026 behandelt wird.
+
+Der Vertrag vom 13.03.2026 enthaelt keine Regelung darueber, dass mit
+Zahlung der Abfindung saemtliche Ansprueche der Betreuten aus dem Erbfall
+nach meinem Vater erledigt sind. Insbesondere ist nicht geregelt, wie es
+sich mit einem Pflichtteilsanspruch verhaelt, der durch die Ausschlagung
+der mit Nacherbfolge beschwerten Erbschaft nach § 2306 Abs. 1 BGB in
+Betracht kommen kann. Da ein Ehevertrag nicht bestand, koennte daneben ein
+Anspruch auf konkreten Zugewinnausgleich nach § 1371 Abs. 2, 3 BGB in
+Frage stehen.
+
+Ich bitte um Ihre Einschaetzung, ob und inwieweit solche Ansprueche nach
+Ihrem Verstaendnis durch die bisherige beziehungsweise die von Ihnen
+vorgeschlagene Vereinbarung abgegolten sein sollen.
+
+Ohne eine klare und abschliessende Regelung sehe ich fuer meinen Bruder und
+mich das Risiko, die vereinbarte Abfindung zu leisten und gleichwohl
+anschliessend mit weiteren Forderungen aus demselben Erbfall konfrontiert
+zu werden. Eine Vereinbarung, die diesen Punkt offen laesst, kann ich nicht
+unterzeichnen.
+
+
+===============================================================================
+BAUSTEIN 5B - ALLGEMEINE ABGELTUNGSKLAUSEL, PFLICHTTEIL NICHT BENANNT
+===============================================================================
+
+Verwenden, wenn Entscheidung 1 = NEIN.
+Vom Anwalt bestaetigen lassen, dass der Wortlaut weit genug ist.
+
+-------------------------------------------------------------------------------
+
+Unabhaengig von den vorstehenden Punkten lege ich Wert darauf, dass eine
+Vereinbarung zwischen allen Beteiligten abschliessend regelt, dass mit
+Erfuellung der vereinbarten Abfindung saemtliche gegenseitigen Ansprueche
+zwischen der Betreuten beziehungsweise deren Erben einerseits und meinem
+Bruder und mir andererseits aus Anlass des Erbfalls nach meinem Vater -
+gleich aus welchem rechtlichen Gesichtspunkt und unabhaengig von der
+jeweiligen Anspruchsgrundlage - endgueltig erledigt und abgegolten sind.
+
+Der Vertrag vom 13.03.2026 enthaelt eine solche Regelung nicht.
+
+Mir ist wichtig, dass keine der beteiligten Seiten nach Erfuellung der
+Vereinbarung noch mit weiteren, bislang nicht bedachten Forderungen aus
+demselben Erbfall rechnen muss. Eine Vereinbarung, die diesen Punkt offen
+laesst, kann ich nicht unterzeichnen.
+
+
+===============================================================================
+FASSUNG II - ABLEHNUNG, VERHANDLUNG WIRD BEENDET
+===============================================================================
+
+Nur verwenden, wenn Entscheidung 3 = NEIN und der Anwalt dazu geraten hat.
+Ziffern 1 bis 3 aus Fassung I unveraendert uebernehmen, danach:
+
+-------------------------------------------------------------------------------
+
+4. Ergebnis
+
+Nach den nunmehr belegten Zahlen stellt sich die Sachlage anders dar als
+bei Abschluss des Vertrages am 13.03.2026. Die Abfindung von 190.000,00 EUR
+beruhte auf der Annahme eines Jahresertrages von 27.150,00 EUR. Der
+tatsaechliche Ertrag betraegt nach dem Nachlassverzeichnis 3.484,02 EUR
+jaehrlich.
+
+Die Geschaeftsgrundlage der Vereinbarung ist damit in einem wesentlichen
+Punkt entfallen. Zu einer Ergaenzung oder Aenderung des Vertrages, die
+meine Verpflichtungen erweitert, bin ich nicht bereit. An der bestehenden
+Vereinbarung halte ich mich im Rahmen ihrer Bedingungen gebunden; ueber
+diese hinaus werde ich keine Verpflichtungen uebernehmen.
+
+Es bleibt damit bei der im Vertrag vom 13.03.2026 vereinbarten
+Risikoverteilung.
+
+Mit freundlichen Gruessen
+
+Bernd Krueger
+
+
+===============================================================================
+HINWEISE ZUR VERWENDUNG (nicht mitsenden)
+===============================================================================
+
+WAS BEWUSST NICHT IM SCHREIBEN STEHT
+
+  - Eigene Steuerzahlen. Die Rechnung 187.000 gegen 87.000 EUR ist
+    ungeprueft. Sie zu nennen hiesse, eine ungeprueefte Zahl in die
+    Gerichtsakte zu geben. Das Schreiben kommt ohne sie aus.
+  - Die Lebenserwartung der Betreuten. Binder hat ausdruecklich
+    festgestellt, es verbiete sich, darueber zu spekulieren (04:71-73).
+    Darauf abzustellen waere angreifbar und pietaetlos. Das Schreiben sagt
+    nur "nach Aktenlage ausgeschlossen" und stuetzt sich auf die
+    Ertragszahlen.
+  - Der Rollenkonflikt von RA Binder. Gegenueber Binder selbst anzusprechen
+    bringt nichts und verhaertet. Gehoert, wenn ueberhaupt, in ein
+    Schreiben des eigenen Anwalts an das Betreuungsgericht.
+  - Die Formfehler in Binders Schreiben ("Herrn X", "spaetere Ehe",
+    "befreite Vorerbschaft", Wochen/Monate). Kleinlich und ohne Nutzen.
+  - Das comdirect-Konto als Einzelkonto. Eigenes Thema, nicht hier
+    vermischen.
+  - Die Bemerkung, Anne habe Binder "auf Hilles Kosten" mandatiert.
+
+ZAHLEN - VOR VERSAND PRUEFEN
+
+  Das Schreiben nennt fuer 2026 bewusst keine konkrete Zahl, sondern nur
+  "vergleichbare Groessenordnung". Grund: Im Verzeichnis stehen Ertraegen
+  aus Q1-Q3 nur Gebuehren aus Q1+Q2 gegenueber. Bereinigt liegt der Wert
+  bei ca. 2.230 EUR statt 6.127,65 EUR. Wer die unbereinigte Zahl nennt,
+  liefert den einzigen Angriffspunkt auf eine sonst sehr starke
+  Zahlenbasis.
+
+  Ebenfalls offen: Blatt 1 des Verzeichnisses nennt Fisher 2025 mit
+  16.767 EUR, Blatt 2 mit 16.990,38 EUR. Differenz 223,38 EUR. Das
+  Schreiben verwendet 16.990,38 EUR aus Blatt 2, weil dort die Herleitung
+  nachvollziehbar ist. Vor Versand klaeren.
+
+TON
+
+  Durchgaengig sachlich, keine Vorwuerfe, keine Unterstellungen. Der
+  Gebuehrenfehler wird als Feststellung formuliert
+  ("laesst unberuecksichtigt"), nicht als Versaeumnis. Binders eigener
+  Maßstab wird aufgenommen und gegen seine Schlussfolgerung gewendet -
+  das ist das staerkste Element des Schreibens und sollte nicht durch
+  Schaerfe im Ton entwertet werden.
+
+  Anne ist in cc. Sie ist aufgebracht (00:36). Der Satz zur Richtigstellung
+  ihres "kein Nachteil" ist knapp gehalten und auf die Vertragslage
+  gestuetzt, nicht auf ihre Person.
+
+NACH DEM VERSAND
+
+  Zu erwarten ist, dass Binder nach seiner Rueckkehr ab ca. 24.10. Stellung
+  nimmt. Moegliche Reaktionen:
+  - Er haelt an der Ergaenzung fest, mit anderer Begruendung. Dann ist zu
+    klaeren, welche.
+  - Er verweist auf die noch nicht exakte Bewertung des Nachlasses. Mit dem
+    Verzeichnis kaum mehr tragfaehig.
+  - Er stellt auf den Steuervorteil ab und argumentiert, die Abfindung sei
+    deshalb angemessen. Darauf braucht Bernd die verifizierten
+    Steuerzahlen - siehe Entscheidung 2.
+  - Er empfiehlt dem Gericht die Genehmigung des Vertrages in der
+    bestehenden Fassung. Das ist fuer Bernd nicht unproblematisch, weil
+    dieser Vertrag keine Abgeltungsklausel enthaelt. Siehe Abschnitt 8a der
+    Analyse.
+
+  Letzterer Punkt ist im Termin anzusprechen: Was tut Bernd, wenn das
+  Gericht Vertrag 03 unveraendert genehmigt?
+
+===============================================================================
+Erstellt: 08.10.2026
+===============================================================================
