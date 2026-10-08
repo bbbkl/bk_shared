@@ -19,6 +19,7 @@ Die Nacherbfolge tritt ein mit dem Tod des Vorerben.
 Es gibt ein Testament 01_testamtent_krueger.txt vom 20. November 2013
 
 Fristgerecht haben Anne, Bernd und Fabian am 13.03.2026 eine Erbausschlagung gegen Abfindung eingerecht: 03_abfindungsvertrag.txt
+Die Abfindungssumme über 190.ooo Euro ist für die gesparten Erbschaftszinsen und um Streitigkeiten über ein comdirekt Konto beizulegen (Wert 111.ooo Euro) bei dem Anne behauptet, dies sei eigentlich ein Gemeinschaftskonto.
 Der Entwurf für diesen Vertrag war 02_info_lockmann_vor_abfindungsvertrag.txt
 
 Da Anne die Auschlagung einreicht, muss diese vom Betreuungsgericht geprüft und genehmigt werden.
