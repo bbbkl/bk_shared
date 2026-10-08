@@ -1,0 +1,354 @@
+===============================================================================
+TERMINVORBEREITUNG ANWALT FUER ERBRECHT
+Mittwoch, 14.10.2026 - Bernd Krueger
+Erbfall Klas Krueger, verstorben 05.02.2026
+===============================================================================
+
+Ausfuehrliche Analyse: analyse.20261008.txt (gleiches Verzeichnis)
+
+
+-------------------------------------------------------------------------------
+1. DIE EINE FRAGE, DIE BEANTWORTET WERDEN MUSS
+-------------------------------------------------------------------------------
+
+Will Bernd die Erbausschlagung seiner Stiefmutter ueberhaupt noch - oder
+ist Abwarten die bessere Option?
+
+Alles andere haengt daran. Die Diskussion laeuft derzeit nur ueber die
+Frage, ob eine Vertragsergaenzung unterschrieben wird. Das ist die falsche
+Ebene.
+
+  Variante                               Zahlung      Steuer     Summe
+  ------------------------------------------------------------------------
+  Keine Genehmigung, Hille stirbt vorher        0    ~187.000   187.000
+  Genehmigung, Vertrag vom 13.03.2026     190.000    ~ 87.000   277.000
+  ------------------------------------------------------------------------
+
+Differenz ca. 90.000 EUR zugunsten des Abwartens. Dazu: ohne Ausschlagung
+entsteht kein Pflichtteilsanspruch.
+
+ACHTUNG: Die Steuerzahlen stammen aus einer eigenen Schaetzung von Bernd
+(Februar 2026) und sind nicht geprueft. Sie sind die Grundlage der ganzen
+Rechnung. Erste Bitte an den Anwalt: diese Zahlen verifizieren oder
+verifizieren lassen.
+
+
+-------------------------------------------------------------------------------
+2. SACHVERHALT IN 10 ZEILEN
+-------------------------------------------------------------------------------
+
+Vater Klas Krueger, gest. 05.02.2026. Nachlass 1.438.262,66 EUR, im
+Wesentlichen ein Aktiendepot.
+Gemeinschaftliches Testament vom 20.11.2013: Ehefrau Hille Krueger ist
+NICHT BEFREITE VORERBIN, Bernd und Fabian sind NACHERBEN je 1/2.
+Hille hat zusaetzlich ein Vorausvermaechtnis: Niessbrauch an den
+Kapitalanlagen.
+Hille ist 89, vollstaendig dement, Krebs im fortgeschrittenen Stadium,
+Lebenserwartung unter einem Jahr. Betreuerin ist ihre Tochter Anne Weniger
+(Hilles Kind aus erster Ehe, neben Jan Trueper).
+Am 13.03.2026 hat Anne fuer Hille die Erbschaft ausgeschlagen und
+gleichzeitig mit Bernd und Fabian einen Abfindungsvertrag ueber
+190.000 EUR geschlossen - aufschiebend bedingt auf die
+betreuungsgerichtliche Genehmigung der Ausschlagung.
+Das Genehmigungsverfahren laeuft noch. Verfahrenspfleger ist RA Jonas
+Binder.
+
+
+-------------------------------------------------------------------------------
+3. DER STREIT UM DIE ZAHLEN - HIER IST BERND IM RECHT
+-------------------------------------------------------------------------------
+
+Die Abfindung soll den durch die Ausschlagung entgehenden Niessbrauch
+ersetzen. RA Binder rechnet mit 27.150 EUR Jahresertrag und kommt so auf
+rund 7 Jahre bis zum Erreichen der 190.000 EUR.
+
+Das Nachlassverzeichnis liegt seit 08.10.2026 vollstaendig vor und zeigt:
+
+  Position                          2025           2026 (1.1.-30.9.)
+  ------------------------------------------------------------------------
+  Fisher Ertraege              16.767,00 EUR        12.502,30 EUR
+  Fisher Managementgebuehren  -14.695,98 EUR        -7.787,65 EUR
+  comdirect Depot               1.413,00 EUR         1.413,00 EUR (gesch.)
+  ------------------------------------------------------------------------
+  Netto                         3.484,02 EUR         6.127,65 EUR
+
+URSACHE DES FEHLERS: Binder zieht die Depotverwaltungsgebuehren nicht ab.
+Diese traegt nach der Vereinbarung mit Fisher Investments aber der
+Niessbraucher - also Hille. Nur die erfolgsabhaengige Gebuehr traegt sie
+nicht.
+
+  190.000 / 3.484  = ca. 54 Jahre
+  190.000 / 8.170  = ca. 23 Jahre  (2026 auf 12 Monate hochgerechnet)
+  190.000 / 27.150 = ca.  7 Jahre  (Binders Annahme)
+
+Bei einer Lebenserwartung unter einem Jahr entgeht Hille real ein Betrag in
+der Groessenordnung von 3.000 bis 8.000 EUR. Dem stehen 190.000 EUR
+Abfindung gegenueber.
+
+VORSICHT BEI DER VERWENDUNG: Bei 2026 stehen Ertraegen aus Q1-Q3 nur
+Gebuehren aus Q1+Q2 gegenueber. Mit geschaetzter Q3-Gebuehr sinkt das
+Nettoergebnis 2026 auf ca. 2.230 EUR. Vor einer Verwendung nach aussen
+bereinigen.
+
+
+-------------------------------------------------------------------------------
+4. DAS UNGELOESTE PROBLEM: PFLICHTTEIL
+-------------------------------------------------------------------------------
+
+Dies ist der wichtigste Punkt des Termins.
+
+Der Abfindungsvertrag vom 13.03.2026 enthaelt KEINE Abgeltungsklausel.
+Insbesondere ist kein Verzicht auf einen moeglichen Pflichtteilsanspruch
+geregelt. Auch der Ergaenzungsentwurf und der neueste Vorschlag vom
+08.10.2026 enthalten dazu nichts.
+
+Groessenordnung bei einem Nachlass von 1.438.262,66 EUR:
+  kleiner Pflichtteil 1/8   ca. 180.000 EUR
+  grosser Pflichtteil 1/4   ca. 360.000 EUR
+
+Beide Werte liegen ueber der Abfindung. Der Anspruch wuerde an Anne und Jan
+als Hilles Erben fallen.
+
+Risiko: Bernd und Fabian zahlen 190.000 EUR und werden anschliessend
+zusaetzlich mit einem Pflichtteilsanspruch konfrontiert.
+
+TAKTISCHE FRAGE, die im Termin zu entscheiden ist:
+Nach Aktenlage ist dieser Punkt der Gegenseite bislang NICHT bewusst -
+weder Anne noch RA Binder haben ihn je erwaehnt. Bernd ist er erst im Zuge
+der Bewertung der verlangten Ergaenzung klar geworden.
+  - Anspricht er ihn: er bekommt Schutz, bringt Anne aber auf die Spur.
+  - Spricht er ihn nicht an: das Risiko bleibt unkalkuliert bestehen.
+Hier wird anwaltliche Einschaetzung gebraucht.
+
+
+-------------------------------------------------------------------------------
+5. AKTUELLER STAND: ZWEI VORSCHLAEGE LIEGEN AUF DEM TISCH
+-------------------------------------------------------------------------------
+
+VORSCHLAG 1 - Ergaenzung des Abfindungsvertrages (RA Binder, 28.09.2026)
+  Inhalt: Nachlassverzeichnis in Bezug nehmen; Bernd und Fabian muessen den
+  Vermoegensstamm zu Hilles Lebzeiten erhalten; jaehrliche Feststellung und
+  Mitteilung der entgangenen Zufluesse; Auszahlung aller Zufluesse, die
+  190.000 EUR uebersteigen.
+  Binder macht seine Empfehlung zur Genehmigung davon abhaengig.
+  Bernd hat am 05.10.2026 abgelehnt.
+  BEWERTUNG: Nach den belegten Zahlen kann die Auszahlungsklausel niemals
+  greifen - 190.000 EUR werden bei 3.484 EUR/Jahr nie erreicht. Die
+  Ergaenzung ist in der Sache gegenstandslos. Die Pflichten zu Stammerhalt
+  und jaehrlichem Nachweis sind dagegen real, unbefristet und ohne
+  Deckelung.
+
+VORSCHLAG 2 - Ausschlagung durch die Erbeserben, § 1952 BGB
+  (RA Binder an Anne, 08.10.2026, Notarin Dr. Lockmann in cc)
+  Idee: Das Ausschlagungsrecht ist vererblich. Anne und Jan koennten die
+  Erbschaft nach Hilles Tod noch ausschlagen. Dann braucht es keine
+  betreuungsgerichtliche Genehmigung mehr, und Hilles Todeszeitpunkt spielt
+  keine Rolle.
+  Vorgeschlagene Klausel: Die Abfindung wird auch dann geschuldet, wenn die
+  Erben nach Hilles Tod ueber § 1952 BGB vollstaendig ausschlagen.
+  Anne schreibt dazu, fuer Bernd und Fabian bedeute das "ebenfalls keinen
+  Nachteil".
+  BEWERTUNG: Das trifft nicht zu. Derzeit gilt - stirbt Hille vor der
+  Genehmigung, endet das Verfahren, die Bedingung faellt endgueltig aus und
+  es ist KEINE Abfindung zu zahlen. Genau diese Position wuerde der
+  Vorschlag beseitigen. Bei einer Lebenserwartung unter einem Jahr ist das
+  der wirtschaftlich wertvollste Posten auf Bernds Seite.
+  Zusaetzlich: Der Vorschlag legt das Ausschlagungsrecht in die Hand von
+  Anne und Jan - also derjenigen, die anschliessend den Pflichtteil
+  geltend machen koennten.
+
+
+-------------------------------------------------------------------------------
+6. ROLLENSITUATION RA BINDER - BITTE EINSCHAETZEN LASSEN
+-------------------------------------------------------------------------------
+
+- RA Binder ist vom Betreuungsgericht als Verfahrenspfleger zur Wahrung der
+  Interessen der Betreuten eingesetzt.
+- Zugleich hat Anne ihn nach eigener Darstellung "auf Hilles Kosten" als
+  Anwalt beauftragt, um weitere Moeglichkeiten zu pruefen.
+- Das Ergebnis dieser Pruefung - Sicherung der Abfindung ueber Hilles Tod
+  hinaus - nuetzt wirtschaftlich nicht Hille, sondern ihren Erben Anne und
+  Jan. Hille selbst ist nach Aktenlage versorgt: eigenes Vermoegen ca.
+  400.000 EUR, Einnahmen uebersteigen die Ausgaben um ca. 1.000 EUR
+  monatlich. Binder haelt eine eigene finanzielle Beguenstigung der
+  Betreuten ausdruecklich fuer nicht im Vordergrund stehend.
+- Binder raet, das Genehmigungsverfahren aufrechtzuerhalten, weil es die
+  Ausschlagungsfrist hemmt - obwohl das angestrebte Ergebnis eine
+  Genehmigung gerade nicht mehr benoetigt.
+- Sein Mandat ist ausdruecklich auf die erbrechtliche Pruefung beschraenkt;
+  steuerliche Auswirkungen sind nicht erfasst.
+
+Frage: Ist diese Doppelrolle zulaessig? Bestehen Offenlegungspflichten
+gegenueber dem Betreuungsgericht?
+
+Hinweis zur Gesamtsituation: Jede rechtliche Einschaetzung im Verfahren
+stammt bislang von Beratern, die Anne mandatiert hat - RA Lockmann
+(Februar), RA Binder (September, Oktober). Bernd hatte bis zu diesem Termin
+keine eigene Vertretung.
+
+
+-------------------------------------------------------------------------------
+7. FRAGENKATALOG FUER DEN TERMIN
+-------------------------------------------------------------------------------
+
+PRIORITAET 1 - ohne diese Antworten keine Entscheidung moeglich
+
+ 1. Entsteht durch die Ausschlagung der mit Nacherbfolge beschraenkten
+    Erbschaft ein Pflichtteilsanspruch nach § 2306 Abs. 1 BGB? Kleiner oder
+    grosser Pflichtteil? Kommt daneben konkreter Zugewinnausgleich nach
+    § 1371 Abs. 2, 3 BGB in Betracht? Ein Ehevertrag bestand nicht.
+    Ist der Anspruch an Anne und Jan vererblich? Verjaehrung?
+
+ 2. Stimmt die Steuerrechnung 187.000 EUR (ohne Ausschlagung) gegen
+    87.000 EUR (mit Ausschlagung)? Binder nennt fuer die Vorerbschaft
+    171.000 EUR. Ist die Abfindung bei Bernd und Fabian als
+    Nachlassverbindlichkeit abzugsfaehig (§ 10 Abs. 5 Nr. 3 ErbStG)? Wie
+    wird sie beim Empfaenger behandelt (§ 3 Abs. 2 Nr. 4 ErbStG)? Wie
+    wirkt § 6 ErbStG zur Vor- und Nacherbschaft?
+    (Ggf. Steuerberater erforderlich.)
+
+ 3. Soll der Pflichtteil gegenueber Anne und Binder angesprochen werden
+    oder nicht? Siehe Abschnitt 4.
+
+PRIORITAET 2 - zur Bewertung der beiden Vorschlaege
+
+ 4. Traegt die § 1952-Konstruktion? Binders Klausel verlangt eine
+    "vollstaendig wirksam" erklaerte Ausschlagung - was gilt, wenn nach
+    § 1952 Abs. 3 BGB nur einer der beiden Erbeserben ausschlaegt? Wie hoch
+    ist das Risiko, dass Hilles Ausschlagungsfrist nach Ende der Hemmung
+    ablaeuft und damit kein vererbliches Recht mehr besteht?
+
+ 5. Wie muss eine Abgeltungsklausel gefasst sein, damit mit Zahlung der
+    Abfindung saemtliche Ansprueche aus dem Erbfall endgueltig erledigt
+    sind? Kann die Betreuerin fuer Hille wirksam auf einen Pflichtteil
+    verzichten, und loest das ein eigenes Genehmigungsverfahren aus?
+    Welche Form ist erforderlich?
+
+ 6. Was bedeutet "Vermoegensstamm erhalten" bei einem aktiv gemanagten
+    Depot mit laufenden Umschichtungen - sind Verkaeufe und Kursverluste
+    erfasst? Ist eine zeitlich und der Hoehe nach unbegrenzte
+    Nachschusspflicht wirksam?
+
+ 7. Ist die Doppelrolle von RA Binder zulaessig? Siehe Abschnitt 6.
+
+PRIORITAET 3 - Nebenfragen
+
+ 8. Das comdirect-Depot (111.168,24 EUR) laeuft nach den Finanzreports als
+    Einzelkonto auf Klas Krueger. Anne behauptet, es sei eigentlich ein
+    Gemeinschaftskonto. Welche Bedeutung hat das fuer § 6 Abs. 1 des
+    Testaments? Faellt der Betrag vollstaendig an Bernd und Fabian?
+
+ 9. Sollte Bernd kuenftig nur noch anwaltlich vertreten kommunizieren?
+
+10. Der Ergaenzungsentwurf nennt die Kosten der Beurkundung je 1/2 fuer
+    Bernd/Fabian und Hille - auch fuer eine Ergaenzung, die allein auf
+    Binders Verlangen zurueckgeht. Ueblich?
+
+11. Was tut Bernd, wenn das Betreuungsgericht den Vertrag vom 13.03.2026
+    in der bestehenden Fassung genehmigt - also ohne Abgeltungsklausel?
+    Dann sind 190.000 EUR zu zahlen und die Pflichtteilsfrage bleibt
+    rechtlich offen. Gibt es dagegen ein Mittel, oder muss die Abgeltung
+    zwingend vorher vereinbart werden?
+
+
+-------------------------------------------------------------------------------
+7a. IM TERMIN ABZUSTIMMEN: DAS HAUPTSCHREIBEN
+-------------------------------------------------------------------------------
+
+Ein Entwurf liegt vor: hautschreiben.vorbereitet.20261014.txt
+
+Er ist bis auf drei Entscheidungen fertig ausformuliert:
+  1. Wird der Pflichtteil angesprochen? (Baustein 5A oder 5B)
+  2. Stimmen die Steuerzahlen? (Der Entwurf nennt bewusst keine eigenen.)
+  3. Will Bernd die Ausschlagung noch? (Fassung I konstruktiv oder
+     Fassung II ablehnend)
+
+Inhalt von Fassung I in Kuerze:
+  Ziffer 1  Ertraege 2025 belegt: 3.484,02 EUR netto; Herleitung mit
+            Depotverwaltungsgebuehren
+  Ziffer 2  Folgerung: die verlangte Auszahlungsklausel kann nie greifen,
+            die Ergaenzung ist gegenstandslos; die Abfindung erfuellt
+            Binders eigenen Maßstab bereits in der bestehenden Fassung
+  Ziffer 3  § 1952-Vorschlag: Richtigstellung des "kein Nachteil", gestuetzt
+            auf § 3 des Vertrages und Binders eigenen Hinweis zum
+            Verfahrensende
+  Ziffer 4  Abgeltung - hier Baustein 5A oder 5B
+  Ziffer 5  Bereitschaft zur Mitwirkung unter drei Bedingungen
+
+Ebenfalls im Termin zu klaeren:
+  [ ] Verfasst der Anwalt das Schreiben, oder zeichnet Bernd selbst?
+  [ ] Zeitpunkt des Versands - angekuendigt ist "kommende Woche"
+  [ ] Nachlassverzeichnis als Anlage beifuegen?
+  [ ] Cc an Anne und Fabian?
+
+
+-------------------------------------------------------------------------------
+8. UNTERLAGEN FUER DEN TERMIN
+-------------------------------------------------------------------------------
+
+Mitnehmen:
+  erbschaft_kontext\00_kontext.txt          Sachverhaltsuebersicht
+  erbschaft_kontext\01_testamtent_krueger.txt
+  erbschaft_kontext\02_info_lockmann_vor_abfindungsvertrag.txt
+  erbschaft_kontext\03_abfindungsvertrag.txt        ZENTRAL
+  erbschaft_kontext\04_rechtsanwalt_binder.20260928.txt
+  erbschaft_kontext\05_abfindungsvertrag_ergaenzung.txt
+  erbschaft_kontext\06_mail_anne.20261008.txt       NEU, ZENTRAL
+  nachlass\Nachlass_klas_krueger.xlsx               ZAHLEN
+  nachlass\nachlassverheichnis.unteschrieben.pdf
+  nachlass\fisher_depot\Quartalsabrechnung.erklaerung.txt  Gebuehrentragung
+  analyse.20261008.txt                      ausfuehrliche Analyse
+  hautschreiben.vorbereitet.20261014.txt    Entwurf Hauptschreiben
+  mail_bernd_an_binder.20261008.txt         bereits versandt
+  diese Datei
+
+Vorhandene, noch nicht versendete Entwuerfe eines Schreibens an Binder:
+  antwort_an_binder.bernd.txt               Variante A, Pflichtteil benannt
+  situation\anwort.bernd.binder.txt         Variante B, nur Abgeltung
+  Beide sind vor dem 08.10. entstanden, kennen den § 1952-Vorschlag nicht
+  und nennen veraltete Ertragszahlen (4.000 EUR statt 3.484,02 EUR).
+  Nicht versenden, ohne sie mit dem Anwalt durchzugehen.
+
+
+-------------------------------------------------------------------------------
+9. ZEITLICHE LAGE
+-------------------------------------------------------------------------------
+
+RA Binder ist ab 10.10.2026 zwei Wochen im Urlaub, also bis ca. 24.10.
+Der Termin am 14.10. liegt in diesem Fenster.
+
+Am 08.10.2026 ist eine kurze Empfangsbestaetigung an RA Binder gegangen,
+cc Anne Weniger und Fabian Krueger (mail_bernd_an_binder.20261008.txt).
+Inhalt: Das Nachlassverzeichnis liegt vollstaendig vor; eine Aeusserung
+erfolgt nach anwaltlicher Beratung in der kommenden Woche, auch zum
+§ 1952-Vorschlag. Zahlen, Gebuehrenfehler, Pflichtteil und Bewertung der
+Ergaenzung sind bewusst ausgespart.
+
+WICHTIG FUER DEN TERMIN: Damit ist eine Aeusserung "in der kommenden Woche"
+angekuendigt und die eigene anwaltliche Beratung offengelegt. Das
+Hauptschreiben sollte daher zeitnah nach dem 14.10. abgehen - idealerweise
+im Termin abgestimmt oder direkt vom Anwalt verfasst.
+
+Der Zeitdruck liegt im Uebrigen nicht bei Bernd, sondern bei Anne: Laeuft
+Hilles Ausschlagungsfrist nach Ende der Hemmung ab, entfaellt auch das ueber
+§ 1952 BGB vererbliche Ausschlagungsrecht. Darauf weist Binder selbst hin.
+
+Offene Aufgabe nach dem Termin: Soll das Nachlassverzeichnis mit den
+Ertragszahlen an Binder uebersandt werden, und mit welcher Begleitaussage?
+Empfehlung aus der Analyse: ja uebersenden, Fehler bei den Depotgebuehren
+benennen, aber NICHT um Genehmigung des urspruenglichen Vertrages bitten,
+ohne dass die Abgeltungsfrage gleichzeitig geklaert wird.
+
+
+-------------------------------------------------------------------------------
+10. HINWEIS
+-------------------------------------------------------------------------------
+
+Diese Zusammenstellung ist eine Auswertung der vorliegenden Unterlagen,
+keine Rechtsberatung. Die Steuerzahlen sind ungeprueft. Die
+Pflichtteilsbetraege sind Groessenordnungen, keine Berechnung. Die
+Paragraphenangaben dienen der Orientierung und sind anwaltlich zu
+verifizieren.
+
+Erstellt: 08.10.2026
+===============================================================================

@@ -1,0 +1,537 @@
+===============================================================================
+ANALYSE ERBFALL KLAS KRUEGER - Stand 08.10.2026
+Perspektive: Bernd Krueger (Nacherbe)
+Grundlage: Dokumentenauswertung. KEIN Rechtsrat.
+===============================================================================
+
+Belegstellen werden als "datei:zeile" angegeben. Die Nummern 00-06 beziehen
+sich auf die Dateien in klas\erbschaft\erbschaft_kontext\.
+
+
+-------------------------------------------------------------------------------
+1. QUELLENLAGE
+-------------------------------------------------------------------------------
+
+Kontextdateien (erbschaft_kontext\):
+  00_kontext.txt                                Sachverhaltsuebersicht
+  01_testamtent_krueger.txt                     Testament 20.11.2013, UR 61/2013
+  02_info_lockmann_vor_abfindungsvertrag.txt    RA Lockmann, 13.02.2026
+  03_abfindungsvertrag.txt                      Abfindungsvertrag 13.03.2026
+  04_rechtsanwalt_binder.20260928.txt           Verfahrenspfleger, 28.09.2026
+  05_abfindungsvertrag_ergaenzung.txt           Entwurf Ergaenzung
+  06_mail_anne.20261008.txt                     Anne + Binder, 08.10.2026
+
+Weitere ausgewertete Dateien:
+  erbschaft\antwort_an_binder.bernd.txt         Entwurf Bernd, Variante A
+  erbschaft\situation\anwort.bernd.binder.txt   Entwurf Bernd, Variante B
+  erbschaft\erbschaft_20260222.txt              Fruehe Eigenrechnung Bernd
+  erbschaft\amtsgericht.20260507.txt            Enkel, Fuehrerscheine, Hausrat
+  erbschaft\nachlass\Nachlass_klas_krueger.xlsx  Nachlassverzeichnis,
+                                                 4 Blaetter, vollstaendig
+  comdirect_kto\bewertung_comdirect_kto\ertraege_24_25.txt
+  erbschaft\nachlass\fisher_depot\Quartalsabrechnung.erklaerung.txt
+  erbschaft\nachlass\comdirect_kto\finanzreport.202506_full.txt
+
+Nicht ausgewertet:
+  Fisher-Dividendenuebersichten 2025 und 2026 (PDF). Nach Vorliegen des
+  Nachlassverzeichnisses nicht mehr erforderlich - die Zahlen sind dort
+  aufbereitet.
+
+
+-------------------------------------------------------------------------------
+2. SACHVERHALT IN KUERZE
+-------------------------------------------------------------------------------
+
+Klas Krueger, verstorben 05.02.2026. Aktiendepot ca. 1.450.000 EUR (00:1).
+Soehne aus erster Ehe: Bernd und Fabian (01:25-26).
+Zweite Ehe seit 1992 mit Hille Krueger, kein Ehevertrag (00:4, 00:10).
+Hilles Kinder aus erster Ehe: Anne Weniger, Jan Trueper (01:21-22).
+Hille: 89 Jahre, vollstaendig dement, Demenz-WG, fortgeschrittene
+Krebserkrankung; Lebenserwartung begrenzt (00:6, 04:45-49).
+Betreuerin: Tochter Anne Weniger (00:7).
+
+Testament 20.11.2013 (UR 61/2013, Notar Schwackenberg):
+  Hille ist nicht befreite Vorerbin (01:78).
+  Nacherben: Bernd und Fabian zu gleichen Teilen (01:82-85).
+  Nacherbfolge tritt mit Tod der Vorerbin ein (01:80).
+  Vorausvermaechtnis Hille: Niessbrauch an Kapitalanlagen (01:94-95).
+  Testamentsvollstreckerin Anne - erst nach Tod des Laengstlebenden (01:120).
+
+Verfahrensgang:
+  13.02.2026  RA Lockmann klaert Anne auf; Ausschlagungsfrist 19.03.2026;
+              Hinweis: mit Ausschlagung verfallen auch die Vermaechtnisse
+              (02:89-91, 02:100-112).
+  13.03.2026  Ausschlagung fuer Hille erklaert + Abfindungsvertrag ueber
+              190.000 EUR, aufschiebend bedingt auf die Genehmigung (03:38-56).
+  07.05.2026  Bernd an AG Oldenburg: Enkel benannt; Fuehrerschein-
+              Vermaechtnisse und Hausrat bereits erledigt (amtsgericht:44-47).
+  28.09.2026  Binder als Verfahrenspfleger: Genehmigung nur bei Ergaenzung
+              des Vertrages vertretbar (04:83-101).
+  05.10.2026  Bernd lehnt die Ergaenzung ab (00:35).
+  08.10.2026  Anne + Binder: neuer Weg ueber § 1952 BGB (06).
+  08.10.2026  Nachlassverzeichnis liegt vollstaendig vor.
+  08.10.2026  Bernd bestaetigt Binder per Mail den Eingang des
+              Verzeichnisses und kuendigt eine Aeusserung nach
+              anwaltlicher Beratung an; cc Anne und Fabian
+              (mail_bernd_an_binder.20261008.txt). Inhaltlich noch keine
+              Stellungnahme.
+  ab 10.10.   Binder zwei Wochen im Urlaub (00:40), also bis ca. 24.10.
+  14.10.2026  Termin Bernd bei einem Anwalt fuer Erbrecht.
+
+Hintergrund der Abfindungshoehe: gesparte Erbschaftszinsen und Beilegung des
+Streits um ein comdirect-Konto (Wert 111.000 EUR), das Anne als
+Gemeinschaftskonto ansieht (00:22).
+
+
+-------------------------------------------------------------------------------
+3. DIE ERTRAGSFRAGE - KERN DES STREITS
+-------------------------------------------------------------------------------
+
+Die Abfindung von 190.000 EUR soll den durch die Ausschlagung entgehenden
+Niessbrauch ersetzen (04:38-42, 05:35-37). Binder rechnet dafuer mit einer
+Jahres-Nettorendite von 27.150 EUR und kommt so auf rund 7 Jahre (04:40-42).
+
+STAND 08.10.2026 ABEND: Das Nachlassverzeichnis liegt nun vollstaendig vor
+(Nachlass_klas_krueger.xlsx, 4 Blaetter). Damit sind die Ertraege erstmals
+belegt und nicht mehr geschaetzt.
+
+NACHLASS AUF DEN STERBETAG 05.02.2026 (Blatt "Nachlassverzeichnis")
+
+  Position                                            Wert
+  ------------------------------------------------------------------------
+  Depot Fisher Investments (KNR 1181314814)   1.325.994,42 EUR
+  Depot comdirect 118 728563800, sonstiges      111.168,24 EUR
+  Geschaeftseinlage green planet energy           1.100,00 EUR
+  ------------------------------------------------------------------------
+  Summe                                       1.438.262,66 EUR
+
+Das comdirect-Depot ist damit genau das Konto, um das der Streit geht
+(111.000 EUR, 00:22).
+
+TATSAECHLICHE ERTRAEGE (Blatt "Nachlassverzeichnis" Z.13-25,
+Blatt "Ertrag Fisher Depot", Blatt "Ertrag comdirect 2025")
+
+  Position                          2025           2026 (1.1.-30.9.)
+  ------------------------------------------------------------------------
+  Fisher Ertraege              16.767,00 EUR        12.502,30 EUR
+  Fisher Managementgebuehren  -14.695,98 EUR        -7.787,65 EUR
+  comdirect Depot               1.413,00 EUR         1.413,00 EUR (gesch.)
+  ------------------------------------------------------------------------
+  Netto                         3.484,02 EUR         6.127,65 EUR
+
+Herleitung Fisher 2025 (Blatt "Ertrag Fisher Depot"):
+  Summe Einnahmen 2025                 23.548,63 EUR
+  Summe Steuern 2025                   -6.558,25 EUR
+  Ergebnis nach Steuern                16.990,38 EUR
+  Depotverwaltung Q1-Q4 2025          -14.695,98 EUR
+    (3.458,18 + 3.874,27 + 3.460,27 + 3.903,26)
+
+DAMIT IST DIE URSACHE DES FEHLERS IDENTIFIZIERT: Binders Grundlage von
+27.150 EUR entsteht, wenn die Depotverwaltungsgebuehren nicht abgezogen
+werden. Diese traegt aber ausdruecklich der Niessbraucher; nur die
+erfolgsabhaengige Gebuehr traegt er nicht
+(Quartalsabrechnung.erklaerung.txt:1-4).
+
+RECHNUNG ZUR ABFINDUNGSDAUER
+  bei 3.484 EUR/Jahr (Ist 2025)        190.000 / 3.484  = ca. 54 Jahre
+  bei 8.170 EUR/Jahr (2026 auf 12 M.)  190.000 / 8.170  = ca. 23 Jahre
+  Binders Annahme                      190.000 / 27.150 = ca.  7 Jahre
+
+FOLGERUNG: Die Abfindung uebersteigt den tatsaechlichen Niessbrauchswert um
+den Faktor 20 bis 40. Sie kompensiert keinen Nachteil. Bei einer
+Lebenserwartung von unter einem Jahr (00:9) liegt der real entgehende
+Zufluss in der Groessenordnung von 3.000 bis 8.000 EUR.
+
+FOLGERUNG FUER DIE ERGAENZUNG 05: § 3 der Ergaenzung (Auszahlung aller
+Zufluesse oberhalb von 190.000 EUR, 05:53-59) kann nach diesen Zahlen
+niemals greifen. Die von Binder verlangte Ergaenzung ist in der Sache
+gegenstandslos. Das entzieht seiner Begruendung vom 28.09. die Grundlage.
+
+ANGREIFBARKEIT DIESER ZAHLEN - vor einer Verwendung zu bereinigen:
+  - 2026 stehen Fisher-Ertraegen aus Q1-Q3 nur Gebuehren aus Q1+Q2
+    gegenueber. Mit geschaetzter Q3-Gebuehr (ca. 3.900 EUR) sinkt das
+    Nettoergebnis 2026 von 6.127,65 EUR auf ca. 2.230 EUR. Die Aussage
+    wird dadurch nicht schwaecher, die Darstellung aber angreifbar.
+  - Blatt 1 nennt Fisher 2025 mit 16.767 EUR, Blatt 2 mit 16.990,38 EUR.
+    Differenz 223,38 EUR, ungeklaert.
+  - comdirect 2026 ist mit 1.413 EUR ausdruecklich geschaetzt ("wie 2025").
+  - Die frueheren Zahlen aus ertraege_24_25.txt (1.592 EUR netto 2025) und
+    aus Bernds Entwurf (4.000 EUR, antwort_an_binder.bernd.txt:37) weichen
+    ab. Es sollte eine einzige konsistente Zahlenreihe verwendet werden.
+
+GEGENPOSITION (fairerhalber): Binder hielt den Nachlass fuer nicht
+hinreichend bewertet und die 190.000 EUR deshalb fuer "nicht bewertbar"
+(04:42-44, 04:74-78). Dieser Einwand ist mit dem Verzeichnis ausgeraeumt -
+allerdings in beide Richtungen: Die Zahlen belegen auch, dass Hille durch
+die Abfindung erheblich beguenstigt wird. Das ist ein Argument FUER die
+Genehmigung. Siehe dazu Abschnitt 8a.
+
+Hinweis: Bernds eigene fruehe Schaetzung lag bei ca. 12.600 EUR Jahresertrag
+nach Gebuehren und fuehrte zu einem Abfindungsvorschlag von 60.000 EUR
+(erbschaft_20260222.txt:43-51). Auch gegenueber dieser Zahl sind
+190.000 EUR hoch.
+
+
+-------------------------------------------------------------------------------
+4. SZENARIENVERGLEICH
+-------------------------------------------------------------------------------
+
+Steuerzahlen aus Bernds Eigenrechnung (erbschaft_20260222.txt:14-15):
+ohne Ausschlagung ca. 187.000 EUR gesamt, mit Ausschlagung ca. 87.000 EUR.
+Binder nennt fuer die Vorerbschaft 171.000 EUR (04:37). Beides ungeprueft.
+
+  #  Szenario                        Zahlung B+F    Steuer      Saldo ggü. 1
+  ---------------------------------------------------------------------------
+  1  Keine Ausschlagung,                      0    ~187.000     Referenz
+     Vorerbschaft laeuft
+  2  Status quo, Hille stirbt                 0    ~187.000     wie 1,
+     vor der Genehmigung                                        kein Risiko
+  3  Genehmigung erteilt,              190.000     ~ 87.000     ca. -90.000
+     Vertrag 03 unveraendert
+  4  Vertrag 03 + Ergaenzung 05        190.000     ~ 87.000     schlechter
+                                    + Nachschuss               als 3
+                                    + Stammerhalt
+  5  § 1952-Weg (06)                   190.000     ~ 87.000     gibt Sz. 2
+                                    auch bei Tod               auf
+                                    vor Genehmigung
+  ---------------------------------------------------------------------------
+
+Zu Szenario 2: Der Vertrag bestimmt ausdruecklich, dass die Bedingung
+endgueltig ausfaellt und keine Abfindung zu zahlen ist, wenn die
+Ausschlagung nicht genehmigt wird (03:55-56). Das Genehmigungsverfahren
+endet mit dem Tod der Betroffenen; eine Genehmigung kann dann nicht mehr
+erteilt werden (04:103-105). Bei einer Lebenserwartung von unter einem Jahr
+(00:9) ist dieses Szenario realistisch und fuer Bernd/Fabian das
+wirtschaftlich guenstigste.
+
+Zu Szenario 5: Genau dieses Szenario beseitigt der Vorschlag vom 08.10.
+Binders Klausel laesst die Abfindung auch dann geschuldet sein, wenn Hilles
+Erben nach ihrem Tod ueber das vererbte Ausschlagungsrecht ausschlagen
+(06:39). Annes Formulierung, das bedeute "fuer Euch ebenfalls keinen
+Nachteil" (06:7), ist daher sachlich nicht zutreffend: Der Vorschlag nimmt
+Bernd und Fabian die Position, in der sie nichts zahlen.
+
+Zu Szenario 4: Die Ergaenzung verlangt Erhalt des Vermoegensstamms zu
+Lebzeiten Hilles, jaehrliche Feststellung und Mitteilung der Zufluesse sowie
+Auszahlung aller Zufluesse oberhalb von 190.000 EUR (05:42-59). Eine
+Deckelung, Befristung oder Gegenleistung ist nicht vorgesehen. Die
+Verpflichtung ist nach oben offen.
+
+
+-------------------------------------------------------------------------------
+5. PFLICHTTEILSRISIKO
+-------------------------------------------------------------------------------
+
+Dies ist nach Lage der Akten der am wenigsten beachtete Punkt (00:31-33).
+
+Weder der Abfindungsvertrag (03), noch die Ergaenzung (05), noch Binders
+Formulierungsvorschlag (06:39) enthalten eine Abgeltungs- oder
+Erledigungsklausel. Insbesondere ist ein Verzicht auf einen moeglichen
+Pflichtteilsanspruch nicht geregelt.
+
+Groessenordnung bei einem Nachlass von 1.450.000 EUR:
+  kleiner Pflichtteil 1/8   ca. 181.000 EUR
+  grosser Pflichtteil 1/4   ca. 362.500 EUR
+
+Beide Werte liegen ueber der Abfindung. Der Anspruch wuerde an Anne und Jan
+als Hilles Erben fallen.
+
+Bernd hat den Punkt in seinem Entwurf bereits benannt: § 2306 BGB bei
+Ausschlagung der durch Nacherbfolge beschraenkten Erbschaft, daneben
+moeglicher konkreter Zugewinnausgleich nach § 1371 Abs. 2, 3 BGB, da kein
+Ehevertrag bestand (antwort_an_binder.bernd.txt:67-82).
+
+Der § 1952-Weg verschaerft dies: Er legt das Ausschlagungsrecht aktiv in die
+Hand von Anne und Jan - also derjenigen, die anschliessend einen
+Pflichtteil geltend machen koennten.
+
+VORBEHALT: Ob und in welcher Hoehe diese Ansprueche bestehen, ist eine
+Rechtsfrage. Sie ist hier nicht entschieden und muss anwaltlich geprueft
+werden. Siehe Abschnitt 9.
+
+
+-------------------------------------------------------------------------------
+6. ROLLENSITUATION RA BINDER
+-------------------------------------------------------------------------------
+
+Als Beobachtung festgehalten, nicht als Vorwurf:
+
+- Binder ist vom Gericht als Verfahrenspfleger zur Wahrung der Interessen
+  der Betreuten eingesetzt (04:34-35).
+- Zugleich hat Anne ihn "auf Hilles Kosten" als Anwalt beauftragt, um
+  weitere Moeglichkeiten zu pruefen (06:7, 06:24).
+- Das geprueftes Ziel - Sicherung der Abfindung ueber Hilles Tod hinaus -
+  nuetzt wirtschaftlich Hilles Erben Anne und Jan. Hille selbst ist nach
+  Aktenlage versorgt: eigenes Vermoegen ca. 400.000 EUR, Einnahmen
+  uebersteigen die Ausgaben um ca. 1.000 EUR monatlich (04:50-52, 00:12-13).
+  Binder haelt eine eigene finanzielle Beguenstigung der Betreuten
+  ausdruecklich fuer nicht im Vordergrund stehend (04:56-58).
+- Binder raet, das Genehmigungsverfahren aufrechtzuerhalten, weil es die
+  Ausschlagungsfrist hemmt (06:45) - obwohl das angestrebte Ergebnis eine
+  Genehmigung gerade nicht mehr benoetigt (06:42).
+- Sein Mandat ist ausdruecklich auf die erbrechtliche Pruefung beschraenkt;
+  steuerliche Auswirkungen sind nicht erfasst (06:27).
+
+
+-------------------------------------------------------------------------------
+7. MAENGEL UND WIDERSPRUECHE IN DEN DOKUMENTEN
+-------------------------------------------------------------------------------
+
+a) 06:24 "angefallene Erbschaft nach Herrn X" - unausgefuellter Textbaustein
+   in der Mail von RA Binder.
+
+b) Ratenfristen widerspruechlich: Vertrag nennt 8, 12 und 16 WOCHEN
+   (03:60-66), Binder referiert 8, 12 und 16 MONATE (04:32).
+
+c) Testamentsdatum: Testament selbst 20.11.2013 (01:3), Abfindungsvertrag
+   § 1 nennt 22.11.2013 (03:22), Binder wieder 20.11.2013 (04:22).
+
+d) 04:21 "aus einer spaeteren Ehe zwei Soehne" - richtig: aus erster Ehe
+   (01:24).
+
+e) 04:63 "sowohl ueber die befreite Vorerbschaft" - richtig: NICHT befreite
+   Vorerbschaft (01:78, 03:27).
+
+f) 03:1 Urkundennummer des Abfindungsvertrages nicht ausgefuellt. Die
+   Ausschlagungserklaerung ist UVZ 252/2026 (03:39), der Abfindungsvertrag
+   wird spaeter als UVZ 253/2026 gefuehrt (05:25, 05:73, 06:4).
+
+g) Steuerliche Folgen wurden von NIEMANDEM geprueft: Notarin schliesst dies
+   aus (03:94-96, 05:76-78), Binder ebenso (06:27), Lockmann verweist auf
+   einen Steuerberater (02:171-172). Die Steuerersparnis ist aber der
+   Hauptzweck des gesamten Geschaefts (04:36).
+
+h) comdirect-Konto: Der Finanzreport laeuft auf "Herrn Klas Krueger",
+   Kundennummer 118 7285638, als Einzelkonto
+   (finanzreport.202506_full.txt:12-20). Das steht Annes Behauptung
+   entgegen, es handle sich eigentlich um ein Gemeinschaftskonto (00:22).
+   Vorpruefungen liegen vor in comdirect_kto\bewertung_comdirect_kto\
+   pruefung_gemeinschaftskonto1.txt und ...2.txt.
+
+i) 05:34 Die Ergaenzung hat zwei Paragraphen mit der Nummer "§1"
+   (Vorbemerkung und Nachlassverzeichnis).
+
+
+-------------------------------------------------------------------------------
+8. HANDLUNGSOPTIONEN
+-------------------------------------------------------------------------------
+
+Vorbemerkung zum Zeitdruck: Er liegt nicht bei Bernd. Laeuft Hilles
+Ausschlagungsfrist nach Ende der Hemmung ab, entfaellt auch das ueber
+§ 1952 BGB vererbliche Ausschlagungsrecht (06:45). Das ist ein Risiko fuer
+Anne, nicht fuer Bernd. Binder ist ab 10.10. zwei Wochen abwesend (00:40).
+Der Anwaltstermin am 14.10. liegt in diesem Fenster. Es besteht daher kein
+Anlass, vor dem 14.10. etwas zu versenden oder zu erklaeren.
+
+
+8a. SOLL BERND DAS NACHLASSVERZEICHNIS AN BINDER SENDEN UND UM GENEHMIGUNG
+    DES URSPRUENGLICHEN VERTRAGES 03 BITTEN?
+
+Die Frage besteht aus zwei Teilen, die getrennt zu beantworten sind.
+
+TEIL 1 - Verzeichnis uebersenden: unproblematisch.
+  Binder hat es selbst verlangt (04:86-89). Bernd hat an der Erstellung
+  mitgewirkt und die Angaben bestaetigt (antwort_an_binder.bernd.txt:29-32).
+  Es geht ueber Anne ohnehin an das Gericht. Ein Zurueckhalten waere
+  wirkungslos und wuerde obstruktiv wirken.
+
+TEIL 2 - Um Genehmigung von Vertrag 03 bitten: nicht ohne Weiteres.
+
+  Das Argument traegt sachlich. § 3 der Ergaenzung kann nach den belegten
+  Zahlen nie greifen (Abschnitt 3), Binders Begruendung vom 28.09. entfaellt
+  damit. Nur: dasselbe Zahlenwerk belegt auch, dass die Abfindung Hille um
+  den Faktor 20 bis 40 ueberkompensiert. Das ist ein starkes Argument FUER
+  die Genehmigung - und Bernd wuerde es selbst liefern.
+
+  Entscheidend ist aber: Eine Genehmigung ist fuer Bernd wirtschaftlich
+  nicht eindeutig vorteilhaft.
+
+    Variante                               Zahlung      Steuer     Summe
+    ----------------------------------------------------------------------
+    Keine Genehmigung, Hille stirbt vorher        0    ~187.000   187.000
+    Genehmigung, Vertrag 03                 190.000    ~ 87.000   277.000
+    ----------------------------------------------------------------------
+    (Steuerzahlen aus erbschaft_20260222.txt:14-15, ungeprueft)
+
+  Nach dieser Rechnung ist die Nichtgenehmigung um ca. 90.000 EUR
+  guenstiger. Hinzu kommt: Ohne Ausschlagung entsteht gar kein
+  Pflichtteilsanspruch - das Risiko von 181.000 bis 362.500 EUR
+  (Abschnitt 5) entfaellt vollstaendig.
+
+  GEGENLAEUFIG, der Fairness halber:
+    - Die 190.000 EUR kaufen auch den comdirect-Streit ab. Das Verzeichnis
+      bewertet dieses Depot mit 111.168,24 EUR.
+    - Ob die Abfindung als Nachlassverbindlichkeit abzugsfaehig ist
+      (§ 10 Abs. 5 Nr. 3 ErbStG), ist ungeprueft. Bejahendenfalls
+      verschiebt sich die Rechnung erheblich.
+    - Die Steuerzahlen stammen aus einer Eigenrechnung und sind nicht
+      verifiziert.
+  Es ist also knapp, nicht klar negativ.
+
+  KERNPUNKT: Vertrag 03 enthaelt keine Abgeltungsklausel und keinen
+  Pflichtteilsverzicht (00:31). Wer um die Genehmigung genau dieser Fassung
+  bittet, bittet um 190.000 EUR Zahlung bei rechtlich offenem Pflichtteil.
+
+  Hinzu kommt die Adressatenfrage: Binder ist als Verfahrenspfleger
+  Interessenvertreter Hilles (04:34-35). Er kann fuer Bernd nicht eintreten.
+  Sein Hinweis in 06:45, das Verfahren allein zur Fristhemmung
+  fortzufuehren, zeigt die Richtung seiner Arbeit.
+
+  EMPFEHLUNG: Verzeichnis und Ertragszahlen sachlich uebersenden, mit der
+  Feststellung, dass die Grundlage von 27.150 EUR die Depotgebuehren nicht
+  beruecksichtigt, und der Folgerung, dass die Ergaenzung gegenstandslos
+  ist. NICHT um Genehmigung von 03 bitten, sondern die Abgeltungsfrage
+  gleichzeitig stellen (antwort_an_binder.bernd.txt:67-82). Versand erst
+  nach dem Anwaltstermin am 14.10.
+
+  UMSETZUNG: Am 08.10.2026 ist zunaechst nur eine kurze
+  Empfangsbestaetigung an Binder gegangen, cc Anne und Fabian
+  (mail_bernd_an_binder.20261008.txt). Sie bestaetigt das Vorliegen des
+  Verzeichnisses und kuendigt eine Aeusserung nach anwaltlicher Beratung
+  an. Zahlen, Gebuehrenfehler, Pflichtteil und § 1952-Vorschlag sind
+  bewusst ausgespart. Das inhaltliche Hauptschreiben folgt nach dem 14.10.
+
+Option A - Abwarten, nicht unterschreiben
+  Voraussetzung: keine.
+  Folge: Szenario 2 bleibt moeglich. Stirbt Hille vor der Genehmigung,
+  faellt die Bedingung aus und es ist keine Abfindung zu zahlen (03:55).
+  Risiko: Wird die Genehmigung doch erteilt, gilt Vertrag 03 unveraendert -
+  190.000 EUR ohne Abgeltungsklausel, Pflichtteilsrisiko bleibt offen.
+  Hinweis: Dieses Risiko besteht bereits heute, unabhaengig von 05 und 06.
+
+Option B - § 1952-Weg ablehnen, Ergaenzung 05 ablehnen
+  Entspricht der bisherigen Linie (00:35).
+  Folge: Binder kann die Genehmigung nicht empfehlen (04:83-85). Ausgang
+  des Genehmigungsverfahrens offen; Lockmann hielt eine Ablehnung von
+  Anfang an fuer moeglich (02:81-84).
+
+Option C - Zustimmung nur gegen Gegenleistung
+  Bedingungen, die Bernd in seinen Entwuerfen bereits formuliert hat:
+    - abschliessende Abgeltungsklausel fuer saemtliche Ansprueche aus dem
+      Erbfall, gleich aus welchem Rechtsgrund
+      (anwort.bernd.binder.txt:76-86)
+    - ausdrueckliche Regelung zu Pflichtteil und Zugewinnausgleich
+      (antwort_an_binder.bernd.txt:95-96)
+    - Nachschusspflicht der Hoehe nach gedeckelt und auf Hilles Lebenszeit
+      befristet (antwort_an_binder.bernd.txt:91-93)
+  Offene Frage: Ob die Betreuerin fuer Hille wirksam auf einen Pflichtteil
+  verzichten kann und ob das ein weiteres Genehmigungsverfahren ausloest.
+  Siehe Abschnitt 9 Nr. 2.
+
+Hinweis zu den beiden vorhandenen Entwuerfen: Beide sind vor dem 08.10.
+entstanden und kennen den § 1952-Vorschlag noch nicht. Variante A benennt
+Pflichtteil und Zugewinnausgleich ausdruecklich, Variante B nur eine
+allgemeine Abgeltungsklausel. Beide enthalten noch Platzhalter fuer Datum
+und E-Mail-Adresse. Beide nennen ausserdem veraltete Ertragszahlen
+(4.000 EUR fuer 2025, antwort_an_binder.bernd.txt:37) - das Verzeichnis
+weist 3.484,02 EUR aus. Vor einem Versand waere zu entscheiden, ob der
+Pflichtteil offen angesprochen wird - nach Aktenlage ist er der Gegenseite
+bislang nicht bewusst (00:33). Diese Entscheidung gehoert in den
+Anwaltstermin am 14.10.
+
+ZUR ENTSCHEIDUNG AM 14.10. - Zusammenfassung der Weggabelung:
+  Die eigentliche Frage ist nicht, ob die Ergaenzung unterschrieben wird.
+  Sie ist, ob Bernd die Ausschlagung ueberhaupt noch will.
+    - Will er sie: dann nur mit Abgeltungsklausel und Pflichtteilsverzicht,
+      und die Steuerabzugsfaehigkeit der Abfindung muss geklaert sein.
+    - Will er sie nicht: dann ist Abwarten die wirksamste Option, weil das
+      Verfahren mit Hilles Tod endet (04:103-105) und die Bedingung dann
+      endgueltig ausfaellt (03:55-56).
+  Beide Wege setzen voraus, dass die Steuerzahlen verifiziert sind.
+
+
+
+-------------------------------------------------------------------------------
+9. FRAGENKATALOG FUER ANWALT UND STEUERBERATER
+-------------------------------------------------------------------------------
+
+1. PFLICHTTEIL UND ZUGEWINN
+   Entsteht durch die Ausschlagung der mit Nacherbfolge beschraenkten
+   Erbschaft ein Pflichtteilsanspruch nach § 2306 Abs. 1 BGB? Kleiner oder
+   grosser Pflichtteil? Kommt daneben konkreter Zugewinnausgleich nach
+   § 1371 Abs. 2, 3 BGB in Betracht - kein Ehevertrag (00:10)? Ist der
+   Anspruch an Anne und Jan vererblich? Verjaehrung? Wirkt sich die
+   Ausschlagung durch Erbeserben nach § 1952 BGB anders aus als die
+   Ausschlagung durch die Betreuerin?
+
+2. ABGELTUNGSKLAUSEL
+   Wie muss eine Klausel gefasst sein, damit mit Zahlung der Abfindung
+   saemtliche Ansprueche aus dem Erbfall endgueltig erledigt sind? Kann die
+   Betreuerin fuer Hille wirksam auf einen Pflichtteil verzichten, und
+   loest das ein eigenes betreuungsgerichtliches Genehmigungsverfahren aus?
+   Welche Form ist erforderlich?
+
+3. § 1952 BGB
+   Traegt die von Binder vorgeschlagene Konstruktion (06:30-42)? Binders
+   Klausel verlangt eine "vollstaendig wirksam" erklaerte Ausschlagung
+   (06:39) - was gilt, wenn nach § 1952 Abs. 3 BGB nur einer der beiden
+   Erbeserben ausschlaegt? Wie berechnet sich die Frist konkret? Wie hoch
+   ist das Risiko, dass Hilles Ausschlagungsfrist nach Ende der Hemmung
+   ablaeuft und damit kein vererbliches Recht mehr besteht?
+
+4. STEUER
+   Ist die Abfindung bei Bernd und Fabian als Nachlassverbindlichkeit
+   abzugsfaehig (§ 10 Abs. 5 Nr. 3 ErbStG)? Wie wird sie beim Empfaenger
+   behandelt (§ 3 Abs. 2 Nr. 4 ErbStG)? Wie wirkt § 6 ErbStG zur Vor- und
+   Nacherbschaft? Veraendert der § 1952-Weg die steuerliche Beurteilung
+   gegenueber der Ausschlagung durch die Betreuerin? Bitte Verprobung der
+   Zahlen 187.000 EUR gegen 87.000 EUR (erbschaft_20260222.txt:14-15) und
+   der von Binder genannten 171.000 EUR (04:37).
+
+5. ERGAENZUNG 05
+   Was bedeutet "Vermoegensstamm erhalten" (05:44) bei einem aktiv
+   gemanagten Depot mit laufenden Umschichtungen - sind Verkaeufe und
+   Kursverluste erfasst? Ist die zeitlich und der Hoehe nach unbegrenzte
+   Nachschusspflicht (05:53-59) wirksam? Sind die Fisher-
+   Depotfuehrungsgebuehren, die der Niessbraucher zu tragen hat
+   (Quartalsabrechnung.erklaerung.txt:4), bei der Berechnung der
+   "Zufluesse" abzuziehen? Nach welcher Methode werden Zufluesse
+   festgestellt?
+
+6. ROLLENKONFLIKT
+   Ist die Doppelrolle Binders - gerichtlich bestellter Verfahrenspfleger
+   und gleichzeitig Anwalt der Betreuerin, bezahlt aus dem Vermoegen der
+   Betreuten (06:7) - zulaessig? Bestehen Offenlegungspflichten gegenueber
+   dem Betreuungsgericht? Ist die Kostentragung aus Hilles Vermoegen fuer
+   ein Mandat, das wirtschaftlich ihren Erben nuetzt, unbedenklich?
+
+7. COMDIRECT-KONTO
+   Der Finanzreport weist ein Einzelkonto auf Klas Krueger aus
+   (finanzreport.202506_full.txt:12-20). Welche Bedeutung hat das fuer
+   Annes Behauptung eines Gemeinschaftskontos (00:22) und fuer § 6 Abs. 1
+   des Testaments (01:95)? Faellt der Betrag von 111.000 EUR vollstaendig
+   an Bernd und Fabian?
+
+8. EIGENE VERTRETUNG
+   Sollte Bernd eigene anwaltliche Vertretung einschalten, bevor er auf die
+   Mail vom 08.10.2026 antwortet? Bislang stammt jede rechtliche
+   Einschaetzung im Verfahren von Beratern, die Anne mandatiert hat
+   (Lockmann 02, Binder 04 und 06).
+
+   Beizulegende Unterlagen: 00 bis 06, ertraege_24_25.txt,
+   Quartalsabrechnung.erklaerung.txt, Nachlassverzeichnis,
+   Fisher-Dividendenuebersichten 2025/2026.
+
+
+-------------------------------------------------------------------------------
+10. HINWEIS
+-------------------------------------------------------------------------------
+
+Dieses Dokument ist eine Auswertung der vorliegenden Dateien, keine
+Rechtsberatung. Die Abschnitte 5, 8a und 9 enthalten Rechts- und
+Steuerfragen, die fachlich geprueft werden muessen.
+
+Belastbarkeit der Zahlen:
+  - Nachlassbestand und Ertraege 2025/2026: belegt durch
+    Nachlass_klas_krueger.xlsx. Einschraenkungen in Abschnitt 3 unter
+    "Angreifbarkeit".
+  - Steuerzahlen (187.000 / 87.000 / 171.000 EUR): NICHT verifiziert,
+    stammen aus einer Eigenrechnung bzw. aus Binders Schreiben. Sie tragen
+    die Szenarientabellen in Abschnitt 4 und 8a und sollten im
+    Anwaltstermin bzw. steuerlich geprueft werden.
+  - Pflichtteilsbetraege: Groessenordnungen, keine Berechnung.
+
+Erstellt: 08.10.2026
+Fortgeschrieben: 08.10.2026 nach Vorliegen des Nachlassverzeichnisses
+                 und Terminvereinbarung Anwalt 14.10.2026
+===============================================================================
