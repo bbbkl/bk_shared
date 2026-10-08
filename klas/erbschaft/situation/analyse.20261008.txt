@@ -346,6 +346,25 @@ h) comdirect-Konto: Der Finanzreport laeuft auf "Herrn Klas Krueger",
 i) 05:34 Die Ergaenzung hat zwei Paragraphen mit der Nummer "§1"
    (Vorbemerkung und Nachlassverzeichnis).
 
+j) VERNEINTE VORBEFASSUNG - belegbare Diskrepanz, nachgetragen 09.10.2026
+   Der Abfindungsvertrag protokolliert: "Auf Befragen verneinten die
+   Erschienenen eine Vorbefassung der Notarin nach § 3 Abs. 1 Satz 1
+   Nr. 7 BeurkG" (03:16-17); der Ergaenzungsentwurf wortgleich (05:18-19).
+   Tatsaechlich war Dr. Lockmann einen Monat zuvor in derselben
+   Angelegenheit anwaltlich fuer Anne Weniger taetig - Schreiben vom
+   13.02.2026, Az. 021/26-Lo-B, Betreff "Erbfall Klas Krueger",
+   gezeichnet als Rechtsanwaeltin (02:15-16, 02:33, 02:181-182).
+   Reichweite und Folgen sind anwaltlich zu beurteilen.
+   Ausfuehrlich: vertragsgrundlage_irrtum.txt Abschnitt 5
+
+k) PFLICHTTEIL FEHLT IM BERATUNGSSCHREIBEN
+   Das ausfuehrliche Schreiben der Notarin vom 13.02.2026 behandelt
+   Vorerbschaft, Niessbrauch, Steuer, Fristen, Pflegekosten, Wohnung und
+   Nachlassgericht (02) - der Pflichtteilsanspruch kommt darin nicht vor.
+   Einen Monat spaeter beurkundet dieselbe Notarin den Abfindungsvertrag
+   ohne Abgeltungsklausel. Moegliche Notarhaftung nach § 19 BNotO,
+   § 17 BeurkG. Ausfuehrlich: vertragsgrundlage_irrtum.txt Abschnitt 4
+
 
 -------------------------------------------------------------------------------
 8. HANDLUNGSOPTIONEN

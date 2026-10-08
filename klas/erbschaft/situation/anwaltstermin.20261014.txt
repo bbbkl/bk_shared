@@ -323,6 +323,27 @@ PRIORITAET 1 - ohne diese Antworten keine Entscheidung moeglich
     jetzt herstellen? Entsteht der Pflichtteil auch bei dieser
     Ausschlagungsvariante, und wem steht er dann zu?
 
+ 7a. VERTRAGSGRUNDLAGE - der Vertrag wurde auf BEIDEN Seiten ohne Kenntnis
+    des Pflichtteilsanspruchs geschlossen. Traegt die Annahme einer
+    planwidrigen Regelungsluecke mit ergaenzender Auslegung dahin, dass
+    die Abfindung die Gegenleistung abschliessend regelt?
+    Kann sich Bernd auf § 313 BGB berufen, weil die Ertragsannahme um den
+    Faktor 8 falsch war - und was droht, wenn sich AUCH Anne darauf
+    beruft? Ist der Vertrag teilweise ein Vergleich (§ 779 BGB), weil er
+    den comdirect-Streit beilegen sollte?
+    Ausfuehrlich: vertragsgrundlage_irrtum.txt
+
+ 7b. NOTARIN - zwei Punkte, die dem Anwalt vollstaendig vorzulegen sind:
+    Erstens: Das Beratungsschreiben vom 13.02.2026 (02) behandelt alles
+    Wesentliche, nennt den Pflichtteil aber nicht; einen Monat spaeter
+    beurkundet dieselbe Notarin den Vertrag ohne Abgeltungsklausel.
+    Ansprueche nach § 19 BNotO, § 17 BeurkG - auch fuer Bernd und Fabian?
+    Zweitens: Die Urkunden protokollieren, eine Vorbefassung nach
+    § 3 Abs. 1 Satz 1 Nr. 7 BeurkG sei verneint worden (03:16-17,
+    05:18-19), obwohl Dr. Lockmann zuvor anwaltlich fuer Anne taetig war
+    (02:15-16, 02:181-182). Folgen? Verwendbar?
+    Soll Dr. Lockmann weiterhin beurkunden?
+
 PRIORITAET 2 - zur Bewertung der beiden Vorschlaege
 
  8. Binders § 1952-Klausel verlangt eine
@@ -444,6 +465,7 @@ Mitnehmen:
   verfahrensdauer.txt                       Dauer: 4-7 Monate erwartet
   pflichtteilsrisiko.txt                    Risiko, Anspruchsinhaber
   versagung_mitwirkung.txt                  Hebel gegen die Genehmigung
+  vertragsgrundlage_irrtum.txt              Irrtum, Notarhaftung
   hautschreiben.vorbereitet.20261014.txt    Entwurf Hauptschreiben
   mail_bernd_an_binder.20261008.txt         bereits versandt
   diese Datei

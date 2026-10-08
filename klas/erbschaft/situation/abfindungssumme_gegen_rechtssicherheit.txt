@@ -279,5 +279,8 @@ Siehe auch: pflichtteilsrisiko.txt - Muss/Kann, Anspruchsinhaber und
 Siehe auch: versagung_mitwirkung.txt - Hebel gegen die Genehmigung und
             der Zielkonflikt zwischen Abwehr der Erweiterung und
             Versagung der Genehmigung
+Siehe auch: vertragsgrundlage_irrtum.txt - der Vertrag wurde ohne
+            Kenntnis des Pflichtteilsanspruchs geschlossen; Folgen,
+            Notarhaftung, verneinte Vorbefassung
 Erstellt: 08.10.2026
 ===============================================================================

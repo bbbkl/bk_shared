@@ -1,0 +1,307 @@
+===============================================================================
+VERTRAGSGRUNDLAGE UND IRRTUM
+Der Abfindungsvertrag wurde ohne Kenntnis des Pflichtteilsanspruchs
+geschlossen - rechtliche Folgen
+Stand 09.10.2026
+===============================================================================
+
+AUSGANGSPUNKT
+Der Vertrag vom 13.03.2026 (Ausschlagung gegen Abfindung von 190.000 EUR)
+wurde geschlossen, ohne dass eine der Seiten die Moeglichkeit eines
+Pflichtteilsanspruchs nach § 2306 BGB bedacht hat. Bernd ist der Punkt erst
+im Zuge der Bewertung der verlangten Ergaenzung aufgefallen (00:31-33);
+Anne Weniger und RA Binder haben ihn in keinem Schriftstueck erwaehnt.
+
+ERGEBNIS IN EINEM SATZ
+Das beiderseitige Nichtwissen verschiebt die Lage zu Bernds Gunsten: Es
+begruendet eine planwidrige Regelungsluecke, eroeffnet § 313 BGB in beide
+Richtungen, beruehrt wegen des Vergleichselements § 779 BGB und wirft die
+Frage der Notarhaftung auf.
+
+KEINE RECHTSBERATUNG. Alle Paragraphenangaben sind anwaltlich zu pruefen.
+
+
+-------------------------------------------------------------------------------
+1. PLANWIDRIGE REGELUNGSLUECKE UND ERGAENZENDE AUSLEGUNG
+-------------------------------------------------------------------------------
+
+Dies staerkt Bernds Verteidigungsposition deutlich. In
+pflichtteilsrisiko.txt war sie bislang nur als schwache Reserve notiert
+(§ 242 BGB, § 157 BGB).
+
+ARGUMENT
+Gingen beide Seiten uebereinstimmend davon aus, mit der Zahlung von
+190.000 EUR sei die Angelegenheit erledigt, so liegt keine bewusste
+Offenlassung vor, sondern eine PLANWIDRIGE REGELUNGSLUECKE. Diese wird
+durch ergaenzende Vertragsauslegung gefuellt: Was haetten die Parteien
+vereinbart, wenn sie den Anspruch gekannt haetten?
+
+ANHALTSPUNKTE AUS DEN URKUNDEN
+  - Die Abfindung ist ausdruecklich als Ersatz fuer das durch die
+    Ausschlagung Entgehende konzipiert (04:38-42, 05:35-37).
+  - Der Vertrag regelt die Gegenleistung fuer die Ausschlagung
+    abschliessend und nennt keine weiteren Ansprueche (03 § 3).
+  - Anne hat die Abfindungshoehe selbst verhandelt und begruendet
+    (04:38-42).
+
+Daraus liegt die Antwort nahe, dass die Abfindung als abschliessende
+Gegenleistung gedacht war.
+
+GEGENARGUMENT, DAS MAN KENNEN MUSS
+Der Pflichtteil ist ein gesetzlicher Mindestanspruch anderer Natur als eine
+frei verhandelte Abfindung. Er kann nicht ohne Weiteres als mitgeregelt
+gelten, nur weil die Parteien ihn nicht bedacht haben. Die Lueckenfuellung
+ist daher nicht sicher - sie ist eine Verteidigungslinie, kein Freibrief.
+
+
+-------------------------------------------------------------------------------
+2. § 313 BGB - DIE GESCHAEFTSGRUNDLAGE IST IN ZWEI PUNKTEN GESTOERT
+-------------------------------------------------------------------------------
+
+  Fehlannahme                                   Wirkt fuer   Belegt?
+  ------------------------------------------------------------------------
+  Jahresertrag 27.150 EUR statt 3.484,02 EUR    BERND        ja, durch
+  (Faktor 8)                                                 Nachlass-
+                                                             verzeichnis
+  ------------------------------------------------------------------------
+  Pflichtteilsanspruch nicht bedacht            Anne         nein, nur
+                                                             aus dem
+                                                             Fehlen in
+                                                             allen
+                                                             Schrift-
+                                                             stuecken
+  ------------------------------------------------------------------------
+
+WICHTIG: Der erste Punkt ist quantifiziert und dokumentiert, der zweite
+beruht auf einem Schluss aus dem Schweigen der Akten. Bernds Position ist
+insoweit die staerkere.
+
+Folge: Beide Seiten koennten sich auf eine Stoerung der
+Geschaeftsgrundlage berufen. Das spricht dafuer, den Vertrag einvernehmlich
+neu zu fassen, statt auf seiner bisherigen Fassung zu bestehen.
+
+
+-------------------------------------------------------------------------------
+3. § 779 BGB - DAS VERGLEICHSELEMENT
+-------------------------------------------------------------------------------
+
+Der Vertrag ist nicht nur Abfindungsvereinbarung, sondern enthaelt ein
+VERGLEICHSELEMENT: Mit der Summe sollte auch der Streit um das
+comdirect-Konto beigelegt werden, bei dem Anne behauptet, es sei
+eigentlich ein Gemeinschaftskonto (00:22).
+
+Das Nachlassverzeichnis bewertet dieses Depot mit 111.168,24 EUR - also
+mehr als die Haelfte der Abfindungssumme.
+
+Auf Vergleiche ist § 779 BGB anwendbar: Erweist sich der als feststehend
+zugrunde gelegte Sachverhalt als unrichtig, kann der Vergleich unwirksam
+sein.
+
+Hier kommen zwei unrichtige Grundlagen in Betracht:
+  a) die Ertragsannahme von 27.150 EUR
+  b) die Annahme, mit 190.000 EUR sei alles erledigt
+
+ZU PRUEFEN: Greift § 779 BGB, und waere das fuer Bernd guenstig oder
+nachteilig? Eine Unwirksamkeit des Vergleichs liesse auch den
+comdirect-Streit wieder offen.
+
+ERGAENZEND: Der Finanzreport weist das comdirect-Konto als Einzelkonto auf
+Klas Krueger aus, Kundennummer 118 7285638
+(nachlass\comdirect_kto\finanzreport.202506_full.txt:12-20). Das spricht
+gegen Annes Behauptung. Vorpruefungen liegen vor in
+comdirect_kto\bewertung_comdirect_kto\pruefung_gemeinschaftskonto1.txt
+und ...2.txt.
+
+
+-------------------------------------------------------------------------------
+4. NOTARHAFTUNG - § 17 BEURKG, § 19 BNOTO
+-------------------------------------------------------------------------------
+
+DER BEFUND
+Dr. Judith Lockmann hat Anne Weniger am 13.02.2026 umfassend ueber die
+Folgen einer Ausschlagung beraten (02). Das Schreiben behandelt:
+  - nicht befreite Vorerbschaft und Verfuegungsbeschraenkungen (02:46-52)
+  - Niessbrauchsvermaechtnis (02:54-59)
+  - Erbschaftsteuer und Freibetrag von 500.000 EUR (02:67-71)
+  - Genehmigungsbeduerftigkeit und Ausschlagungsfrist (02:75-95)
+  - Verfall der Vermaechtnisse bei Ausschlagung (02:100-112)
+  - Wohnung, Pflegekosten, Bewertungsstichtag, Nachlassgericht
+    (02:116-141)
+
+DER PFLICHTTEILSANSPRUCH KOMMT IN DEM GESAMTEN SCHREIBEN NICHT VOR.
+
+Einen Monat spaeter, am 13.03.2026, beurkundet dieselbe Notarin den
+Abfindungsvertrag - ohne Abgeltungsklausel (03).
+
+BEWERTUNG
+Bei einem Vertrag ueber Ausschlagung gegen Abfindung ist die Frage, ob
+damit alle Ansprueche erledigt sind, naheliegend. § 17 BeurkG verpflichtet
+zur Belehrung ueber die rechtliche Tragweite des Geschaefts. Moegliche
+Ansprueche nach § 19 BNotO kaemen in Betracht - und zwar AUCH FUER BERND
+UND FABIAN, denn als beurkundende Notarin traf sie Pflichten gegenueber
+allen Beteiligten, nicht nur gegenueber ihrer vormaligen Mandantin.
+
+ZU BEACHTEN: Dr. Lockmann soll auch die Ergaenzung beurkunden (05) und ist
+in den § 1952-Vorschlag eingebunden (06:18, 06:57). Eine Geltendmachung
+von Haftungsanspruechen wuerde die Zusammenarbeit beenden. Das ist eine
+Abwaegung, nicht eine Selbstverstaendlichkeit.
+
+
+-------------------------------------------------------------------------------
+5. DIE VERNEINTE VORBEFASSUNG - BELEGBARE DISKREPANZ
+-------------------------------------------------------------------------------
+
+DER WORTLAUT DER URKUNDEN
+
+  Abfindungsvertrag vom 13.03.2026 (03:16-17):
+  "Auf Befragen verneinten die Erschienenen eine Vorbefassung der Notarin
+   nach § 3 Abs. 1 Satz 1 Nr. 7 BeurkG."
+
+  Ergaenzungsentwurf (05:18-19): wortgleich.
+
+DER TATSAECHLICHE BEFUND
+Dr. Lockmann war in derselben Angelegenheit einen Monat zuvor ANWALTLICH
+taetig:
+  - Schreiben vom 13.02.2026 an Dr. Anne Weniger (02:15)
+  - Aktenzeichen 021/26-Lo-B (02:16)
+  - Betreff "Erbfall Klas Krueger" (02:33)
+  - Inhalt: Pruefung der eingereichten Unterlagen, Beratung zu Annahme
+    und Ausschlagung (02:37-38)
+  - gezeichnet "Dr. Lockmann, Rechtsanwaeltin" (02:181-182)
+
+Die Kanzlei fuehrt sie als "Rechtsanwaeltin und Notarin" (02:13-14).
+
+EINORDNUNG
+Das ist eine aus den Urkunden selbst belegbare Diskrepanz. Reichweite und
+Folgen von § 3 Abs. 1 Satz 1 Nr. 7 BeurkG sind anwaltlich zu beurteilen:
+  - Ein Mitwirkungsverbot macht die Urkunde nicht automatisch unwirksam.
+  - Bei Einverstaendnis aller Beteiligten kann die Beurteilung anders
+    ausfallen.
+  - Es ist denkbar, dass die Beteiligten die Frage anders verstanden haben.
+
+RELEVANTE FRAGE FUER BERND
+Wusste er am 13.03.2026, dass die Notarin zuvor die Gegenseite anwaltlich
+beraten hatte? Falls nein, hat er eine Erklaerung abgegeben, deren
+Richtigkeit er nicht beurteilen konnte - und das Beratungsschreiben 02 ist
+ihm moeglicherweise erst spaeter zugaenglich geworden.
+
+TAKTISCHE EINORDNUNG
+Dieser Punkt ist unangenehm fuer Dr. Lockmann, die weiterhin beurkunden
+soll. Er sollte dem eigenen Anwalt vollstaendig vorgelegt, aber nicht
+voreilig nach aussen verwendet werden. Er ist vor allem dann relevant,
+wenn die Wirksamkeit des Vertrages insgesamt in Frage steht.
+
+
+-------------------------------------------------------------------------------
+6. ZWEI STELLEN IM TESTAMENT, DIE MAN KENNEN MUSS
+-------------------------------------------------------------------------------
+
+a) 01:128 - Belehrung erfolgte 2013
+   "Ferner hat uns der Notar ueber das gesetzliche Erbrecht, insbesondere
+    das gesetzliche Ehegattenerbrecht und das Pflichtanteilsrecht,
+    belehrt."
+   Das Thema war den Erblassern bei Testamentserrichtung also bekannt.
+
+b) 01:125 - KEIN PFLICHTTEILSVERZICHT
+   "Auf das Anfechtungsrecht wegen Uebergehen eines
+    Pflichtteilsberechtigten verzichten wir."
+   Dies betrifft das ANFECHTUNGSRECHT (§ 2079 BGB), nicht den
+   Pflichtteilsanspruch selbst. Die Stelle laesst sich leicht falsch
+   lesen - in beide Richtungen. Sie taugt weder als Argument fuer einen
+   bestehenden Verzicht noch gegen einen solchen.
+
+ZU PRUEFEN: Hat die Wechselbezueglichkeit der Verfuegungen (01:123) oder
+die Bindungswirkung des gemeinschaftlichen Testaments Auswirkungen auf den
+Pflichtteil nach Ausschlagung?
+
+
+-------------------------------------------------------------------------------
+7. STRATEGISCHE FOLGE - DIE OFFENLEGUNG WIRD LEICHTER
+-------------------------------------------------------------------------------
+
+Dies ist die praktisch wichtigste Konsequenz.
+
+Bernd muss den Pflichtteil nicht als Drohung einbringen. Er kann ihn als
+GEMEINSAMES VERSAEUMNIS benennen:
+  - Niemand hat daran gedacht.
+  - Die Notarin hat nicht darauf hingewiesen, obwohl sie beide Seiten
+    kannte.
+  - Der Vertrag ist insoweit lueckenhaft.
+
+Das ist ein sachlicher, gesichtswahrender Zugang. Er schafft die Grundlage
+fuer die Abgeltungsklausel, die Bernd braucht - ohne Anne in die Defensive
+zu draengen.
+
+Gleichzeitig hat Bernd eine Rueckfallposition, falls der Anspruch doch
+erhoben wird:
+  - ergaenzende Vertragsauslegung (Abschnitt 1)
+  - § 313 BGB (Abschnitt 2)
+  - § 779 BGB (Abschnitt 3)
+  - Notarhaftung (Abschnitt 4)
+
+Das senkt das in pflichtteilsrisiko.txt mit 30 bis 50 Prozent angesetzte
+Risiko nicht in der Eintrittswahrscheinlichkeit, wohl aber in der
+wirtschaftlichen Auswirkung.
+
+FORMULIERUNGSHINWEIS
+Baustein 5A in hautschreiben.vorbereitet.20261014.txt ist dafuer bereits
+richtig angelegt: Er stellt die Frage als Bitte um Einschaetzung, verbunden
+mit der Feststellung, dass Bernd ohne klare Regelung nicht unterschreiben
+kann. Er sollte um den Hinweis ergaenzt werden, dass der Punkt
+offensichtlich von keiner Seite bedacht wurde.
+
+GRUNDSATZ: NIE DAS PROBLEM OHNE DIE LOESUNG NENNEN.
+Im selben Schreiben muss der vollstaendige Vorschlag stehen -
+Abgeltungsklausel mit ausdruecklicher Erfassung von Pflichtteil und
+Zugewinnausgleich. Sonst steht der Anspruch allein im Raum und Anne kann
+ihn frei verwerten.
+
+
+-------------------------------------------------------------------------------
+8. FRAGEN FUER DEN ANWALTSTERMIN
+-------------------------------------------------------------------------------
+
+ 1. Traegt die Annahme einer planwidrigen Regelungsluecke mit ergaenzender
+    Auslegung dahin, dass die Abfindung die Gegenleistung abschliessend
+    regelt? Wie belastbar ist das gegenueber dem Einwand, der Pflichtteil
+    sei ein gesetzlicher Mindestanspruch anderer Natur?
+
+ 2. Kann sich Bernd auf § 313 BGB berufen, weil die Ertragsannahme um den
+    Faktor 8 falsch war? Welche Rechtsfolge - Anpassung oder Ruecktritt?
+    Und welches Risiko entsteht, wenn sich AUCH Anne darauf beruft?
+
+ 3. Ist der Vertrag ganz oder teilweise ein Vergleich im Sinne von
+    § 779 BGB, weil er den comdirect-Streit beilegen sollte? Waere eine
+    Unwirksamkeit fuer Bernd guenstig oder nachteilig?
+
+ 4. Bestehen Ansprueche gegen die Notarin nach § 19 BNotO, weil sie bei
+    einem Vertrag ueber Ausschlagung gegen Abfindung nicht auf die Frage
+    der Abgeltung und den Pflichtteil hingewiesen hat (§ 17 BeurkG)? Auch
+    zugunsten von Bernd und Fabian?
+
+ 5. Wie ist die verneinte Vorbefassung nach § 3 Abs. 1 Satz 1 Nr. 7
+    BeurkG (03:16-17) zu bewerten, obwohl Dr. Lockmann einen Monat zuvor
+    anwaltlich fuer Anne taetig war (02)? Welche Folgen hat ein etwaiges
+    Mitwirkungsverbot fuer die Wirksamkeit der Urkunde? Sollte der Punkt
+    verwendet werden?
+
+ 6. Hat die Wechselbezueglichkeit der testamentarischen Verfuegungen
+    (01:123) oder der Verzicht auf das Anfechtungsrecht (01:125)
+    Auswirkungen auf den Pflichtteil nach Ausschlagung?
+
+ 7. Soll Dr. Lockmann weiterhin beurkunden, oder ist angesichts der
+    Punkte 4 und 5 ein anderer Notar vorzuziehen?
+
+ 8. Wie ist die Offenlegung konkret zu formulieren, damit sie als
+    gemeinsames Versaeumnis und nicht als Drohung wirkt - und wie wird
+    sichergestellten, dass Problem und Loesungsvorschlag gemeinsam
+    vorgetragen werden?
+
+
+===============================================================================
+Grundlagen: analyse.20261008.txt, pflichtteilsrisiko.txt,
+            abfindungssumme_gegen_rechtssicherheit.txt,
+            versagung_mitwirkung.txt, verfahrensdauer.txt,
+            anwaltstermin.20261014.txt
+Erstellt: 09.10.2026
+===============================================================================

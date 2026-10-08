@@ -263,5 +263,8 @@ Grundlagen: analyse.20261008.txt, pflichtteilsrisiko.txt,
             verfahrensdauer.txt,
             abfindungssumme_gegen_rechtssicherheit.txt,
             anwaltstermin.20261014.txt
+Siehe auch: vertragsgrundlage_irrtum.txt - der Vertrag wurde ohne
+            Kenntnis des Pflichtteilsanspruchs geschlossen; Folgen,
+            Notarhaftung, verneinte Vorbefassung
 Erstellt: 08.10.2026
 ===============================================================================
