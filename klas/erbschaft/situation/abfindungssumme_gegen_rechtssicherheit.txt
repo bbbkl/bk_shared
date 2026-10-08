@@ -1,0 +1,283 @@
+===============================================================================
+ABFINDUNGSSUMME GEGEN RECHTSSICHERHEIT
+Wie wahrscheinlich ist ein rechtssicherer Pflichtteilsverzicht?
+Stand 08.10.2026
+===============================================================================
+
+AUSGANGSLAGE
+Bernd ist generell bereit, die Abfindungssumme von 190.000,00 EUR zu
+zahlen. Er moechte dafuer aber rechtssicher, dass nach wirksamer
+Ausschlagung kein Pflichtteilsanspruch mehr gegen ihn und seinen Bruder
+geltend gemacht werden kann.
+
+ERGEBNIS IN EINEM SATZ
+Dieses Ziel ist ueber das Betreuungsgericht wahrscheinlich NICHT zu
+erreichen - geschaetzt 20 bis 30 Prozent -, wohl aber auf einem anderen
+Weg: ueber eine Vereinbarung mit Anne und Jan nach dem Tod der Betreuten.
+
+KEINE RECHTSBERATUNG. Die Paragraphenangaben dienen der Vorbereitung des
+Anwaltstermins am 14.10.2026 und sind nicht geprueft.
+
+
+-------------------------------------------------------------------------------
+1. DIE KETTE HAT DREI GLIEDER - ALLE DREI MUESSEN HALTEN
+-------------------------------------------------------------------------------
+
+GLIED 1 - Ist der Verzicht juristisch ueberhaupt formulierbar?
+          Einschaetzung: hoch, ca. 95 %
+
+  Hier liegt die gute Nachricht. Klas Krueger ist am 05.02.2026 verstorben,
+  der Erbfall ist eingetreten. Es geht daher NICHT um einen
+  Pflichtteilsverzicht vor dem Erbfall - das waere ein Erbverzicht nach
+  § 2346 BGB mit strengen Anforderungen.
+
+  Es geht um einen bereits entstandenen Geldanspruch. Dieser ist frei
+  verfuegbar und uebertragbar (§ 2317 Abs. 2 BGB). Ein Erlassvertrag nach
+  § 397 BGB, notariell mitbeurkundet, ist technisch unproblematisch.
+
+  Die Formulierung ist also nicht das Problem.
+
+GLIED 2 - Stimmt Anne Weniger als Betreuerin zu?
+          Einschaetzung: unsicher, ca. 40 %
+
+  Dafuer spricht: Sie hat ein eigenes Interesse am Zustandekommen des
+  Geschaefts. Die Ausschlagung bewahrt auch Hilles eigenes Vermoegen von
+  ca. 400.000 EUR vor zusaetzlicher Erbschaftsteuerbelastung, und die
+  190.000 EUR kommen hinzu. Sie treibt die Sache seit Februar voran.
+
+  Dagegen spricht: Sobald der Pflichtteil benannt ist, rechnet sie neu. Sie
+  hat zwei Anwaelte an der Hand (Lockmann, Binder). Als Betreuerin ist sie
+  verpflichtet, die Vermoegensinteressen ihrer Mutter zu wahren - sie
+  koennte gehalten sein, den Anspruch zu VERFOLGEN statt auf ihn zu
+  verzichten.
+
+GLIED 3 - Genehmigt das Betreuungsgericht den Verzicht?
+          Einschaetzung: niedrig, ca. 25 bis 35 Prozent
+          DAS IST DER FLASCHENHALS
+
+  Ein Verzicht der Betreuerin auf einen Pflichtteilsanspruch der Betreuten
+  ist genehmigungsbeduerftig (§ 1854 BGB - Nummer anwaltlich verifizieren).
+  Maßstab ist das Wohl und der mutmaßliche Wille der Betreuten.
+
+  Das Gericht muesste feststellen, dass die Aufgabe eines Anspruchs in
+  sechsstelliger Hoehe gegen Zahlung von 190.000 EUR fuer Hille vorteilhaft
+  ist. Das ist bei den unten dargestellten Groessenordnungen schwer zu
+  begruenden.
+
+GESAMTWAHRSCHEINLICHKEIT
+  Das Produkt der drei Glieder ergibt die genannten 20 bis 30 Prozent -
+  bezogen darauf, dass es bei einer Abfindung von 190.000 EUR bleibt.
+
+
+-------------------------------------------------------------------------------
+2. DER STRUKTURELLE HAKEN
+-------------------------------------------------------------------------------
+
+RA Binder hat bereits die schlichte Ausschlagung NICHT empfehlen koennen.
+Sein Einwand betraf eine Ertragsfrage von wenigen tausend Euro im Jahr
+(04:74-81).
+
+Einen Verzicht auf einen sechsstelligen Anspruch gegen 190.000 EUR wird er
+erst recht nicht empfehlen koennen, sobald er ihn bewertet hat.
+
+Daraus folgt das Dilemma:
+
+  WER DEN VERZICHT VERLANGT, LOEST DIE PRUEFUNG AUS, DIE DEN VERZICHT
+  VERHINDERT.
+
+Hinzu kommt: Nach Aktenlage ist der Pflichtteilsanspruch der Gegenseite
+bislang nicht bewusst (00:33). Wer ihn anspricht, bringt Anne und Binder
+darauf - und damit auf einen Anspruch, der die Abfindung uebersteigt.
+
+
+-------------------------------------------------------------------------------
+3. KORREKTUR GEGENUEBER DER BISHERIGEN ANALYSE: DER ZUGEWINNAUSGLEICH
+-------------------------------------------------------------------------------
+
+In analyse.20261008.txt ist die Groessenordnung mit 180.000 bis
+360.000 EUR angegeben. Das greift zu kurz.
+
+Schlaegt der ueberlebende Ehegatte aus, kann er nach § 1371 Abs. 3 BGB
+verlangen:
+  - den KLEINEN Pflichtteil, hier 1/8, also ca. 180.000 EUR
+  - ZUSAETZLICH den konkreten Zugewinnausgleich nach § 1371 Abs. 2 BGB
+
+Der Zugewinn ist hier potenziell erheblich:
+  Eheschliessung                              20.11.1992
+  Vermoegen Klas bei Testamentserrichtung
+    am 20.11.2013                             330.000 EUR  (01:143)
+  Nachlass am Sterbetag 05.02.2026          1.438.262,66 EUR
+
+Das Anfangsvermoegen von 1992 ist aus den vorliegenden Unterlagen NICHT
+bekannt. Die Groessenordnung kann aber 180.000 EUR zuzueglich mehrerer
+Hunderttausend Euro betragen - deutlich mehr als die bisher genannte
+Obergrenze von 360.000 EUR.
+
+ZWEI KONSEQUENZEN
+  a) Die Chance auf Genehmigung eines Verzichts gegen 190.000 EUR sinkt
+     weiter. Das Missverhaeltnis wird groesser.
+  b) Bernds derzeitiges Risiko ist groesser als bisher angenommen. Wird
+     Vertrag 03 unveraendert genehmigt, zahlt er 190.000 EUR und der
+     Anspruch bleibt rechtlich offen.
+
+ERSTE AUFGABE FUER DEN ANWALT
+  Das Anfangsvermoegen von Klas Krueger zum 20.11.1992 ermitteln bzw.
+  klaeren, wie es sich beweisen laesst. Ohne diese Zahl ist der
+  Zugewinnausgleich nicht bezifferbar - und damit auch nicht die Frage, ob
+  190.000 EUR ueberhaupt eine verhandelbare Groesse sind.
+
+
+-------------------------------------------------------------------------------
+4. DER PUNKT, DER DIE GANZE SACHE DREHT
+-------------------------------------------------------------------------------
+
+Der Pflichtteilsanspruch nach § 2306 BGB entsteht NUR, WENN DIE
+AUSSCHLAGUNG WIRKSAM WIRD.
+
+Ohne betreuungsgerichtliche Genehmigung wird die Ausschlagung nicht
+wirksam. Dann entsteht auch kein Pflichtteil - nie.
+
+FOLGERUNG 1
+  Der Weg "nichts tun" hat NULL Pflichtteilsrisiko. Hille bleibt
+  Vorerbin, Bernd und Fabian werden Nacherben. Es fallen nach Bernds
+  eigener Rechnung ca. 100.000 EUR mehr Erbschaftsteuer an
+  (erbschaft_20260222.txt:14-16, ungeprueft). Teurer, aber risikofrei.
+
+FOLGERUNG 2
+  Der § 1952-Vorschlag von RA Binder (06) ist gefaehrlicher als in der
+  bisherigen Analyse dargestellt. Schlagen Anne und Jan nach Hilles Tod
+  aus, wird die Ausschlagung wirksam und der Pflichtteil entsteht - und
+  zwar in ihren Haenden. In Binders Fassung drohen dann 190.000 EUR
+  Abfindung UND der Pflichtteilsanspruch.
+
+
+-------------------------------------------------------------------------------
+5. DER AUSSICHTSREICHSTE WEG - AUSGERECHNET UEBER § 1952
+-------------------------------------------------------------------------------
+
+Die eigentliche Chance steckt in dem Vorschlag, den Bernd gerade ablehnt.
+
+IDEE
+  Nach dem Tod der Betreuten sind Anne Weniger und Jan Trueper voll
+  geschaeftsfaehig. Ein Vertrag mit ihnen braucht KEIN Betreuungsgericht.
+
+  Alles in einer Urkunde:
+    - Anne und Jan schlagen die Erbschaft ueber § 1952 BGB aus
+    - sie erhalten die Abfindung
+    - sie erklaeren gleichzeitig den Verzicht auf Pflichtteil und
+      Zugewinnausgleich
+
+  Damit faellt Glied 3 - der Flaschenhals - vollstaendig weg. Die
+  juristische Belastbarkeit steigt auf geschaetzt 80 bis 90 Prozent.
+
+WAS BLEIBT: VERHANDLUNGSMACHT
+  Anne und Jan koennten auch ausschlagen OHNE Vereinbarung und
+  anschliessend den Pflichtteil verlangen. Dann muesste Bernd mehr bieten
+  als 190.000 EUR.
+
+  Der entscheidende Unterschied: Es waere eine Verhandlung zwischen
+  gleichberechtigten, voll geschaeftsfaehigen Parteien - nicht eine
+  Genehmigung, auf die Bernd keinen Einfluss hat.
+
+KONSEQUENZ FUER DEN TERMIN AM 14.10.
+  Bernds Ablehnung des § 1952-Wegs war richtig - gegen die Klausel IN
+  BINDERS FASSUNG, die nur die Abfindung sichert und die Abgeltung offen
+  laesst.
+
+  Als GEGENANGEBOT, erweitert um eine vollstaendige Erledigungsklausel, ist
+  derselbe Weg sein bester Zugang zu Rechtssicherheit.
+
+  Der § 1952-Weg wechselt damit von "ablehnen" zu "als Gegenangebot
+  pruefen".
+
+PRAKTISCHE HUERDE
+  Eine solche Vereinbarung muesste jetzt vorbereitet und nach Hilles Tod
+  binnen der Ausschlagungsfrist der Erbeserben vollzogen werden. Ob eine
+  Vorabbindung von Anne und Jan moeglich ist, und in welcher Form, ist
+  anwaltlich zu klaeren. Zu beachten ist ausserdem Binders Hinweis, dass
+  das Genehmigungsverfahren aufrechterhalten werden muss, weil es die
+  Ausschlagungsfrist hemmt - laeuft sie ab, entfaellt auch das vererbliche
+  Ausschlagungsrecht (06:45).
+
+
+-------------------------------------------------------------------------------
+6. WEGE IM VERGLEICH
+-------------------------------------------------------------------------------
+
+  Weg                         Zahlung      Rechtssicherheit     Chance
+  ------------------------------------------------------------------------
+  Verzicht ueber das
+  Betreuungsgericht          190.000 EUR   hoch, wenn            20-30 %
+                                           genehmigt
+  ------------------------------------------------------------------------
+  Verzicht, Abfindung auf    deutlich      hoch                  50-60 %
+  Pflichtteilshoehe          mehr
+  nachgebessert
+  ------------------------------------------------------------------------
+  § 1952 nach Hilles Tod,    190.000 EUR   hoch, kein Gericht    50-70 %
+  mit Erledigungsklausel     plus x        erforderlich
+  ------------------------------------------------------------------------
+  Keine Ausschlagung,              0 EUR   vollstaendig          ca. 100 %
+  abwarten                                                       kostet ca.
+                                                                 100.000 EUR
+                                                                 Steuer
+  ------------------------------------------------------------------------
+
+FAZIT
+  Bernds Wunsch - 190.000 EUR zahlen und anschliessend Ruhe haben - ist zu
+  diesem Preis ueber das Betreuungsgericht wahrscheinlich nicht zu
+  bekommen.
+
+  Erreichbar ist er entweder
+    - gegen mehr Geld, oder
+    - auf dem § 1952-Weg nach dem Tod der Betreuten.
+
+  Alle Prozentangaben sind Einschaetzungen auf Grundlage der vorliegenden
+  Unterlagen, keine belastbaren Prognosen.
+
+
+-------------------------------------------------------------------------------
+7. FRAGEN FUER DEN ANWALTSTERMIN - PRIORITAET
+-------------------------------------------------------------------------------
+
+ 1. Wie hoch ist der Zugewinnausgleich nach § 1371 Abs. 2 BGB
+    schaetzungsweise? Wie laesst sich das Anfangsvermoegen von Klas
+    Krueger zum 20.11.1992 ermitteln oder beweisen? Ohne diese Zahl ist
+    nicht entscheidbar, ob 190.000 EUR verhandelbar sind.
+
+ 2. Ist ein Erlassvertrag nach § 397 BGB ueber den bereits entstandenen
+    Pflichtteilsanspruch der richtige Weg? Welche Form ist erforderlich?
+
+ 3. Ist ein solcher Verzicht durch die Betreuerin genehmigungsbeduerftig,
+    und wie sind die Erfolgsaussichten realistisch einzuschaetzen?
+
+ 4. Traegt die Konstruktion aus Abschnitt 5 - Ausschlagung durch Anne und
+    Jan nach § 1952 BGB verbunden mit Abfindung und vollstaendiger
+    Erledigungsklausel in einer Urkunde? Laesst sich eine Bindung von Anne
+    und Jan bereits jetzt herstellen?
+
+ 5. Entsteht der Pflichtteil auch dann, wenn die Ausschlagung durch die
+    Erbeserben nach § 1952 BGB erfolgt - und wem steht er dann zu?
+
+ 6. Was tut Bernd, wenn das Betreuungsgericht Vertrag 03 unveraendert
+    genehmigt? Dann sind 190.000 EUR faellig und der Anspruch bleibt offen.
+    Gibt es dagegen ein Mittel, oder muss die Abgeltung zwingend vorher
+    vereinbart werden?
+
+ 7. Soll der Pflichtteil gegenueber Anne und Binder ueberhaupt angesprochen
+    werden? Siehe Abschnitt 2.
+
+
+===============================================================================
+Grundlagen: analyse.20261008.txt, anwaltstermin.20261014.txt,
+            hautschreiben.vorbereitet.20261014.txt
+Siehe auch: verfahrensdauer.txt - zur Frage, wie lange das
+            Genehmigungsverfahren noch laeuft und warum Verzoegerung die
+            schwaechere Strategie gegenueber einem begruendeten Nein ist
+Siehe auch: pflichtteilsrisiko.txt - Muss/Kann, Anspruchsinhaber und
+            Risikohoehe (steuerfreie Vereinnahmung bei Annes Seite)
+Siehe auch: versagung_mitwirkung.txt - Hebel gegen die Genehmigung und
+            der Zielkonflikt zwischen Abwehr der Erweiterung und
+            Versagung der Genehmigung
+Erstellt: 08.10.2026
+===============================================================================

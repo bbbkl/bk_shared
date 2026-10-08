@@ -22,8 +22,8 @@ Kontextdateien (erbschaft_kontext\):
   06_mail_anne.20261008.txt                     Anne + Binder, 08.10.2026
 
 Weitere ausgewertete Dateien:
-  erbschaft\antwort_an_binder.bernd.txt         Entwurf Bernd, Variante A
-  erbschaft\situation\anwort.bernd.binder.txt   Entwurf Bernd, Variante B
+  erbschaft\misc\antwort_an_binder.bernd.txt         Entwurf Bernd, Variante A
+  erbschaft\misc\anwort.bernd.binder.txt   Entwurf Bernd, Variante B
   erbschaft\erbschaft_20260222.txt              Fruehe Eigenrechnung Bernd
   erbschaft\amtsgericht.20260507.txt            Enkel, Fuehrerscheine, Hausrat
   erbschaft\nachlass\Nachlass_klas_krueger.xlsx  Nachlassverzeichnis,
@@ -156,7 +156,7 @@ ANGREIFBARKEIT DIESER ZAHLEN - vor einer Verwendung zu bereinigen:
     Differenz 223,38 EUR, ungeklaert.
   - comdirect 2026 ist mit 1.413 EUR ausdruecklich geschaetzt ("wie 2025").
   - Die frueheren Zahlen aus ertraege_24_25.txt (1.592 EUR netto 2025) und
-    aus Bernds Entwurf (4.000 EUR, antwort_an_binder.bernd.txt:37) weichen
+    aus Bernds Entwurf (4.000 EUR, misc\antwort_an_binder.bernd.txt:37) weichen
     ab. Es sollte eine einzige konsistente Zahlenreihe verwendet werden.
 
 GEGENPOSITION (fairerhalber): Binder hielt den Nachlass fuer nicht
@@ -229,21 +229,56 @@ Formulierungsvorschlag (06:39) enthalten eine Abgeltungs- oder
 Erledigungsklausel. Insbesondere ist ein Verzicht auf einen moeglichen
 Pflichtteilsanspruch nicht geregelt.
 
-Groessenordnung bei einem Nachlass von 1.450.000 EUR:
-  kleiner Pflichtteil 1/8   ca. 181.000 EUR
-  grosser Pflichtteil 1/4   ca. 362.500 EUR
+KORRIGIERTE GROESSENORDNUNG (Stand 08.10.2026 abends)
+Die zuvor hier genannte Spanne von 181.000 bis 362.500 EUR greift zu kurz.
+Schlaegt der ueberlebende Ehegatte aus, kann er nach § 1371 Abs. 3 BGB den
+KLEINEN Pflichtteil (1/8, ca. 180.000 EUR) UND ZUSAETZLICH den konkreten
+Zugewinnausgleich nach § 1371 Abs. 2 BGB verlangen.
 
-Beide Werte liegen ueber der Abfindung. Der Anspruch wuerde an Anne und Jan
-als Hilles Erben fallen.
+Der Zugewinn ist hier potenziell erheblich:
+  Eheschliessung                                   20.11.1992
+  Vermoegen Klas bei Testamentserrichtung 2013    330.000 EUR  (01:143)
+  Nachlass am Sterbetag 05.02.2026              1.438.262,66 EUR
+
+Das Anfangsvermoegen von 1992 ist aus den Unterlagen NICHT bekannt. Die
+Gesamtforderung kann 180.000 EUR zuzueglich mehrerer Hunderttausend Euro
+betragen - deutlich mehr als die Abfindung von 190.000 EUR.
+
+Der Anspruch wuerde an Anne und Jan als Hilles Erben fallen.
 
 Bernd hat den Punkt in seinem Entwurf bereits benannt: § 2306 BGB bei
 Ausschlagung der durch Nacherbfolge beschraenkten Erbschaft, daneben
 moeglicher konkreter Zugewinnausgleich nach § 1371 Abs. 2, 3 BGB, da kein
-Ehevertrag bestand (antwort_an_binder.bernd.txt:67-82).
+Ehevertrag bestand (misc\antwort_an_binder.bernd.txt:67-82).
 
-Der § 1952-Weg verschaerft dies: Er legt das Ausschlagungsrecht aktiv in die
-Hand von Anne und Jan - also derjenigen, die anschliessend einen
-Pflichtteil geltend machen koennten.
+ENTSTEHUNGSVORAUSSETZUNG - das ist der Hebel:
+Der Pflichtteil nach § 2306 BGB entsteht NUR, WENN DIE AUSSCHLAGUNG WIRKSAM
+WIRD. Ohne betreuungsgerichtliche Genehmigung wird sie nicht wirksam - dann
+entsteht auch kein Pflichtteil.
+
+Daraus folgt:
+  - Der Weg "nichts tun" hat NULL Pflichtteilsrisiko (Szenario 1 und 2 in
+    Abschnitt 4).
+  - Der § 1952-Weg ist gefaehrlicher als zunaechst dargestellt: Schlagen
+    Anne und Jan nach Hilles Tod aus, wird die Ausschlagung wirksam und der
+    Pflichtteil entsteht - in ihren Haenden. In Binders Fassung (06:39)
+    drohen dann 190.000 EUR Abfindung UND der Pflichtteilsanspruch.
+  - Derselbe Weg ist aber auch die beste Chance auf Rechtssicherheit, wenn
+    er um eine vollstaendige Erledigungsklausel erweitert wird: Anne und
+    Jan sind nach Hilles Tod voll geschaeftsfaehig, ein Vertrag mit ihnen
+    braucht KEIN Betreuungsgericht.
+
+Ausfuehrlich zur Erreichbarkeit eines Verzichts und zu den Wegen im
+Vergleich: abfindungssumme_gegen_rechtssicherheit.txt
+Zur Frage, ob der Anspruch geltend gemacht werden MUSS, wer ihn einfordern
+wuerde und wie hoch das Risiko ist: pflichtteilsrisiko.txt
+
+RISIKOEINSCHAETZUNG (Stand 08.10.2026 abends): 30 bis 50 Prozent. Treiber
+ist die Steuerlage auf Annes Seite - der konkrete Zugewinnausgleich ist
+nach § 5 Abs. 2 ErbStG steuerfrei, der kleine Pflichtteil liegt unter
+Hilles Freibetrag von 500.000 EUR (02:67-68). Der Pflichtteilsweg ist fuer
+Anne und Jan damit wirtschaftlich ueberlegen und nutzt einen Freibetrag,
+der bei einer Ausschlagung sonst ungenutzt verfaellt. Zu verifizieren.
 
 VORBEHALT: Ob und in welcher Hoehe diese Ansprueche bestehen, ist eine
 Rechtsfrage. Sie ist hier nicht entschieden und muss anwaltlich geprueft
@@ -331,7 +366,7 @@ Die Frage besteht aus zwei Teilen, die getrennt zu beantworten sind.
 
 TEIL 1 - Verzeichnis uebersenden: unproblematisch.
   Binder hat es selbst verlangt (04:86-89). Bernd hat an der Erstellung
-  mitgewirkt und die Angaben bestaetigt (antwort_an_binder.bernd.txt:29-32).
+  mitgewirkt und die Angaben bestaetigt (misc\antwort_an_binder.bernd.txt:29-32).
   Es geht ueber Anne ohnehin an das Gericht. Ein Zurueckhalten waere
   wirkungslos und wuerde obstruktiv wirken.
 
@@ -354,9 +389,9 @@ TEIL 2 - Um Genehmigung von Vertrag 03 bitten: nicht ohne Weiteres.
     (Steuerzahlen aus erbschaft_20260222.txt:14-15, ungeprueft)
 
   Nach dieser Rechnung ist die Nichtgenehmigung um ca. 90.000 EUR
-  guenstiger. Hinzu kommt: Ohne Ausschlagung entsteht gar kein
-  Pflichtteilsanspruch - das Risiko von 181.000 bis 362.500 EUR
-  (Abschnitt 5) entfaellt vollstaendig.
+  guenstiger. Hinzu kommt: Ohne wirksame Ausschlagung entsteht gar kein
+  Pflichtteilsanspruch - das Risiko von ca. 180.000 EUR zuzueglich
+  konkretem Zugewinnausgleich (Abschnitt 5) entfaellt vollstaendig.
 
   GEGENLAEUFIG, der Fairness halber:
     - Die 190.000 EUR kaufen auch den comdirect-Streit ab. Das Verzeichnis
@@ -367,6 +402,16 @@ TEIL 2 - Um Genehmigung von Vertrag 03 bitten: nicht ohne Weiteres.
     - Die Steuerzahlen stammen aus einer Eigenrechnung und sind nicht
       verifiziert.
   Es ist also knapp, nicht klar negativ.
+
+  NACHTRAG 08.10.2026 ABENDS - DIESE BEWERTUNG IST ZU KORRIGIEREN:
+  Wird das Pflichtteilsrisiko mit 30 bis 50 Prozent angesetzt (siehe
+  pflichtteilsrisiko.txt), ist eine Genehmigung des unveraenderten
+  Vertrages 03 fuer Bernd nicht mehr "knapp", sondern deutlich
+  schlechter als eine Versagung. Grund: Der Pflichtteil ist fuer Annes
+  Seite nahezu steuerfrei vereinnahmbar und damit kein Randrisiko,
+  sondern der wahrscheinlichste Weg einer erneuten Inanspruchnahme nach
+  Zahlung der 190.000 EUR. Eine Abgeltungsklausel ist damit keine
+  Verhandlungsposition, sondern Bedingung.
 
   KERNPUNKT: Vertrag 03 enthaelt keine Abgeltungsklausel und keinen
   Pflichtteilsverzicht (00:31). Wer um die Genehmigung genau dieser Fassung
@@ -381,7 +426,7 @@ TEIL 2 - Um Genehmigung von Vertrag 03 bitten: nicht ohne Weiteres.
   Feststellung, dass die Grundlage von 27.150 EUR die Depotgebuehren nicht
   beruecksichtigt, und der Folgerung, dass die Ergaenzung gegenstandslos
   ist. NICHT um Genehmigung von 03 bitten, sondern die Abgeltungsfrage
-  gleichzeitig stellen (antwort_an_binder.bernd.txt:67-82). Versand erst
+  gleichzeitig stellen (misc\antwort_an_binder.bernd.txt:67-82). Versand erst
   nach dem Anwaltstermin am 14.10.
 
   UMSETZUNG: Am 08.10.2026 ist zunaechst nur eine kurze
@@ -409,11 +454,11 @@ Option C - Zustimmung nur gegen Gegenleistung
   Bedingungen, die Bernd in seinen Entwuerfen bereits formuliert hat:
     - abschliessende Abgeltungsklausel fuer saemtliche Ansprueche aus dem
       Erbfall, gleich aus welchem Rechtsgrund
-      (anwort.bernd.binder.txt:76-86)
+      (misc\anwort.bernd.binder.txt:76-86)
     - ausdrueckliche Regelung zu Pflichtteil und Zugewinnausgleich
-      (antwort_an_binder.bernd.txt:95-96)
+      (misc\antwort_an_binder.bernd.txt:95-96)
     - Nachschusspflicht der Hoehe nach gedeckelt und auf Hilles Lebenszeit
-      befristet (antwort_an_binder.bernd.txt:91-93)
+      befristet (misc\antwort_an_binder.bernd.txt:91-93)
   Offene Frage: Ob die Betreuerin fuer Hille wirksam auf einen Pflichtteil
   verzichten kann und ob das ein weiteres Genehmigungsverfahren ausloest.
   Siehe Abschnitt 9 Nr. 2.
@@ -423,7 +468,7 @@ entstanden und kennen den § 1952-Vorschlag noch nicht. Variante A benennt
 Pflichtteil und Zugewinnausgleich ausdruecklich, Variante B nur eine
 allgemeine Abgeltungsklausel. Beide enthalten noch Platzhalter fuer Datum
 und E-Mail-Adresse. Beide nennen ausserdem veraltete Ertragszahlen
-(4.000 EUR fuer 2025, antwort_an_binder.bernd.txt:37) - das Verzeichnis
+(4.000 EUR fuer 2025, misc\antwort_an_binder.bernd.txt:37) - das Verzeichnis
 weist 3.484,02 EUR aus. Vor einem Versand waere zu entscheiden, ob der
 Pflichtteil offen angesprochen wird - nach Aktenlage ist er der Gegenseite
 bislang nicht bewusst (00:33). Diese Entscheidung gehoert in den
@@ -529,9 +574,21 @@ Belastbarkeit der Zahlen:
     stammen aus einer Eigenrechnung bzw. aus Binders Schreiben. Sie tragen
     die Szenarientabellen in Abschnitt 4 und 8a und sollten im
     Anwaltstermin bzw. steuerlich geprueft werden.
-  - Pflichtteilsbetraege: Groessenordnungen, keine Berechnung.
+  - Pflichtteilsbetraege: Groessenordnungen, keine Berechnung. Der
+    konkrete Zugewinnausgleich nach § 1371 Abs. 2 BGB ist derzeit gar
+    nicht bezifferbar, weil das Anfangsvermoegen von Klas Krueger zum
+    20.11.1992 unbekannt ist. Dessen Ermittlung ist die erste Aufgabe.
 
 Erstellt: 08.10.2026
 Fortgeschrieben: 08.10.2026 nach Vorliegen des Nachlassverzeichnisses
                  und Terminvereinbarung Anwalt 14.10.2026
+Fortgeschrieben: 08.10.2026 abends - Abschnitt 5 korrigiert
+                 (Zugewinnausgleich, Entstehungsvoraussetzung des
+                 Pflichtteils, gedrehte Bewertung des § 1952-Weges).
+                 Vertiefung: abfindungssumme_gegen_rechtssicherheit.txt
+Fortgeschrieben: 08.10.2026 abends - Pflichtteilsrisiko auf 30 bis 50
+                 Prozent heraufgesetzt (steuerfreie Vereinnahmung auf
+                 Annes Seite); Bewertung in Abschnitt 8a korrigiert.
+                 Vertiefung: pflichtteilsrisiko.txt
+Weitere Vertiefung: verfahrensdauer.txt
 ===============================================================================

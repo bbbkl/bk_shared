@@ -1,0 +1,231 @@
+===============================================================================
+PFLICHTTEILSRISIKO BEI GENEHMIGUNG DER URSPRUENGLICHEN AUSSCHLAGUNG
+Stand 08.10.2026
+===============================================================================
+
+DREI FRAGEN
+  1. Muss der Pflichtteil eingefordert werden oder kann er nur?
+  2. Wer wuerde ihn einfordern?
+  3. Wie hoch ist das Risiko, dass es tatsaechlich geschieht?
+
+ERGEBNIS IN EINEM SATZ
+Nur "kann" - aber Schweigen ist kein Verzicht; einfordern wuerden Anne
+Weniger (zu Hilles Lebzeiten als Betreuerin, danach als Erbin) und
+Jan Trueper; das Risiko ist mit geschaetzt 30 bis 50 Prozent hoeher
+anzusetzen als bisher, weil der Pflichtteilsweg fuer Annes Seite nahezu
+STEUERFREI ist.
+
+KEINE RECHTSBERATUNG. Alle Paragraphen- und Prozentangaben sind
+Einschaetzungen auf Grundlage der vorliegenden Unterlagen und anwaltlich
+bzw. steuerlich zu verifizieren.
+
+
+-------------------------------------------------------------------------------
+1. MUSS ODER KANN?
+-------------------------------------------------------------------------------
+
+NUR "KANN".
+
+Der Pflichtteil ist ein schuldrechtlicher Geldanspruch, kein Automatismus.
+Niemand muss ihn geltend machen. Er entsteht aber mit der wirksamen
+Ausschlagung von selbst und bleibt bestehen, bis er
+
+  - erfuellt,
+  - durch Erlassvertrag (§ 397 BGB) aufgehoben, oder
+  - verjaehrt
+
+ist.
+
+FOLGERUNG 1 - SCHWEIGEN IST KEIN VERZICHT
+  Dass Anne Weniger und RA Binder den Punkt bislang nie erwaehnt haben
+  (00:33), schuetzt Bernd nicht. Ohne ausdrueckliche Abgeltungs- oder
+  Erlassregelung bleibt der Anspruch liegen.
+
+FOLGERUNG 2 - VERJAEHRUNG: DREI JAHRE AB KENNTNIS
+  §§ 195, 199 BGB. Die Frist beginnt nicht mit dem Erbfall, sondern mit
+  der Kenntnis von den anspruchsbegruendenden Umstaenden. Das
+  Risikofenster reicht daher voraussichtlich bis Ende 2029 oder spaeter.
+
+  Es ist NICHT mit der Zahlung der Abfindung erledigt.
+
+EINSCHRAENKUNG ZUM "KANN"
+  Solange Hille lebt, ist Anne als Betreuerin zur Vermoegenssorge
+  verpflichtet. Einen werthaltigen Anspruch ungenutzt verfallen zu lassen,
+  waere mit dieser Pflicht schwer vereinbar. Faktisch besteht fuer sie
+  daher eher ein Druck ZUM Geltendmachen als eine freie Wahl.
+
+  Das ist anwaltlich zu klaeren - es beruehrt auch die Frage, ob ein
+  Verzicht durch die Betreuerin ueberhaupt genehmigungsfaehig waere
+  (siehe abfindungssumme_gegen_rechtssicherheit.txt).
+
+
+-------------------------------------------------------------------------------
+2. WER WUERDE IHN EINFORDERN?
+-------------------------------------------------------------------------------
+
+  Zeitpunkt                 Anspruchsinhaber        Handelnde Person
+  ------------------------------------------------------------------------
+  Solange Hille lebt        Hille Krueger           Anne Weniger als
+                                                    Betreuerin
+  ------------------------------------------------------------------------
+  Nach Hilles Tod           Anne Weniger und        Anne und Jan,
+                            Jan Trueper als         je nach Erbteil
+                            ihre Erben
+  ------------------------------------------------------------------------
+
+Der Anspruch ist vererblich und frei uebertragbar (§ 2317 Abs. 2 BGB).
+Nach Hilles Tod faellt er damit an genau die beiden Personen, die auch
+wirtschaftlich davon profitieren.
+
+Verstaerkend: Anne ist nach dem Testament zugleich Testamentsvollstreckerin
+fuer den Nachlass des Laengstlebenden (01:120). Sie wird sich in dieser
+Rolle ohnehin anwaltlich beraten lassen - und dabei die Akte erneut
+aufschlagen.
+
+SCHULDNER
+  Bernd Krueger und Fabian Krueger als Erben nach Klas Krueger.
+
+DRITTE KOMMEN PRAKTISCH NICHT IN BETRACHT
+  Ein Sozialleistungstraeger koennte einen Anspruch auf sich ueberleiten,
+  wenn Hille Leistungen beziehen muesste. Das ist hier unwahrscheinlich:
+  eigenes Vermoegen ca. 400.000 EUR, Einnahmen uebersteigen die Ausgaben
+  um ca. 1.000 EUR monatlich (04:50-52, 00:12-13).
+
+
+-------------------------------------------------------------------------------
+3. WIE HOCH IST DAS RISIKO?
+-------------------------------------------------------------------------------
+
+EINSCHAETZUNG: 30 BIS 50 PROZENT.
+
+Das ist HOEHER als in den bisherigen Dateien angesetzt. Der Grund ist
+steuerlich und war dort nicht beruecksichtigt.
+
+DER EIGENTLICHE TREIBER: DER PFLICHTTEILSWEG IST FUER ANNES SEITE
+NAHEZU STEUERFREI
+
+  a) Der konkrete Zugewinnausgleich nach § 1371 Abs. 2 BGB gilt nach
+     § 5 Abs. 2 ErbStG nicht als Erwerb - er ist erbschaftsteuerfrei.
+
+  b) Der kleine Pflichtteil von ca. 180.000 EUR liegt UNTER Hilles
+     Freibetrag von 500.000 EUR (02:67-68) - ebenfalls steuerfrei.
+
+  c) Bei Bernd und Fabian waere die Pflichtteilslast als
+     Nachlassverbindlichkeit abzugsfaehig (§ 10 Abs. 5 Nr. 2 ErbStG). Das
+     mindert ihre Steuer - die Zahlung selbst bleibt aber in voller Hoehe.
+
+  Der Pflichtteilsweg ist damit fuer Annes Seite nicht bloss eine
+  Zusatzforderung, sondern wirtschaftlich UEBERLEGEN: Er nutzt Hilles
+  brachliegenden Freibetrag, der bei einer Ausschlagung sonst ungenutzt
+  verfaellt.
+
+  Wer das einmal durchrechnet, hat einen starken Anreiz.
+
+WAS DAS RISIKO WEITER ERHOEHT
+
+  - Groessenordnung: ca. 180.000 EUR kleiner Pflichtteil PLUS konkreter
+    Zugewinnausgleich. Potenziell das Zwei- bis Dreifache der Abfindung.
+    Ehe seit 20.11.1992, Vermoegen Klas 2013 noch 330.000 EUR, Nachlass am
+    Sterbetag 1.438.262,66 EUR.
+  - Anne hat zwei Anwaelte mandatiert (Lockmann, Binder) und ist nach
+    Aktenlage aufgebracht (00:36).
+  - Beim comdirect-Konto hat sie bereits gezeigt, dass sie Ansprueche
+    verfolgt (00:22).
+  - § 2306 BGB und § 1371 Abs. 3 BGB sind erbrechtliches Standardwissen.
+    Jeder Fachanwalt, der die Akte beim Nachlass Hille erneut aufschlaegt,
+    stoesst darauf.
+  - Die Verjaehrungsfrist laeuft erst ab Kenntnis - die Entdeckung kann
+    also auch spaeter noch zur Forderung fuehren.
+
+WAS DAGEGEN SPRICHT
+
+  - Jan Trueper erscheint in allen Unterlagen passiv. Er ist bislang in
+    keinem Schriftstueck als Handelnder aufgetreten.
+  - Anne hat die Abfindung selbst als Ersatz fuer den entgehenden
+    Niessbrauch verhandelt (04:38-42). Anschliessend zusaetzlich den
+    Pflichtteil zu fordern, waere ein Widerspruch zum eigenen
+    Vorverhalten. Daraus liesse sich eine Einrede nach § 242 BGB
+    konstruieren.
+  - Denkbar ist auch eine Auslegung des Abfindungsvertrages als
+    abschliessende Regelung (§ 157 BGB).
+
+  ABER: Beides ist eine Verteidigungslinie, keine Sicherheit. Die Notarin
+  hat eine Abgeltungsklausel nicht aufgenommen, obwohl sie naheliegend
+  gewesen waere. Darauf sollte man sich nicht verlassen.
+
+
+-------------------------------------------------------------------------------
+4. KONSEQUENZ FUER DIE ENTSCHEIDUNG
+-------------------------------------------------------------------------------
+
+Dies verschiebt die Gewichtung gegenueber analyse.20261008.txt
+Abschnitt 8a.
+
+BISHER: Steuerdifferenz von ca. 90.000 EUR gegen ein unbestimmtes
+        Pflichtteilsrisiko.
+
+JETZT:  Wenn der Pflichtteil fuer Annes Seite steuerfrei vereinnahmt
+        werden kann, ist er kein Randrisiko mehr, sondern der
+        wahrscheinlichste Weg, auf dem Bernd nach Zahlung der 190.000 EUR
+        erneut in Anspruch genommen wird.
+
+FOLGERUNGEN
+
+  1. Eine Genehmigung des unveraenderten Vertrages 03 ist fuer Bernd
+     deutlich schlechter als eine Versagung.
+
+  2. Eine Abgeltungsklausel ist keine Verhandlungsposition, sondern
+     Bedingung.
+
+  3. Der Weg "keine wirksame Ausschlagung" bleibt der einzige mit null
+     Pflichtteilsrisiko - weil der Anspruch dann gar nicht entsteht.
+
+  4. Beim § 1952-Weg ist besondere Vorsicht geboten: Dort entsteht der
+     Anspruch in den Haenden derjenigen, die ausschlagen - also bei Anne
+     und Jan selbst. Ohne Erledigungsklausel in derselben Urkunde drohen
+     190.000 EUR UND der Pflichtteil.
+
+
+-------------------------------------------------------------------------------
+5. FRAGEN FUER DEN ANWALTSTERMIN
+-------------------------------------------------------------------------------
+
+ 1. Ist der konkrete Zugewinnausgleich nach § 1371 Abs. 2 BGB tatsaechlich
+    nach § 5 Abs. 2 ErbStG erbschaftsteuerfrei? Und liegt der kleine
+    Pflichtteil von ca. 180.000 EUR unter Hilles Freibetrag von
+    500.000 EUR, also ebenfalls steuerfrei?
+    DIESE FRAGE TRAEGT DIE GESAMTE RISIKOEINSCHAETZUNG.
+
+ 2. Ist die Pflichtteilslast bei Bernd und Fabian als
+    Nachlassverbindlichkeit nach § 10 Abs. 5 Nr. 2 ErbStG abzugsfaehig?
+
+ 3. Wann beginnt die Verjaehrung nach §§ 195, 199 BGB konkret - mit dem
+    Erbfall, mit der wirksamen Ausschlagung, oder mit der Kenntnis vom
+    Anspruch? Bis wann besteht das Risiko?
+
+ 4. Ist Anne als Betreuerin verpflichtet, einen bestehenden
+    Pflichtteilsanspruch fuer Hille geltend zu machen? Wenn ja: Wie
+    verhaelt sich das zu einem Verzicht gegen Abfindung?
+
+ 5. Traegt die Einrede aus § 242 BGB, wenn Anne die Abfindung selbst als
+    Niessbrauchsersatz verhandelt hat und anschliessend zusaetzlich den
+    Pflichtteil fordert? Laesst sich der Abfindungsvertrag nach § 157 BGB
+    als abschliessende Regelung auslegen?
+
+ 6. Kann ein Sozialleistungstraeger den Anspruch auf sich ueberleiten,
+    wenn sich Hilles Vermoegenslage aendert?
+
+ 7. Wie waere vorzugehen, wenn der Anspruch erst nach Zahlung der
+    Abfindung geltend gemacht wird - Aufrechnung, Rueckforderung,
+    Anfechtung des Abfindungsvertrages?
+
+
+===============================================================================
+Grundlagen: analyse.20261008.txt,
+            abfindungssumme_gegen_rechtssicherheit.txt,
+            verfahrensdauer.txt, anwaltstermin.20261014.txt
+Siehe auch: versagung_mitwirkung.txt - Hebel gegen die Genehmigung und
+            der Zielkonflikt zwischen Abwehr der Erweiterung und
+            Versagung der Genehmigung
+Erstellt: 08.10.2026
+===============================================================================

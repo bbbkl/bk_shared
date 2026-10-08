@@ -37,14 +37,23 @@ ENTSCHEIDUNG 2 - Stimmen die Steuerzahlen?
   171.000 EUR (04:37). Das ist die sicherere Variante.
 
 ENTSCHEIDUNG 3 - Will Bernd die Ausschlagung noch?
-  [ ] JA, aber nur mit Abgeltungsklausel  -> Fassung I (unten)
-  [ ] NEIN, Abwarten ist guenstiger       -> Fassung II (unten)
-  [ ] offen halten                        -> Fassung I verwenden, sie
-                                             bindet nicht
-  Konsequenz: Fassung I ist konstruktiv und haelt die Verhandlung offen.
-  Fassung II ist ein klares Nein und beendet sie. Fassung I ist auch dann
-  tragfaehig, wenn Bernd innerlich zu Abwarten neigt - sie verpflichtet zu
-  nichts.
+  GEKLAERT (08.10.2026): Bernd ist generell bereit, die 190.000 EUR zu
+  zahlen - will dafuer aber rechtssicher vom Pflichtteil frei sein.
+  Damit ist Fassung I die richtige Grundlage. Fassung II bleibt
+  Rueckfalloption, falls sich im Termin zeigt, dass Rechtssicherheit zu
+  diesem Preis nicht erreichbar ist.
+  [ ] Fassung I (konstruktiv) - Regelfall
+  [ ] Fassung II (ablehnend) - nur wenn der Anwalt dazu raet
+
+  ZU BEACHTEN: Die Erreichbarkeit des Verzichts ist ueber das
+  Betreuungsgericht mit nur 20 bis 30 Prozent einzuschaetzen. Der
+  aussichtsreichere Weg fuehrt ueber eine Vereinbarung mit Anne und Jan
+  nach Hilles Tod (§ 1952 BGB), weil dort kein Gericht erforderlich ist.
+  Ausfuehrlich: abfindungssumme_gegen_rechtssicherheit.txt
+  Falls der Anwalt diesen Weg empfiehlt, ist Ziffer 3 des Schreibens
+  anzupassen - der § 1952-Weg waere dann nicht nur abzulehnen, sondern
+  als Gegenangebot mit Erledigungsklausel aufzugreifen. Textbaustein
+  dafuer: siehe BAUSTEIN 3-ALT unten.
 
 WEITERE ENTSCHEIDUNGEN
   [ ] Schreiben von Bernd selbst oder vom Anwalt? Bei anwaltlichem Versand
@@ -62,7 +71,7 @@ FASSUNG I - KONSTRUKTIV, HAELT DIE VERHANDLUNG OFFEN
 
 An:   RA Jonas Binder <jonasbinder@web.de>
 Cc:   Anne Weniger <anne.weniger@gmail.com>
-Cc:   Fabian Krueger <[E-Mail-Adresse einfuegen]>
+Cc:   Fabian Krueger <fabiankrueg@gmx.de>
 
 Betreff: Betreuungssache Hille Krueger, AG Oldenburg 110 XVII (K) 1375 -
          Nachlassverzeichnis, Ihr Schreiben vom 28.09.2026 und Ihre
@@ -238,6 +247,58 @@ Mir ist wichtig, dass keine der beteiligten Seiten nach Erfuellung der
 Vereinbarung noch mit weiteren, bislang nicht bedachten Forderungen aus
 demselben Erbfall rechnen muss. Eine Vereinbarung, die diesen Punkt offen
 laesst, kann ich nicht unterzeichnen.
+
+
+===============================================================================
+BAUSTEIN 3-ALT - § 1952-WEG ALS GEGENANGEBOT STATT ABLEHNUNG
+===============================================================================
+
+Ersetzt Ziffer 3 der Fassung I. Nur verwenden, wenn der Anwalt diesen Weg
+empfiehlt. Voraussetzung: Die Erledigungsklausel wird mitverhandelt - ohne
+sie waere dieser Weg schlechter als die Ablehnung.
+
+-------------------------------------------------------------------------------
+
+3. Zu Ihrem Vorschlag vom 08.10.2026
+
+Ihren Vorschlag, die Abfindung auch fuer den Fall einer Ausschlagung durch
+die Erben der Betreuten nach § 1952 BGB geschuldet sein zu lassen, habe ich
+geprueft.
+
+In der von Ihnen vorgeschlagenen Fassung kann ich ihm nicht zustimmen. Der
+Vertrag vom 13.03.2026 bestimmt in § 3 ausdruecklich, dass die Bedingung
+als endgueltig ausgefallen gilt und keine Abfindung zu zahlen ist, wenn die
+Erbausschlagung nicht betreuungsgerichtlich genehmigt wird. Sie selbst
+weisen darauf hin, dass das Genehmigungsverfahren mit dem Tod der
+Betroffenen endet. Ihr Vorschlag wuerde diese vereinbarte Risikoverteilung
+einseitig zu unseren Lasten aufheben.
+
+Der von Ihnen aufgezeigte Weg erscheint mir jedoch grundsaetzlich
+geeignet, eine fuer alle Seiten tragfaehige Loesung zu erreichen - dann
+allerdings in einer Fassung, die den Vorgang abschliessend regelt.
+
+Ich bin bereit, einer Vereinbarung naeherzutreten, die
+
+  - die Ausschlagung durch die Erben der Betreuten nach § 1952 BGB,
+  - die Zahlung der vereinbarten Abfindung, und
+  - die abschliessende Erledigung saemtlicher Ansprueche aus dem Erbfall
+    nach meinem Vater
+
+in einem einheitlichen Vorgang zusammenfuehrt. Eine solche Vereinbarung
+waere zwischen meinem Bruder und mir einerseits sowie Frau Dr. Weniger und
+Herrn Trueper andererseits zu treffen.
+
+Ich bitte um Mitteilung, ob auf dieser Grundlage Verhandlungsbereitschaft
+besteht.
+
+-------------------------------------------------------------------------------
+HINWEIS: Dieser Baustein nennt die Erledigung bewusst allgemein
+("saemtliche Ansprueche"), ohne Pflichtteil und Zugewinnausgleich zu
+beziffern. Ob die Begriffe ausdruecklich genannt werden, haengt an
+Entscheidung 1. Wird 5A verwendet, ist dieser Baustein entsprechend zu
+schaerfen; die Ziffern 3 und 4 sind dann zusammenzufassen, um Doppelungen
+zu vermeiden.
+-------------------------------------------------------------------------------
 
 
 ===============================================================================

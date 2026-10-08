@@ -18,14 +18,53 @@ Alles andere haengt daran. Die Diskussion laeuft derzeit nur ueber die
 Frage, ob eine Vertragsergaenzung unterschrieben wird. Das ist die falsche
 Ebene.
 
+BERNDS POSITION (Stand 08.10.2026): Er ist generell bereit, die
+190.000 EUR zu zahlen - will dafuer aber rechtssicher, dass nach wirksamer
+Ausschlagung kein Pflichtteilsanspruch mehr gegen ihn und Fabian geltend
+gemacht werden kann.
+
+Damit lautet die Frage praeziser:
+
+  Ist ein rechtssicherer Verzicht auf Pflichtteil und Zugewinnausgleich
+  gegen Zahlung von 190.000 EUR ueberhaupt erreichbar?
+
+Einschaetzung: ueber das Betreuungsgericht nur mit 20 bis 30 Prozent
+Wahrscheinlichkeit. Aussichtsreicher ist eine Vereinbarung mit Anne und Jan
+NACH dem Tod der Betreuten - dann ist kein Gericht erforderlich.
+Ausfuehrlich: abfindungssumme_gegen_rechtssicherheit.txt
+
+ACHTUNG - ZIELKONFLIKT, der im Termin aufgeloest werden muss:
+
+  Bernd verfolgt derzeit faktisch ZWEI Ziele, die sich widersprechen.
+
+    Ziel A: Die Ergaenzung abwehren.
+            Argument: Die Abfindung von 190.000 EUR uebersteigt die
+            tatsaechlichen Ertraege von 3.484,02 EUR um ein Vielfaches,
+            ist also bereits ueberreichlich.
+
+    Ziel B: Die Genehmigung verhindern.
+            Dafuer waere vorzutragen, dass die Ausschlagung fuer Hille
+            NACHTEILIG ist.
+
+  Das Argument fuer Ziel A ist zugleich das beste Argument FUER die
+  Genehmigung - denn der Maßstab des Gerichts ist das Wohl der Betreuten
+  (02:78-79). Wer belegt, dass Hille sehr gut wegkommt, liefert den
+  Genehmigungsgrund.
+
+  Beide Ziele sind nicht gleichzeitig erreichbar. Welches gilt?
+  Ausfuehrlich: versagung_mitwirkung.txt Abschnitt 3
+
+Die Rueckfalloption bleibt relevant:
+
   Variante                               Zahlung      Steuer     Summe
   ------------------------------------------------------------------------
   Keine Genehmigung, Hille stirbt vorher        0    ~187.000   187.000
   Genehmigung, Vertrag vom 13.03.2026     190.000    ~ 87.000   277.000
   ------------------------------------------------------------------------
 
-Differenz ca. 90.000 EUR zugunsten des Abwartens. Dazu: ohne Ausschlagung
-entsteht kein Pflichtteilsanspruch.
+Differenz ca. 90.000 EUR zugunsten des Abwartens. Dazu: ohne wirksame
+Ausschlagung entsteht KEIN Pflichtteilsanspruch - der Weg "nichts tun" ist
+der einzige mit null Rechtsrisiko.
 
 ACHTUNG: Die Steuerzahlen stammen aus einer eigenen Schaetzung von Bernd
 (Februar 2026) und sind nicht geprueft. Sie sind die Grundlage der ganzen
@@ -103,14 +142,27 @@ geregelt. Auch der Ergaenzungsentwurf und der neueste Vorschlag vom
 08.10.2026 enthalten dazu nichts.
 
 Groessenordnung bei einem Nachlass von 1.438.262,66 EUR:
-  kleiner Pflichtteil 1/8   ca. 180.000 EUR
-  grosser Pflichtteil 1/4   ca. 360.000 EUR
+  kleiner Pflichtteil 1/8                        ca. 180.000 EUR
+  PLUS konkreter Zugewinnausgleich
+  nach § 1371 Abs. 2 BGB                         nicht bezifferbar
 
-Beide Werte liegen ueber der Abfindung. Der Anspruch wuerde an Anne und Jan
-als Hilles Erben fallen.
+Nach § 1371 Abs. 3 BGB kann der ausschlagende Ehegatte den kleinen
+Pflichtteil UND zusaetzlich den konkreten Zugewinnausgleich verlangen. Der
+Zugewinn ist hier potenziell erheblich: Ehe seit 20.11.1992, Vermoegen
+Klas 2013 noch 330.000 EUR, Nachlass am Sterbetag 1.438.262,66 EUR. Das
+Anfangsvermoegen von 1992 ist nicht bekannt.
+
+Die Gesamtforderung kann daher 180.000 EUR zuzueglich mehrerer
+Hunderttausend Euro betragen - deutlich mehr als die Abfindung. Der
+Anspruch wuerde an Anne und Jan als Hilles Erben fallen.
 
 Risiko: Bernd und Fabian zahlen 190.000 EUR und werden anschliessend
-zusaetzlich mit einem Pflichtteilsanspruch konfrontiert.
+zusaetzlich mit Pflichtteil und Zugewinnausgleich konfrontiert.
+
+ENTSTEHUNGSVORAUSSETZUNG - der Hebel: Der Anspruch entsteht NUR, wenn die
+Ausschlagung wirksam wird. Ohne Genehmigung keine wirksame Ausschlagung -
+und damit nie ein Pflichtteil. Abwarten ist deshalb der einzige Weg mit
+null Rechtsrisiko.
 
 TAKTISCHE FRAGE, die im Termin zu entscheiden ist:
 Nach Aktenlage ist dieser Punkt der Gegenseite bislang NICHT bewusst -
@@ -119,6 +171,12 @@ der Bewertung der verlangten Ergaenzung klar geworden.
   - Anspricht er ihn: er bekommt Schutz, bringt Anne aber auf die Spur.
   - Spricht er ihn nicht an: das Risiko bleibt unkalkuliert bestehen.
 Hier wird anwaltliche Einschaetzung gebraucht.
+
+DILEMMA: Wer den Verzicht verlangt, loest die Pruefung aus, die den
+Verzicht verhindert. RA Binder konnte schon die schlichte Ausschlagung
+nicht empfehlen - wegen einer Ertragsfrage von wenigen tausend Euro. Einen
+Verzicht auf einen sechsstelligen Anspruch wird er erst recht nicht
+empfehlen koennen.
 
 
 -------------------------------------------------------------------------------
@@ -148,14 +206,31 @@ VORSCHLAG 2 - Ausschlagung durch die Erbeserben, § 1952 BGB
   Erben nach Hilles Tod ueber § 1952 BGB vollstaendig ausschlagen.
   Anne schreibt dazu, fuer Bernd und Fabian bedeute das "ebenfalls keinen
   Nachteil".
-  BEWERTUNG: Das trifft nicht zu. Derzeit gilt - stirbt Hille vor der
-  Genehmigung, endet das Verfahren, die Bedingung faellt endgueltig aus und
-  es ist KEINE Abfindung zu zahlen. Genau diese Position wuerde der
+  BEWERTUNG IN BINDERS FASSUNG: Nachteilig. Derzeit gilt - stirbt Hille vor
+  der Genehmigung, endet das Verfahren, die Bedingung faellt endgueltig aus
+  und es ist KEINE Abfindung zu zahlen. Genau diese Position wuerde der
   Vorschlag beseitigen. Bei einer Lebenserwartung unter einem Jahr ist das
-  der wirtschaftlich wertvollste Posten auf Bernds Seite.
-  Zusaetzlich: Der Vorschlag legt das Ausschlagungsrecht in die Hand von
-  Anne und Jan - also derjenigen, die anschliessend den Pflichtteil
-  geltend machen koennten.
+  der wirtschaftlich wertvollste Posten auf Bernds Seite. Annes Aussage,
+  das bedeute keinen Nachteil, trifft nicht zu.
+  Verschaerfend: Schlagen Anne und Jan nach Hilles Tod aus, wird die
+  Ausschlagung wirksam - und damit entsteht der Pflichtteil, in ihren
+  Haenden. In Binders Fassung drohen 190.000 EUR UND der Pflichtteil.
+
+  ABER - UND DAS IST NEU: Derselbe Weg ist zugleich Bernds beste Chance auf
+  Rechtssicherheit. Nach Hilles Tod sind Anne und Jan voll
+  geschaeftsfaehig. Ein Vertrag mit ihnen braucht KEIN Betreuungsgericht.
+  Alles in einer Urkunde: Ausschlagung nach § 1952 BGB, Abfindung, und
+  gleichzeitig Verzicht auf Pflichtteil und Zugewinnausgleich.
+  Damit faellt die Genehmigungshuerde weg, die den Verzicht ueber das
+  Betreuungsgericht so unwahrscheinlich macht.
+
+  FOLGERUNG FUER DEN TERMIN: Bernds Ablehnung war richtig - gegen die
+  Klausel in Binders Fassung, die nur die Abfindung sichert und die
+  Abgeltung offen laesst. Als GEGENANGEBOT, erweitert um eine
+  vollstaendige Erledigungsklausel, ist derselbe Weg zu pruefen.
+  Der § 1952-Weg wechselt damit von "ablehnen" zu "als Gegenangebot
+  pruefen". Ausfuehrlich:
+  abfindungssumme_gegen_rechtssicherheit.txt Abschnitt 5.
 
 
 -------------------------------------------------------------------------------
@@ -199,7 +274,25 @@ PRIORITAET 1 - ohne diese Antworten keine Entscheidung moeglich
     § 1371 Abs. 2, 3 BGB in Betracht? Ein Ehevertrag bestand nicht.
     Ist der Anspruch an Anne und Jan vererblich? Verjaehrung?
 
- 2. Stimmt die Steuerrechnung 187.000 EUR (ohne Ausschlagung) gegen
+ 2. WIE HOCH IST DER ZUGEWINNAUSGLEICH SCHAETZUNGSWEISE? Wie laesst sich
+    das Anfangsvermoegen von Klas Krueger zum 20.11.1992 ermitteln oder
+    beweisen? Ohne diese Zahl ist nicht entscheidbar, ob 190.000 EUR
+    ueberhaupt eine verhandelbare Groesse sind. Bekannt ist nur: 2013
+    betrug sein Vermoegen 330.000 EUR, am Sterbetag 1.438.262,66 EUR.
+
+ 3. IST DAS ZIEL UEBERHAUPT ERREICHBAR? Bernd will 190.000 EUR zahlen und
+    rechtssicher vom Pflichtteil frei sein. Eigene Einschaetzung: ueber das
+    Betreuungsgericht nur 20 bis 30 Prozent. Teilt der Anwalt das? Welcher
+    Weg ist aussichtsreicher - Nachbesserung der Abfindung oder die
+    Vereinbarung mit Anne und Jan nach Hilles Tod?
+    Siehe abfindungssumme_gegen_rechtssicherheit.txt
+
+ 4. Ist ein Erlassvertrag nach § 397 BGB ueber den bereits entstandenen
+    Pflichtteilsanspruch der richtige Weg? Welche Form ist erforderlich?
+    Ist ein solcher Verzicht durch die Betreuerin genehmigungsbeduerftig
+    (§ 1854 BGB?), und wie sind die Erfolgsaussichten realistisch?
+
+ 5. Stimmt die Steuerrechnung 187.000 EUR (ohne Ausschlagung) gegen
     87.000 EUR (mit Ausschlagung)? Binder nennt fuer die Vorerbschaft
     171.000 EUR. Ist die Abfindung bei Bernd und Fabian als
     Nachlassverbindlichkeit abzugsfaehig (§ 10 Abs. 5 Nr. 3 ErbStG)? Wie
@@ -207,48 +300,97 @@ PRIORITAET 1 - ohne diese Antworten keine Entscheidung moeglich
     wirkt § 6 ErbStG zur Vor- und Nacherbschaft?
     (Ggf. Steuerberater erforderlich.)
 
- 3. Soll der Pflichtteil gegenueber Anne und Binder angesprochen werden
-    oder nicht? Siehe Abschnitt 4.
+ 5a. STEUERLAGE AUS ANNES PERSPEKTIVE - bislang nicht geprueft, aber
+    entscheidend fuer das Pflichtteilsrisiko:
+    Ist der konkrete Zugewinnausgleich nach § 1371 Abs. 2 BGB tatsaechlich
+    nach § 5 Abs. 2 ErbStG erbschaftsteuerfrei? Liegt der kleine
+    Pflichtteil von ca. 180.000 EUR unter Hilles Freibetrag von
+    500.000 EUR (02:67-68), also ebenfalls steuerfrei?
+    Wenn ja, ist der Pflichtteilsweg fuer Annes Seite wirtschaftlich
+    UEBERLEGEN - er nutzt einen Freibetrag, der bei Ausschlagung sonst
+    ungenutzt verfaellt. Das erhoeht das Risiko erheblich.
+    Ist die Pflichtteilslast bei Bernd und Fabian nach § 10 Abs. 5 Nr. 2
+    ErbStG abzugsfaehig?
+    Ausfuehrlich: pflichtteilsrisiko.txt
+
+ 6. Soll der Pflichtteil gegenueber Anne und Binder angesprochen werden
+    oder nicht? Siehe Abschnitt 4 und das dort beschriebene Dilemma.
+
+ 7. Traegt die Konstruktion: Ausschlagung durch Anne und Jan nach
+    § 1952 BGB, verbunden mit Abfindung UND vollstaendiger
+    Erledigungsklausel, alles in einer Urkunde und ohne
+    Betreuungsgericht? Laesst sich eine Bindung von Anne und Jan bereits
+    jetzt herstellen? Entsteht der Pflichtteil auch bei dieser
+    Ausschlagungsvariante, und wem steht er dann zu?
 
 PRIORITAET 2 - zur Bewertung der beiden Vorschlaege
 
- 4. Traegt die § 1952-Konstruktion? Binders Klausel verlangt eine
+ 8. Binders § 1952-Klausel verlangt eine
     "vollstaendig wirksam" erklaerte Ausschlagung - was gilt, wenn nach
     § 1952 Abs. 3 BGB nur einer der beiden Erbeserben ausschlaegt? Wie hoch
     ist das Risiko, dass Hilles Ausschlagungsfrist nach Ende der Hemmung
     ablaeuft und damit kein vererbliches Recht mehr besteht?
 
- 5. Wie muss eine Abgeltungsklausel gefasst sein, damit mit Zahlung der
+ 9. Wie muss eine Abgeltungsklausel gefasst sein, damit mit Zahlung der
     Abfindung saemtliche Ansprueche aus dem Erbfall endgueltig erledigt
-    sind? Kann die Betreuerin fuer Hille wirksam auf einen Pflichtteil
-    verzichten, und loest das ein eigenes Genehmigungsverfahren aus?
-    Welche Form ist erforderlich?
+    sind - gleich aus welchem Rechtsgrund?
 
- 6. Was bedeutet "Vermoegensstamm erhalten" bei einem aktiv gemanagten
+10. Was bedeutet "Vermoegensstamm erhalten" bei einem aktiv gemanagten
     Depot mit laufenden Umschichtungen - sind Verkaeufe und Kursverluste
     erfasst? Ist eine zeitlich und der Hoehe nach unbegrenzte
     Nachschusspflicht wirksam?
-
- 7. Ist die Doppelrolle von RA Binder zulaessig? Siehe Abschnitt 6.
-
-PRIORITAET 3 - Nebenfragen
-
- 8. Das comdirect-Depot (111.168,24 EUR) laeuft nach den Finanzreports als
-    Einzelkonto auf Klas Krueger. Anne behauptet, es sei eigentlich ein
-    Gemeinschaftskonto. Welche Bedeutung hat das fuer § 6 Abs. 1 des
-    Testaments? Faellt der Betrag vollstaendig an Bernd und Fabian?
-
- 9. Sollte Bernd kuenftig nur noch anwaltlich vertreten kommunizieren?
-
-10. Der Ergaenzungsentwurf nennt die Kosten der Beurkundung je 1/2 fuer
-    Bernd/Fabian und Hille - auch fuer eine Ergaenzung, die allein auf
-    Binders Verlangen zurueckgeht. Ueblich?
 
 11. Was tut Bernd, wenn das Betreuungsgericht den Vertrag vom 13.03.2026
     in der bestehenden Fassung genehmigt - also ohne Abgeltungsklausel?
     Dann sind 190.000 EUR zu zahlen und die Pflichtteilsfrage bleibt
     rechtlich offen. Gibt es dagegen ein Mittel, oder muss die Abgeltung
     zwingend vorher vereinbart werden?
+
+12. Ist die Doppelrolle von RA Binder zulaessig? Siehe Abschnitt 6.
+
+PRIORITAET 3 - Nebenfragen
+
+13. Das comdirect-Depot (111.168,24 EUR) laeuft nach den Finanzreports als
+    Einzelkonto auf Klas Krueger. Anne behauptet, es sei eigentlich ein
+    Gemeinschaftskonto. Welche Bedeutung hat das fuer § 6 Abs. 1 des
+    Testaments? Faellt der Betrag vollstaendig an Bernd und Fabian?
+
+14. Sollte Bernd kuenftig nur noch anwaltlich vertreten kommunizieren?
+
+15. Der Ergaenzungsentwurf nennt die Kosten der Beurkundung je 1/2 fuer
+    Bernd/Fabian und Hille - auch fuer eine Ergaenzung, die allein auf
+    Binders Verlangen zurueckgeht. Ueblich?
+
+16. VERFAHRENSDAUER: Wird die Ausschlagung erst mit RECHTSKRAFT des
+    Genehmigungsbeschlusses wirksam (so 02:93-95)? Wie lang ist die
+    Beschwerdefrist, wer ist beschwerdeberechtigt? Kann das Gericht
+    genehmigen, obwohl der Verfahrenspfleger die Genehmigung nur unter
+    einer nicht erfuellten Bedingung empfiehlt? Besteht eine Pflicht, an
+    dem Geschaeft mitzuwirken, oder genuegt die Verweigerung der
+    Unterschrift? Ausfuehrlich: verfahrensdauer.txt
+
+17. VERFAHRENSSTELLUNG: Ist Bernd im Genehmigungsverfahren Beteiligter?
+    Hat er Antrags-, Akteneinsichts- oder Beschwerderecht? Falls nein -
+    kann er dem Gericht gegenueber wirksam vortragen, und muss das Gericht
+    seinen Vortrag beruecksichtigen?
+
+18. FORMALE VORAUSSETZUNG - bislang von niemandem geprueft: Enthaelt der
+    Betreuerbeschluss vom 23.09.2025 (Az. 110 XVII (K) 1375) den
+    Aufgabenkreis "Vermoegenssorge"? RA Lockmann weist darauf hin, dass
+    dieser dem Betreuer uebertragen sein MUSS (02:86-87). Aus den
+    vorliegenden Unterlagen ergibt sich das nicht. Was folgt, wenn er
+    fehlt - ist die Ausschlagung dann schon formal unwirksam? Wie laesst
+    sich das ohne Akteneinsicht feststellen?
+
+19. ZIELKONFLIKT: Welches Ziel soll verfolgt werden - Abwehr der
+    Ergaenzung oder Versagung der Genehmigung? Welche Argumente tragen
+    eine Versagung, welche wirken kontraproduktiv? Soll der Pflichtteil
+    dem GERICHT gegenueber vorgetragen werden?
+    Ausfuehrlich: versagung_mitwirkung.txt
+
+20. Besteht ein Risiko, dass ein erkennbares Hinwirken auf die Versagung
+    Bernd schadet - etwa bei einer spaeteren Verhandlung mit Anne und Jan
+    oder in einem Rechtsstreit ueber den Pflichtteil?
 
 
 -------------------------------------------------------------------------------
@@ -298,13 +440,17 @@ Mitnehmen:
   nachlass\nachlassverheichnis.unteschrieben.pdf
   nachlass\fisher_depot\Quartalsabrechnung.erklaerung.txt  Gebuehrentragung
   analyse.20261008.txt                      ausfuehrliche Analyse
+  abfindungssumme_gegen_rechtssicherheit.txt  Erreichbarkeit Verzicht
+  verfahrensdauer.txt                       Dauer: 4-7 Monate erwartet
+  pflichtteilsrisiko.txt                    Risiko, Anspruchsinhaber
+  versagung_mitwirkung.txt                  Hebel gegen die Genehmigung
   hautschreiben.vorbereitet.20261014.txt    Entwurf Hauptschreiben
   mail_bernd_an_binder.20261008.txt         bereits versandt
   diese Datei
 
 Vorhandene, noch nicht versendete Entwuerfe eines Schreibens an Binder:
-  antwort_an_binder.bernd.txt               Variante A, Pflichtteil benannt
-  situation\anwort.bernd.binder.txt         Variante B, nur Abgeltung
+  misc\antwort_an_binder.bernd.txt               Variante A, Pflichtteil benannt
+  misc\anwort.bernd.binder.txt         Variante B, nur Abgeltung
   Beide sind vor dem 08.10. entstanden, kennen den § 1952-Vorschlag nicht
   und nennen veraltete Ertragszahlen (4.000 EUR statt 3.484,02 EUR).
   Nicht versenden, ohne sie mit dem Anwalt durchzugehen.

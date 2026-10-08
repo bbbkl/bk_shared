@@ -1,0 +1,267 @@
+===============================================================================
+KANN BERND ZUR VERSAGUNG DER GENEHMIGUNG BEITRAGEN - UND WIE?
+Stand 08.10.2026
+===============================================================================
+
+FRAGE
+Kann Bernd darauf hinwirken, dass das Betreuungsgericht die Genehmigung der
+Erbausschlagung VERSAGT? Mit welchen Mitteln?
+
+ERGEBNIS IN EINEM SATZ
+Ja, er hat mehrere wirksame Hebel - der staerkste davon ist aber zugleich
+der, der ihn selbst am meisten gefaehrdet. Und sein bislang bestes
+Sachargument wirkt in die GEGENTEILIGE Richtung.
+
+KEINE RECHTSBERATUNG. Verfahrensrechtliche Fragen (Beteiligtenstellung,
+Beschwerderecht) sind anwaltlich zu klaeren.
+
+
+-------------------------------------------------------------------------------
+1. VORFRAGE: WELCHE STELLUNG HAT BERND IM VERFAHREN?
+-------------------------------------------------------------------------------
+
+Das ist zuerst zu klaeren, weil davon alles abhaengt.
+
+Das Genehmigungsverfahren ist ein betreuungsgerichtliches Verfahren
+zwischen Gericht, Betreuter (vertreten durch Anne), und
+Verfahrenspfleger Binder. Bernd ist dort VORAUSSICHTLICH NICHT formell
+Beteiligter, sondern Dritter - Vertragspartner des Abfindungsvertrages.
+
+Daraus folgt vermutlich:
+  - kein eigenes Antragsrecht
+  - kein Akteneinsichtsrecht
+  - kein Beschwerderecht gegen eine Genehmigung
+  - aber: ein faktisches Aeusserungsrecht, das praktisch nicht zu
+    verhindern ist. Binder hat Bernd ohnehin nachrichtlich einbezogen
+    (04:111-113) und ihm sein Schreiben zugeleitet.
+
+ANWALTLICH ZU KLAEREN: Ist Bernd Beteiligter? Falls nein - kann er
+schriftlich vortragen, und muss das Gericht seinen Vortrag zur Kenntnis
+nehmen?
+
+Praktisch wichtiger als die formale Stellung ist: Das Gericht ermittelt von
+Amts wegen (02:79-80). Tatsachen, die ihm vorliegen, muss es
+beruecksichtigen - unabhaengig davon, wer sie vorgetragen hat.
+
+
+-------------------------------------------------------------------------------
+2. DER STAERKSTE HEBEL: NICHT UNTERSCHREIBEN
+-------------------------------------------------------------------------------
+
+Dies ist kein Vortrag, sondern eine Tatsache - und sie wirkt ohne jedes
+Zutun.
+
+  - Binder hat seine Empfehlung zur Genehmigung ausdruecklich davon
+    abhaengig gemacht, dass die Abfindungsvereinbarung ergaenzt wird
+    (04:83-85).
+  - Die Ergaenzung kann ohne Bernds Unterschrift nicht zustande kommen.
+  - Also kann Binder die Genehmigung nicht empfehlen.
+  - Ein Gericht, dessen Verfahrenspfleger die Genehmigung nicht empfehlen
+    kann, wird sie kaum erteilen.
+
+WIRKUNG: hoch. Erfordert keine Begruendung, kein Schreiben, keine
+Taktik - nur Nichtstun. Bernd hat diesen Hebel bereits am 05.10.2026
+gezogen (00:35).
+
+RISIKO: gering. Niemand ist verpflichtet, an einem Vertrag zugunsten
+Dritter mitzuwirken.
+
+ZU BEACHTEN: Anne und Binder arbeiten deshalb am § 1952-Weg (06) - er
+umgeht die Genehmigung vollstaendig. Der Hebel wirkt also nur fuer das
+LAUFENDE Verfahren, nicht gegen die Alternativkonstruktion. Auch die
+braucht aber Bernds Unterschrift.
+
+
+-------------------------------------------------------------------------------
+3. DAS PROBLEM: BERNDS BESTES SACHARGUMENT WIRKT FALSCH HERUM
+-------------------------------------------------------------------------------
+
+DIES IST DER ZENTRALE PUNKT UND EIN WIDERSPRUCH IN DEN BISHERIGEN
+UEBERLEGUNGEN.
+
+Der Maßstab des Gerichts ist das WOHL DER BETREUTEN (02:78-79). Die
+Genehmigung wird versagt, wenn die Ausschlagung fuer Hille NACHTEILIG
+ist.
+
+Bernds belegtes Hauptargument lautet: Die Abfindung von 190.000 EUR
+uebersteigt die entgehenden Ertraege von 3.484,02 EUR jaehrlich um ein
+Vielfaches.
+
+Das ist ein Argument DAFUER, dass das Geschaeft fuer Hille vorteilhaft
+ist - also FUER die Genehmigung.
+
+  Wer die Versagung erreichen will, muesste das Gegenteil vortragen:
+  dass die Ausschlagung fuer Hille nachteilig ist.
+
+  Wer die Ergaenzung abwehren will, traegt vor: die Abfindung ist
+  bereits ueberreichlich.
+
+DIESE BEIDEN ZIELE SIND NICHT GLEICHZEITIG ERREICHBAR.
+
+Bernd muss sich entscheiden, welches Ziel er verfolgt. Das ist die
+eigentliche Frage fuer den Anwaltstermin - und sie war in den bisherigen
+Dateien nicht klar genug herausgearbeitet.
+
+
+-------------------------------------------------------------------------------
+4. WAS TATSAECHLICH FUER EINE VERSAGUNG SPRICHT
+-------------------------------------------------------------------------------
+
+Diese Punkte wuerden eine Versagung stuetzen. Jeder hat einen Preis.
+
+a) DER PFLICHTTEIL - der wirksamste und der gefaehrlichste Punkt
+
+   Vortrag: Die Ausschlagung ist fuer Hille nachteilig, weil sie einen
+   Anspruch von ca. 180.000 EUR zuzueglich konkretem Zugewinnausgleich
+   aufgibt, ohne dass dies im Abfindungsvertrag geregelt ist.
+
+   WIRKUNG: sehr hoch. Das Gericht muesste pruefen, ob eine Abfindung von
+   190.000 EUR eine Forderung ersetzt, die potenziell das Zwei- bis
+   Dreifache betraegt. Eine Genehmigung waere dann kaum vertretbar.
+
+   PREIS: Bernd bringt Anne und Binder genau auf den Anspruch, der ihm
+   selbst am meisten schaden kann (00:33). Und er ist nach
+   pflichtteilsrisiko.txt fuer Annes Seite nahezu steuerfrei
+   vereinnahmbar.
+
+   DAS IST DAS KERNDILEMMA: Das Argument, das die Genehmigung am
+   zuverlaessigsten verhindert, ist dasselbe, das Bernd am meisten
+   gefaehrdet - falls die Ausschlagung doch wirksam wird, etwa ueber
+   § 1952 BGB.
+
+b) LOCKMANNS URSPRUENGLICHES BEDENKEN
+
+   RA Lockmann hat bereits im Februar darauf hingewiesen, dass eine
+   Versagung durchaus moeglich ist, weil der Nachlass nicht ueberschuldet
+   ist und Pflegekosten anfallen, die aus dem Niessbrauch mitfinanziert
+   werden koennten (02:81-84).
+
+   WIRKUNG: mittel. Dieses Argument stammt von Annes eigener Anwaeltin und
+   ist damit schwer zu entkraeften.
+   PREIS: keiner. Bernd muesste es nur in Erinnerung rufen.
+
+   EINSCHRAENKUNG: Mit den belegten Ertraegen von 3.484 EUR jaehrlich ist
+   der Niessbrauch zur Pflegefinanzierung praktisch wertlos. Das Argument
+   ist durch das Nachlassverzeichnis geschwaecht - von Bernd selbst.
+
+c) FORMALE VORAUSSETZUNG: AUFGABENKREIS VERMOEGENSSORGE
+
+   Lockmann weist darauf hin, dass der Aufgabenkreis "Vermoegenssorge" dem
+   Betreuer uebertragen sein MUSS (02:86-87). Ob das im Beschluss vom
+   23.09.2025 (Az. 110 XVII (K) 1375) der Fall ist, ergibt sich aus den
+   vorliegenden Unterlagen NICHT.
+
+   WIRKUNG: potenziell hoch, wenn der Aufgabenkreis fehlt - dann waere die
+   Ausschlagung schon formal unwirksam.
+   PREIS: keiner. Eine reine Rueckfrage.
+   AUFGABE: Pruefen lassen. Das ist ein Punkt, den bislang niemand
+   angesprochen hat.
+
+d) DIE ROLLENSITUATION BINDERS
+
+   Binder ist gerichtlich bestellter Verfahrenspfleger und gleichzeitig
+   von der Betreuerin mandatiert, bezahlt aus dem Vermoegen der Betreuten
+   (06:7), fuer eine Konstruktion, die wirtschaftlich Anne und Jan nuetzt.
+
+   WIRKUNG: schwer kalkulierbar. Es koennte das Gericht veranlassen, die
+   Empfehlung kritischer zu pruefen oder einen neuen Verfahrenspfleger zu
+   bestellen - was das Verfahren verzoegert.
+   PREIS: erheblicher Konflikt mit Binder und Anne. Gehoert, wenn
+   ueberhaupt, in ein Schreiben des eigenen Anwalts an das Gericht, nicht
+   in eine Mail an Binder.
+
+e) DIE WIDERSPRUECHLICHE BEWERTUNGSGRUNDLAGE
+
+   Die Abfindung beruht auf einer Annahme von 27.150 EUR Jahresertrag, die
+   tatsaechlichen Ertraege betragen 3.484,02 EUR. Vortrag: Das Geschaeft
+   wurde auf unzutreffender Grundlage geschlossen, eine tragfaehige
+   Bewertung liegt nicht vor.
+
+   WIRKUNG: mittel, aber ZWEISCHNEIDIG. Es belegt einen Mangel der
+   Entscheidungsgrundlage - gleichzeitig zeigt es, dass Hille gut
+   wegkommt. Siehe Abschnitt 3.
+
+
+-------------------------------------------------------------------------------
+5. WAS BERND NICHT TUN SOLLTE
+-------------------------------------------------------------------------------
+
+  - Auf die Lebenserwartung der Betreuten abstellen. Binder hat
+    ausdruecklich festgehalten, dass sich dies verbietet (04:71-73). Ein
+    solcher Vortrag wuerde Bernds Motivlage offenlegen und waere
+    aktenkundig.
+  - Scheinverhandeln, um Zeit zu gewinnen. Siehe verfahrensdauer.txt
+    Abschnitt 4.
+  - Dem Gericht einen Steuervorteil als Ablehnungsgrund praesentieren.
+    Die Steuerersparnis ist der Hauptzweck des Geschaefts (04:36) und
+    spricht fuer Anne, nicht fuer Bernd.
+  - Mehrere Argumente gleichzeitig vortragen, die sich widersprechen -
+    insbesondere "die Abfindung ist zu hoch" und "die Ausschlagung ist
+    nachteilig" im selben Schreiben.
+
+
+-------------------------------------------------------------------------------
+6. EMPFEHLUNG
+-------------------------------------------------------------------------------
+
+STUFE 1 - ohne jedes Risiko, sofort umsetzbar
+  Nicht unterschreiben. Das genuegt wahrscheinlich bereits, um die
+  Genehmigung zu verhindern, solange Binder seine Empfehlung an die
+  Ergaenzung bindet (Abschnitt 2).
+
+STUFE 2 - ohne Risiko, nur eine Rueckfrage
+  Pruefen lassen, ob der Aufgabenkreis "Vermoegenssorge" im Beschluss vom
+  23.09.2025 enthalten ist (Abschnitt 4c). Falls nicht, ist die
+  Ausschlagung moeglicherweise schon formal unwirksam.
+
+STUFE 3 - nur nach anwaltlicher Beratung
+  Den Pflichtteil vortragen (Abschnitt 4a). Hochwirksam, aber es offenbart
+  der Gegenseite den Anspruch. Nur sinnvoll, wenn Bernd sich entschieden
+  hat, die Ausschlagung endgueltig nicht zu wollen - denn sobald der
+  Anspruch bekannt ist, ist er in jeder spaeteren Verhandlung auf dem
+  Tisch.
+
+NICHT EMPFOHLEN ohne eigenen Anwalt
+  Rollenkonflikt Binders ansprechen (Abschnitt 4d).
+
+ENTSCHEIDENDE VORFRAGE
+  Will Bernd die Versagung ueberhaupt? Nach pflichtteilsrisiko.txt ist die
+  Versagung fuer ihn das guenstigste Ergebnis: keine Abfindung, kein
+  Pflichtteil, dafuer ca. 90.000 EUR mehr Erbschaftsteuer. Wenn er das so
+  sieht, ist Stufe 1 und 2 der Weg - und Stufe 3 die Reserve.
+
+
+-------------------------------------------------------------------------------
+7. FRAGEN FUER DEN ANWALTSTERMIN
+-------------------------------------------------------------------------------
+
+ 1. Ist Bernd im betreuungsgerichtlichen Genehmigungsverfahren
+    Beteiligter? Hat er Antrags-, Akteneinsichts- oder Beschwerderecht?
+    Falls nein: Kann er dem Gericht gegenueber wirksam vortragen?
+
+ 2. Enthaelt der Betreuerbeschluss vom 23.09.2025 (Az. 110 XVII (K) 1375)
+    den Aufgabenkreis "Vermoegenssorge"? Wie laesst sich das feststellen,
+    wenn Bernd keine Akteneinsicht hat? Was folgt, wenn er fehlt?
+
+ 3. Kann das Gericht genehmigen, obwohl der Verfahrenspfleger die
+    Genehmigung nur unter einer nicht erfuellten Bedingung empfiehlt?
+
+ 4. Welche Argumente wuerden aus anwaltlicher Sicht eine Versagung am
+    ehesten tragen - und welche wirken kontraproduktiv?
+
+ 5. Soll der Pflichtteil dem Gericht gegenueber vorgetragen werden? Das
+    ist dieselbe Entscheidung wie Entscheidung 1 des Hauptschreibens, nur
+    mit anderem Adressaten und groesserer Reichweite.
+
+ 6. Besteht ein Risiko, dass ein erkennbares Hinwirken auf die Versagung
+    Bernd schadet - etwa bei einer spaeteren Verhandlung mit Anne und Jan
+    oder in einem Rechtsstreit ueber den Pflichtteil?
+
+
+===============================================================================
+Grundlagen: analyse.20261008.txt, pflichtteilsrisiko.txt,
+            verfahrensdauer.txt,
+            abfindungssumme_gegen_rechtssicherheit.txt,
+            anwaltstermin.20261014.txt
+Erstellt: 08.10.2026
+===============================================================================
