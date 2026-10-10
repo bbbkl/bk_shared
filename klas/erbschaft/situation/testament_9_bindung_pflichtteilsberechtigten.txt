@@ -1,0 +1,109 @@
+================================================================================
+ERLAEUTERUNG ZU § 9 DES TESTAMENTS VOM 20.11.2013
+"Auf das Anfechtungsrecht wegen Uebergehung eines Pflichtteilsberechtigten
+ verzichten wir."
+================================================================================
+Quelle: 01_testamtent_krueger.txt, Zeile 127 (§ 9 Bindung)
+Stand:  10.10.2026
+Hinweis: Einordnung der Textstelle, keine Rechtsberatung.
+
+
+1. RECHTLICHER HINTERGRUND: § 2079 BGB
+--------------------------------------------------------------------------------
+Die Klausel bezieht sich auf § 2079 BGB ("Anfechtung wegen Uebergehung eines
+Pflichtteilsberechtigten"):
+
+    Eine Verfuegung von Todes wegen kann angefochten werden, wenn der
+    Erblasser einen beim Erbfall vorhandenen Pflichtteilsberechtigten
+    uebergangen hat, dessen Vorhandensein ihm bei der Errichtung nicht
+    bekannt war oder der erst spaeter geboren oder pflichtteilsberechtigt
+    geworden ist.
+
+Das Gesetz unterstellt dabei einen Motivirrtum: Haette der Erblasser von dem
+Pflichtteilsberechtigten gewusst, haette er vermutlich anders verfuegt.
+Deshalb darf angefochten werden - mit der Folge, dass die betroffene
+Verfuegung (ggf. das ganze Testament) rueckwirkend unwirksam wird und
+gesetzliche Erbfolge eintritt.
+
+
+2. WAS DER VERZICHT HIER KONKRET BEWIRKT
+--------------------------------------------------------------------------------
+Bei einem gemeinschaftlichen Testament ist die Anfechtung besonders brisant,
+weil der ueberlebende Ehegatte nach §§ 2271, 2281 BGB seine eigene
+wechselbezuegliche Verfuegung anfechten kann - und nach § 9 Nr. 2 des
+Testaments (Zeile 129) die Unwirksamkeit "des Testamentes insgesamt" zur
+Folge haette.
+
+Mit dem Verzicht in Zeile 127 schliessen Klas und Hille also aus, dass z. B.
+folgende Konstellationen die Konstruktion aus Vor-/Nacherbfolge und
+Niessbrauch zum Einsturz bringen:
+
+  - ein weiteres, bei Beurkundung 2013 unbekanntes Kind eines der Ehegatten
+    taucht auf
+  - ein Abkoemmling wird nach 2013 geboren (z. B. ein weiteres Enkelkind)
+  - jemand wird erst spaeter pflichtteilsberechtigt (etwa durch Wegfall
+    eines vorrangigen Abkoemmlings)
+
+Die Klausel ist damit eine Bestandsschutz-Klausel: Das Testament soll
+stehenbleiben, auch wenn sich der Kreis der Pflichtteilsberechtigten aendert.
+Notariell absolut ueblich und in dieser Form wirksam, weil das
+Anfechtungsrecht aus § 2079 BGB disponibel ist.
+
+
+3. ENTSCHEIDEND FUER DEN VORLIEGENDEN FALL: WAS DER VERZICHT NICHT BEWIRKT
+--------------------------------------------------------------------------------
+Dies ist der Punkt, der mit 00_kontext.txt Zeile 31 zusammenhaengt:
+
+    >>> Der Verzicht auf das Anfechtungsrecht ist KEIN Pflichtteilsverzicht. <<<
+
+Zwei voellig getrennte Rechte:
+
+  Kriterium        | § 2079 BGB - Anfechtung      | § 2303 BGB - Pflichtteil
+  -----------------+------------------------------+---------------------------
+  Inhalt           | Testament kippen,            | Geldanspruch gegen
+                   | gesetzliche Erbfolge         | den Nachlass
+  -----------------+------------------------------+---------------------------
+  In § 9 geregelt? | JA, verzichtet               | NEIN, unberuehrt
+  -----------------+------------------------------+---------------------------
+  Form des         | einfache Erklaerung          | nur notarieller Erbver-
+  Verzichts        | genuegt                      | zichtsvertrag ZU LEBZEITEN
+                   |                              | des Erblassers,
+                   |                              | §§ 2346 f. BGB
+
+Ein Pflichtteilsverzicht haette 2013 nur als eigener notarieller Vertrag nach
+§ 2346 BGB vereinbart werden koennen - und ist im Testament nicht enthalten.
+Nach dem Tod von Klas (05.02.2026) ist ein solcher Verzicht nicht mehr
+moeglich; es gaebe nur noch einen Erlassvertrag ueber den konkreten
+Pflichtteilsanspruch (§ 397 BGB) - und genau der fehlt im Abfindungsvertrag
+(03_abfindungsvertrag.txt).
+
+
+4. PRAKTISCHE KONSEQUENZ
+--------------------------------------------------------------------------------
+Hille ist als nicht befreite Vorerbin mit Beschraenkungen belastet. Nach
+§ 2306 Abs. 1 BGB darf sie deshalb ausschlagen UND trotzdem den Pflichtteil
+verlangen. Dieses Wahlrecht wird durch § 9 des Testaments in keiner Weise
+beschnitten.
+
+Bei Ausschlagung durch die Ehefrau greift zudem § 1371 Abs. 3 BGB: dann
+"kleiner Pflichtteil" (1/8) PLUS konkreter Zugewinnausgleich nach
+§§ 1373 ff. BGB - was bei einem Depot von 1.450.000 EUR und keinem Ehevertrag
+erheblich sein kann.
+
+Das ist exakt die Luecke, die in 00_kontext.txt Zeile 31 identifiziert wurde:
+Die Ausschlagung im Abfindungsvertrag beseitigt Hilles Erbenstellung, aber
+nicht automatisch ihren Pflichtteilsanspruch. Der Anfechtungsverzicht in § 9
+hilft dagegen nicht.
+
+
+5. OFFENE PUNKTE / HANDLUNGSBEDARF
+--------------------------------------------------------------------------------
+  - Vor Unterzeichnung einer Ergaenzung (05_abfindungsvertrag_ergaenzung.txt)
+    sollte anwaltlich geklaert werden, ob und in welcher Hoehe hier ein
+    Pflichtteil nebst Zugewinnausgleich im Raum steht.
+  - Zu beachten: Herr Binder ist als vom Betreuungsgericht hinzugezogener
+    Gutachter nicht Interessenvertreter von Bernd/Fabian.
+  - Im Abfindungsvertrag fehlt eine Abgeltungsklausel ("mit Zahlung der
+    Abfindung sind alle Ansprueche - insbesondere Pflichtteil und
+    Zugewinnausgleich - abgegolten"). Nachverhandlung pruefen.
+================================================================================
