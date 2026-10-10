@@ -1,0 +1,456 @@
+===============================================================================
+BESPRECHUNGSPAPIER - PFLICHTTEILSANSPRUCH BEI WIRKSAMER AUSSCHLAGUNG
+Anwaltstermin 14.10.2026 - Bernd Krueger
+Erbfall Klas Krueger, verstorben 05.02.2026
+===============================================================================
+
+ZWECK DIESES PAPIERS
+  Es beantwortet eine einzelne Frage und bereitet sie fuer den Termin auf:
+
+    Wenn der Abfindungsvertrag vom 13.03.2026 (03) in seiner bestehenden
+    Fassung zum Zuge kommt - besteht dann ein Pflichtteilsanspruch?
+
+  Es ist eine Zuspitzung, keine Ersetzung von anwaltstermin.20261014.txt.
+  Die dortigen Abschnitte 4 und 7 (Fragen 1, 2, 4, 5a, 9) bleiben
+  maßgeblich. Querverweise am Ende.
+
+KEINE RECHTSBERATUNG. Alle Paragraphen- und Betragsangaben sind
+Einschaetzungen auf Grundlage der vorliegenden Unterlagen und anwaltlich
+bzw. steuerlich zu verifizieren.
+
+
+-------------------------------------------------------------------------------
+1. ANTWORT IN DREI SAETZEN
+-------------------------------------------------------------------------------
+
+JA. Mit wirksamer Ausschlagung entsteht ein Pflichtteilsanspruch von Hille
+Krueger - zusaetzlich zu den 190.000 EUR Abfindung.
+
+Die Ausschlagung ist nicht der Ausschluss, sondern der AUSLOESER des
+Anspruchs (§ 2306 Abs. 1 BGB).
+
+Der Verzicht in § 9 des Testaments aendert daran nichts; er betrifft ein
+anderes Rechtsinstitut.
+
+
+-------------------------------------------------------------------------------
+2. WARUM DIE AUSSCHLAGUNG DEN ANSPRUCH ERST ERZEUGT
+-------------------------------------------------------------------------------
+
+§ 2306 Abs. 1 BGB ist der Hebel.
+
+Hille ist in § 5 des Testaments (01:78-80) als NICHT BEFREITE VORERBIN
+eingesetzt. Dazu kommen:
+  - Nacherbeneinsetzung Bernd/Fabian je 1/2         (01:84-87)
+  - Vorausvermaechtnis Niessbrauch                  (01:96-97)
+  - Testamentsvollstreckung                         (01:120-122)
+
+Nacherbeneinsetzung, Vermaechtnisbeschwerung und Testamentsvollstreckung
+sind die in § 2306 Abs. 1 BGB ausdruecklich genannten Beschraenkungen und
+Beschwerungen.
+
+FOLGE: Der beschraenkt eingesetzte Pflichtteilsberechtigte darf ausschlagen
+UND behaelt den Pflichtteil - abweichend von §§ 2303, 1953 BGB, wo die
+Ausschlagung den Pflichtteil normalerweise vernichtet.
+
+Das ist kein Nebeneffekt, sondern der gesetzliche Normalfall.
+
+GEGENPROBE
+  Ohne Ausschlagung - also wenn die Genehmigung versagt wird - bleibt Hille
+  Vorerbin. Dann KEIN Pflichtteil. Der Anspruch entsteht also genau in dem
+  Szenario, auf das der Vertrag hinarbeitet.
+
+  Dies deckt sich mit anwaltstermin.20261014.txt Abschnitt 4 ("Abwarten ist
+  der einzige Weg mit null Rechtsrisiko") und
+  pflichtteilsrisiko.txt Abschnitt 4 Folgerung 3.
+
+ERGAENZEND § 2307 BGB
+  Fuer das Vorausvermaechtnis (Niessbrauch an den Kapitalanlagen). Wird
+  auch das Vermaechtnis ausgeschlagen, bleibt der Pflichtteil ebenfalls
+  erhalten.
+
+  OFFEN: Die Ausschlagungserklaerung vom 13.03.2026 spricht nur von "die
+  Ausschlagung der Erbschaft nach dem Erblasser aus allen
+  Berufungsgruenden" (03:38-40). Die Vermaechtnisausschlagung nach
+  § 2180 BGB ist ein eigener Akt. Ob sie erklaert wurde, ergibt sich aus
+  den vorliegenden Unterlagen nicht. -> Frage 3 unten.
+
+
+-------------------------------------------------------------------------------
+3. § 9 DES TESTAMENTS HILFT NICHT - VERWECHSLUNG ZWEIER INSTITUTE
+-------------------------------------------------------------------------------
+
+Wortlaut (01:127, in § 9 "Bindung"):
+
+    "Auf das Anfechtungsrecht wegen Uebergehung eines
+     Pflichtteilsberechtigten verzichten wir."
+
+Das ist ein Verzicht auf § 2079 BGB - das Anfechtungsrecht DER TESTIERENDEN
+gegen IHR EIGENES Testament, wenn sich herausstellt, dass ein
+Pflichtteilsberechtigter irrtuemlich uebergangen wurde. Zweck:
+Bestandssicherung des gemeinschaftlichen Testaments. Daher auch die
+Platzierung in § 9 "Bindung" und nicht im Pflichtteilskontext.
+
+  Kriterium        | § 2079 BGB (Testament § 9)  | Pflichtteilsverzicht
+  -----------------+-----------------------------+--------------------------
+  Wer verzichtet   | die Erblasser               | der Pflichtteils-
+                   | (Klas und Hille)            | berechtigte
+  -----------------+-----------------------------+--------------------------
+  Worauf           | Anfechtung des Testaments   | eigener Zahlungsanspruch
+  -----------------+-----------------------------+--------------------------
+  Rechtsfolge      | Testament kippt,            | Geldanspruch gegen
+                   | gesetzliche Erbfolge        | den Nachlass
+  -----------------+-----------------------------+--------------------------
+  Form             | im Testament moeglich       | §§ 2346 Abs. 2, 2348 BGB:
+                   |                             | notarieller Vertrag mit
+                   |                             | dem Erblasser, ZU DESSEN
+                   |                             | LEBZEITEN
+  -----------------+-----------------------------+--------------------------
+  In § 9 geregelt? | JA, verzichtet              | NEIN, unberuehrt
+
+Ein wirksamer Pflichtteilsverzicht haette nur VOR DEM 05.02.2026 zwischen
+Klas und Hille notariell geschlossen werden koennen. Das ist nicht
+geschehen und ist nicht mehr nachholbar.
+
+Nach dem Erbfall bleibt nur ein Erlass- bzw. Abgeltungsvertrag ueber den
+bereits entstandenen Anspruch (§ 397 BGB). Genau dieser fehlt.
+
+Ausfuehrliche Einordnung der Klausel:
+testament_9_bindung_pflichtteilsberechtigten.txt
+
+
+-------------------------------------------------------------------------------
+4. DER VERTRAG ENTHAELT KEINE ABGELTUNG - BEFUND AM TEXT
+-------------------------------------------------------------------------------
+
+Durchgesehen wurde der Vertrag vom 13.03.2026 (03) vollstaendig:
+
+  § 1 Vorbemerkung                  Testament, Erbfall
+  § 2 Ausschlagung                  Erklaerung, Genehmigungsantrag
+  § 3 Abfindung                     190.000 EUR, Raten, Bedingung
+  § 4 Zwangsvollstreckungsunterwerfung
+  § 5 Kosten
+  § 6 Schlussbestimmungen           Bedingungsfeindlichkeit,
+                                    Steuerberatung, Abschriften
+
+KEINE Abgeltungs-, Erledigungs- oder Verzichtsklausel. § 6 (03:87-98)
+behandelt ausschliesslich die drei genannten Punkte.
+
+Ebenso fehlt sie in:
+  - dem Ergaenzungsentwurf vom 28.09.2026 (05) - dort nur
+    Nachlassverzeichnis, Stammerhaltung, Nachzahlung
+  - dem § 1952-Vorschlag vom 08.10.2026 (06:39) - dort nur Faelligkeit
+    der Abfindung
+
+Der Punkt ist damit in KEINEM der drei Dokumente geregelt.
+
+SCHWEIGEN IST KEIN VERZICHT. Dass Anne Weniger und RA Binder den Punkt
+bislang nicht erwaehnt haben (00:33), beseitigt den Anspruch nicht. Er
+bleibt bestehen, bis er erfuellt, nach § 397 BGB erlassen oder verjaehrt
+ist.
+
+
+-------------------------------------------------------------------------------
+5. GROESSENORDNUNG - UND EIN OFFENER STREITPUNKT
+-------------------------------------------------------------------------------
+
+GESETZLICHER ERBTEIL HILLE
+  § 1931 Abs. 1 BGB   1/4 neben zwei Kindern
+  § 1371 Abs. 1 BGB   1/4 pauschaler Zugewinnausgleich
+  --------------------------------------------------
+  zusammen            1/2        -> Pflichtteil = 1/4
+
+Nachlass am Sterbetag: 1.438.262,66 EUR (Nachlassverzeichnis).
+
+  Variante                                      Betrag
+  ------------------------------------------------------------------------
+  "grosser" Pflichtteil 1/4                ca. 359.600 EUR
+  ------------------------------------------------------------------------
+  "kleiner" Pflichtteil 1/8                ca. 179.800 EUR
+  PLUS konkreter Zugewinnausgleich          nicht bezifferbar
+  nach § 1371 Abs. 2, 3 BGB
+  ------------------------------------------------------------------------
+
+ABWEICHUNG ZU DEN BISHERIGEN DATEIEN - IM TERMIN ZU KLAEREN
+
+  anwaltstermin.20261014.txt Abschnitt 4 und
+  testament_9_bindung_pflichtteilsberechtigten.txt Abschnitt 4 gehen ohne
+  Weiteres von § 1371 Abs. 3 BGB aus, also kleiner Pflichtteil plus
+  konkreter Zugewinnausgleich.
+
+  Das ist bei einer Ausschlagung der Normalfall. Hier liegt aber keine
+  normale Ausschlagung vor, sondern eine nach § 2306 Abs. 1 BGB. Es ist
+  umstritten, ob § 1371 Abs. 3 BGB in dieser Konstellation ueberhaupt
+  greift: § 2306 soll dem beschraenkt eingesetzten Erben gerade den VOLLEN
+  Pflichtteil erhalten, nicht den reduzierten.
+
+  Die bisherigen Dateien behandeln die Frage als entschieden. Sie ist es
+  nach hiesiger Einschaetzung nicht. -> Frage 1 unten.
+
+PRAKTISCHE KONSEQUENZ: Beide Wege fuehren zu Betraegen deutlich ueber
+190.000 EUR. Der konkrete Zugewinnausgleich ist hier nicht zu
+unterschaetzen - Ehe seit 20.11.1992, kein Ehevertrag (00:10), Vermoegen
+Klas 2013 noch 330.000 EUR (01:145), am Sterbetag 1.438.262,66 EUR. Die
+"kleine" Variante koennte daher sogar die teurere sein.
+
+WEITERE MOEGLICHE ERHOEHUNGSPOSTEN
+  - § 2325 BGB Pflichtteilsergaenzung bei Schenkungen in den letzten
+    10 Jahren
+  - comdirect-Depot 111.168,24 EUR: gehoert es zum Nachlass, erhoeht es
+    die Bemessungsgrundlage
+
+
+-------------------------------------------------------------------------------
+6. WIRTSCHAFTLICHE FOLGEN FUER BERND UND FABIAN
+-------------------------------------------------------------------------------
+
+a) DER ANSPRUCH IST VERERBLICH (§ 2317 Abs. 2 BGB)
+   Er entsteht als Geldanspruch und faellt bei Hilles Tod in ihren
+   Nachlass - also an Anne und Jan (01:44-45, 04:26). Hilles kurze
+   Lebenserwartung schuetzt die Nacherben hier NICHT; sie verschiebt nur
+   den Glaeubiger.
+
+b) SCHULDNER SIND BERND UND FABIAN PERSOENLICH
+   Als Erben (03:43-45) haften sie fuer den Pflichtteil als
+   Nachlassverbindlichkeit - zusaetzlich zu den 190.000 EUR aus § 3 und
+   zusaetzlich zur Zwangsvollstreckungsunterwerfung aus § 4.
+
+c) SOFORT FAELLIG, LANGES ZEITFENSTER
+   Keine Stundung ohne § 2331a BGB. Verjaehrung 3 Jahre ab Kenntnis
+   (§§ 195, 199, § 2332 Abs. 1 BGB) - Risikofenster voraussichtlich bis
+   Ende 2029 oder spaeter. Mit Zahlung der Abfindung ist nichts erledigt.
+
+d) ANNE IST ALS BETREUERIN MOEGLICHERWEISE ZUR GELTENDMACHUNG VERPFLICHTET
+   Im Rahmen der Vermoegenssorge muss sie werthaltige Ansprueche
+   verfolgen. Dass ihr und RA Binder die Frage bislang nicht aufgefallen
+   ist, ist kein Verlass.
+
+e) DAS GENEHMIGUNGSVERFAHREN WIRD DADURCH SCHWERER, NICHT LEICHTER
+   Binders Pruefmaßstab ist, ob die Abfindung die entgehenden Zufluesse
+   ersetzt (04:79-81). Wird sichtbar, dass die Betreute bei Ausschlagung
+   einen Anspruch in dieser Groessenordnung haette, den der Vertrag nicht
+   adressiert, wird eine Genehmigung gegen NUR 190.000 EUR
+   unwahrscheinlicher.
+
+   AMBIVALENT FUER BERND: Das erhoeht die Chance, dass die Genehmigung
+   scheitert und nach § 3 Satz 3 (03:55-56) gar keine Abfindung faellig
+   wird. Beruehrt unmittelbar den Zielkonflikt in
+   anwaltstermin.20261014.txt Abschnitt 1 und versagung_mitwirkung.txt.
+
+f) DER § 1952-VORSCHLAG VERSCHAERFT DAS PROBLEM
+   Binders Option (06:30-42): Anne und Jan erben das Ausschlagungsrecht
+   und ueben es nach Hilles Tod aus - OHNE betreuungsgerichtliche
+   Genehmigung. Damit entfaellt die gerichtliche Kontrolle, die derzeit
+   faktisch der einzige Schutz gegen die Kombination
+   "190.000 EUR Abfindung PLUS Pflichtteil" ist. Und die Ausschlagung
+   erfolgt dann durch dieselben Personen, die anschliessend den
+   Pflichtteil erben.
+
+   ZUGLEICH ist derselbe Weg die beste Chance auf Rechtssicherheit, weil
+   nach Hilles Tod kein Gericht mehr beteiligt ist und alles in einer
+   Urkunde geregelt werden kann. Ausfuehrlich:
+   abfindungssumme_gegen_rechtssicherheit.txt Abschnitt 5 und
+   anwaltstermin.20261014.txt Abschnitt 5 Vorschlag 2.
+
+g) GESAMTPAKET DER ERGAENZUNG (05) IST UNAUSGEWOGEN
+   Stammerhaltungspflicht (05:43-44) und unbegrenzte Nachzahlungspflicht
+   bei Ueberschreiten der 190.000 EUR (05:54-56), nach oben offen - kein
+   Schutz nach unten, plus offener Pflichtteil.
+
+
+-------------------------------------------------------------------------------
+7. EINORDNUNG DER RECHENBASIS
+-------------------------------------------------------------------------------
+
+Passend zum Pflichtteilsbefund:
+
+  tatsaechliche Nettoertraege 2025            3.707,41 EUR
+  Annes/Binders Annahme Jahresrendite        27.150,00 EUR   (04:40-42)
+  ------------------------------------------------------------------
+  Faktor                                        ca. 7,3
+
+Binder selbst schreibt, die 190.000 EUR seien "letztlich nicht bewertbar"
+(04:76).
+
+Beides zusammen - unrealistische Renditeannahme UND nicht geregelter
+Pflichtteil - bedeutet: Die Abfindungssumme steht auf keiner belastbaren
+Grundlage. Zahlen und Gebuehrenfehler: anwaltstermin.20261014.txt
+Abschnitt 3 (dort auch der Bereinigungshinweis fuer 2026).
+
+
+-------------------------------------------------------------------------------
+8. FRAGEN FUER DEN TERMIN - PFLICHTTEIL
+-------------------------------------------------------------------------------
+
+ 1. GROSSER ODER KLEINER PFLICHTTEIL?
+    Greift § 1371 Abs. 3 BGB auch bei einer Ausschlagung nach
+    § 2306 Abs. 1 BGB, oder bleibt es beim grossen Pflichtteil von 1/4,
+    weil § 2306 dem beschraenkten Erben den vollen Pflichtteil erhalten
+    soll? Die bisherigen Unterlagen behandeln dies als entschieden -
+    ist es das?
+
+ 2. HOEHE DES KONKRETEN ZUGEWINNAUSGLEICHS
+    Wie laesst sich das Anfangsvermoegen beider Ehegatten zum 20.11.1992
+    ermitteln oder beweisen? Welche Variante ist im Ergebnis die teurere?
+    Ohne diese Zahl ist nicht entscheidbar, ob 190.000 EUR eine
+    verhandelbare Groesse sind.
+
+ 3. UMFASST DIE AUSSCHLAGUNG AUCH DAS VORAUSVERMAECHTNIS?
+    03:38-40 nennt nur die Erbschaft "aus allen Berufungsgruenden". Die
+    Vermaechtnisausschlagung nach § 2180 BGB ist ein eigener Akt. Welche
+    Folge hat es fuer § 2307 BGB, wenn sie nicht erklaert wurde?
+
+ 4. ABGELTUNGSKLAUSEL - FASSUNG UND REICHWEITE
+    Wie muss sie gefasst sein, damit mit Zahlung der Abfindung saemtliche
+    Ansprueche aus dem Erbfall endgueltig erledigt sind - gleich aus
+    welchem Rechtsgrund? Ausdruecklich zu erfassen:
+      - Pflichtteil (§ 2303, § 2306 BGB)
+      - Pflichtteilsergaenzung (§ 2325 BGB)
+      - konkreter Zugewinnausgleich (§ 1371 Abs. 2 BGB)
+      - Vermaechtnisse (§ 6 des Testaments)
+      - comdirect-Streit
+
+ 5. GENEHMIGUNGSFAEHIGKEIT EINES VERZICHTS
+    Anne kann fuer Hille nur mit betreuungsgerichtlicher Genehmigung
+    verzichten (§ 1854 BGB?). Genehmigt ein Gericht einen Verzicht auf
+    einen sechsstelligen Anspruch gegen 190.000 EUR? Eigene Einschaetzung
+    bislang: 20 bis 30 Prozent
+    (abfindungssumme_gegen_rechtssicherheit.txt).
+
+ 6. DIE STRATEGISCHE KERNFRAGE
+    Ist die Abfindungsloesung fuer Bernd und Fabian ueberhaupt
+    vorteilhaft - oder ist das Scheitern der Genehmigung das bessere
+    Ergebnis?
+
+ 7. STEUERLAGE AUF ANNES SEITE
+    Traegt die Annahme, dass der Pflichtteilsweg fuer Annes Seite nahezu
+    steuerfrei ist (§ 5 Abs. 2 ErbStG fuer den konkreten
+    Zugewinnausgleich; Freibetrag 500.000 EUR fuer den kleinen
+    Pflichtteil)? Diese Frage traegt die gesamte Risikoeinschaetzung.
+    Ausfuehrlich: pflichtteilsrisiko.txt Abschnitt 3 und
+    anwaltstermin.20261014.txt Frage 5a.
+
+ 8. VERTEIDIGUNGSLINIE, falls der Anspruch nach Zahlung erhoben wird
+    Planwidrige Regelungsluecke mit ergaenzender Auslegung, § 313 BGB,
+    § 779 BGB, § 242 BGB - was traegt? Aufrechnung, Rueckforderung oder
+    Anfechtung? Ausfuehrlich: vertragsgrundlage_irrtum.txt.
+
+ 9. ANSPRECHEN ODER NICHT?
+    Das Dilemma aus anwaltstermin.20261014.txt Abschnitt 4 bleibt offen:
+    Wer den Verzicht verlangt, loest die Pruefung aus, die den Verzicht
+    verhindert. Zu entscheiden ist zugleich, ob der Punkt dem GERICHT
+    gegenueber vorgetragen wird.
+
+
+-------------------------------------------------------------------------------
+9. VERGLEICHSRECHNUNG - IM TERMIN ZU VERIFIZIEREN
+-------------------------------------------------------------------------------
+
+  Szenario                          Zahlung    Steuer   Pflichtteil   Summe
+  --------------------------------------------------------------------------
+  A  Genehmigung scheitert,               0  ~187.000          0   187.000
+     Vorerbschaft bleibt
+  --------------------------------------------------------------------------
+  B  Genehmigung, Vertrag 03        190.000  ~ 87.000    offen,      offen
+     ohne Abgeltung                                   180-360 Tsd.
+  --------------------------------------------------------------------------
+  C  Genehmigung mit wirksamer      190.000  ~ 87.000          0   277.000
+     Gesamtabgeltung
+  --------------------------------------------------------------------------
+
+Die Steuerzahlen stammen aus einer eigenen Schaetzung von Bernd
+(Februar 2026) und sind UNGEPRUEFT. Sie tragen die ganze Rechnung - erste
+Bitte an den Anwalt: verifizieren oder verifizieren lassen.
+
+Szenario B ist fuer Bernd deutlich schlechter als A. Daraus folgt: Eine
+Abgeltungsklausel ist keine Verhandlungsposition, sondern Bedingung.
+
+
+-------------------------------------------------------------------------------
+10. VORGESCHLAGENES VORGEHEN
+-------------------------------------------------------------------------------
+
+  [ ] Fragen 1 und 2 klaeren - Quote und Zugewinnausgleich beziffern,
+      auf Basis des seit 08.10.2026 vollstaendig vorliegenden
+      Nachlassverzeichnisses
+
+  [ ] Abgeltungsklausel entwerfen lassen - als Bedingung fuer JEDE
+      weitere Unterschrift, ob Ergaenzung nach 05 oder § 1952-Variante
+
+  [ ] Keine Zustimmung zum § 1952-Vorschlag in Binders Fassung, solange
+      die Abgeltung nicht geregelt ist. Als Gegenangebot mit
+      vollstaendiger Erledigungsklausel pruefen.
+
+  [ ] Vergleichsrechnung Abschnitt 9 verifizieren
+
+  [ ] Entscheidung zu Frage 9 (ansprechen oder nicht) treffen und im
+      Hauptschreiben umsetzen - Baustein 5A oder 5B in
+      hautschreiben.vorbereitet.20261014.txt
+
+  [ ] Kommunikationsdisziplin beibehalten. Die Mail vom 08.10.2026 (07)
+      haelt Pflichtteil und Abgeltungsklausel korrekt zurueck. Binder
+      sendet nachrichtlich an das Betreuungsgericht (04:111-113) - jede
+      Aeusserung wird Aktenbestandteil.
+
+ZEITLICHE LAGE
+  RA Binder ist ab 10.10.2026 zwei Wochen abwesend (00:40). Kein
+  Zeitdruck auf Bernds Seite. Angekuendigt ist eine Aeusserung "in der
+  kommenden Woche" (07). Der Zeitdruck liegt bei Anne: Laeuft Hilles
+  Ausschlagungsfrist nach Ende der Hemmung ab, entfaellt auch das ueber
+  § 1952 BGB vererbliche Ausschlagungsrecht (06:45).
+
+
+-------------------------------------------------------------------------------
+11. OFFENE PUNKTE, ZU DENEN DIE UNTERLAGEN NICHTS ERGEBEN
+-------------------------------------------------------------------------------
+
+  - Anfangsvermoegen beider Ehegatten bei Eheschliessung 20.11.1992
+    (Grundlage des konkreten Zugewinnausgleichs)
+  - Schenkungen von Klas in den 10 Jahren vor dem Tod (§ 2325 BGB)
+  - Zuordnung des comdirect-Depots (111.168,24 EUR) - Einzelkonto nach
+    den Finanzreports, Gemeinschaftskonto nach Annes Behauptung (00:22)
+  - Ob das Wohnungseigentum Uferstrasse 2 allein Hille gehoert. Das
+    Niessbrauchsvermaechtnis in 01:58 spricht dafuer, dass es IHR
+    Eigentum war - dann nicht im Nachlass von Klas.
+  - Ob die Ausschlagung vom 13.03.2026 das Vorausvermaechtnis umfasst
+    (siehe Frage 3)
+  - Aufgabenkreis "Vermoegenssorge" im Betreuerbeschluss vom 23.09.2025
+    (anwaltstermin.20261014.txt Frage 18)
+
+
+-------------------------------------------------------------------------------
+12. QUERVERWEISE
+-------------------------------------------------------------------------------
+
+  anwaltstermin.20261014.txt          Terminvorbereitung insgesamt,
+                                      Fragenkatalog, Zahlenstreit
+  pflichtteilsrisiko.txt              Eintrittswahrscheinlichkeit,
+                                      Anspruchsinhaber, Steuertreiber
+  testament_9_bindung_
+    pflichtteilsberechtigten.txt      § 2079 BGB im Detail
+  abfindungssumme_gegen_
+    rechtssicherheit.txt              Erreichbarkeit eines Verzichts
+  vertragsgrundlage_irrtum.txt        Irrtum, § 313 BGB, Notarhaftung
+  versagung_mitwirkung.txt            Hebel gegen die Genehmigung,
+                                      Zielkonflikt
+  verfahrensdauer.txt                 erwartete Verfahrensdauer
+  analyse.20261008.txt                ausfuehrliche Gesamtanalyse
+  hautschreiben.vorbereitet.
+    20261014.txt                      Entwurf Hauptschreiben
+
+  Quellen: erbschaft_kontext\00 bis 07,
+           nachlass\Nachlass_klas_krueger.xlsx
+
+
+-------------------------------------------------------------------------------
+13. HINWEIS
+-------------------------------------------------------------------------------
+
+Diese Zusammenstellung ist eine Auswertung der vorliegenden Unterlagen,
+keine Rechtsberatung. Die Steuerzahlen sind ungeprueft. Die
+Pflichtteilsbetraege sind Groessenordnungen, keine Berechnung. Die
+Paragraphenangaben dienen der Orientierung und sind anwaltlich zu
+verifizieren.
+
+Erstellt: 10.10.2026
+===============================================================================
