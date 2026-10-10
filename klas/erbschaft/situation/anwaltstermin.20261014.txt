@@ -407,10 +407,15 @@ PRIORITAET 2 - zur Bewertung der beiden Vorschlaege
 11a. NEU 10.10.2026 - DIESES SZENARIO IST WAHRSCHEINLICHER GEWORDEN:
     Kann Binder nach Vorlage des Verzeichnisses den Vertrag OHNE
     Ergaenzung empfehlen? Eigene Einschaetzung 50 bis 65 Prozent.
+    WICHTIGER ALS DIE SPANNE: Sie ist ein Mittelwert zweier Faelle -
+    bleibt der Pflichtteil unentdeckt, Empfehlung ca. 75 Prozent; faellt
+    er auf, ca. 20 Prozent. BEIDE AESTE GEHEN FUER BERND NUR MIT VORHER
+    GEREGELTER ABGELTUNG GUT AUS.
     Daraus die praktische Frage: SOLL DAS VERZEICHNIS UEBERHAUPT
     UEBERSANDT WERDEN, solange die Abgeltung offen ist - und besteht
     dazu eine Pflicht?
-    Ausfuehrlich: binder_empfehlung_ohne_ergaenzung.txt
+    Ausfuehrlich: binder_empfehlung_ohne_ergaenzung.txt Abschnitt 4c.1
+    und 6
 
 12. Ist die Doppelrolle von RA Binder zulaessig? Siehe Abschnitt 6.
 

@@ -1,0 +1,381 @@
+===============================================================================
+KANN BINDER DEN VERTRAG OHNE ERGAENZUNG ZUR GENEHMIGUNG EMPFEHLEN?
+Folgen der Uebersendung des korrigierten Nachlassverzeichnisses
+Stand 10.10.2026
+===============================================================================
+
+FRAGE
+  Kann es passieren, dass RA Binder nach Zusendung des
+  Nachlassverzeichnisses und nach Berechnung des Niessbrauchswerts 2025
+  von 3.707,41 EUR den Abfindungsvertrag OHNE Ergaenzung zur Genehmigung
+  empfiehlt?
+
+ERGEBNIS IN EINEM SATZ
+  JA - geschaetzt 50 bis 65 Prozent. Sein Einwand ist ausschliesslich ein
+  INFORMATIONSDEFIZIT, und genau das beseitigt das Verzeichnis; das
+  Ergebnis uebererfuellt seinen eigenen Pruefmaßstab um ein Mehrfaches.
+
+WICHTIGER ALS DIE SPANNE
+  Die 50 bis 65 Prozent sind ein Mittelwert ueber zwei sehr
+  unterschiedliche Faelle - Pflichtteil bleibt unentdeckt (Empfehlung
+  ca. 75 %) oder faellt auf (ca. 20 %). Die Schaetzung haengt damit fast
+  vollstaendig an einer einzigen Unbekannten, und BEIDE AESTE GEHEN FUER
+  BERND NUR MIT VORHER GEREGELTER ABGELTUNG GUT AUS. Entscheidungsbaum in
+  Abschnitt 4c.1 - das ist der praktisch wichtigste Teil dieser Datei,
+  zusammen mit Abschnitt 6.
+
+DIES IST EINE KORREKTUR
+  anwaltstermin.20261014.txt Abschnitt 5 behandelt die Ergaenzung als
+  Binders feste Bedingung ("Binder macht seine Empfehlung zur Genehmigung
+  davon abhaengig"). Bei genauer Lektuere seines Schreibens traegt das
+  nicht. analyse.20261008.txt Zeilen 162-167 enthaelt den Gedanken bereits
+  als Nebenbemerkung, ohne ihn zur Wahrscheinlichkeitsaussage zu
+  verdichten.
+
+KEINE RECHTSBERATUNG. Alle Prozent- und Paragraphenangaben sind
+Einschaetzungen auf Grundlage der vorliegenden Unterlagen.
+
+
+-------------------------------------------------------------------------------
+1. SEIN EINWAND IST EIN INFORMATIONSDEFIZIT, KEIN WERTURTEIL
+-------------------------------------------------------------------------------
+
+DER WORTLAUT (04:74-78)
+
+  "Zudem ist aus den gegenwaertigen Akteninhalten GERADE NICHT ZU
+   ENTNEHMEN, wie hoch die Zufluesse aus dem Testament tatsaechlich sind.
+   Eine Gesamtsumme von 190.000,00 EUR ist daher letztlich NICHT
+   BEWERTBAR. Es ist weder SICHER FESTSTELLBAR, wie sich diese Zahlung zu
+   den realen Zufluessen verhaelt, noch ob sie diese Zufluesse lebzeitig
+   kompensiert."
+
+Dreimal dieselbe Struktur: nicht entnehmbar, nicht bewertbar, nicht sicher
+feststellbar. Das ist KEIN Werturteil ueber die Hoehe von 190.000 EUR,
+sondern die Feststellung, dass ihm die Grundlage fehlt.
+
+SEIN PRUEFMASSSTAB (04:79-81)
+  "Da - jenseits spekulativer Wahrscheinlichkeiten - der im Kern
+   beabsichtigte und die Interessen der Betreuten wahrende Aspekt ist,
+   dass die Abfindung die entgehenden Zufluesse ersetzt, muesste dies auch
+   in einer Abfindungsvereinbarung gesichert sein."
+
+DIE NEUE RECHENGRUNDLAGE
+
+  Niessbrauchswert 2025 (korrigiert)                3.707,41 EUR
+  Abfindung                                       190.000,00 EUR
+  -----------------------------------------------------------------
+  Verhaeltnis                                     ca. 51,2 Jahre
+  Lebenserwartung Hille                           unter 1 Jahr (00:9)
+  Binders Annahme                                 27.150,00 EUR
+  Ueberhoehung seiner Annahme                     Faktor ca. 7,3
+
+Sein Maßstab ist damit nicht nur erfuellt, sondern um ein Mehrfaches
+UEBERERFUELLT. Was er als ungeklaert bezeichnet hat, ist geklaert - und
+zwar zugunsten der Betreuten.
+
+
+-------------------------------------------------------------------------------
+2. DIE ERGAENZUNG WIRD AUS SEINER EIGENEN LOGIK GEGENSTANDSLOS
+-------------------------------------------------------------------------------
+
+Seine drei Forderungen (04:86-101) hatten je einen Zweck, der jetzt
+entfaellt:
+
+  Forderung                  | Zweck                | Status nach dem
+                             |                      | Verzeichnis
+  ---------------------------+----------------------+-------------------
+  Nachlassverzeichnis in     | Bewertbarkeit        | ERFUELLT -
+  Bezug nehmen               | herstellen           | liegt vor
+  ---------------------------+----------------------+-------------------
+  Jaehrliche Feststellung    | laufende Kontrolle,  | GEGENSTANDSLOS -
+  der Zufluesse              | ob die Abfindung     | bei ~3.700 EUR/Jahr
+                             | reicht               | und <1 Jahr
+                             |                      | Restlebenszeit ist
+                             |                      | nichts zu
+                             |                      | kontrollieren
+  ---------------------------+----------------------+-------------------
+  Auszahlung bei Ueber-      | Schutz vor           | KANN NIE GREIFEN -
+  schreiten der 190.000 EUR  | Unterdeckung         | 190.000 EUR werden
+                             |                      | bei 3.707 EUR/Jahr
+                             |                      | nie erreicht
+
+SEINE EIGENE WORTWAHL STUETZT DAS
+  "Hierfuer DUERFTE ES AUSREICHEN, dass [...] ein Nachlassverzeichnis
+   mitsamt den zugewendeten Renditen erstellt und durch die Vereinbarung
+   in Bezug genommen wird." (04:86-89)
+
+Das Verzeichnis nennt er als das, was AUSREICHT. Die beiden weiteren
+Punkte folgen jeweils mit "Sodann waere ..." (04:92, 04:99) - nachgelagert,
+nicht als Kern der Bedingung.
+
+
+-------------------------------------------------------------------------------
+3. DREI GRUENDE, DIE FUER EINE EMPFEHLUNG SPRECHEN
+-------------------------------------------------------------------------------
+
+a) DIE STAMMERHALTUNGSPFLICHT IST BEI DIESEN ZAHLEN UNVERHAELTNISMAESSIG
+
+   Er erkennt sie selbst als Konsequenz, nicht als Ziel:
+   "Dies bedeutet ALLERDINGS AUCH, dass der Vermoegensstamm durch die
+    testamentarischen Nacherben zu Lebzeiten der Betreuten erhalten werden
+    muesste." (04:96-97)
+
+   Eine unbefristete Bindung eines Depots von 1,44 Mio. EUR, um Ertraege
+   von 3.707 EUR jaehrlich zu sichern, ist einem Verfahrenspfleger schwer
+   zu begruenden.
+
+b) SEIN VERFAHRENSENDE-HINWEIS ERZEUGT DRUCK ZUR EILE
+
+   "Allerdings endet das Verfahren mit dem Tod des Betroffenen. Eine
+    Genehmigung kann dann nicht mehr erteilt werden." (04:103-105)
+
+   Wer das weiss und eine fuer die Betreute hochvorteilhafte Vereinbarung
+   vorliegen hat, hat ein Argument GEGEN weiteres Nachverhandeln: Zoegern
+   kann die 190.000 EUR vollstaendig entwerten.
+
+c) OHNE ERGAENZUNG IST DIE ABFINDUNG FUER HILLE NICHT SCHLECHTER
+
+   ohne Ergaenzung:  190.000 EUR unbedingt
+   mit Ergaenzung:   dieselben 190.000 EUR plus eine Nachzahlungsklausel,
+                     die nie greift
+
+   Fuer die Betreute bringt die Ergaenzung keine Verbesserung. Die
+   einfachere Fassung ist nicht nachteilig.
+
+
+-------------------------------------------------------------------------------
+4. VIER GRUENDE, DIE DAGEGEN SPRECHEN
+-------------------------------------------------------------------------------
+
+a) DIE EIGENE SCHRIFTLICHE FESTLEGUNG
+   Er hat eine Bedingung formuliert, die auch das Betreuungsgericht und
+   die Nacherben erhalten haben (04:111-113). Davon abzuruecken kostet
+   Autoritaet - zumal Anne auf der Ergaenzung bestand.
+
+b) DOPPELROLLE
+   Er ist inzwischen zusaetzlich von Anne mandatiert, bezahlt aus dem
+   Vermoegen der Betreuten (06:7), und hat in deren Auftrag den
+   § 1952-Weg entwickelt. Eine Empfehlung gegen Annes erklaertes Interesse
+   ist in dieser Konstellation unwahrscheinlicher.
+   Siehe versagung_mitwirkung.txt Abschnitt 4d.
+
+c) DER PFLICHTTEIL
+   Faellt er ihm beim Durchrechnen auf - und das Verzeichnis zwingt zum
+   Rechnen -, wird eine Empfehlung unwahrscheinlich. Dann steht die Frage
+   im Raum, ob 190.000 EUR einen Anspruch von 180.000 bis 360.000 EUR
+   ersetzen. GROESSTER UNSICHERHEITSFAKTOR, und er wirkt in beide
+   Richtungen.
+
+   Dieser Punkt ist so gewichtig, dass die Gesamtschaetzung ohne ihn nicht
+   sinnvoll zu bilden ist. Daher Abschnitt 4c.1.
+
+
+4c.1 DER ENTSCHEIDUNGSBAUM - DIE 50 BIS 65 PROZENT SIND EIN MITTELWERT
+
+Die Spanne aus dem Kopf dieser Datei verdeckt, dass zwei deutlich
+unterschiedliche Faelle zusammengefasst sind. Sauber getrennt:
+
+                        Verzeichnis geht an Binder
+                                   |
+              +--------------------+--------------------+
+              |                                         |
+     PFLICHTTEIL BLEIBT                        PFLICHTTEIL FAELLT
+     UNENTDECKT                                IHM AUF
+     (geschaetzt 70 %)                         (geschaetzt 30 %)
+              |                                         |
+     Empfehlung ohne                           Empfehlung ohne
+     Ergaenzung: ca. 75 %                      Ergaenzung: ca. 20 %
+              |                                         |
+     Sein Maßstab ist                          Er muss pruefen, ob
+     erfuellt, die drei                        190.000 EUR einen
+     Forderungen sind                          Anspruch von 180.000
+     gegenstandslos                            bis 360.000 EUR
+                                               ersetzen - kaum
+                                               vertretbar
+
+GEWICHTETES ERGEBNIS
+  0,70 x 75 %  +  0,30 x 20 %  =  52,5 % + 6,0 %  =  58,5 %, also ca. 59 %
+
+Das liegt innerhalb der genannten Spanne von 50 bis 65 Prozent und
+bestaetigt sie. Der Mittelwert ist aber die unwichtigere Information.
+
+WAS DER BAUM ZEIGT - UND DIE SPANNE VERDECKT
+
+  1. DIE SCHAETZUNG HAENGT FAST VOLLSTAENDIG AN EINER EINZIGEN
+     UNBEKANNTEN: ob der Pflichtteil auffaellt. Alles andere - Doppelrolle,
+     schriftliche Festlegung, Autoritaetsverlust - bewegt die Zahl nur um
+     wenige Prozentpunkte.
+
+  2. BEIDE AESTE GEHEN FUER BERND NUR MIT VORHER GEREGELTER ABGELTUNG GUT
+     AUS. Das ist der eigentliche Befund:
+
+     Ast                  | ohne Abgeltung        | mit Abgeltung
+     ---------------------+-----------------------+-------------------
+     Pflichtteil          | Empfehlung, Genehmi-  | Empfehlung,
+     unentdeckt           | gung, 190.000 EUR     | Genehmigung,
+                          | PLUS offener Pflicht- | Sache erledigt
+                          | teil -> Szenario B    | -> Szenario C
+     ---------------------+-----------------------+-------------------
+     Pflichtteil          | keine Empfehlung;     | Verhandlung ueber
+     faellt auf           | Anne kennt den        | die Abgeltung
+                          | Anspruch jetzt und    | laeuft bereits -
+                          | kann ihn ueber        | Bernd ist nicht
+                          | § 1952 BGB ohne       | ueberrascht
+                          | Gericht verfolgen     |
+
+  3. DER UNGUENSTIGSTE FALL IST NICHT "KEINE EMPFEHLUNG".
+     Es ist "keine Empfehlung, weil der Pflichtteil aufgefallen ist, und
+     Bernd hat vorher keine Abgeltung verlangt". Dann ist das Verfahren
+     blockiert UND die Gegenseite kennt den Anspruch. Vergleiche
+     pflichtteilsrisiko.txt - der § 1952-Weg funktioniert ohne Gericht.
+
+  4. DARAUS FOLGT DIE PRAKTISCHE REGEL: Die Reihenfolge ist wichtiger als
+     die Wahrscheinlichkeit. Ob 59 Prozent oder 40 oder 75 - solange die
+     Abgeltung vorher geregelt ist, ist jeder Ast tragbar. Ohne sie ist
+     kein Ast gut. Siehe Abschnitt 6.
+
+EINORDNUNG DER TEILWAHRSCHEINLICHKEITEN
+  Die 70/30 fuer "bleibt unentdeckt" sind die unsicherste Zahl in dieser
+  Datei. Dafuer spricht, dass der Punkt seit Februar 2026 in keinem
+  Schriftstueck vorkommt - auch nicht im ausfuehrlichen Beratungsschreiben
+  der Notarin (02) und nicht bei Binder selbst (04, 06). Dagegen spricht,
+  dass § 2306 BGB erbrechtliches Standardwissen ist und das Verzeichnis zum
+  Durchrechnen zwingt.
+  pflichtteilsrisiko.txt setzt die Entdeckung ueber den gesamten Zeitraum
+  mit 30 bis 50 Prozent an - hier geht es nur um das engere Fenster bis zur
+  Stellungnahme Binders.
+  ANWALTLICH ZU PLAUSIBILISIEREN, nicht als belastbare Quote zu verwenden.
+
+d) ER KOENNTE DIE ARGUMENTATION UMDREHEN
+   Denkbarer Vortrag: "Die Ertraege sind so gering, dass die Ausschlagung
+   Hille kaum etwas nimmt - dann braucht es die Ausschlagung aber auch
+   nicht, und die Steuerersparnis nuetzt nur den Erben."
+   Das waere eine Begruendung GEGEN die Genehmigung, nicht gegen die
+   Ergaenzung. Wenig wahrscheinlich, weil die Steuerersparnis der
+   eigentliche Zweck ist (04:36-38) und er sie ausdruecklich als
+   interessengerecht bezeichnet (04:68-70) - aber moeglich.
+
+
+-------------------------------------------------------------------------------
+5. WARUM DAS FUER BERND KEIN ERFOLG IST
+-------------------------------------------------------------------------------
+
+DIES IST DER EIGENTLICHE PUNKT DIESER DATEI.
+
+Eine Empfehlung ohne Ergaenzung sieht wie ein Erfolg aus - Bernd muss
+nichts unterschreiben, die verlangten Zusatzpflichten entfallen. Sie fuehrt
+aber in Szenario B aus besprechungspapier.txt Abschnitt 9:
+
+  Szenario                          Zahlung    Steuer   Pflichtteil   Summe
+  --------------------------------------------------------------------------
+  A  Genehmigung scheitert,               0  ~187.000          0   187.000
+     Vorerbschaft bleibt
+  --------------------------------------------------------------------------
+  B  Genehmigung, Vertrag 03        190.000  ~ 87.000    offen,      offen
+     OHNE Abgeltung                                   180-360 Tsd.
+  --------------------------------------------------------------------------
+
+Ohne Abgeltungsklausel wird die Ausschlagung wirksam - und damit entsteht
+der Pflichtteil (§ 2306 Abs. 1 BGB). Bernd zahlt 190.000 EUR in eine
+ungeregelte Pflichtteilslage hinein.
+
+DER ZUSAMMENHANG WAR BEREITS ANGELEGT
+verfahrensdauer.txt Grund 2 warnt: "Das Papier, das Binders Begruendung
+zerstoert, liefert dem Gericht den Genehmigungsgrund." Mit 3.707,41 EUR
+ist dieser Effekt staerker als mit der frueher angesetzten Zahl - das
+Verhaeltnis zur Abfindung ist noch eindeutiger.
+
+ZIELKONFLIKT
+Dies ist dieselbe Spannung wie in anwaltstermin.20261014.txt Abschnitt 1
+und versagung_mitwirkung.txt Abschnitt 3: Bernds bestes Sachargument gegen
+die Ergaenzung ist zugleich das beste Argument FUER die Genehmigung.
+
+
+-------------------------------------------------------------------------------
+6. KONSEQUENZ FUER DIE REIHENFOLGE
+-------------------------------------------------------------------------------
+
+BISHER unterstellt: erst Verzeichnis uebersenden und die Ergaenzung
+abwehren, dann ueber die Abgeltung verhandeln.
+
+DAS IST ZU AENDERN. Wenn das Verzeichnis die Genehmigung AUSLOESEN kann,
+muss die Abgeltungsfrage VORHER geklaert sein. Sonst tritt genau das ein,
+was Abschnitt 5 beschreibt.
+
+PRAKTISCH BEDEUTET DAS
+
+  1. Das Verzeichnis nicht ohne begleitende Regelung zur Abgeltung
+     uebersenden.
+
+  2. Im Hauptschreiben muessen Zahlen UND Abgeltungsforderung zusammen
+     stehen. Das entspricht dem Grundsatz in vertragsgrundlage_irrtum.txt
+     Abschnitt 7: NIE DAS PROBLEM OHNE DIE LOESUNG NENNEN - hier
+     umgekehrt: nie die Zahlen ohne die Bedingung.
+
+  3. Zu entscheiden ist im Termin, ob das Verzeichnis ueberhaupt
+     uebersandt wird, solange die Abgeltung offen ist. Die Zusage vom
+     08.10.2026 lautet nur, dass es vorliegt - nicht, dass es uebersandt
+     wird (07:49-51).
+
+  4. Falls uebersandt wird: Die Uebersendung sollte ausdruecklich NICHT
+     mit einer Bitte um Genehmigung des bestehenden Vertrages verbunden
+     werden. So auch die Empfehlung in anwaltstermin.20261014.txt
+     Abschnitt 9.
+
+
+-------------------------------------------------------------------------------
+7. FRAGEN FUER DEN ANWALTSTERMIN 14.10.2026
+-------------------------------------------------------------------------------
+
+ 1. Wie wahrscheinlich ist es, dass Binder nach Vorlage des Verzeichnisses
+    den Vertrag in der bestehenden Fassung zur Genehmigung empfiehlt?
+    Eigene Einschaetzung: 50 bis 65 Prozent.
+
+ 1a. Traegt die Aufteilung in Abschnitt 4c.1 - Empfehlung ca. 75 Prozent,
+    wenn der Pflichtteil unentdeckt bleibt, ca. 20 Prozent, wenn er
+    auffaellt? Und ist die Annahme plausibel, dass er mit ca. 70 Prozent
+    unentdeckt bleibt, obwohl § 2306 BGB Standardwissen ist und das
+    Verzeichnis zum Durchrechnen zwingt?
+    DIESE ZAHL IST DIE UNSICHERSTE IN DER GANZEN AKTE.
+
+ 2. Falls ja - ist das fuer Bernd guenstig oder nachteilig? Siehe
+    Abschnitt 5. Die Antwort haengt vollstaendig daran, ob die Abgeltung
+    bis dahin geregelt ist.
+
+ 3. SOLL DAS VERZEICHNIS UEBERHAUPT UEBERSANDT WERDEN, solange die
+    Abgeltungsfrage offen ist? Besteht eine Pflicht zur Uebersendung
+    gegenueber dem Verfahrenspfleger oder dem Gericht?
+
+ 4. Falls uebersandt wird: Mit welcher Begleitaussage? Lassen sich die
+    Zahlen so darstellen, dass sie die Ergaenzung entkraeften, ohne
+    zugleich den Genehmigungsgrund zu liefern? Oder ist das
+    ausgeschlossen, weil beides dieselbe Zahl ist?
+
+ 5. Kann Bernd einer Genehmigung des bestehenden Vertrages
+    entgegentreten - ist er Beteiligter mit Antrags- oder
+    Beschwerderecht? Siehe anwaltstermin.20261014.txt Frage 17.
+
+ 6. Was gilt, wenn das Gericht ohne weitere Anhoerung genehmigt? Dann sind
+    190.000 EUR zu zahlen und der Pflichtteil bleibt offen. Siehe
+    anwaltstermin.20261014.txt Frage 11.
+
+
+===============================================================================
+Quellen:    erbschaft_kontext\04 (Binder 28.09.2026) - insbesondere
+            04:74-78 Einwand, 04:79-81 Pruefmaßstab, 04:86-101 die drei
+            Forderungen, 04:103-105 Verfahrensende, 04:111-113 Verteiler
+            06 (§ 1952-Vorschlag, Mandat Annes), 07 (Mail Bernd 08.10.)
+Grundlage:  Niessbrauchswert 2025 = 3.707,41 EUR (korrigiertes
+            Nachlassverzeichnis, Stand 10.10.2026)
+Siehe auch: besprechungspapier.txt Abschnitt 9 - Vergleichsrechnung A/B/C
+            verfahrensdauer.txt Grund 2 - das Papier liefert den
+            Genehmigungsgrund
+            versagung_mitwirkung.txt Abschnitt 3 - Zielkonflikt
+            anwaltstermin.20261014.txt Abschnitt 5 - wird hiermit
+            korrigiert
+Erstellt:   10.10.2026
+Ergaenzt:   10.10.2026 - Abschnitt 4c.1 Entscheidungsbaum: die Spanne von
+            50 bis 65 Prozent als Mittelwert zweier Faelle aufgeloest;
+            Kernbefund, dass beide Aeste nur mit vorher geregelter
+            Abgeltung tragbar sind
+===============================================================================
