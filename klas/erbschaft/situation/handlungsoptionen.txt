@@ -1,0 +1,382 @@
+===============================================================================
+HANDLUNGSOPTIONEN BERND KRUEGER
+Fuenf Wege, Vergleich und Empfehlung
+Stand 10.10.2026
+===============================================================================
+
+DIESE DATEI IST DER EINSTIEG FUER DEN ANWALTSTERMIN AM 14.10.2026.
+anwaltstermin.20261014.txt ist mit ueber 460 Zeilen die Vollfassung; hier
+stehen nur die Optionen, der Vergleich und die Empfehlung.
+
+ENTSCHEIDENDE GRUNDLAGE - BESTAETIGT AM 10.10.2026
+  Bernd ist bereit, Option 1 zu verfolgen: keine Mitwirkung, Genehmigung
+  scheitern lassen, auf die Steuerersparnis verzichten.
+
+  DAS AENDERT DIE GESAMTLAGE. Option 1 ist damit nicht Rueckfallebene,
+  sondern GESICHERTER BODEN. Jede andere Option muss sich dagegen
+  rechtfertigen. Aus der Suche nach Rechtssicherheit wird eine Verhandlung
+  aus Staerke.
+
+KEINE RECHTSBERATUNG. Die Steuerzahlen stammen aus Bernds Eigenrechnung
+vom Februar 2026 und sind UNGEPRUEFT. Sie tragen die ganze Abwaegung -
+Verifizierung ist die erste Aufgabe im Termin. Alle Prozentangaben sind
+Einschaetzungen.
+
+
+-------------------------------------------------------------------------------
+1. ALLES HAENGT AN EINER VERZWEIGUNG
+-------------------------------------------------------------------------------
+
+              Wird die Ausschlagung wirksam?
+                           |
+         +-----------------+-----------------+
+         |                                   |
+        NEIN                                JA
+         |                                   |
+  Hille bleibt Vorerbin              Pflichtteil entsteht
+  Nacherbfolge wie im                § 2306 Abs. 1 BGB
+  Testament                          180.000 bis 360.000 EUR
+         |                                   |
+  KEIN Pflichtteil - nie             Vererblich an Anne und Jan
+  (§ 2306 greift nicht,              (§ 2317 Abs. 2 BGB), fuer
+  weil keine Ausschlagung)           deren Seite nahezu steuerfrei
+
+Alles andere - Ergaenzung, § 1952-Weg, Vorbefassung, Notarhaftung - ist
+dieser Frage NACHGEORDNET. Wer sie zuerst beantwortet, hat die Entscheidung
+getroffen.
+
+
+-------------------------------------------------------------------------------
+2. DIE FUENF OPTIONEN
+-------------------------------------------------------------------------------
+
+OPTION 1 - NICHTS TUN, GENEHMIGUNG SCHEITERN LASSEN
+  Keine Unterschrift, keine Mitwirkung, Verzeichnis nicht uebersenden.
+
+  Zahlung                 0 EUR
+  Steuer           ~187.000 EUR
+  Pflichtteil        entsteht nie
+  GESAMT           ~187.000 EUR
+  Rechtssicherheit   vollstaendig
+
+  DAFUER
+    - Das Veto hat Bernd bereits. Ohne seine Unterschrift kommt weder die
+      Ergaenzung noch der § 1952-Weg zustande
+      (verfahrensdauer.txt Abschnitt 2).
+    - Kein Prozessrisiko, keine Verhandlung, keine Abhaengigkeit von
+      Gerichtsentscheidungen.
+    - Der Vertrag selbst bestimmt: wird die Ausschlagung nicht genehmigt,
+      faellt die Bedingung endgueltig aus und es ist KEINE Abfindung zu
+      zahlen (03:55-56).
+
+  DAGEGEN
+    - Teuerste Variante bei isolierter Betrachtung der Steuer.
+    - Die Steuerzahlen sind ungeprueft.
+
+  RISIKO, DAS LEICHT UEBERSEHEN WIRD
+    Die Ausschlagungsfrist laeuft nach Ende der Hemmung weiter (06:45).
+    Endet das Verfahren ohne Entscheidung und laeuft die Frist ab, ist auch
+    der § 1952-Weg versperrt. Fuer Option 1 ist das guenstig - es nimmt
+    aber jede Rueckkehroption. Wer Option 1 waehlt, sollte wissen, dass sie
+    ab einem bestimmten Punkt endgueltig ist.
+
+
+OPTION 2 - ERGAENZUNG UNTERSCHREIBEN
+  Binders Forderungen akzeptieren: Stammerhaltung, jaehrlicher Nachweis,
+  Nachzahlung oberhalb 190.000 EUR.
+
+  Zahlung           190.000 EUR
+  Steuer            ~87.000 EUR
+  Pflichtteil         offen, 180.000 bis 360.000 EUR
+  Zusatzpflichten   Stammerhaltung unbefristet, Nachweis jaehrlich
+
+  BEWERTUNG: SCHLECHTESTE OPTION.
+  Die Nachzahlungsklausel kann bei 3.707,41 EUR/Jahr nie greifen - sie ist
+  gegenstandslos. Die Stammerhaltungspflicht ist dagegen real, unbefristet
+  und ohne Deckelung. Bernd gibt etwas Reales fuer etwas Gegenstandsloses,
+  und der Pflichtteil bleibt trotzdem offen.
+
+  Bernd hat am 05.10.2026 abgelehnt. Das war richtig.
+
+
+OPTION 3 - VERZEICHNIS UEBERSENDEN, ERGAENZUNG ABWEHREN,
+           VERTRAG 03 WIRD GENEHMIGT
+
+  Zahlung           190.000 EUR
+  Steuer            ~87.000 EUR
+  Pflichtteil         offen
+  GESAMT              offen, bis ~550.000 EUR
+  Rechtssicherheit    keine
+
+  DIE EIGENTLICHE GEFAHR. Nach binder_empfehlung_ohne_ergaenzung.txt tritt
+  dieser Verlauf mit ca. 59 Prozent ein, wenn das Verzeichnis ohne
+  begleitende Regelung uebersandt wird.
+
+  DIE FALLE: Es SIEHT wie ein Erfolg aus. Bernd wehrt die Zusatzpflichten
+  ab und zahlt "nur" die vereinbarten 190.000 EUR. Aber die Ausschlagung
+  wird wirksam, der Pflichtteil entsteht in Hilles Vermoegen und faellt bei
+  ihrem Tod an Anne und Jan - fuer deren Seite nahezu steuerfrei
+  (pflichtteilsrisiko.txt Abschnitt 3).
+
+  DIESE OPTION IST DEUTLICH SCHLECHTER ALS OPTION 1.
+
+
+OPTION 4 - ABGELTUNGSKLAUSEL UEBER DAS BETREUUNGSGERICHT
+  Gegenangebot: 190.000 EUR gegen vollstaendige Erledigung aller
+  Ansprueche, einschliesslich Pflichtteil, § 2325 BGB und
+  Zugewinnausgleich.
+
+  Zahlung           190.000 EUR
+  Steuer            ~87.000 EUR
+  Pflichtteil         erledigt
+  GESAMT            ~277.000 EUR
+  Erfolgschance     20 bis 30 Prozent
+
+  DER FLASCHENHALS (abfindungssumme_gegen_rechtssicherheit.txt Abschn. 1)
+    Glied 1  Formulierbarkeit (§ 397 BGB)              ca. 95 %
+    Glied 2  Annes Zustimmung als Betreuerin           ca. 40 %
+    Glied 3  Genehmigung durch das Gericht             25 bis 35 %
+
+  Glied 3 ist der Engpass: Das Gericht muesste feststellen, dass die
+  Aufgabe eines Anspruchs von 180.000 bis 360.000 EUR gegen 190.000 EUR
+  fuer Hille vorteilhaft ist. Kaum begruendbar.
+
+
+OPTION 5 - § 1952-WEG ALS GEGENANGEBOT, MIT ERLEDIGUNGSKLAUSEL
+  Nach Hilles Tod schlagen Anne und Jan ueber § 1952 BGB aus. Alles in
+  EINER Urkunde: Ausschlagung, Abfindung, Verzicht auf Pflichtteil und
+  Zugewinnausgleich.
+
+  Zahlung           190.000 EUR plus x
+  Steuer            ~87.000 EUR
+  Pflichtteil         erledigt
+  Erfolgschance     50 bis 70 Prozent
+
+  DER ENTSCHEIDENDE VORTEIL
+    Kein Betreuungsgericht. Anne und Jan sind nach Hilles Tod voll
+    geschaeftsfaehig. Glied 3 - der Flaschenhals aus Option 4 - faellt
+    vollstaendig weg.
+
+  DER PREIS
+    Anne und Jan koennten auch ohne Vereinbarung ausschlagen und
+    anschliessend den Pflichtteil verlangen. Dann muesste Bernd mehr
+    bieten als 190.000 EUR. Es waere eine Verhandlung zwischen
+    gleichberechtigten Parteien - aber eine, in der die Gegenseite die
+    staerkere Position hat, sobald sie den Pflichtteil kennt.
+
+  PRAKTISCHE HUERDEN
+    - Ob eine Vorabbindung von Anne und Jan jetzt schon moeglich ist, ist
+      ungeklaert.
+    - Das Genehmigungsverfahren muss aufrechterhalten werden, weil es die
+      Frist hemmt (06:45).
+    - Bernds Ablehnung vom 05.10. betraf Binders Fassung, die nur die
+      Abfindung sichert und die Abgeltung offen laesst. Das war richtig.
+      Als Gegenangebot MIT Erledigungsklausel ist derselbe Weg zu pruefen.
+
+
+-------------------------------------------------------------------------------
+3. VERGLEICH
+-------------------------------------------------------------------------------
+
+  #  Option              Zahlung    Steuer  Pflicht-   GESAMT   Sicher-
+                                             teil                heit
+  ---------------------------------------------------------------------------
+  1  Nichts tun                0  ~187.000  nie       ~187.000  100 %
+  ---------------------------------------------------------------------------
+  2  Ergaenzung          190.000  ~ 87.000  offen     offen     niedrig
+     unterschreiben                         + Zusatz-
+                                            pflichten
+  ---------------------------------------------------------------------------
+  3  Vertrag 03          190.000  ~ 87.000  offen     bis       KEINE
+     genehmigt                                        ~550.000
+  ---------------------------------------------------------------------------
+  4  Abgeltung ueber     190.000  ~ 87.000  erledigt  ~277.000  hoch
+     das Gericht                                                20-30 %
+  ---------------------------------------------------------------------------
+  5  § 1952 mit          190.000  ~ 87.000  erledigt  ~277.000  hoch
+     Erledigung           plus x                      plus x    50-70 %
+  ---------------------------------------------------------------------------
+
+Reihenfolge nach Guenstigkeit fuer Bernd:
+  1  (187.000, sicher)
+  5  (277.000 plus x, 50-70 %)
+  4  (277.000, nur 20-30 %)
+  3  (bis 550.000, kein Schutz)
+  2  (wie 3, zusaetzlich belastet)
+
+
+-------------------------------------------------------------------------------
+4. DER ENTSCHEIDUNGSMASSSTAB
+-------------------------------------------------------------------------------
+
+Dies ist die Rechnung, auf die alles hinauslaeuft:
+
+  Vorteil der Ausschlagung (Steuerersparnis)      ca.  90.000 EUR
+  Risiko bei ungeregelter Abgeltung          180.000 bis 360.000 EUR
+  ----------------------------------------------------------------
+  Verhaeltnis                                  1 : 2  bis  1 : 4
+
+DARAUS FOLGT EINE HARTE GRENZE
+
+  Bernd darf die Ausschlagung nur gegen VOLLSTAENDIGE ERLEDIGUNG
+  mitmachen. Ohne sie ist Option 1 objektiv besser - nicht als
+  Trotzhaltung, sondern rechnerisch.
+
+90.000 EUR Vorteil rechtfertigen kein Risiko, das das Zwei- bis Vierfache
+betraegt.
+
+ZUR EINORDNUNG DER 90.000 EUR
+  Sie ergeben sich aus 187.000 minus 87.000 EUR Steuer, abzueglich der
+  190.000 EUR Abfindung ergibt sich in Szenario 4 der
+  analyse.20261008.txt ein Saldo von ca. -90.000 EUR gegenueber Szenario 1
+  - die Ausschlagung ist also um diesen Betrag guenstiger, SOFERN kein
+  Pflichtteil anfaellt. Genau diese Bedingung ist offen.
+
+
+-------------------------------------------------------------------------------
+5. EMPFEHLUNG
+-------------------------------------------------------------------------------
+
+  OPTION 1 ALS BODEN SICHERN.
+  OPTION 5 ALS EINZIGE AKTIVE VERHANDLUNGSLINIE.
+  OPTION 3 UNBEDINGT VERMEIDEN.
+
+BEGRUENDUNG
+
+  1. Option 1 ist kein Scheitern, sondern der Anker. Sie kostet
+     ~187.000 EUR gegen ~277.000 EUR bei Option 4 und 5 - also ca.
+     90.000 EUR mehr. Dafuer traegt Bernd bei jeder aktiven Option ein
+     Pflichtteilsrisiko von 180.000 bis 360.000 EUR. Das Verhaeltnis
+     stimmt nicht.
+
+  2. Die Reihenfolge ist wichtiger als die Wahrscheinlichkeit. Solange die
+     Abgeltung nicht geregelt ist, darf das Verzeichnis nicht hinausgehen.
+     Sonst landet Bernd in Option 3 - und zwar ohne es zu wollen, weil sie
+     wie ein Erfolg aussieht.
+
+  3. Option 5 ist die einzige Variante, die Bernds Ziel erreicht: zahlen
+     und Ruhe haben. Ueber das Betreuungsgericht ist das mit 20 bis
+     30 Prozent kaum zu bekommen, ohne Gericht mit 50 bis 70 Prozent.
+
+  4. Scheitert Option 5, ist Option 1 immer noch da - vorausgesetzt, Bernd
+     hat nicht vorher unterschrieben oder das Verzeichnis ohne Bedingung
+     uebersandt.
+
+WAS DAS PRAKTISCH BEDEUTET
+  Bernd verhandelt nicht um eine Genehmigung, die er braucht. Er bietet
+  eine Mitwirkung an, die er nicht braucht - gegen eine Gegenleistung, die
+  er benennt. Das ist eine andere Verhandlungsposition als die bisher in
+  den Unterlagen unterstellte.
+
+
+-------------------------------------------------------------------------------
+6. WAS DURCH DIE BESTAETIGUNG ZU OPTION 1 ENTFAELLT
+-------------------------------------------------------------------------------
+
+a) DAS DILEMMA VERLIERT SEINE SCHAERFE
+   abfindungssumme_gegen_rechtssicherheit.txt Abschnitt 2: "Wer den
+   Verzicht verlangt, loest die Pruefung aus, die den Verzicht
+   verhindert."
+   Das setzte voraus, dass Bernd die Genehmigung WILL. Will er sie nur
+   unter Bedingungen, ist ein Scheitern kein Verlust. Die Pruefung, die
+   den Verzicht verhindert, verhindert dann auch die Genehmigung - und das
+   ist Option 1.
+
+b) DER ZIELKONFLIKT IST AUFLOESBAR
+   versagung_mitwirkung.txt Abschnitt 3 und anwaltstermin.20261014.txt
+   Abschnitt 1 beschreiben zwei unvereinbare Ziele: Ergaenzung abwehren
+   gegen Genehmigung verhindern.
+   Mit der Bestaetigung lautet das Ziel: VERSAGUNG.
+   Folge: Bernds staerkstes Sachargument - 190.000 EUR gegen 3.707,41 EUR -
+   sollte NICHT nach aussen getragen werden. Es belegt, dass Hille gut
+   wegkommt, und liefert damit den Genehmigungsgrund.
+
+c) DER ZEITDRUCK LIEGT VOLLSTAENDIG BEI ANNE
+   Laeuft Hilles Ausschlagungsfrist nach Ende der Hemmung ab, entfaellt
+   auch das ueber § 1952 BGB vererbliche Ausschlagungsrecht (06:45).
+   Darauf weist Binder selbst hin. Bernd hat keinen Grund zur Eile.
+   verfahrensdauer.txt: 70 bis 85 Prozent fuer "noch mehrere Monate",
+   Erwartungswert 4 bis 7 Monate.
+
+
+-------------------------------------------------------------------------------
+7. KONKRETE REIHENFOLGE
+-------------------------------------------------------------------------------
+
+  [ ] 1. STEUERZAHLEN VERIFIZIEREN LASSEN
+         187.000 gegen 87.000 EUR ist Bernds eigene Schaetzung vom
+         Februar 2026. Die ganze Abwaegung haengt daran. Erste Bitte an
+         den Anwalt.
+
+  [ ] 2. PFLICHTTEILSQUOTE UND ZUGEWINNAUSGLEICH BEZIFFERN
+         Grosser oder kleiner Pflichtteil? Anfangsvermoegen beider
+         Ehegatten zum 20.11.1992? Ohne diese Zahl ist nicht
+         entscheidbar, ob 190.000 EUR verhandelbar sind.
+
+  [ ] 3. VERZEICHNIS ZURUECKHALTEN, bis 1 und 2 geklaert sind
+         Die Zusage vom 08.10.2026 lautet nur, dass es VORLIEGT - nicht,
+         dass es uebersandt wird (07:49-51). Diese Formulierung war
+         offenbar bewusst gewaehlt und erweist sich jetzt als nuetzlich.
+
+  [ ] 4. HAUPTSCHREIBEN: Ergaenzung ablehnen, Abgeltung fordern,
+         § 1952 als Gegenangebot anbieten - alles in EINEM Schreiben.
+         Grundsatz aus vertragsgrundlage_irrtum.txt Abschnitt 7: nie das
+         Problem ohne die Loesung nennen.
+
+  [ ] 5. KEINE UNTERSCHRIFT, bevor eine vollstaendige Erledigungsklausel
+         vorliegt - erfasst Pflichtteil, Pflichtteilsergaenzung
+         (§ 2325 BGB), konkreten Zugewinnausgleich, Vermaechtnisse und
+         den comdirect-Streit.
+
+  [ ] 6. FABIANS HALTUNG KLAEREN
+         Option 1 funktioniert nur, wenn BEIDE nicht unterschreiben;
+         Option 5 ebenso. In den Unterlagen tritt Fabian nirgends
+         eigenstaendig auf. Ohne ihn ist keine Option vollstaendig in
+         Bernds Hand. Das ist vor dem Termin oder im Termin zu klaeren.
+
+
+-------------------------------------------------------------------------------
+8. DIE EINE FRAGE FUER DEN TERMIN
+-------------------------------------------------------------------------------
+
+Nicht "wie wehre ich die Ergaenzung ab", sondern:
+
+  RECHTFERTIGEN CA. 90.000 EUR STEUERERSPARNIS EIN PFLICHTTEILSRISIKO
+  VON 180.000 BIS 360.000 EUR?
+
+Wenn nein - und dafuer spricht nach dieser Zahlenlage viel -, dann ist
+Option 1 nicht die Rueckfallebene, sondern die HAUPTOPTION, und alles
+Weitere eruebrigt sich.
+
+Wenn ja, nur unter der Bedingung vollstaendiger Erledigung - dann ist
+Option 5 der Weg, und die Reihenfolge aus Abschnitt 7 ist einzuhalten.
+
+
+-------------------------------------------------------------------------------
+9. UNGEPRUEFTE GRUNDLAGEN
+-------------------------------------------------------------------------------
+
+  - STEUERZAHLEN 187.000 / 87.000 EUR: Bernds Eigenrechnung Februar 2026,
+    nicht verifiziert. Binder nennt fuer die Vorerbschaft 171.000 EUR
+    (04:37). Tragen die gesamte Abwaegung.
+  - PFLICHTTEILSHOEHE: 180.000 bis 360.000 EUR ist eine Groessenordnung.
+    Ob grosser oder kleiner Pflichtteil gilt, ist offen - siehe
+    besprechungspapier.txt Abschnitt 5.
+  - ZUGEWINNAUSGLEICH: nicht bezifferbar, Anfangsvermoegen 1992 unbekannt.
+    Kann die Obergrenze deutlich uebersteigen.
+  - ERFOLGSCHANCEN 20-30 % und 50-70 %: Einschaetzungen, anwaltlich zu
+    plausibilisieren.
+  - FABIANS HALTUNG: unbekannt.
+
+
+===============================================================================
+Grundlagen: analyse.20261008.txt Abschnitt 4 (Szenarienvergleich)
+            abfindungssumme_gegen_rechtssicherheit.txt (Optionen 4 und 5)
+            binder_empfehlung_ohne_ergaenzung.txt (Option 3, ca. 59 %)
+            pflichtteilsrisiko.txt (Hoehe, Anspruchsinhaber, Steuerlage)
+            verfahrensdauer.txt (Zeitachse, Veto-Wirkung)
+            versagung_mitwirkung.txt (Zielkonflikt)
+            besprechungspapier.txt (Pflichtteil, Quotenfrage)
+Vollfassung: anwaltstermin.20261014.txt
+Erstellt:   10.10.2026
+===============================================================================
