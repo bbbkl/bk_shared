@@ -127,6 +127,12 @@ WAS DAS RISIKO WEITER ERHOEHT
     Zugewinnausgleich. Potenziell das Zwei- bis Dreifache der Abfindung.
     Ehe seit 20.11.1992, Vermoegen Klas 2013 noch 330.000 EUR, Nachlass am
     Sterbetag 1.438.262,66 EUR.
+    ZU BEACHTEN: Ob der kleine oder der grosse Pflichtteil gilt, ist
+    OFFEN. Bei grossem Pflichtteil (1/4) waeren es ca. 359.600 EUR. Die
+    Annahme des kleinen Pflichtteils nach § 1371 Abs. 3 BGB ist bei einer
+    Ausschlagung nach § 2306 Abs. 1 BGB umstritten - § 2306 soll dem
+    beschraenkt eingesetzten Erben gerade den VOLLEN Pflichtteil
+    erhalten. Siehe besprechungspapier.txt Abschnitt 5.
   - Anne hat zwei Anwaelte mandatiert (Lockmann, Binder) und ist nach
     Aktenlage aufgebracht (00:36).
   - Beim comdirect-Konto hat sie bereits gezeigt, dass sie Ansprueche
@@ -152,6 +158,48 @@ WAS DAGEGEN SPRICHT
   ABER: Beides ist eine Verteidigungslinie, keine Sicherheit. Die Notarin
   hat eine Abgeltungsklausel nicht aufgenommen, obwohl sie naheliegend
   gewesen waere. Darauf sollte man sich nicht verlassen.
+
+NACHTRAG 10.10.2026 - DAS GEGENARGUMENT "WIDERSPRUECHLICHES VORVERHALTEN"
+TRAEGT WENIGER ALS HIER ANGESETZT
+
+  Oben steht als Gegenargument, eine zusaetzliche Pflichtteilsforderung
+  waere ein Widerspruch zu Annes eigenem Vorverhalten, weil sie die
+  Abfindung selbst als Niessbrauchsersatz verhandelt hat.
+
+  Das setzt voraus, dass Anne am Abfindungsvertrag festhalten WILL. Diese
+  Voraussetzung ist nicht gegeben:
+
+    Weg                        | Anne und Jan erhalten
+    ---------------------------+---------------------------------------
+    ANNAHME der Erbschaft      | Aus der Vorerbschaft NICHTS - sie
+    (keine Ausschlagung)       | faellt mit Hilles Tod an Bernd und
+                               | Fabian als Nacherben. Nur die
+                               | aufgelaufenen Niessbrauchsertraege,
+                               | ca. 3.500 EUR/Jahr.
+    ---------------------------+---------------------------------------
+    AUSSCHLAGUNG + Pflichtteil | 180.000 bis 360.000 EUR, fuer ihre
+    OHNE Abfindung             | Seite nahezu steuerfrei (Abschnitt 3)
+
+  DIE AUSSCHLAGUNG IST FUER ANNE UND JAN AUCH OHNE JEDE ABFINDUNG MASSIV
+  VORTEILHAFT. Die 190.000 EUR sind, sobald der Pflichtteil erkannt ist,
+  nicht mehr der Hauptanreiz - sondern ein Zusatz.
+
+  FOLGE: Anne muss ihr Vorverhalten nicht verteidigen. Sie kann den
+  Abfindungsvertrag fallen lassen und ueber § 1952 BGB nach Hilles Tod
+  ausschlagen - ohne Gericht und ohne Vertrag. Das Gegenargument aus
+  § 242 BGB setzt an einem Vertrag an, auf den sie nicht angewiesen ist.
+
+  WIRKUNG AUF DIE EINSCHAETZUNG: Die Eintrittswahrscheinlichkeit ist
+  tendenziell HOEHER als die oben genannten 30 bis 50 Prozent. Ob die
+  Spanne anzuheben ist, sollte im Anwaltstermin beurteilt werden - hier
+  bewusst nicht eigenmaechtig verschoben.
+
+  ZUGLEICH: Dies entwertet nicht die Verteidigungslinien aus
+  vertragsgrundlage_irrtum.txt. Es trennt sie nur sauber - sie taugen zur
+  ABWEHR einer Forderung, nicht dazu, den Vertrag zu beseitigen.
+  Rueckfallposition und Angriffsmittel sind zwei verschiedene Dinge.
+
+  Ausfuehrlich: vertragsgrundlage_irrtum.txt Abschnitt 5a
 
 NACHTRAG 09.10.2026 - DIE VERTEIDIGUNGSLINIE IST STAERKER ALS HIER
 ANGESETZT

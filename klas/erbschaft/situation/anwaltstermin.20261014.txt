@@ -333,16 +333,40 @@ PRIORITAET 1 - ohne diese Antworten keine Entscheidung moeglich
     den comdirect-Streit beilegen sollte?
     Ausfuehrlich: vertragsgrundlage_irrtum.txt
 
- 7b. NOTARIN - zwei Punkte, die dem Anwalt vollstaendig vorzulegen sind:
-    Erstens: Das Beratungsschreiben vom 13.02.2026 (02) behandelt alles
-    Wesentliche, nennt den Pflichtteil aber nicht; einen Monat spaeter
-    beurkundet dieselbe Notarin den Vertrag ohne Abgeltungsklausel.
-    Ansprueche nach § 19 BNotO, § 17 BeurkG - auch fuer Bernd und Fabian?
-    Zweitens: Die Urkunden protokollieren, eine Vorbefassung nach
-    § 3 Abs. 1 Satz 1 Nr. 7 BeurkG sei verneint worden (03:16-17,
-    05:18-19), obwohl Dr. Lockmann zuvor anwaltlich fuer Anne taetig war
-    (02:15-16, 02:181-182). Folgen? Verwendbar?
-    Soll Dr. Lockmann weiterhin beurkunden?
+ 7b. NOTARIN DR. LOCKMANN - zwei Komplexe, beide inzwischen ausgearbeitet.
+    Dem Anwalt vollstaendig vorzulegen.
+
+    ERSTENS - BELEHRUNGSPFLICHT UND HAFTUNG:
+    Das Beratungsschreiben vom 13.02.2026 (02) behandelt alles
+    Wesentliche, nennt den Pflichtteil aber nicht; die Aussage, Hille
+    erbe bei Ausschlagung "nichts" (02:110-112), ist wegen § 2306 BGB
+    sachlich falsch. Einen Monat spaeter beurkundet dieselbe Juristin den
+    Vertrag ohne Abgeltungsklausel. Ansprueche nach § 19 BNotO,
+    § 17 BeurkG - auch fuer Bernd und Fabian?
+    Entscheidend ist die Rollentrennung: Die ANWALTSpflicht bestand nur
+    gegenueber Anne und Hille, die NOTARpflicht gegenueber allen
+    Beteiligten. Nur letztere ist fuer Bernd verwertbar.
+    ACHTUNG - die Notarhaftung widerspricht Bernds Hauptverteidigung:
+    Traegt die ergaenzende Auslegung, gibt es keinen Schaden und damit
+    keine Haftung. Rueckfallebene, nicht Parallelweg.
+    Ausfuehrlich: vertragsgrundlage_irrtum.txt Abschnitt 4,
+    Fragen 4a bis 4f
+
+    ZWEITENS - VORBEFASSUNG:
+    Die Urkunden protokollieren, eine Vorbefassung nach § 3 Abs. 1 Satz 1
+    Nr. 7 BeurkG sei verneint worden (03:16-17, 05:18-19), obwohl
+    Dr. Lockmann zuvor anwaltlich fuer Anne taetig war (02:15-16,
+    02:181-182). Befund: Verstoss wahrscheinlich, aber die Beurkundung
+    ist NICHT unwirksam und NICHT anfechtbar - § 3 BeurkG ist
+    Mitwirkungsverbot, nicht Ausschliessungsgrund (§ 6 BeurkG). Wirkung
+    liegt im Genehmigungsverfahren, in der Haftung und in der
+    Dienstaufsicht. Der Zeitdruck im 6-Wochen-Fenster entlastet nicht -
+    fristgebunden war nur die Ausschlagung, nicht der Abfindungsvertrag.
+    Ausfuehrlich: vertragsgrundlage_irrtum.txt Abschnitt 5,
+    Fragen 5a bis 5g
+
+    Soll Dr. Lockmann weiterhin beurkunden, oder ist fuer jede Ergaenzung
+    ein neutraler Notar zu verlangen?
 
 PRIORITAET 2 - zur Bewertung der beiden Vorschlaege
 
@@ -461,11 +485,14 @@ Mitnehmen:
   nachlass\nachlassverheichnis.unteschrieben.pdf
   nachlass\fisher_depot\Quartalsabrechnung.erklaerung.txt  Gebuehrentragung
   analyse.20261008.txt                      ausfuehrliche Analyse
+  besprechungspapier.txt                    Pflichtteil zugespitzt,
+                                            Vergleichsrechnung A/B/C
   abfindungssumme_gegen_rechtssicherheit.txt  Erreichbarkeit Verzicht
   verfahrensdauer.txt                       Dauer: 4-7 Monate erwartet
   pflichtteilsrisiko.txt                    Risiko, Anspruchsinhaber
   versagung_mitwirkung.txt                  Hebel gegen die Genehmigung
-  vertragsgrundlage_irrtum.txt              Irrtum, Notarhaftung
+  vertragsgrundlage_irrtum.txt              Irrtum, Belehrungspflicht,
+                                            Vorbefassung, Notarhaftung
   hautschreiben.vorbereitet.20261014.txt    Entwurf Hauptschreiben
   mail_bernd_an_binder.20261008.txt         bereits versandt
   diese Datei

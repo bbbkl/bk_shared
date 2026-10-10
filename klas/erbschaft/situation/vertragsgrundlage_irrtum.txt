@@ -2,7 +2,7 @@
 VERTRAGSGRUNDLAGE UND IRRTUM
 Der Abfindungsvertrag wurde ohne Kenntnis des Pflichtteilsanspruchs
 geschlossen - rechtliche Folgen
-Stand 09.10.2026
+Stand 10.10.2026
 ===============================================================================
 
 AUSGANGSPUNKT
@@ -12,11 +12,22 @@ Pflichtteilsanspruchs nach § 2306 BGB bedacht hat. Bernd ist der Punkt erst
 im Zuge der Bewertung der verlangten Ergaenzung aufgefallen (00:31-33);
 Anne Weniger und RA Binder haben ihn in keinem Schriftstueck erwaehnt.
 
+Hinzu kommt ein zweiter, von der Pflichtteilsfrage unabhaengiger Befund:
+Der Vertrag wurde von derselben Juristin ENTWORFEN, die zuvor die
+Gegenseite anwaltlich beraten hatte - und von ihr als Notarin beurkundet
+(Abschnitt 5).
+
 ERGEBNIS IN EINEM SATZ
 Das beiderseitige Nichtwissen verschiebt die Lage zu Bernds Gunsten: Es
 begruendet eine planwidrige Regelungsluecke, eroeffnet § 313 BGB in beide
-Richtungen, beruehrt wegen des Vergleichselements § 779 BGB und wirft die
-Frage der Notarhaftung auf.
+Richtungen, beruehrt wegen des Vergleichselements § 779 BGB und wirft
+Fragen der Notarhaftung sowie der Vorbefassung nach § 3 Abs. 1 Satz 1 Nr. 7
+BeurkG auf.
+
+WARNUNG VORWEG - Abschnitt 5a
+Keiner dieser Punkte beseitigt den Pflichtteilsanspruch. Wer den Vertrag
+kippt, entfernt nur die Gegenleistung, nicht das Risiko. Die
+Abgeltungsklausel bleibt der zentrale Punkt.
 
 KEINE RECHTSBERATUNG. Alle Paragraphenangaben sind anwaltlich zu pruefen.
 
@@ -114,44 +125,273 @@ und ...2.txt.
 
 
 -------------------------------------------------------------------------------
-4. NOTARHAFTUNG - § 17 BEURKG, § 19 BNOTO
+4. BELEHRUNGSPFLICHT UND NOTARHAFTUNG - § 17 BEURKG, § 19 BNOTO
 -------------------------------------------------------------------------------
 
-DER BEFUND
-Dr. Judith Lockmann hat Anne Weniger am 13.02.2026 umfassend ueber die
-Folgen einer Ausschlagung beraten (02). Das Schreiben behandelt:
-  - nicht befreite Vorerbschaft und Verfuegungsbeschraenkungen (02:46-52)
-  - Niessbrauchsvermaechtnis (02:54-59)
-  - Erbschaftsteuer und Freibetrag von 500.000 EUR (02:67-71)
-  - Genehmigungsbeduerftigkeit und Ausschlagungsfrist (02:75-95)
-  - Verfall der Vermaechtnisse bei Ausschlagung (02:100-112)
-  - Wohnung, Pflegekosten, Bewertungsstichtag, Nachlassgericht
-    (02:116-141)
+DIE FRAGE
+Haette Dr. Lockmann als Anwaeltin und als Notarin das Thema
+Pflichtteilsanspruch ansprechen muessen?
 
-DER PFLICHTTEILSANSPRUCH KOMMT IN DEM GESAMTEN SCHREIBEN NICHT VOR.
+ANTWORT: Ja, in beiden Rollen - aber mit unterschiedlicher Staerke und,
+entscheidend, zugunsten UNTERSCHIEDLICHER PERSONEN. Nur die Notarpflicht
+ist fuer Bernd verwertbar.
 
-Einen Monat spaeter, am 13.03.2026, beurkundet dieselbe Notarin den
-Abfindungsvertrag - ohne Abgeltungsklausel (03).
 
-BEWERTUNG
-Bei einem Vertrag ueber Ausschlagung gegen Abfindung ist die Frage, ob
-damit alle Ansprueche erledigt sind, naheliegend. § 17 BeurkG verpflichtet
-zur Belehrung ueber die rechtliche Tragweite des Geschaefts. Moegliche
-Ansprueche nach § 19 BNotO kaemen in Betracht - und zwar AUCH FUER BERND
-UND FABIAN, denn als beurkundende Notarin traf sie Pflichten gegenueber
-allen Beteiligten, nicht nur gegenueber ihrer vormaligen Mandantin.
+4.1 ROLLENTRENNUNG - WER SCHULDET WEM WAS
+
+  Rolle                | Pflicht    | Pflicht         | Nutzt wem?
+                       | verletzt?  | gegenueber      |
+  ---------------------+------------+-----------------+----------------
+  Rechtsanwaeltin      | ja,        | nur Anne /      | ANNE,
+  (13.02.2026)         | deutlich   | Hille           | nicht Bernd
+  ---------------------+------------+-----------------+----------------
+  Notarin              | ja         | ALLEN           | BERND UND
+  (13.03.2026)         |            | BETEILIGTEN     | FABIAN
+
+ALS RECHTSANWAELTIN
+Der Anwaltsvertrag verpflichtet zu umfassender und erschoepfender Beratung
+im Rahmen des Mandats. Das Mandat war ausdruecklich: annehmen oder
+ausschlagen? Das Schreiben ist darin gruendlich - Verfuegungs-
+beschraenkungen, Niessbrauch, Freibetrag, Genehmigungsbeduerftigkeit,
+Frist, Verfall der Vermaechtnisse, Wohnung, Pflegekosten,
+Bewertungsstichtag.
+
+DIE ENTSCHEIDENDE STELLE - 02:110-112:
+  "muss Ihnen bzw. Frau Hille Krueger bewusst sein, dass Frau Hille
+   Krueger NICHTS ERBT, auch keine Ertraege aus den Kapitalanlagen
+   ziehen kann."
+
+Genau hier gehoert § 2306 Abs. 1 BGB hin - denn die Aussage ist in dieser
+Absolutheit FALSCH. Hille erbt nicht, behaelt aber den Pflichtteil. Die
+Beratung lief auf "Ausschlagung = alles verloren" hinaus, obwohl das
+Gegenteil gilt.
+
+ABER: Diese Pflicht bestand gegenueber Anne und Hille. Der Fehler hat
+HILLE geschaedigt - sie haette 180.000 bis 360.000 EUR haben koennen und
+hat 190.000 EUR akzeptiert. Ein Regressanspruch daraus gehoert ANNE,
+nicht Bernd.
+
+TAKTISCH ZWEISCHNEIDIG: Entdeckt Anne den Punkt, hat sie zwei Wege -
+Pflichtteil gegen Bernd oder Regress gegen Lockmanns Versicherung. Der
+Regress setzt aber einen SCHADEN voraus; solange der Pflichtteil noch
+durchsetzbar ist, fehlt es daran. Der Pflichtteil ist fuer sie der
+primaere, der Regress nur der subsidiaere Weg. Die Anwaltspflicht-
+verletzung entlastet Bernd also NICHT - sie erklaert nur, warum der Punkt
+in den Akten fehlt.
+
+
+4.2 WARUM DER PFLICHTTEIL VON § 17 BEURKG ERFASST IST
+
+§ 17 Abs. 1 BeurkG: Der Notar hat den Willen zu erforschen, den
+Sachverhalt zu klaeren, ueber die RECHTLICHE TRAGWEITE zu belehren und
+darauf zu achten, dass Irrtuemer und Zweifel vermieden werden und
+unerfahrene Beteiligte nicht benachteiligt werden.
+
+Diese Pflicht trifft ALLE BETEILIGTEN - Bernd und Fabian sind Erschienene
+der Urkunde (03:6-7).
+
+VIER BEGRUENDUNGEN
+
+  a) UNMITTELBARE GESETZLICHE FOLGE DES BEURKUNDETEN GESCHAEFTS
+     Nicht eine entfernte Nebenfrage, sondern § 2306 Abs. 1 BGB - die
+     Rechtsfolge genau des Akts, der hier beurkundet wird: Ausschlagung
+     durch einen beschraenkt eingesetzten Erben.
+
+  b) SIE KANNTE ALLE VORAUSSETZUNGEN
+     § 1 der Urkunde referiert Testament, § 5, nicht befreite
+     Vorerbschaft, Nacherben, Vorausvermaechtnis (03:26-33). Von dort zu
+     § 2306 BGB ist ein Schritt, kein Rechercheauftrag.
+
+  c) DIE LUECKE BETRIFFT DEN VERTRAGSZWECK SELBST
+     Der Vertrag heisst "Abfindung FUER die Erbschaftsausschlagung"
+     (03:48-50). Ob damit alles abgegolten ist, IST die rechtliche
+     Tragweite - nicht ein Randaspekt davon. Nach der Doktrin zum
+     erkennbaren Gestaltungsmangel muss der Notar warnen, wenn die
+     gewaehlte Gestaltung das erkennbare Ziel nicht erreicht.
+
+  d) GESTEIGERTER MASSSTAB AUS ZWEI GRUENDEN
+     - Bernd und Fabian waren NICHT ANWALTLICH VERTRETEN
+       -> § 17 Abs. 1 Satz 2 BeurkG, Schutz der Unerfahrenen
+     - Sie hatte eine Seite ZUVOR EINSEITIG BERATEN
+       -> gesteigerte Neutralitaetspflicht, § 14 Abs. 1, Abs. 3 BNotO
+       (siehe Abschnitt 5)
+
+WAS SIE AUSGESCHLOSSEN HAT - UND WAS NICHT
+
+  "Die Notarin hat keine STEUERLICHE Beratung uebernommen" (03:94-96)
+
+  Sie hat genau das disclaimt, worum es NICHT geht. Eine erbrechtliche
+  Belehrung hat sie nicht ausgeschlossen - sie konnte es auch nicht,
+  § 17 BeurkG ist nicht abdingbar. Der einzige Haftungsausschluss in der
+  Urkunde trifft den Streitpunkt nicht.
+
+  GEGENSEITE DES ARGUMENTS: Die wirtschaftliche Zweckmaessigkeit - also
+  ob 190.000 EUR angemessen sind - schuldet der Notar nicht. Der
+  Pflichtteil ist aber keine Zweckmaessigkeitsfrage, sondern eine
+  Rechtsfolge. Die Grenze greift hier nicht.
+
+
+4.3 DIE PFLICHT LIEF IN BEIDE RICHTUNGEN - KAUSALITAET
+
+Das wird leicht uebersehen. Zu belehren war:
+
+  gegenueber Anne/Hille:    "Die Ausschlagung vernichtet den Pflichtteil
+                             nicht, § 2306 BGB."
+  gegenueber Bernd/Fabian:  "Dieser Vertrag regelt den Pflichtteil nicht.
+                             Ohne Abgeltungsklausel bleibt er offen."
+
+Beides ist unterblieben.
+
+DAS TRAEGT DIE KAUSALITAET FUER BERND: Haette sie belehrt, waere der Punkt
+zwingend auf den Tisch gekommen. Dann gaebe es entweder eine
+Abgeltungsklausel, einen anderen Preis - oder gar keinen Vertrag. In jeder
+dieser Varianten stuende Bernd nicht dort, wo er jetzt steht.
+
+
+4.4 VIER VERPASSTE GELEGENHEITEN
+
+  Datum        | Dokument                            | Pflichtteil
+               |                                     | erwaehnt?
+  -------------+-------------------------------------+-------------
+  13.02.2026   | Beratungsschreiben (02)             | nein
+  13.03.2026   | Abfindungsvertrag (03)              | nein
+  ~28.09.2026  | Ergaenzungsentwurf (05)             | nein
+  08.10.2026   | § 1952-Vorschlag, sie in cc         | nein
+               | (06:18, 06:57)                      |
+
+Beim Ergaenzungsentwurf besonders auffaellig: Dessen § 1 formuliert
+ausdruecklich, die Abfindung solle "die durch die Ausschlagung der
+Erbschaft entgehenden Zufluesse ersetzen" (05:35-37). Wer das schreibt,
+hat die Frage "und was ist mit dem, was NICHT entgeht?" direkt vor sich.
+
+
+4.5 SPANNUNGSVERHAELTNIS ZUR HAUPTVERTEIDIGUNG - VOR DEM TERMIN BEACHTEN
+
+Die Notarhaftung und Bernds erste Verteidigungslinie WIDERSPRECHEN SICH.
+
+  Bernds erste Linie:  "Der Vertrag regelt die Gegenleistung
+                        abschliessend" (ergaenzende Auslegung,
+                        Abschnitt 1)
+                             |
+                        traegt das -> kein Pflichtteil zu zahlen
+                             |
+                        -> kein Schaden
+                             |
+                        -> keine Notarhaftung
+
+Die Notarhaftung ist also RUECKFALLEBENE, NICHT PARALLELWEG. Sie wird erst
+relevant, wenn die erste Linie scheitert. Wer beides gleichzeitig
+vortraegt, schwaecht die erste.
+
+SCHADENSBEMESSUNG - UNANGENEHM OFFEN
+Welcher hypothetische Verlauf ist zu unterstellen?
+  - Haette Anne bei korrekter Belehrung fuer 190.000 EUR auf den
+    Pflichtteil verzichtet? EHER NICHT - bei 180.000 bis 360.000 EUR
+    Anspruch waere das wirtschaftlich unsinnig.
+  - Dann lautet die Alternative: kein Vertrag, keine Genehmigung,
+    Vorerbschaft bleibt - also Szenario A aus besprechungspapier.txt
+    Abschnitt 9.
+  - Bernds Schaden waere dann die Differenz A -> B, nicht der Pflichtteil
+    in voller Hoehe.
+
+  Staerke und Schwaeche zugleich: Es stuetzt die Argumentation, dass Bernd
+  den Vertrag bei korrekter Belehrung nie geschlossen haette - begrenzt
+  aber den Haftungsbetrag.
+
+VERJAEHRUNG
+§ 19 BNotO, 3 Jahre ab Kenntnis (§§ 195, 199 BGB). Bernds Kenntnis liegt
+im Oktober 2026. Solange der Schaden nicht eingetreten ist, duerfte die
+Frist noch nicht laufen - das ist aber unsicher. Falls ein
+Pflichtteilsstreit entsteht, ist an STREITVERKUENDUNG gegen Dr. Lockmann
+zu denken.
+
+MITVERSCHULDEN (§ 254 BGB)
+Gering. Bernd war nicht vertreten und hatte das Schreiben vom 13.02.2026
+nicht.
 
 ZU BEACHTEN: Dr. Lockmann soll auch die Ergaenzung beurkunden (05) und ist
 in den § 1952-Vorschlag eingebunden (06:18, 06:57). Eine Geltendmachung
 von Haftungsanspruechen wuerde die Zusammenarbeit beenden. Das ist eine
 Abwaegung, nicht eine Selbstverstaendlichkeit.
 
+VERSCHAERFEND - siehe Abschnitt 5: Dr. Lockmann hat den Vertrag nicht nur
+beurkundet, sondern zuvor als ANWAELTIN DER GEGENSEITE entworfen. Der
+Haftungsvorwurf nach § 17 BeurkG wird dadurch erheblich staerker: Wer eine
+Seite einseitig beraet und denselben Vertrag dann beurkundet, traegt eine
+gesteigerte Pflicht, die Belange der uebrigen Beteiligten zu wahren.
+
 
 -------------------------------------------------------------------------------
-5. DIE VERNEINTE VORBEFASSUNG - BELEGBARE DISKREPANZ
+5. DIE DOPPELROLLE DR. LOCKMANN - VORBEFASSUNG NACH § 3 BEURKG
 -------------------------------------------------------------------------------
 
-DER WORTLAUT DER URKUNDEN
+DIE FRAGE
+Ist es statthaft bzw. anfechtbar, dass Dr. Lockmann den Abfindungsvertrag
+zuvor als Anwaeltin von Anne entworfen hat und ihn gleichzeitig als
+Notarin beurkundet?
+
+ANTWORT IN ZWEI TEILEN
+
+  STATTHAFT: Nein. Mit hoher Wahrscheinlichkeit ein klarer Verstoss gegen
+  § 3 Abs. 1 Satz 1 Nr. 7 BeurkG (Vorbefassungsverbot).
+
+  ANFECHTBAR: Nein - jedenfalls nicht im technischen Sinn. Der Verstoss
+  macht die Beurkundung NICHT unwirksam und ist KEIN Anfechtungsgrund nach
+  §§ 119, 123 BGB.
+
+Die praktische Wirkung liegt an drei anderen Stellen: im
+Genehmigungsverfahren, in der Notarhaftung und in der Dienstaufsicht.
+
+
+5.1 DER TATBESTAND - VIER ELEMENTE, ALLE ERFUELLT
+
+  Element                    | Befund                      | Belegstelle
+  ---------------------------+-----------------------------+--------------
+  ausserhalb der             | Kanzleibriefkopf "HARTIG|   | 02:1-5
+  Amtstaetigkeit             | LOCKMANN Rechtsanwaelte &   | 02:16
+                             | Notarin", Aktenzeichen      | 02:181-182
+                             | 021/26-Lo-B, gezeichnet     |
+                             | "Dr. Lockmann, RECHTS-      |
+                             | ANWAELTIN" - nicht Notarin  |
+  ---------------------------+-----------------------------+--------------
+  in derselben               | Betreff "Erbfall Klas       | 02:33
+  Angelegenheit              | Krueger"; Abschnitt 2 be-   | 02:73-112
+                             | handelt genau die spaeter   |
+                             | beurkundete Ausschlagung,   |
+                             | die Frist 19.03.2026, das   |
+                             | Genehmigungsverfahren, den  |
+                             | Niessbrauch                 |
+  ---------------------------+-----------------------------+--------------
+  bereits taetig war         | 13.02.2026 - einen Monat    | 02:15
+                             | vor der Beurkundung am      | 03:2
+                             | 13.03.2026                  |
+  ---------------------------+-----------------------------+--------------
+  Ausnahme "im Auftrag       | NEIN. Adressatin aus-       | 02:7-13
+  aller Beteiligten"?        | schliesslich Anne Weniger.  | 02:146-169
+                             | Abschnitt 3e beraet Anne    |
+                             | sogar darueber, wie sie mit |
+                             | ihrem Bruder Jan wegen der  |
+                             | Wohnung verfahren soll      |
+
+Das ist kein Grenzfall. "Ich habe die mir eingereichten Unterlagen
+ueberprueft" (02:37) plus Aktenzeichen plus "Fuer Rueckfragen stehe ich
+Ihnen gerne zur Verfuegung" (02:174) ist ein Mandat, kein
+Gefaelligkeitshinweis.
+
+VERSCHAERFEND - SOZIETAETSERSTRECKUNG
+  Nr. 7 erfasst auch Personen, mit denen der Notar zur gemeinsamen
+  Berufsausuebung verbunden ist. Die Kanzlei firmiert als Sozietaet;
+  Binder setzt kanzlei@rae-hartig.de in cc (06:18). Die Vorbefassung waere
+  also selbst dann gegeben, wenn ein anderer Sozius beraten haette.
+
+STRUKTURELL RELEVANT
+  Niedersachsen ist Anwaltsnotariat. Dr. Lockmann ist "Rechtsanwaeltin und
+  Notarin" (02:13-14). Genau fuer diese Doppelstellung ist Nr. 7 die
+  zentrale Trennungsvorschrift - dort kein Randthema, sondern das
+  Kernproblem des Berufsbildes.
+
+
+5.2 DER EIGENTLICH GRAVIERENDE PUNKT: DAS PROTOKOLL IST FALSCH
 
   Abfindungsvertrag vom 13.03.2026 (03:16-17):
   "Auf Befragen verneinten die Erschienenen eine Vorbefassung der Notarin
@@ -159,37 +399,208 @@ DER WORTLAUT DER URKUNDEN
 
   Ergaenzungsentwurf (05:18-19): wortgleich.
 
-DER TATSAECHLICHE BEFUND
-Dr. Lockmann war in derselben Angelegenheit einen Monat zuvor ANWALTLICH
-taetig:
-  - Schreiben vom 13.02.2026 an Dr. Anne Weniger (02:15)
-  - Aktenzeichen 021/26-Lo-B (02:16)
-  - Betreff "Erbfall Klas Krueger" (02:33)
-  - Inhalt: Pruefung der eingereichten Unterlagen, Beratung zu Annahme
-    und Ausschlagung (02:37-38)
-  - gezeichnet "Dr. Lockmann, Rechtsanwaeltin" (02:181-182)
+Hier liegt das Problem tiefer als beim Verstoss selbst:
 
-Die Kanzlei fuehrt sie als "Rechtsanwaeltin und Notarin" (02:13-14).
+  - Die Frage zielt auf die EIGENE Vorbefassung der Notarin. Dr. Lockmann
+    kannte ihr Mandat vom 13.02.2026 - es war ihr eigenes Schreiben. Sie
+    konnte sich fuer diesen Punkt nicht auf eine Erklaerung der
+    Beteiligten verlassen.
+  - Bernd und Fabian konnten die Frage mangels Kenntnis gar nicht
+    sachgerecht beantworten.
+  - Anne konnte es, hat aber nach dem Protokoll verneint.
+  - Die Verneinung wurde PROTOKOLLIERT UND NICHT KORRIGIERT.
 
-EINORDNUNG
-Das ist eine aus den Urkunden selbst belegbare Diskrepanz. Reichweite und
-Folgen von § 3 Abs. 1 Satz 1 Nr. 7 BeurkG sind anwaltlich zu beurteilen:
-  - Ein Mitwirkungsverbot macht die Urkunde nicht automatisch unwirksam.
-  - Bei Einverstaendnis aller Beteiligten kann die Beurteilung anders
-    ausfallen.
-  - Es ist denkbar, dass die Beteiligten die Frage anders verstanden haben.
+Das ist der Punkt, der jede denkbare Heilung abschneidet: Selbst wenn eine
+Offenlegung mit Einverstaendnis aller Beteiligten den Verstoss haette
+heilen koennen - eine Offenlegung hat nicht stattgefunden. Es wurde das
+Gegenteil beurkundet.
 
 RELEVANTE FRAGE FUER BERND
-Wusste er am 13.03.2026, dass die Notarin zuvor die Gegenseite anwaltlich
-beraten hatte? Falls nein, hat er eine Erklaerung abgegeben, deren
-Richtigkeit er nicht beurteilen konnte - und das Beratungsschreiben 02 ist
-ihm moeglicherweise erst spaeter zugaenglich geworden.
+  Wusste er am 13.03.2026, dass die Notarin zuvor die Gegenseite
+  anwaltlich beraten hatte? Falls nein, hat er eine Erklaerung abgegeben,
+  deren Richtigkeit er nicht beurteilen konnte - und das
+  Beratungsschreiben 02 ist ihm moeglicherweise erst spaeter zugaenglich
+  geworden.
+
+
+5.3 RECHTSFOLGEN - SAUBER GETRENNT
+
+WAS NICHT FOLGT
+
+  KEINE UNWIRKSAMKEIT DER BEURKUNDUNG. Das BeurkG unterscheidet:
+
+    Ausschliessungsgruende   § 6 BeurkG   Beurkundung UNWIRKSAM
+                                          (Notar selbst Beteiligter,
+                                          Ehegatte usw.)
+    ----------------------------------------------------------------
+    Mitwirkungsverbote       § 3 BeurkG   Beurkundung bleibt WIRKSAM;
+                                          Sanktion nur berufs- und
+                                          haftungsrechtlich
+
+  Die Vorbefassung faellt unter § 3, nicht § 6. Der Abfindungsvertrag ist
+  formwirksam zustande gekommen.
+
+  KEINE ANFECHTBARKEIT. Anfechtung setzt Irrtum (§ 119 BGB) oder
+  Taeuschung/Drohung (§ 123 BGB) voraus. Die Vorbefassung als solche ist
+  keines von beidem.
+
+  DEUTLICH: Der Verstoss ist KEIN HEBEL, um den Vertrag zu beseitigen. Wer
+  darauf baut, baut falsch.
+
+WAS FOLGT
+
+  a) AMTSPFLICHTVERLETZUNG -> NOTARHAFTUNG, § 19 BNOTO
+     Bernd und Fabian sind Beteiligte der Urkunde und damit vom
+     Schutzbereich erfasst. Die Kombination ist das Entscheidende:
+
+       einseitige Vorberatung der Gegenseite
+       -> eigene Beurkundung
+       -> Fehlen genau der Klausel, die der beratenen Seite geschadet
+          haette
+
+     Das Schreiben vom 13.02.2026 behandelt Vorerbschaft, Niessbrauch,
+     Ausschlagung, Genehmigungsverfahren, Steuerfreibetrag, Pflegekosten,
+     Wohnung - DEN PFLICHTTEIL NENNT ES AN KEINER STELLE (siehe
+     Abschnitt 4). Einen Monat spaeter beurkundet dieselbe Juristin einen
+     Vertrag ohne Abgeltungsklausel. Fuer § 17 BeurkG ist das der haertere
+     Vorwurf als die Vorbefassung.
+
+  b) DIENSTAUFSICHT UND BERUFSRECHT
+     Beschwerde bei der Dienstaufsicht (Praesident des Landgerichts bzw.
+     OLG Oldenburg) und bei der Notarkammer. Eigenstaendiger Weg,
+     unabhaengig vom Vertrag.
+
+  c) KOSTEN
+     Nichterhebung von Kosten wegen unrichtiger Sachbehandlung
+     (§ 21 GNotKG) waere zu pruefen - Bernd und Fabian tragen nach § 5 die
+     Haelfte (03:85).
+
+  d) INDIZWIRKUNG FUER DIE VERTRAGSARGUMENTATION
+     Fuer die Linien in den Abschnitten 1 bis 3 ist die
+     Entstehungsgeschichte ein belastbares Indiz: Der Vertrag ist nicht
+     das Ergebnis einer Verhandlung zwischen zwei beratenen Seiten,
+     sondern der Entwurf einer Seite. Das stuetzt die ergaenzende
+     Auslegung - und entlastet Bernd von dem Vorwurf, er haette den
+     Pflichtteil erkennen muessen. Er hatte KEINE eigene Beratung
+     (so auch anwaltstermin.20261014.txt Abschnitt 6).
+
+  e) DAS GENEHMIGUNGSVERFAHREN - hier liegt der eigentliche Wert, 5.5
+
+
+5.4 DER ZEITDRUCK ENTLASTET NICHT - ER VERSCHAERFT
+
+CHRONOLOGIE
+  05.02.2026   Klas Krueger verstirbt
+  13.02.2026   Lockmann beraet Anne als Rechtsanwaeltin
+  13.03.2026   Lockmann beurkundet als Notarin
+               (Ausschlagung UVZ 252/2026 + Abfindung UVZ 253/2026)
+  19.03.2026   Ablauf der Ausschlagungsfrist
+               (von Lockmann selbst benannt, 02:91)
+
+DREI GRUENDE, WARUM DIE EILE NICHT HILFT
+
+  1. § 3 BeurkG KENNT KEINE EILFALLAUSNAHME. Bei Dringlichkeit ist ein
+     anderer Notar hinzuzuziehen - in einer Stadt wie Oldenburg innerhalb
+     von vier Wochen ohne Weiteres moeglich.
+
+  2. DIE BUENDELUNG WAR NICHT NOTWENDIG. Fristgebunden war allein die
+     AUSSCHLAGUNG (§ 1945 BGB). Der ABFINDUNGSVERTRAG war es nicht. Man
+     haette die Ausschlagung fristwahrend beurkunden und den
+     Abfindungsvertrag in Ruhe - und von einem neutralen Notar -
+     ausarbeiten koennen. Dass beides in einen Termin gelegt wurde, war
+     eine Entscheidung, keine Notwendigkeit.
+
+  3. ZEITDRUCK ERHOEHT DIE BELEHRUNGSPFLICHT, STATT SIE ZU SENKEN.
+     § 17 BeurkG verlangt, Irrtuemer und Zweifel zu vermeiden. Bei einem
+     eilig geschlossenen Vertrag ueber 190.000 EUR zwischen nicht
+     anwaltlich vertretenen Beteiligten ist der Pruefungsmassstab
+     strenger.
+
+Ausserdem: Zwischen Beratung (13.02.) und Beurkundung (13.03.) lag ein
+ganzer Monat. Knapp, aber nicht so knapp, dass ein Notarwechsel
+ausgeschlossen gewesen waere.
+
+
+5.5 WO DER PUNKT TATSAECHLICH WIRKT: DAS BETREUUNGSGERICHT
+
+Hier braucht es keine Anfechtung, keine Unwirksamkeit und keinen Prozess.
+
+Das Gericht prueft von Amts wegen, ob die Ausschlagung dem WOHL DER
+BETREUTEN entspricht (02:77-82). Vorzutragen waere:
+
+  - Der genehmigungsbeduerftige Vertrag wurde von der RECHTSANWAELTIN DER
+    BETREUERIN entworfen und von DERSELBEN PERSON als Notarin beurkundet.
+  - Die Urkunde protokolliert die Vorbefassung als VERNEINT.
+  - Der Vertrag laesst den PFLICHTTEILSANSPRUCH DER BETREUTEN ungeregelt -
+    eine Position von 180.000 bis 360.000 EUR zu ihren Lasten.
+  - Die Ertragsgrundlage ist um den FAKTOR 8 ueberhoeht
+    (3.484,02 EUR statt 27.150 EUR).
+
+AMBIVALENZ, DIE MAN SEHEN MUSS
+  Fuer die Betreute selbst ist der Pflichtteil ein VORTEIL, nicht ein
+  Nachteil. Das Gericht wird den Punkt daher nicht gegen Hille, sondern
+  FUER sie werten - was fuer Bernd zweischneidig ist, aber die Genehmigung
+  der jetzigen Vertragsfassung unwahrscheinlicher macht. Haengt direkt am
+  Zielkonflikt in anwaltstermin.20261014.txt Abschnitt 1 und
+  versagung_mitwirkung.txt.
 
 TAKTISCHE EINORDNUNG
-Dieser Punkt ist unangenehm fuer Dr. Lockmann, die weiterhin beurkunden
-soll. Er sollte dem eigenen Anwalt vollstaendig vorgelegt, aber nicht
-voreilig nach aussen verwendet werden. Er ist vor allem dann relevant,
-wenn die Wirksamkeit des Vertrages insgesamt in Frage steht.
+  Der Punkt ist unangenehm fuer Dr. Lockmann, die weiterhin beurkunden
+  soll (05, 06:57). Er sollte dem eigenen Anwalt vollstaendig vorgelegt,
+  aber nicht voreilig nach aussen verwendet werden. Eine naheliegende,
+  milde Verwendung: fuer jede weitere Beurkundung einen neutralen Notar
+  verlangen - das ist sachlich begruendet und beschuldigt niemanden.
+
+
+-------------------------------------------------------------------------------
+5a. WARNUNG: DEN VERTRAG KIPPEN BESEITIGT DEN PFLICHTTEIL NICHT
+-------------------------------------------------------------------------------
+
+Dieser Abschnitt korrigiert eine naheliegende Fehlannahme und verschaerft
+die Risikoeinschaetzung in pflichtteilsrisiko.txt.
+
+Angenommen, der Abfindungsvertrag fiele weg - durch Unwirksamkeit,
+Ruecktritt nach § 313 BGB oder § 779 BGB. Dann waere fuer Anne und Jan zu
+vergleichen:
+
+  Weg                          | Anne und Jan erhalten
+  -----------------------------+-----------------------------------------
+  ANNAHME der Erbschaft        | Aus der Vorerbschaft NICHTS - sie faellt
+  (keine Ausschlagung)         | mit Hilles Tod an Bernd und Fabian als
+                               | Nacherben. Nur die aufgelaufenen
+                               | Niessbrauchsertraege, ca. 3.500 EUR/Jahr.
+                               | Zusaetzlich belastet die Erbschaftsteuer
+                               | auf die Vorerbschaft den Nachlass.
+  -----------------------------+-----------------------------------------
+  AUSSCHLAGUNG + Pflichtteil   | 180.000 bis 360.000 EUR, fuer ihre Seite
+                               | nach pflichtteilsrisiko.txt Abschnitt 3
+                               | nahezu steuerfrei.
+
+DIE AUSSCHLAGUNG IST FUER ANNE UND JAN AUCH OHNE JEDE ABFINDUNG MASSIV
+VORTEILHAFT. Die 190.000 EUR sind, sobald der Pflichtteil erkannt ist,
+nicht mehr der Hauptanreiz - sondern ein Zusatz.
+
+KONSEQUENZEN
+
+  1. Ein Angriff auf den Abfindungsvertrag entfernt nicht das
+     Pflichtteilsrisiko, sondern nur die GEGENLEISTUNG.
+
+  2. Der § 1952-Weg (06:30-42) funktioniert OHNE Gericht und OHNE
+     Abfindungsvertrag. Faellt der Vertrag weg, bleibt dieser Weg
+     bestehen.
+
+  3. pflichtteilsrisiko.txt Abschnitt 3 setzt das Risiko mit 30 bis
+     50 Prozent an und nennt als Gegenargument, eine zusaetzliche
+     Pflichtteilsforderung widerspraeche Annes Vorverhalten. Dieses
+     Gegenargument traegt weniger, als es dort erscheint: Wenn die
+     Ausschlagung ohnehin vorteilhaft ist, braucht Anne das
+     Vorverhalten nicht zu verteidigen.
+
+  4. DARAUS FOLGT: Die Abgeltungsklausel bleibt der zentrale Punkt. Die
+     Vorbefassung ist Druckmittel und Haftungsgrundlage, KEIN ERSATZ
+     dafuer.
+
+Nachzutragen in pflichtteilsrisiko.txt.
 
 
 -------------------------------------------------------------------------------
@@ -225,7 +636,8 @@ Bernd muss den Pflichtteil nicht als Drohung einbringen. Er kann ihn als
 GEMEINSAMES VERSAEUMNIS benennen:
   - Niemand hat daran gedacht.
   - Die Notarin hat nicht darauf hingewiesen, obwohl sie beide Seiten
-    kannte.
+    kannte - und obwohl sie den Vertrag zuvor als Anwaeltin einer Seite
+    entworfen hatte (Abschnitt 5).
   - Der Vertrag ist insoweit lueckenhaft.
 
 Das ist ein sachlicher, gesichtswahrender Zugang. Er schafft die Grundlage
@@ -238,10 +650,17 @@ erhoben wird:
   - § 313 BGB (Abschnitt 2)
   - § 779 BGB (Abschnitt 3)
   - Notarhaftung (Abschnitt 4)
+  - Vorbefassung als Indiz und Haftungsgrundlage (Abschnitt 5)
 
 Das senkt das in pflichtteilsrisiko.txt mit 30 bis 50 Prozent angesetzte
 Risiko nicht in der Eintrittswahrscheinlichkeit, wohl aber in der
 wirtschaftlichen Auswirkung.
+
+EINSCHRAENKUNG - Abschnitt 5a: Diese Rueckfallpositionen taugen zur
+ABWEHR einer Forderung. Sie taugen NICHT dazu, den Vertrag zu beseitigen,
+denn die Ausschlagung ist fuer Anne und Jan auch ohne Abfindung
+vorteilhaft. Rueckfallposition und Angriffsmittel sind hier zwei
+verschiedene Dinge.
 
 FORMULIERUNGSHINWEIS
 Baustein 5A in hautschreiben.vorbereitet.20261014.txt ist dafuer bereits
@@ -274,34 +693,128 @@ ihn frei verwerten.
     § 779 BGB, weil er den comdirect-Streit beilegen sollte? Waere eine
     Unwirksamkeit fuer Bernd guenstig oder nachteilig?
 
- 4. Bestehen Ansprueche gegen die Notarin nach § 19 BNotO, weil sie bei
-    einem Vertrag ueber Ausschlagung gegen Abfindung nicht auf die Frage
-    der Abgeltung und den Pflichtteil hingewiesen hat (§ 17 BeurkG)? Auch
-    zugunsten von Bernd und Fabian?
+ 4. BELEHRUNGSPFLICHT UND NOTARHAFTUNG - Fragenblock zu Abschnitt 4:
 
- 5. Wie ist die verneinte Vorbefassung nach § 3 Abs. 1 Satz 1 Nr. 7
-    BeurkG (03:16-17) zu bewerten, obwohl Dr. Lockmann einen Monat zuvor
-    anwaltlich fuer Anne taetig war (02)? Welche Folgen hat ein etwaiges
-    Mitwirkungsverbot fuer die Wirksamkeit der Urkunde? Sollte der Punkt
-    verwendet werden?
+    4a. Reicht § 17 BeurkG so weit, dass ueber den Pflichtteil nach
+        § 2306 BGB zu belehren war? Ist die Hinweispflicht bei
+        erkennbarem GESTALTUNGSMANGEL - die Gestaltung erreicht das
+        erkennbare Ziel nicht - in dieser Breite anerkannt?
+
+    4b. Wirkt § 19 BNotO zugunsten von BERND UND FABIAN als Beteiligte
+        der Urkunde, obwohl Dr. Lockmann zuvor nur Anne beraten hatte?
+        DIESE FRAGE IST DER ANGELPUNKT DES GANZEN HAFTUNGSKOMPLEXES.
+
+    4c. Welcher hypothetische Verlauf ist bei der Schadensberechnung zu
+        unterstellen? Haette Anne bei korrekter Belehrung fuer
+        190.000 EUR verzichtet - oder waere es zu keinem Vertrag
+        gekommen? Wie hoch ist Bernds Schaden dann wirklich?
+
+    4d. REIHENFOLGE DER ARGUMENTATION: Die Notarhaftung setzt einen
+        Schaden voraus, den Bernds Hauptverteidigung (ergaenzende
+        Auslegung) gerade bestreitet. Wie ist vorzutragen, ohne die
+        erste Linie zu schwaechen? Siehe Abschnitt 4.5.
+
+    4e. Wann beginnt die Verjaehrung nach § 19 BNotO, wenn der Schaden
+        noch nicht eingetreten ist? Ist bei einem Pflichtteilsstreit
+        Streitverkuendung gegen Dr. Lockmann anzuraten?
+
+    4f. Bestehen daneben Ansprueche ANNES gegen Dr. Lockmann aus dem
+        Anwaltsvertrag, weil die Beratung vom 13.02.2026 den Pflichtteil
+        nicht nennt und 02:110-112 sachlich falsch ist? Veraendert das
+        Annes Anreizlage - Pflichtteil gegen Bernd oder Regress gegen
+        die Versicherung?
+
+ 5. VORBEFASSUNG - Fragenblock zu Abschnitt 5:
+
+    5a. Liegt ein Verstoss gegen § 3 Abs. 1 Satz 1 Nr. 7 BeurkG vor?
+        Greift die Ausnahme "im Auftrag aller Beteiligten" - oder haette
+        eine Offenlegung mit Einverstaendnis geheilt?
+
+    5b. Bestaetigt sich, dass § 3 BeurkG die WIRKSAMKEIT NICHT beruehrt,
+        anders als § 6 BeurkG?
+
+    5c. Welche Bedeutung hat die PROTOKOLLIERTE VERNEINUNG (03:16-17)?
+        Folgen fuer die Beweiskraft der Urkunde (§ 415 ZPO)?
+
+    5d. Gilt § 3 BeurkG auch fuer die UNTERSCHRIFTSBEGLAUBIGUNG der
+        Ausschlagungserklaerung (UVZ 252/2026, 03:38-40)? Wenn ja: Folgen
+        fuer die Wirksamkeit der AUSSCHLAGUNG SELBST - das waere der
+        einzige Weg zu einem Formmangel.
+
+    5e. Ist eine Dienstaufsichtsbeschwerde (LG/OLG Oldenburg, Notarkammer)
+        ratsam oder kontraproduktiv?
+
+    5f. Soll die Vorbefassung dem BETREUUNGSGERICHT vorgetragen werden -
+        und wie vertraegt sich das mit dem Zielkonflikt?
+
+    5g. Kostenerstattung nach § 21 GNotKG?
 
  6. Hat die Wechselbezueglichkeit der testamentarischen Verfuegungen
     (01:123) oder der Verzicht auf das Anfechtungsrecht (01:125)
     Auswirkungen auf den Pflichtteil nach Ausschlagung?
 
  7. Soll Dr. Lockmann weiterhin beurkunden, oder ist angesichts der
-    Punkte 4 und 5 ein anderer Notar vorzuziehen?
+    Punkte 4 und 5 ein neutraler Notar zu verlangen? Letzteres waere eine
+    naheliegende Bedingung in Bernds Hauptschreiben.
 
  8. Wie ist die Offenlegung konkret zu formulieren, damit sie als
     gemeinsames Versaeumnis und nicht als Drohung wirkt - und wie wird
-    sichergestellten, dass Problem und Loesungsvorschlag gemeinsam
+    sichergestellt, dass Problem und Loesungsvorschlag gemeinsam
     vorgetragen werden?
+
+ 9. ZU ABSCHNITT 5a: Trifft es zu, dass die Ausschlagung fuer Anne und
+    Jan auch OHNE Abfindung vorteilhaft ist - und dass ein Angriff auf den
+    Abfindungsvertrag damit nur die Gegenleistung, nicht das
+    Pflichtteilsrisiko entfernt?
+
+
+-------------------------------------------------------------------------------
+9. UNSICHERE PUNKTE IN DIESER DATEI
+-------------------------------------------------------------------------------
+
+Offen gekennzeichnet, damit sie im Termin nicht als gesichert behandelt
+werden:
+
+  - Die genaue Fundstelle fuer die Nichtberuehrung der Wirksamkeit bei
+    § 3-Verstoessen. Die Systematik § 3 (Mitwirkungsverbot) gegen
+    § 6 (Unwirksamkeit) gilt als gesichert; die Absatznummerierung ist zu
+    verifizieren.
+  - Ob Offenlegung plus Einverstaendnis aller Beteiligten den Verstoss
+    nach Nr. 7 heilen kann. Praktisch hier ohne Belang, weil keine
+    Offenlegung erfolgte - es wurde das Gegenteil protokolliert.
+  - Ob § 3 BeurkG ueber § 40 BeurkG auf BEGLAUBIGUNGEN durchgreift. Fuer
+    Frage 5d entscheidend.
+  - Reichweite der Sozietaetserstreckung in Nr. 7.
+  - Der Betreuerbeschluss vom 23.09.2025 liegt nicht vor. Lockmann weist
+    selbst auf das Erfordernis der Vermoegenssorge hin (02:86-87) - ob der
+    Aufgabenkreis uebertragen ist, ergibt sich aus den Unterlagen nicht.
+  - Ob die grosse oder kleine Pflichtteilsvariante gilt. Siehe
+    besprechungspapier.txt Abschnitt 5 - dort als Abweichung zu den
+    uebrigen Dateien gekennzeichnet.
+  - Die genaue Fassung des § 17 Abs. 1 BeurkG und ob der Schutz
+    unerfahrener Beteiligter dort in Satz 2 steht.
+  - Ob die Hinweispflicht bei erkennbarem GESTALTUNGSMANGEL in der in
+    Abschnitt 4.2 c) angenommenen Breite anerkannt ist.
+  - DIE DRITTSCHUTZWIRKUNG DES § 19 BNOTO zugunsten aller Beteiligten -
+    also auch zugunsten von Bernd und Fabian, obwohl Dr. Lockmann nur
+    Anne beraten hatte. Hier ist die Einschaetzung zuversichtlich, aber
+    es ist der ANGELPUNKT des Haftungskomplexes. Frage 4b.
+  - Der Verjaehrungsbeginn nach § 19 BNotO bei noch nicht eingetretenem
+    Schaden. Frage 4e.
 
 
 ===============================================================================
 Grundlagen: analyse.20261008.txt, pflichtteilsrisiko.txt,
             abfindungssumme_gegen_rechtssicherheit.txt,
             versagung_mitwirkung.txt, verfahrensdauer.txt,
-            anwaltstermin.20261014.txt
-Erstellt: 09.10.2026
+            anwaltstermin.20261014.txt, besprechungspapier.txt
+Quellen:    erbschaft_kontext\02 (Lockmann-Schreiben 13.02.2026),
+            03 (Abfindungsvertrag), 05 (Ergaenzung), 06 (§ 1952-Vorschlag)
+Erstellt:   09.10.2026
+Ergaenzt:   10.10.2026 - Abschnitt 5 Vorbefassung ausgearbeitet,
+            Abschnitt 5a neu, Abschnitt 9 neu
+Ergaenzt:   10.10.2026 - Abschnitt 4 um Rollentrennung (4.1),
+            Begruendung der Belehrungspflicht (4.2), Kausalitaet (4.3),
+            verpasste Gelegenheiten (4.4) und das Spannungsverhaeltnis
+            zur Hauptverteidigung (4.5) erweitert; Fragen 4a bis 4f neu
 ===============================================================================
