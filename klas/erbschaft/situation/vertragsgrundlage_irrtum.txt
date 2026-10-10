@@ -71,8 +71,8 @@ ist daher nicht sicher - sie ist eine Verteidigungslinie, kein Freibrief.
 
   Fehlannahme                                   Wirkt fuer   Belegt?
   ------------------------------------------------------------------------
-  Jahresertrag 27.150 EUR statt 3.484,02 EUR    BERND        ja, durch
-  (Faktor 8)                                                 Nachlass-
+  Jahresertrag 27.150 EUR statt 3.707,41 EUR    BERND        ja, durch
+  (Faktor 7,3)                                               Nachlass-
                                                              verzeichnis
   ------------------------------------------------------------------------
   Pflichtteilsanspruch nicht bedacht            Anne         nein, nur
@@ -533,8 +533,8 @@ BETREUTEN entspricht (02:77-82). Vorzutragen waere:
   - Die Urkunde protokolliert die Vorbefassung als VERNEINT.
   - Der Vertrag laesst den PFLICHTTEILSANSPRUCH DER BETREUTEN ungeregelt -
     eine Position von 180.000 bis 360.000 EUR zu ihren Lasten.
-  - Die Ertragsgrundlage ist um den FAKTOR 8 ueberhoeht
-    (3.484,02 EUR statt 27.150 EUR).
+  - Die Ertragsgrundlage ist um den FAKTOR 7,3 ueberhoeht
+    (3.707,41 EUR statt 27.150 EUR).
 
 AMBIVALENZ, DIE MAN SEHEN MUSS
   Fuer die Betreute selbst ist der Pflichtteil ein VORTEIL, nicht ein
@@ -686,7 +686,7 @@ ihn frei verwerten.
     sei ein gesetzlicher Mindestanspruch anderer Natur?
 
  2. Kann sich Bernd auf § 313 BGB berufen, weil die Ertragsannahme um den
-    Faktor 8 falsch war? Welche Rechtsfolge - Anpassung oder Ruecktritt?
+    Faktor 7,3 falsch war? Welche Rechtsfolge - Anpassung oder Ruecktritt?
     Und welches Risiko entsteht, wenn sich AUCH Anne darauf beruft?
 
  3. Ist der Vertrag ganz oder teilweise ein Vergleich im Sinne von

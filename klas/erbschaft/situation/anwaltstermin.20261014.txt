@@ -39,7 +39,7 @@ ACHTUNG - ZIELKONFLIKT, der im Termin aufgeloest werden muss:
 
     Ziel A: Die Ergaenzung abwehren.
             Argument: Die Abfindung von 190.000 EUR uebersteigt die
-            tatsaechlichen Ertraege von 3.484,02 EUR um ein Vielfaches,
+            tatsaechlichen Ertraege von 3.707,41 EUR um ein Vielfaches,
             ist also bereits ueberreichlich.
 
     Ziel B: Die Genehmigung verhindern.
@@ -105,18 +105,18 @@ Das Nachlassverzeichnis liegt seit 08.10.2026 vollstaendig vor und zeigt:
 
   Position                          2025           2026 (1.1.-30.9.)
   ------------------------------------------------------------------------
-  Fisher Ertraege              16.767,00 EUR        12.502,30 EUR
+  Fisher Ertraege              16.990,38 EUR        12.502,30 EUR
   Fisher Managementgebuehren  -14.695,98 EUR        -7.787,65 EUR
   comdirect Depot               1.413,00 EUR         1.413,00 EUR (gesch.)
   ------------------------------------------------------------------------
-  Netto                         3.484,02 EUR         6.127,65 EUR
+  Netto                         3.707,41 EUR         6.127,65 EUR
 
 URSACHE DES FEHLERS: Binder zieht die Depotverwaltungsgebuehren nicht ab.
 Diese traegt nach der Vereinbarung mit Fisher Investments aber der
 Niessbraucher - also Hille. Nur die erfolgsabhaengige Gebuehr traegt sie
 nicht.
 
-  190.000 / 3.484  = ca. 54 Jahre
+  190.000 / 3.707  = ca. 51 Jahre
   190.000 / 8.170  = ca. 23 Jahre  (2026 auf 12 Monate hochgerechnet)
   190.000 / 27.150 = ca.  7 Jahre  (Binders Annahme)
 
@@ -125,9 +125,9 @@ der Groessenordnung von 3.000 bis 8.000 EUR. Dem stehen 190.000 EUR
 Abfindung gegenueber.
 
 VORSICHT BEI DER VERWENDUNG: Bei 2026 stehen Ertraegen aus Q1-Q3 nur
-Gebuehren aus Q1+Q2 gegenueber. Mit geschaetzter Q3-Gebuehr sinkt das
-Nettoergebnis 2026 auf ca. 2.230 EUR. Vor einer Verwendung nach aussen
-bereinigen.
+Gebuehren aus Q1+Q2 gegenueber, weil die Q3-Gebuehr noch nicht abgerechnet
+war. Mit geschaetzter Q3-Gebuehr sinkt das Nettoergebnis 2026 auf ca.
+2.230 EUR. Vor einer Verwendung nach aussen bereinigen.
 
 
 -------------------------------------------------------------------------------
@@ -191,10 +191,23 @@ VORSCHLAG 1 - Ergaenzung des Abfindungsvertrages (RA Binder, 28.09.2026)
   Binder macht seine Empfehlung zur Genehmigung davon abhaengig.
   Bernd hat am 05.10.2026 abgelehnt.
   BEWERTUNG: Nach den belegten Zahlen kann die Auszahlungsklausel niemals
-  greifen - 190.000 EUR werden bei 3.484 EUR/Jahr nie erreicht. Die
+  greifen - 190.000 EUR werden bei 3.707 EUR/Jahr nie erreicht. Die
   Ergaenzung ist in der Sache gegenstandslos. Die Pflichten zu Stammerhalt
   und jaehrlichem Nachweis sind dagegen real, unbefristet und ohne
   Deckelung.
+
+  KORREKTUR 10.10.2026 - DIE BEDINGUNG IST NICHT SO FEST WIE HIER
+  ANGENOMMEN: Binders Einwand ist ausschliesslich ein Informationsdefizit
+  ("nicht zu entnehmen", "nicht bewertbar", "nicht sicher feststellbar",
+  04:74-78). Das Verzeichnis beseitigt es. Er kann den Vertrag daher auch
+  OHNE Ergaenzung zur Genehmigung empfehlen - geschaetzt 50 bis
+  65 Prozent. Seine eigene Wortwahl stuetzt das: Das Verzeichnis sei das,
+  was "ausreichen duerfte" (04:86), die weiteren Punkte folgen nachgelagert
+  mit "Sodann waere ...".
+  FOLGE FUER DIE REIHENFOLGE: Die Abgeltungsfrage muss geklaert sein, BEVOR
+  das Verzeichnis uebersandt wird - sonst drohen 190.000 EUR plus offener
+  Pflichtteil.
+  Ausfuehrlich: binder_empfehlung_ohne_ergaenzung.txt
 
 VORSCHLAG 2 - Ausschlagung durch die Erbeserben, § 1952 BGB
   (RA Binder an Anne, 08.10.2026, Notarin Dr. Lockmann in cc)
@@ -328,7 +341,7 @@ PRIORITAET 1 - ohne diese Antworten keine Entscheidung moeglich
     planwidrigen Regelungsluecke mit ergaenzender Auslegung dahin, dass
     die Abfindung die Gegenleistung abschliessend regelt?
     Kann sich Bernd auf § 313 BGB berufen, weil die Ertragsannahme um den
-    Faktor 8 falsch war - und was droht, wenn sich AUCH Anne darauf
+    Faktor 7,3 falsch war - und was droht, wenn sich AUCH Anne darauf
     beruft? Ist der Vertrag teilweise ein Vergleich (§ 779 BGB), weil er
     den comdirect-Streit beilegen sollte?
     Ausfuehrlich: vertragsgrundlage_irrtum.txt
@@ -391,6 +404,14 @@ PRIORITAET 2 - zur Bewertung der beiden Vorschlaege
     rechtlich offen. Gibt es dagegen ein Mittel, oder muss die Abgeltung
     zwingend vorher vereinbart werden?
 
+11a. NEU 10.10.2026 - DIESES SZENARIO IST WAHRSCHEINLICHER GEWORDEN:
+    Kann Binder nach Vorlage des Verzeichnisses den Vertrag OHNE
+    Ergaenzung empfehlen? Eigene Einschaetzung 50 bis 65 Prozent.
+    Daraus die praktische Frage: SOLL DAS VERZEICHNIS UEBERHAUPT
+    UEBERSANDT WERDEN, solange die Abgeltung offen ist - und besteht
+    dazu eine Pflicht?
+    Ausfuehrlich: binder_empfehlung_ohne_ergaenzung.txt
+
 12. Ist die Doppelrolle von RA Binder zulaessig? Siehe Abschnitt 6.
 
 PRIORITAET 3 - Nebenfragen
@@ -451,7 +472,7 @@ Er ist bis auf drei Entscheidungen fertig ausformuliert:
      Fassung II ablehnend)
 
 Inhalt von Fassung I in Kuerze:
-  Ziffer 1  Ertraege 2025 belegt: 3.484,02 EUR netto; Herleitung mit
+  Ziffer 1  Ertraege 2025 belegt: 3.707,41 EUR netto; Herleitung mit
             Depotverwaltungsgebuehren
   Ziffer 2  Folgerung: die verlangte Auszahlungsklausel kann nie greifen,
             die Ergaenzung ist gegenstandslos; die Abfindung erfuellt
@@ -490,6 +511,8 @@ Mitnehmen:
   abfindungssumme_gegen_rechtssicherheit.txt  Erreichbarkeit Verzicht
   verfahrensdauer.txt                       Dauer: 4-7 Monate erwartet
   pflichtteilsrisiko.txt                    Risiko, Anspruchsinhaber
+  binder_empfehlung_ohne_ergaenzung.txt     Kann Binder ohne Ergaenzung
+                                            empfehlen? Reihenfolge!
   versagung_mitwirkung.txt                  Hebel gegen die Genehmigung
   vertragsgrundlage_irrtum.txt              Irrtum, Belehrungspflicht,
                                             Vorbefassung, Notarhaftung
@@ -501,7 +524,7 @@ Vorhandene, noch nicht versendete Entwuerfe eines Schreibens an Binder:
   misc\antwort_an_binder.bernd.txt               Variante A, Pflichtteil benannt
   misc\anwort.bernd.binder.txt         Variante B, nur Abgeltung
   Beide sind vor dem 08.10. entstanden, kennen den § 1952-Vorschlag nicht
-  und nennen veraltete Ertragszahlen (4.000 EUR statt 3.484,02 EUR).
+  und nennen veraltete Ertragszahlen (4.000 EUR statt 3.707,41 EUR).
   Nicht versenden, ohne sie mit dem Anwalt durchzugehen.
 
 

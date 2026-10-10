@@ -113,11 +113,11 @@ Blatt "Ertrag Fisher Depot", Blatt "Ertrag comdirect 2025")
 
   Position                          2025           2026 (1.1.-30.9.)
   ------------------------------------------------------------------------
-  Fisher Ertraege              16.767,00 EUR        12.502,30 EUR
+  Fisher Ertraege              16.990,38 EUR        12.502,30 EUR
   Fisher Managementgebuehren  -14.695,98 EUR        -7.787,65 EUR
   comdirect Depot               1.413,00 EUR         1.413,00 EUR (gesch.)
   ------------------------------------------------------------------------
-  Netto                         3.484,02 EUR         6.127,65 EUR
+  Netto                         3.707,41 EUR         6.127,65 EUR
 
 Herleitung Fisher 2025 (Blatt "Ertrag Fisher Depot"):
   Summe Einnahmen 2025                 23.548,63 EUR
@@ -133,7 +133,7 @@ erfolgsabhaengige Gebuehr traegt er nicht
 (Quartalsabrechnung.erklaerung.txt:1-4).
 
 RECHNUNG ZUR ABFINDUNGSDAUER
-  bei 3.484 EUR/Jahr (Ist 2025)        190.000 / 3.484  = ca. 54 Jahre
+  bei 3.707 EUR/Jahr (Ist 2025)        190.000 / 3.707  = ca. 51 Jahre
   bei 8.170 EUR/Jahr (2026 auf 12 M.)  190.000 / 8.170  = ca. 23 Jahre
   Binders Annahme                      190.000 / 27.150 = ca.  7 Jahre
 
@@ -149,11 +149,14 @@ gegenstandslos. Das entzieht seiner Begruendung vom 28.09. die Grundlage.
 
 ANGREIFBARKEIT DIESER ZAHLEN - vor einer Verwendung zu bereinigen:
   - 2026 stehen Fisher-Ertraegen aus Q1-Q3 nur Gebuehren aus Q1+Q2
-    gegenueber. Mit geschaetzter Q3-Gebuehr (ca. 3.900 EUR) sinkt das
-    Nettoergebnis 2026 von 6.127,65 EUR auf ca. 2.230 EUR. Die Aussage
-    wird dadurch nicht schwaecher, die Darstellung aber angreifbar.
-  - Blatt 1 nennt Fisher 2025 mit 16.767 EUR, Blatt 2 mit 16.990,38 EUR.
-    Differenz 223,38 EUR, ungeklaert.
+    gegenueber, weil die Q3-Gebuehr noch nicht abgerechnet war. Mit
+    geschaetzter Q3-Gebuehr (ca. 3.900 EUR) sinkt das Nettoergebnis 2026
+    von 6.127,65 EUR auf ca. 2.230 EUR. Die Aussage wird dadurch nicht
+    schwaecher, die Darstellung aber angreifbar.
+  - ERLEDIGT 10.10.2026: Die frueher vermerkte Differenz zwischen Blatt 1
+    (16.767,00 EUR) und Blatt 2 (16.990,38 EUR) von 223,38 EUR ist
+    geklaert. Maßgeblich ist 16.990,38 EUR. Daraus ergibt sich der
+    korrigierte Nettoertrag 2025 von 3.707,41 EUR.
   - comdirect 2026 ist mit 1.413 EUR ausdruecklich geschaetzt ("wie 2025").
   - Die frueheren Zahlen aus ertraege_24_25.txt (1.592 EUR netto 2025) und
     aus Bernds Entwurf (4.000 EUR, misc\antwort_an_binder.bernd.txt:37) weichen
@@ -165,6 +168,14 @@ hinreichend bewertet und die 190.000 EUR deshalb fuer "nicht bewertbar"
 allerdings in beide Richtungen: Die Zahlen belegen auch, dass Hille durch
 die Abfindung erheblich beguenstigt wird. Das ist ein Argument FUER die
 Genehmigung. Siehe dazu Abschnitt 8a.
+
+NACHTRAG 10.10.2026 - DARAUS FOLGT MEHR, ALS HIER ANGESETZT WAR:
+Weil Binders Einwand ausschliesslich ein Informationsdefizit ist, kann er
+den Vertrag nach Vorlage des Verzeichnisses AUCH OHNE ERGAENZUNG zur
+Genehmigung empfehlen - geschaetzt 50 bis 65 Prozent. Die Ergaenzung ist
+nicht seine unverrueckbare Bedingung. Konsequenz fuer die Reihenfolge: Die
+Abgeltungsfrage muss geklaert sein, BEVOR das Verzeichnis uebersandt wird.
+Ausfuehrlich: binder_empfehlung_ohne_ergaenzung.txt
 
 Hinweis: Bernds eigene fruehe Schaetzung lag bei ca. 12.600 EUR Jahresertrag
 nach Gebuehren und fuehrte zu einem Abfindungsvorschlag von 60.000 EUR
@@ -488,7 +499,7 @@ Pflichtteil und Zugewinnausgleich ausdruecklich, Variante B nur eine
 allgemeine Abgeltungsklausel. Beide enthalten noch Platzhalter fuer Datum
 und E-Mail-Adresse. Beide nennen ausserdem veraltete Ertragszahlen
 (4.000 EUR fuer 2025, misc\antwort_an_binder.bernd.txt:37) - das Verzeichnis
-weist 3.484,02 EUR aus. Vor einem Versand waere zu entscheiden, ob der
+weist 3.707,41 EUR aus. Vor einem Versand waere zu entscheiden, ob der
 Pflichtteil offen angesprochen wird - nach Aktenlage ist er der Gegenseite
 bislang nicht bewusst (00:33). Diese Entscheidung gehoert in den
 Anwaltstermin am 14.10.

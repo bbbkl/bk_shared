@@ -97,7 +97,7 @@ Ertraege aus. Sie ergeben sich wie folgt:
   abzueglich Depotverwaltungsgebuehren Q1-Q4 2025   -14.695,98 EUR
   comdirect Depot 2025                                 1.413,00 EUR
   ------------------------------------------------------------------
-  Ertraege 2025 netto                                 3.484,02 EUR
+  Ertraege 2025 netto                                 3.707,41 EUR
 
 Fuer den Zeitraum 01.01. bis 30.09.2026 ergibt sich nach derselben
 Methodik ein Betrag in vergleichbarer Groessenordnung.
@@ -120,8 +120,8 @@ Abfindungsvereinbarung um die Verpflichtung ergaenzt wird, lebzeitige
 Zufluesse oberhalb von 190.000,00 EUR an die Betreute auszuzahlen.
 
 Bei den vorstehend belegten Ertraegen kann diese Regelung nicht zum Tragen
-kommen. Ausgehend von 3.484,02 EUR jaehrlich waere die Summe von
-190.000,00 EUR erst nach etwa 54 Jahren erreicht. Auch bei deutlich
+kommen. Ausgehend von 3.707,41 EUR jaehrlich waere die Summe von
+190.000,00 EUR erst nach etwa 51 Jahren erreicht. Auch bei deutlich
 guenstigerer Entwicklung ist ein Erreichen dieser Summe zu Lebzeiten der
 Betreuten nach Aktenlage ausgeschlossen.
 
@@ -315,7 +315,7 @@ Ziffern 1 bis 3 aus Fassung I unveraendert uebernehmen, danach:
 Nach den nunmehr belegten Zahlen stellt sich die Sachlage anders dar als
 bei Abschluss des Vertrages am 13.03.2026. Die Abfindung von 190.000,00 EUR
 beruhte auf der Annahme eines Jahresertrages von 27.150,00 EUR. Der
-tatsaechliche Ertrag betraegt nach dem Nachlassverzeichnis 3.484,02 EUR
+tatsaechliche Ertrag betraegt nach dem Nachlassverzeichnis 3.707,41 EUR
 jaehrlich.
 
 Die Geschaeftsgrundlage der Vereinbarung ist damit in einem wesentlichen
@@ -359,15 +359,23 @@ ZAHLEN - VOR VERSAND PRUEFEN
 
   Das Schreiben nennt fuer 2026 bewusst keine konkrete Zahl, sondern nur
   "vergleichbare Groessenordnung". Grund: Im Verzeichnis stehen Ertraegen
-  aus Q1-Q3 nur Gebuehren aus Q1+Q2 gegenueber. Bereinigt liegt der Wert
-  bei ca. 2.230 EUR statt 6.127,65 EUR. Wer die unbereinigte Zahl nennt,
-  liefert den einzigen Angriffspunkt auf eine sonst sehr starke
-  Zahlenbasis.
+  aus Q1-Q3 nur Gebuehren aus Q1+Q2 gegenueber, weil die Q3-Gebuehr noch
+  nicht abgerechnet war. Bereinigt liegt der Wert bei ca. 2.230 EUR statt
+  6.127,65 EUR. Wer die unbereinigte Zahl nennt, liefert den einzigen
+  Angriffspunkt auf eine sonst sehr starke Zahlenbasis.
 
-  Ebenfalls offen: Blatt 1 des Verzeichnisses nennt Fisher 2025 mit
-  16.767 EUR, Blatt 2 mit 16.990,38 EUR. Differenz 223,38 EUR. Das
-  Schreiben verwendet 16.990,38 EUR aus Blatt 2, weil dort die Herleitung
-  nachvollziehbar ist. Vor Versand klaeren.
+  ERLEDIGT 10.10.2026: Die frueher offene Differenz zwischen Blatt 1
+  (16.767,00 EUR) und Blatt 2 (16.990,38 EUR) von 223,38 EUR ist geklaert.
+  Maßgeblich ist 16.990,38 EUR; das Schreiben verwendet diesen Wert. Der
+  Nettoertrag 2025 betraegt danach 3.707,41 EUR - zuvor war im Papier
+  3.484,02 EUR angesetzt.
+
+  ACHTUNG - REIHENFOLGE VOR VERSAND KLAEREN: Dieses Schreiben belegt, dass
+  die Abfindung die entgehenden Ertraege um ein Vielfaches uebersteigt. Das
+  entkraeftet die Ergaenzung - liefert dem Gericht aber zugleich den
+  Genehmigungsgrund. Ohne vorher geregelte Abgeltung drohen dann
+  190.000 EUR plus offener Pflichtteil.
+  Siehe binder_empfehlung_ohne_ergaenzung.txt Abschnitte 5 und 6.
 
 TON
 
