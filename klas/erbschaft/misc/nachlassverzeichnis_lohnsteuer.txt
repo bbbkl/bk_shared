@@ -1,0 +1,211 @@
+===============================================================================
+NACHLASSVERZEICHNIS UND STEUERVERANLAGUNG 2024 / 2025
+Stand 10.10.2026
+===============================================================================
+
+FRAGE
+  Beim Nachlassverzeichnis gibt es noch einen offenen Punkt. Das Finanzamt
+  hat die Lohnsteuererklaerungen 2024 und 2025 in der Bearbeitung.
+  Muss das Ergebnis noch ins Nachlassverzeichnis rein?
+  Bringt das Zeitgewinn?
+
+ANTWORT IN ZWEI SAETZEN
+  MUSS ES REIN: Ja, dem Grunde nach - die Ansprueche sind am Todestag
+  bereits entstanden. Materiell aber voraussichtlich bedeutungslos.
+
+  ZEITGEWINN: Technisch ja, strategisch nein. Der Aufschub nuetzt am
+  falschen Ende und verlaengert genau das Fenster, in dem die Gegenseite
+  den Pflichtteil entdecken kann.
+
+KEINE RECHTSBERATUNG. Alle Paragraphenangaben sind Einschaetzungen auf
+Grundlage der vorliegenden Unterlagen und anwaltlich bzw. steuerlich zu
+verifizieren.
+
+EINSCHRAENKUNG DER GRUNDLAGE
+Die PDF-Dateien im Verzeichnis nachlass\ und die Tabelle
+Nachlass_klas_krueger.xlsx konnten bei Erstellung dieser Notiz nicht
+eingesehen werden. Die Antwort stuetzt sich auf die Textdateien und die
+Dateinamen. Zwei Punkte sind daher als Annahme gekennzeichnet
+(Abschnitt 5).
+
+
+-------------------------------------------------------------------------------
+1. MUSS ES REIN? - JA, DEM GRUNDE NACH
+-------------------------------------------------------------------------------
+
+STICHTAGSPRINZIP
+Maßgeblich ist der Todestag, 05.02.2026. Entscheidend ist nicht, wann das
+Finanzamt bescheidet, sondern wann der Anspruch ENTSTANDEN ist.
+
+  Jahr | Steuer entstanden        | Gehoert zum Nachlass?
+  -----+--------------------------+------------------------------------
+  2024 | 31.12.2024               | JA, unstreitig
+  -----+--------------------------+------------------------------------
+  2025 | 31.12.2025               | JA, unstreitig
+  -----+--------------------------+------------------------------------
+  2026 | 31.12.2026, also NACH    | UMSTRITTEN - eigener Punkt,
+       | dem Tod                  | siehe unten
+
+Fuer 2024 und 2025 sind die Ansprueche am Todestag bereits entstanden, nur
+noch nicht beziffert. Das ist ein BEWERTUNGS-, kein Zugehoerigkeitsproblem.
+
+RICHTUNG DES ANSPRUCHS
+  Erstattung   -> Nachlassforderung, erhoeht den Aktivbestand
+  Nachzahlung  -> Erblasserschuld, abzugsfaehig
+                  (§ 10 Abs. 5 Nr. 1 ErbStG)
+
+PRAKTISCHE FOLGE
+Die Position gehoert ins Verzeichnis, und zwar mit Vermerk:
+
+  "dem Grunde nach entstanden, Hoehe noch offen -
+   Veranlagung beim Finanzamt in Bearbeitung"
+
+Ein Verzeichnis mit einer so gekennzeichneten offenen Position ist
+VOLLSTAENDIG. Eines, das die Position weglaesst, ist es NICHT.
+
+HINWEIS ZU 2026
+Fuer das Todesjahr ist die Zuordnung des Erstattungsanspruchs zum Nachlass
+umstritten, weil der Anspruch erst zum Jahresende entsteht. Anwaltlich zu
+klaeren - betrifft aber nicht die Frage zu 2024/2025.
+
+
+-------------------------------------------------------------------------------
+2. GROESSENORDNUNG - WAHRSCHEINLICH IRRELEVANT
+-------------------------------------------------------------------------------
+
+Bei einem Nachlass von 1.438.262,66 EUR ist eine Steuererstattung von
+typischerweise einigen hundert bis wenigen tausend Euro materiell
+bedeutungslos.
+
+ZWEI NEBENEFFEKTE, BEIDE KLEIN
+
+  a) Erhoeht die Pflichtteilsbemessungsgrundlage.
+     Bei 2.000 EUR Erstattung und grossem Pflichtteil (1/4) sind das
+     ca. 500 EUR mehr Pflichtteil.
+
+  b) BERUEHRT DIE ERTRAGSRECHNUNG NICHT.
+     Eine Einkommensteuererstattung ist kein Kapitalertrag aus dem Depot.
+     Die 3.484,02 EUR Nettoertrag fuer 2025 bleiben unveraendert - und
+     damit Bernds staerkstes Argument gegenueber Binders Annahme von
+     27.150 EUR.
+
+Punkt b) ist wichtig: Das Thema kann die zentrale Zahl nicht verschieben.
+
+
+-------------------------------------------------------------------------------
+3. ZEITGEWINN? - TECHNISCH JA, STRATEGISCH NEIN
+-------------------------------------------------------------------------------
+
+TECHNISCH
+Ein sauberer Grund fuer ein noch nicht abschliessendes Verzeichnis:
+sachlich, nachpruefbar, nicht von Bernd verursacht. Realistisch einige
+Wochen bis wenige Monate.
+
+STRATEGISCH SPRICHT ERHEBLICHES DAGEGEN
+
+  1. DER ZEITGEWINN NUETZT AM FALSCHEN ENDE
+     Das Nachlassverzeichnis ist Anlage 2 der ERGAENZUNG (05:38-40), die
+     Bernd ohnehin nicht unterschreiben will. Ein unfertiges Verzeichnis
+     verzoegert ein Dokument, das er ablehnt.
+     verfahrensdauer.txt Abschnitt 2: Das Veto wirkt sofort, ohne Risiko.
+
+  2. ZEIT ARBEITET GEGEN BERND
+     verfahrensdauer.txt Grund 1: Jeder zusaetzliche Monat mit zwei
+     befassten Juristen auf Annes Seite erhoeht die
+     Entdeckungswahrscheinlichkeit des Pflichtteils - 180.000 bis
+     360.000 EUR. Dagegen stehen hier wenige Wochen Aufschub.
+
+  3. DIE VERZOEGERUNG IST OHNEHIN DA
+     70 bis 85 Prozent fuer "noch mehrere Monate", Erwartungswert 4 bis
+     7 Monate. Der Steuerpunkt addiert nichts Nennenswertes.
+
+  4. ERKENNBARKEITSRISIKO
+     Bernd hat am 08.10.2026 mitgeteilt, das Verzeichnis liege ihm
+     VOLLSTAENDIG vor (07:21-23). Wird jetzt eine Unvollstaendigkeit
+     nachgeschoben, die vorher nicht erwaehnt war, liest sich das als
+     Hinhalten. Binder sendet nachrichtlich an das Gericht (04:111-113) -
+     das wird aktenkundig.
+     verfahrensdauer.txt Abschnitt 4 fuehrt angekuendigte Stellungnahmen,
+     die ausbleiben, ausdruecklich unter "nicht empfehlenswert".
+
+EMPFEHLUNG
+Die Position offen ausweisen und benennen - korrekt, vollstaendig,
+unangreifbar. Der Nebeneffekt, dass das Verzeichnis dadurch formal noch
+nicht endgueltig ist, tritt von selbst ein, ohne dass jemand darauf
+hinarbeitet. Das ist die bessere Variante als Zuwarten.
+
+
+-------------------------------------------------------------------------------
+4. ZWEI PUNKTE, DIE LEICHT UEBERSEHEN WERDEN
+-------------------------------------------------------------------------------
+
+a) STEUERLICHE PFLICHTEN SIND AUF DIE ERBEN UEBERGEGANGEN
+   § 45 AO, Gesamtrechtsnachfolge. Solange die Ausschlagung nicht wirksam
+   ist, ist Hille vorlaeufig Erbin - vertreten durch Anne. Zu klaeren ist,
+   wer gegenueber dem Finanzamt auftritt und wem eine Erstattung
+   ausgezahlt wird. Eine Auszahlung an Hille waere bei spaeterer wirksamer
+   Ausschlagung rueckabzuwickeln.
+
+b) DAS VERZEICHNIS KANN SPAETER GEGEN BERND VERWENDET WERDEN
+   Wird der Pflichtteil geltend gemacht, schuldet der Erbe dem
+   Pflichtteilsberechtigten ein Nachlassverzeichnis (§ 2314 BGB) -
+   Berechtigte waere Hille bzw. spaeter Anne und Jan. Das jetzt erstellte
+   Verzeichnis wird dann Grundlage der Pflichtteilsberechnung.
+
+   DARAUS FOLGT: Sorgfaeltig und vollstaendig arbeiten, nicht knapp
+   halten. Eine erkennbare Luecke schwaecht spaeter die eigene Position
+   erheblich.
+
+   Das ist das eigentliche Argument gegen jede Verkuerzung - es wirkt in
+   die Gegenrichtung zum Zeitgewinn.
+
+
+-------------------------------------------------------------------------------
+5. OFFENE ANNAHMEN
+-------------------------------------------------------------------------------
+
+  - Ob das Verzeichnis bereits UNTERSCHRIEBEN EINGEREICHT ist. Der
+    Dateiname nachlass\nachlassverheichnis.unteschrieben.pdf deutet
+    darauf. Falls ja, geht es nicht um Aufnahme, sondern um einen
+    NACHTRAG - anderes Vorgehen, aber dasselbe Ergebnis.
+
+  - "Lohnsteuererklaerung": Klas Krueger war 87. Vermutlich
+    EINKOMMENSTEUERERKLAERUNG mit Renteneinkuenften. Falls tatsaechlich
+    Lohnsteuer anfiel, waeren Einkuenfte aus nichtselbstaendiger Arbeit zu
+    beruecksichtigen, die im Nachlass bislang nicht vorkommen.
+
+  - Erstattung oder Nachzahlung, und Groessenordnung - beides unbekannt.
+
+  - Die PDF-Dateien und die Excel-Tabelle in nachlass\ wurden nicht
+    eingesehen. Ob die Position dort bereits erfasst ist, ist offen.
+
+
+-------------------------------------------------------------------------------
+6. FRAGEN FUER DEN ANWALTSTERMIN 14.10.2026
+-------------------------------------------------------------------------------
+
+ 1. Gehoeren die Erstattungs- bzw. Nachzahlungsansprueche 2024 und 2025
+    zum Nachlass, weil sie am Stichtag 05.02.2026 dem Grunde nach
+    entstanden waren? Wie ist fuer das Todesjahr 2026 zu verfahren?
+
+ 2. Genuegt im Verzeichnis ein Ausweis "dem Grunde nach entstanden, Hoehe
+    offen", oder ist eine Schaetzung erforderlich?
+
+ 3. Wer tritt gegenueber dem Finanzamt auf, und wohin wird ausgezahlt,
+    solange die Ausschlagung nicht wirksam ist (§ 45 AO)? Was gilt bei
+    spaeterer wirksamer Ausschlagung?
+
+ 4. Welche Anforderungen gelten, wenn das Verzeichnis spaeter der
+    Pflichtteilsberechnung nach § 2314 BGB dient? Besteht ein Risiko,
+    wenn es jetzt knapp gehalten wird?
+
+
+===============================================================================
+Quellen:    erbschaft_kontext\04 (Binder 28.09.2026),
+            05 (Ergaenzungsentwurf), 07 (Mail Bernd 08.10.2026)
+Siehe auch: verfahrensdauer.txt - Abschnitte 2 bis 4, warum Zeit nicht
+            eindeutig fuer Bernd arbeitet
+            pflichtteilsrisiko.txt - Hoehe und Anspruchsinhaber
+            besprechungspapier.txt - Pflichtteil, Vergleichsrechnung
+Erstellt:   10.10.2026
+===============================================================================

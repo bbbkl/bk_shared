@@ -1,0 +1,11 @@
+
+Das Testament ist 01_testamtent_krueger.txt
+Der Vertrag Erbausschlagung gegen Abfindungsvertrag ist 03_abfindungsvertrag.txt
+Im Vertrag Erbausschlagung gegen Abfindungsvertrag fehlt der Ausschluss des Pflichtanteilsanspruchs.
+Im Testsament ist unter §9 §9 Bindung "Auf das Anfechtungsrecht wegen Übergehung eines Pflichtteilsberechtigten verzichten wir." geschrieben.
+Wenn der Vertrag  Erbausschlagung gegen Abfindungsvertrag so zum Zuge kommt. Besteht dann ein Pflichtanteilsanspruch? 
+
+
+Frau Lockmann hat als Anwaltin von Anne vorher den Abfindungsvertrag entworfen 02_info_lockmann_vor_abfindungsvertrag.txt
+Die Fixierung des Vertrages musste unter zeitdruck in einem 6 Wochen Zeitraum geschehen.
+Ist es statthaft bzw. anfechtbar, dass Frau Lockmann gleichzeitig die Notarin ist? 
