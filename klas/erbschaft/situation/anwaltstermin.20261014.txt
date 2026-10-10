@@ -5,54 +5,64 @@ Erbfall Klas Krueger, verstorben 05.02.2026
 ===============================================================================
 
 Ausfuehrliche Analyse: analyse.20261008.txt (gleiches Verzeichnis)
+EINSTIEG FUER DEN TERMIN: handlungsoptionen.txt - fuenf Optionen,
+Vergleich, Empfehlung. Diese Datei hier ist die Vollfassung.
 
 
 -------------------------------------------------------------------------------
 1. DIE EINE FRAGE, DIE BEANTWORTET WERDEN MUSS
 -------------------------------------------------------------------------------
 
-Will Bernd die Erbausschlagung seiner Stiefmutter ueberhaupt noch - oder
-ist Abwarten die bessere Option?
+BEANTWORTET AM 10.10.2026 - DIE LEITFRAGE HAT SICH VERSCHOBEN
 
-Alles andere haengt daran. Die Diskussion laeuft derzeit nur ueber die
-Frage, ob eine Vertragsergaenzung unterschrieben wird. Das ist die falsche
-Ebene.
+Die bisherige Frage lautete: Will Bernd die Erbausschlagung seiner
+Stiefmutter ueberhaupt noch - oder ist Abwarten die bessere Option?
 
-BERNDS POSITION (Stand 08.10.2026): Er ist generell bereit, die
-190.000 EUR zu zahlen - will dafuer aber rechtssicher, dass nach wirksamer
-Ausschlagung kein Pflichtteilsanspruch mehr gegen ihn und Fabian geltend
-gemacht werden kann.
+Bernd hat bestaetigt, dass er bereit ist, auf die Ausschlagung zu
+verzichten und die hoehere Steuer zu tragen (Option 1). Damit ist Abwarten
+GESICHERTER BODEN, nicht Rueckfallebene.
 
-Damit lautet die Frage praeziser:
+DIE NEUE LEITFRAGE
 
-  Ist ein rechtssicherer Verzicht auf Pflichtteil und Zugewinnausgleich
-  gegen Zahlung von 190.000 EUR ueberhaupt erreichbar?
+  Ist eine vollstaendige Erledigung aller Ansprueche erreichbar - und wenn
+  nein, bleibt es bei Option 1?
 
-Einschaetzung: ueber das Betreuungsgericht nur mit 20 bis 30 Prozent
-Wahrscheinlichkeit. Aussichtsreicher ist eine Vereinbarung mit Anne und Jan
-NACH dem Tod der Betreuten - dann ist kein Gericht erforderlich.
-Ausfuehrlich: abfindungssumme_gegen_rechtssicherheit.txt
+DER ENTSCHEIDUNGSMASSSTAB
+  Steuerersparnis durch Ausschlagung         ca.  90.000 EUR
+  Pflichtteilsrisiko ohne Abgeltung     180.000 bis 360.000 EUR
+  ----------------------------------------------------------------
+  Verhaeltnis                             1 : 2 bis 1 : 4
 
-ACHTUNG - ZIELKONFLIKT, der im Termin aufgeloest werden muss:
+  Daraus die harte Grenze: Mitwirkung nur gegen vollstaendige Erledigung.
+  Ohne sie ist Option 1 rechnerisch besser.
 
-  Bernd verfolgt derzeit faktisch ZWEI Ziele, die sich widersprechen.
+FUENF OPTIONEN IM VERGLEICH: handlungsoptionen.txt
+  Das ist der Einstieg fuer den Termin. Diese Datei hier ist die
+  Vollfassung.
 
-    Ziel A: Die Ergaenzung abwehren.
-            Argument: Die Abfindung von 190.000 EUR uebersteigt die
-            tatsaechlichen Ertraege von 3.707,41 EUR um ein Vielfaches,
-            ist also bereits ueberreichlich.
+  1  Nichts tun                  ~187.000 EUR   sicher      EMPFEHLUNG
+  5  § 1952 mit Erledigung       ~277.000+x     50-70 %     aktive Linie
+  4  Abgeltung ueber Gericht     ~277.000       20-30 %
+  3  Vertrag 03 genehmigt        bis 550.000    kein Schutz VERMEIDEN
+  2  Ergaenzung unterschreiben   wie 3 + Lasten              abgelehnt
 
-    Ziel B: Die Genehmigung verhindern.
-            Dafuer waere vorzutragen, dass die Ausschlagung fuer Hille
-            NACHTEILIG ist.
+BERNDS POSITION (Stand 10.10.2026): Bereit, die 190.000 EUR zu zahlen -
+aber NUR gegen rechtssichere Erledigung, insbesondere des Pflichtteils.
+Andernfalls Option 1.
 
-  Das Argument fuer Ziel A ist zugleich das beste Argument FUER die
-  Genehmigung - denn der Maßstab des Gerichts ist das Wohl der Betreuten
-  (02:78-79). Wer belegt, dass Hille sehr gut wegkommt, liefert den
-  Genehmigungsgrund.
+ACHTUNG - DER ZIELKONFLIKT IST DAMIT AUFGELOEST:
 
-  Beide Ziele sind nicht gleichzeitig erreichbar. Welches gilt?
-  Ausfuehrlich: versagung_mitwirkung.txt Abschnitt 3
+  Frueher standen zwei unvereinbare Ziele im Raum - die Ergaenzung
+  abwehren oder die Genehmigung verhindern. Mit der Bestaetigung zu
+  Option 1 lautet das Ziel: VERSAGUNG, sofern keine Erledigung erreichbar
+  ist.
+
+  FOLGE FUER DIE KOMMUNIKATION: Bernds staerkstes Sachargument -
+  190.000 EUR gegen 3.707,41 EUR Jahresertrag - sollte NICHT nach aussen
+  getragen werden. Es belegt, dass Hille gut wegkommt, und liefert damit
+  dem Gericht den Genehmigungsgrund.
+  Ausfuehrlich: versagung_mitwirkung.txt Abschnitt 3,
+  handlungsoptionen.txt Abschnitt 6b
 
 Die Rueckfalloption bleibt relevant:
 
@@ -500,6 +510,8 @@ Ebenfalls im Termin zu klaeren:
 -------------------------------------------------------------------------------
 
 Mitnehmen:
+  handlungsoptionen.txt                     EINSTIEG: 5 Optionen,
+                                            Vergleich, Empfehlung
   erbschaft_kontext\00_kontext.txt          Sachverhaltsuebersicht
   erbschaft_kontext\01_testamtent_krueger.txt
   erbschaft_kontext\02_info_lockmann_vor_abfindungsvertrag.txt

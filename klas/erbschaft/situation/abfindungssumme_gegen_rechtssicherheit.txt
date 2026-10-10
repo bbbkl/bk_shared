@@ -89,6 +89,23 @@ Hinzu kommt: Nach Aktenlage ist der Pflichtteilsanspruch der Gegenseite
 bislang nicht bewusst (00:33). Wer ihn anspricht, bringt Anne und Binder
 darauf - und damit auf einen Anspruch, der die Abfindung uebersteigt.
 
+NACHTRAG 10.10.2026 - DAS DILEMMA VERLIERT SEINE SCHAERFE
+
+  Es setzte voraus, dass Bernd die Genehmigung WILL. Bernd hat am
+  10.10.2026 bestaetigt, dass er bereit ist, auf die Ausschlagung zu
+  verzichten und die hoehere Steuer zu tragen (Option 1).
+
+  Will er die Genehmigung nur unter der Bedingung vollstaendiger
+  Erledigung, ist ihr Scheitern kein Verlust. Die Pruefung, die den
+  Verzicht verhindert, verhindert dann auch die Genehmigung - und das ist
+  genau Option 1 mit null Pflichtteilsrisiko.
+
+  Das Dilemma bleibt bestehen fuer die Frage, ob Anne den Anspruch
+  spaeter ueber § 1952 BGB verfolgt. Es ist aber kein Argument mehr
+  dagegen, die Abgeltung zu verlangen.
+
+  Ausfuehrlich: handlungsoptionen.txt Abschnitt 6a
+
 
 -------------------------------------------------------------------------------
 3. KORREKTUR GEGENUEBER DER BISHERIGEN ANALYSE: DER ZUGEWINNAUSGLEICH
@@ -222,6 +239,10 @@ PRAKTISCHE HUERDE
                                                                  100.000 EUR
                                                                  Steuer
   ------------------------------------------------------------------------
+  >>> BESTAETIGTE PRAEFERENZ 10.10.2026: Bernd ist bereit, diesen Weg zu
+      gehen. Damit ist er GESICHERTER BODEN, nicht Rueckfallebene - und
+      Maßstab fuer jede andere Option.
+      Siehe handlungsoptionen.txt
 
 FAZIT
   Bernds Wunsch - 190.000 EUR zahlen und anschliessend Ruhe haben - ist zu
@@ -231,6 +252,11 @@ FAZIT
   Erreichbar ist er entweder
     - gegen mehr Geld, oder
     - auf dem § 1952-Weg nach dem Tod der Betreuten.
+
+  ERGAENZUNG 10.10.2026: Oder er wird aufgegeben. Da Bernd Option 1
+  akzeptiert, ist "keine Ausschlagung" keine Notloesung mehr. Die
+  90.000 EUR Steuervorteil rechtfertigen kein Pflichtteilsrisiko von
+  180.000 bis 360.000 EUR - Verhaeltnis 1 : 2 bis 1 : 4.
 
   Alle Prozentangaben sind Einschaetzungen auf Grundlage der vorliegenden
   Unterlagen, keine belastbaren Prognosen.

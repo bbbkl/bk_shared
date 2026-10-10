@@ -400,6 +400,27 @@ TEIL 1 - Verzeichnis uebersenden: unproblematisch.
   Es geht ueber Anne ohnehin an das Gericht. Ein Zurueckhalten waere
   wirkungslos und wuerde obstruktiv wirken.
 
+  KORREKTUR 10.10.2026 - TEIL 1 IST NICHT MEHR UNPROBLEMATISCH:
+  Diese Bewertung unterstellte, das Verzeichnis sei nur Grundlage der
+  ERGAENZUNG. Inzwischen ist erkannt, dass es die GENEHMIGUNG DES
+  BESTEHENDEN VERTRAGES ausloesen kann - geschaetzt 59 Prozent, weil
+  Binders Einwand ausschliesslich ein Informationsdefizit war
+  (binder_empfehlung_ohne_ergaenzung.txt).
+
+  Damit ist die Uebersendung nicht neutral, sondern der Schritt, der in
+  Szenario 3 fuehrt: 190.000 EUR plus offener Pflichtteil. Die
+  Abgeltungsfrage muss VORHER geklaert sein.
+
+  Zum Einwand "wirkungslos": Das Verzeichnis liegt Anne nicht vor; Bernd
+  hat am 08.10.2026 nur mitgeteilt, dass es IHM vollstaendig vorliegt
+  (07:21-23, 07:49-51). Ob eine Pflicht zur Uebersendung besteht, ist
+  anwaltlich zu klaeren - Frage 3 in
+  binder_empfehlung_ohne_ergaenzung.txt Abschnitt 7.
+
+  Zum Einwand "obstruktiv": Das trifft zu, ist aber bei bestaetigter
+  Praeferenz fuer Option 1 kein Gegenargument mehr. Siehe
+  handlungsoptionen.txt Abschnitt 6.
+
 TEIL 2 - Um Genehmigung von Vertrag 03 bitten: nicht ohne Weiteres.
 
   Das Argument traegt sachlich. § 3 der Ergaenzung kann nach den belegten
@@ -459,6 +480,20 @@ TEIL 2 - Um Genehmigung von Vertrag 03 bitten: nicht ohne Weiteres.
   gleichzeitig stellen (misc\antwort_an_binder.bernd.txt:67-82). Versand erst
   nach dem Anwaltstermin am 14.10.
 
+  NACHTRAG 10.10.2026 - DIE EMPFEHLUNG IST ZU VERSCHAERFEN:
+  "Gleichzeitig stellen" genuegt nicht. Die Abgeltung muss GEREGELT sein,
+  nicht nur angesprochen - und zwar bevor das Zahlenwerk hinausgeht. Grund:
+  Dasselbe Zahlenwerk, das die Ergaenzung entkraeftet, liefert den
+  Genehmigungsgrund fuer den BESTEHENDEN Vertrag. Binder kann daraufhin
+  ohne Ergaenzung empfehlen (ca. 59 Prozent).
+
+  Ausserdem ist zu pruefen, ob ueberhaupt eine Pflicht zur Uebersendung
+  besteht. Die Mail vom 08.10.2026 sagt nur, dass das Verzeichnis
+  vorliegt - nicht, dass es uebersandt wird (07:49-51).
+
+  Siehe binder_empfehlung_ohne_ergaenzung.txt Abschnitt 6 und
+  handlungsoptionen.txt Abschnitt 7.
+
   UMSETZUNG: Am 08.10.2026 ist zunaechst nur eine kurze
   Empfangsbestaetigung an Binder gegangen, cc Anne und Fabian
   (mail_bernd_an_binder.20261008.txt). Sie bestaetigt das Vorliegen des
@@ -493,6 +528,24 @@ Option C - Zustimmung nur gegen Gegenleistung
   verzichten kann und ob das ein weiteres Genehmigungsverfahren ausloest.
   Siehe Abschnitt 9 Nr. 2.
 
+ZUORDNUNG ZU DER NEUEREN SYSTEMATIK (10.10.2026)
+  handlungsoptionen.txt zaehlt fuenf Optionen durch. Die Bezeichnungen
+  A bis C hier entsprechen:
+
+    A  Abwarten, nicht unterschreiben     ->  Option 1 (EMPFEHLUNG)
+    B  § 1952 und Ergaenzung ablehnen     ->  Optionen 1 und 2 gemischt
+    C  Zustimmung nur gegen Gegenleistung ->  Optionen 4 und 5
+
+  Die neuere Systematik trennt zusaetzlich Option 3 ab - Genehmigung des
+  BESTEHENDEN Vertrages ohne Ergaenzung. Diese Moeglichkeit war hier noch
+  nicht als eigener Weg erfasst, ist aber nach
+  binder_empfehlung_ohne_ergaenzung.txt mit ca. 59 Prozent der
+  wahrscheinlichste Verlauf, wenn das Verzeichnis ohne geregelte Abgeltung
+  uebersandt wird - und fuer Bernd die ungefaehrlichste aussehende,
+  tatsaechlich aber schlechteste Variante.
+
+  Fuer den Termin ist handlungsoptionen.txt maßgeblich.
+
 Hinweis zu den beiden vorhandenen Entwuerfen: Beide sind vor dem 08.10.
 entstanden und kennen den § 1952-Vorschlag noch nicht. Variante A benennt
 Pflichtteil und Zugewinnausgleich ausdruecklich, Variante B nur eine
@@ -507,6 +560,13 @@ Anwaltstermin am 14.10.
 ZUR ENTSCHEIDUNG AM 14.10. - Zusammenfassung der Weggabelung:
   Die eigentliche Frage ist nicht, ob die Ergaenzung unterschrieben wird.
   Sie ist, ob Bernd die Ausschlagung ueberhaupt noch will.
+
+  BEANTWORTET AM 10.10.2026: Bernd ist bereit, auf die Ausschlagung zu
+  verzichten und die hoehere Steuer zu tragen. Damit ist Abwarten
+  gesicherter Boden, und die Frage lautet nur noch: Ist eine
+  vollstaendige Erledigung erreichbar - und wenn nein, bleibt es dabei?
+  Entscheidungsmaßstab: ca. 90.000 EUR Steuervorteil gegen 180.000 bis
+  360.000 EUR Pflichtteilsrisiko. Siehe handlungsoptionen.txt
     - Will er sie: dann nur mit Abgeltungsklausel und Pflichtteilsverzicht,
       und die Steuerabzugsfaehigkeit der Abfindung muss geklaert sein.
     - Will er sie nicht: dann ist Abwarten die wirksamste Option, weil das

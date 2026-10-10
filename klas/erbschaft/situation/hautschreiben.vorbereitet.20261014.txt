@@ -45,6 +45,25 @@ ENTSCHEIDUNG 3 - Will Bernd die Ausschlagung noch?
   [ ] Fassung I (konstruktiv) - Regelfall
   [ ] Fassung II (ablehnend) - nur wenn der Anwalt dazu raet
 
+  PRAEZISIERUNG 10.10.2026 - DIE BEREITSCHAFT IST BEDINGT:
+  Bernd hat bestaetigt, dass er bereit ist, auf die Ausschlagung ganz zu
+  VERZICHTEN und die hoehere Steuer zu tragen (Option 1, ca. 187.000 EUR
+  statt ca. 277.000 EUR). Die Zahlungsbereitschaft gilt also NUR gegen
+  vollstaendige Erledigung; andernfalls Option 1.
+
+  FOLGE FUER DIE FASSUNGSWAHL: Fassung II ist damit nicht mehr blosse
+  Rueckfalloption, sondern gleichrangig. Entscheidungsmaßstab:
+    Steuerersparnis                      ca.  90.000 EUR
+    Pflichtteilsrisiko ohne Abgeltung  180.000 bis 360.000 EUR
+  Die Wahl gehoert in den Termin - hier bewusst nicht vorentschieden.
+
+  ZUSATZ ZU BEIDEN FASSUNGEN ERFORDERLICH: Die Mitwirkung ist ausdruecklich
+  an die vollstaendige Erledigung zu binden. Ohne diesen Vorbehalt kann das
+  Schreiben als Zustimmung zum bestehenden Vertrag gelesen werden - und
+  genau das fuehrt in Option 3 (190.000 EUR plus offener Pflichtteil).
+
+  Ausfuehrlich: handlungsoptionen.txt, insbesondere Abschnitte 4, 5 und 7
+
   ZU BEACHTEN: Die Erreichbarkeit des Verzichts ist ueber das
   Betreuungsgericht mit nur 20 bis 30 Prozent einzuschaetzen. Der
   aussichtsreichere Weg fuehrt ueber eine Vereinbarung mit Anne und Jan
