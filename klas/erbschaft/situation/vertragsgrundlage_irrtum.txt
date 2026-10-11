@@ -119,9 +119,7 @@ comdirect-Streit wieder offen.
 ERGAENZEND: Der Finanzreport weist das comdirect-Konto als Einzelkonto auf
 Klas Krueger aus, Kundennummer 118 7285638
 (nachlass\comdirect_kto\finanzreport.202506_full.txt:12-20). Das spricht
-gegen Annes Behauptung. Vorpruefungen liegen vor in
-comdirect_kto\bewertung_comdirect_kto\pruefung_gemeinschaftskonto1.txt
-und ...2.txt.
+gegen Annes Behauptung.
 
 
 -------------------------------------------------------------------------------
