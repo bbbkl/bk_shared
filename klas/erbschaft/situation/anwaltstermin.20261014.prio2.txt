@@ -1,0 +1,281 @@
+===============================================================================
+PRIORITAET 2 - WEITERE ZU KLAERENDE PUNKTE
+Anwaltstermin Mittwoch, 14.10.2026 - Mandant Bernd Krueger
+Erbfall Klas Krueger, verstorben 05.02.2026
+===============================================================================
+
+Vorrangig: anwaltstermin.20261014.prio1.txt
+
+Diese Punkte sind wichtig, aber der Entscheidung ueber Pflichtteil und
+Abgeltung nachgeordnet. Sie koennen auch nach dem Termin bearbeitet werden.
+
+
+-------------------------------------------------------------------------------
+1. DER ZAHLENSTREIT - HIER IST DER MANDANT VORAUSSICHTLICH IM RECHT
+-------------------------------------------------------------------------------
+
+Die Abfindung soll den durch die Ausschlagung entgehenden Niessbrauch
+ersetzen. RA Binder rechnet mit 27.150 EUR Jahresertrag und kommt so auf
+rund 7 Jahre bis zum Erreichen der 190.000 EUR.
+
+Das Nachlassverzeichnis zeigt:
+
+  Position                          2025           2026 (1.1.-30.9.)
+  ------------------------------------------------------------------------
+  Fisher Ertraege              16.990,38 EUR        12.502,30 EUR
+  Fisher Managementgebuehren  -14.695,98 EUR        -7.787,65 EUR
+  comdirect Depot               1.413,00 EUR         1.413,00 EUR (gesch.)
+  ------------------------------------------------------------------------
+  Netto                         3.707,41 EUR         6.127,65 EUR
+
+URSACHE DES FEHLERS: Binder zieht die Depotverwaltungsgebuehren nicht ab.
+Diese traegt nach der Vereinbarung mit Fisher Investments aber der
+Niessbraucher, also Hille. Nur die erfolgsabhaengige Gebuehr traegt sie
+nicht.
+
+  190.000 / 27.150 = ca.  7 Jahre  (Binders Annahme)
+  190.000 /  8.170 = ca. 23 Jahre  (2026 auf 12 Monate hochgerechnet)
+  190.000 /  3.707 = ca. 51 Jahre  (belegtes Ergebnis 2025)
+
+Abweichungsfaktor ca. 7,3. Bei einer Lebenserwartung unter einem Jahr
+entgeht Hille real ein Betrag in der Groessenordnung von 3.000 bis
+8.000 EUR; dem stehen 190.000 EUR gegenueber.
+
+ACHTUNG VOR DER VERWENDUNG: Bei 2026 stehen Ertraegen aus Q1-Q3 nur
+Gebuehren aus Q1+Q2 gegenueber, weil die Q3-Gebuehr noch nicht abgerechnet
+war. Mit geschaetzter Q3-Gebuehr sinkt das Nettoergebnis 2026 auf ca.
+2.230 EUR. Vor einer Verwendung nach aussen bereinigen.
+
+ZU KLAEREN
+ 1.1  Ist die Herleitung tragfaehig - traegt der Niessbraucher die
+      Depotverwaltungsgebuehren, so dass sie vom Ertrag abzuziehen sind?
+ 1.2  ACHTUNG ZIELKONFLIKT: Dieses Argument ist das staerkste Sachargument
+      des Mandanten, wirkt aber gegen ihn, wenn die Versagung das Ziel ist.
+      Es belegt, dass Hille mit 190.000 EUR sehr gut wegkommt, und liefert
+      dem Gericht damit den Genehmigungsgrund.
+      Soll es nach aussen getragen werden - und wenn ja, wann?
+
+
+-------------------------------------------------------------------------------
+2. ROLLE DES VERFAHRENSPFLEGERS RA BINDER
+-------------------------------------------------------------------------------
+
+ - Binder ist vom Betreuungsgericht als Verfahrenspfleger zur Wahrung der
+   Interessen der Betreuten eingesetzt.
+ - Zugleich hat Anne ihn nach eigener Darstellung "auf Hilles Kosten" als
+   Anwalt beauftragt, um weitere Moeglichkeiten zu pruefen.
+ - Das Ergebnis dieser Pruefung - Sicherung der Abfindung ueber Hilles Tod
+   hinaus - nuetzt wirtschaftlich nicht Hille, sondern ihren Erben Anne und
+   Jan. Hille selbst ist nach Aktenlage versorgt (eigenes Vermoegen
+   ca. 400.000 EUR, Einnahmeueberschuss ca. 1.000 EUR/Monat). Binder haelt
+   eine eigene finanzielle Beguenstigung der Betreuten ausdruecklich fuer
+   nicht im Vordergrund stehend.
+ - Binder raet, das Genehmigungsverfahren aufrechtzuerhalten, weil es die
+   Ausschlagungsfrist hemmt - obwohl das angestrebte Ergebnis eine
+   Genehmigung gerade nicht mehr benoetigt.
+ - Sein Mandat ist ausdruecklich auf die erbrechtliche Pruefung beschraenkt;
+   steuerliche Auswirkungen sind nicht erfasst.
+
+ZU KLAEREN
+ 2.1  Ist diese Doppelrolle zulaessig?
+ 2.2  Bestehen Offenlegungspflichten gegenueber dem Betreuungsgericht?
+ 2.3  Ist ein entsprechender Hinweis an das Gericht sinnvoll oder riskant?
+
+HINWEIS ZUR GESAMTLAGE: Jede rechtliche Einschaetzung im Verfahren stammt
+bislang von Beratern, die Anne mandatiert hat - Dr. Lockmann (Februar),
+RA Binder (September/Oktober). Bernd hatte bis zu diesem Termin keine
+eigene Vertretung.
+
+
+-------------------------------------------------------------------------------
+3. NOTARIN DR. LOCKMANN - ZWEI KOMPLEXE
+-------------------------------------------------------------------------------
+
+3a. BELEHRUNGSPFLICHT UND HAFTUNG
+    Das Beratungsschreiben vom 13.02.2026 behandelt alles Wesentliche,
+    nennt den Pflichtteil aber nicht. Die Aussage, Hille erbe bei
+    Ausschlagung "nichts", ist wegen § 2306 BGB sachlich fraglich. Einen
+    Monat spaeter beurkundet dieselbe Juristin den Vertrag ohne
+    Abgeltungsklausel.
+      - Ansprueche nach § 19 BNotO, § 17 BeurkG - auch fuer Bernd und
+        Fabian?
+      - Entscheidend ist die Rollentrennung: Die ANWALTSpflicht bestand nur
+        gegenueber Anne und Hille, die NOTARpflicht gegenueber allen
+        Beteiligten. Nur letztere ist fuer Bernd verwertbar. Trifft das zu?
+      - ACHTUNG, INNERER WIDERSPRUCH: Traegt die ergaenzende Auslegung
+        (Punkt 4), gibt es keinen Schaden und damit keine Haftung.
+        Rueckfallebene, nicht Parallelweg.
+
+3b. VORBEFASSUNG
+    Die Urkunden protokollieren, eine Vorbefassung nach § 3 Abs. 1 Satz 1
+    Nr. 7 BeurkG sei verneint worden, obwohl Dr. Lockmann zuvor anwaltlich
+    fuer Anne taetig war.
+    Eigene Einschaetzung: Verstoss wahrscheinlich, aber die Beurkundung ist
+    NICHT unwirksam und NICHT anfechtbar - § 3 BeurkG ist
+    Mitwirkungsverbot, nicht Ausschliessungsgrund (§ 6 BeurkG). Wirkung
+    liegt im Genehmigungsverfahren, in der Haftung und in der
+    Dienstaufsicht. Bestaetigt sich das?
+    Der Zeitdruck im 6-Wochen-Fenster entlastet nach eigener Einschaetzung
+    nicht - fristgebunden war nur die Ausschlagung, nicht der
+    Abfindungsvertrag. Zutreffend?
+
+3c. Soll Dr. Lockmann weiterhin beurkunden, oder ist fuer jede Ergaenzung
+    ein neutraler Notar zu verlangen?
+
+
+-------------------------------------------------------------------------------
+4. VERTRAGSGRUNDLAGE UND VERTEIDIGUNGSLINIEN
+-------------------------------------------------------------------------------
+
+Der Vertrag wurde auf BEIDEN Seiten ohne Kenntnis des
+Pflichtteilsanspruchs geschlossen.
+
+ 4.1  Traegt die Annahme einer planwidrigen Regelungsluecke mit
+      ergaenzender Auslegung dahin, dass die Abfindung die Gegenleistung
+      abschliessend regelt - also als Verteidigung, falls der Pflichtteil
+      nach Zahlung erhoben wird?
+ 4.2  Kann sich Bernd auf § 313 BGB berufen, weil die Ertragsannahme um den
+      Faktor 7,3 falsch war? Und was droht, wenn sich AUCH Anne darauf
+      beruft?
+ 4.3  Ist der Vertrag teilweise ein Vergleich (§ 779 BGB), weil er den
+      comdirect-Streit beilegen sollte? Folgen fuer die Anfechtbarkeit?
+ 4.4  Was traegt im Streitfall - § 242 BGB, Aufrechnung, Rueckforderung,
+      Anfechtung?
+ 4.5  Umfasst die Ausschlagung vom 13.03.2026 auch das Vorausvermaechtnis?
+      Die Erklaerung nennt nur die Erbschaft "aus allen
+      Berufungsgruenden"; die Vermaechtnisausschlagung nach § 2180 BGB ist
+      ein eigener Akt. Welche Folge hat es fuer § 2307 BGB, wenn sie nicht
+      erklaert wurde?
+
+
+-------------------------------------------------------------------------------
+5. INHALT DER VERLANGTEN ERGAENZUNG
+-------------------------------------------------------------------------------
+
+ 5.1  Was bedeutet "Vermoegensstamm erhalten" bei einem aktiv gemanagten
+      Depot mit laufenden Umschichtungen - sind Verkaeufe und Kursverluste
+      erfasst?
+ 5.2  Ist eine zeitlich und der Hoehe nach unbegrenzte Nachschusspflicht
+      wirksam?
+ 5.3  Der Entwurf nennt die Beurkundungskosten je 1/2 fuer Bernd/Fabian und
+      Hille - auch fuer eine Ergaenzung, die allein auf Binders Verlangen
+      zurueckgeht. Ueblich?
+
+
+-------------------------------------------------------------------------------
+6. VERFAHRENSFRAGEN
+-------------------------------------------------------------------------------
+
+ 6.1  VERFAHRENSSTELLUNG: Ist Bernd im Genehmigungsverfahren Beteiligter?
+      Hat er Antrags-, Akteneinsichts- oder Beschwerderecht? Falls nein -
+      kann er dem Gericht gegenueber wirksam vortragen, und muss das
+      Gericht seinen Vortrag beruecksichtigen?
+ 6.2  WIRKSAMKEITSZEITPUNKT: Wird die Ausschlagung erst mit RECHTSKRAFT des
+      Genehmigungsbeschlusses wirksam? Wie lang ist die Beschwerdefrist,
+      wer ist beschwerdeberechtigt?
+ 6.3  VERFAHRENSDAUER: Eigene Erwartung 4 bis 7 Monate, 70 bis 85 Prozent
+      fuer "noch mehrere Monate". Realistisch?
+ 6.4  WAS, WENN GENEHMIGT WIRD? Wird der Vertrag vom 13.03.2026 in
+      bestehender Fassung genehmigt - also ohne Abgeltungsklausel -, sind
+      190.000 EUR zu zahlen und die Pflichtteilsfrage bleibt offen. Gibt es
+      dagegen ein Mittel, oder muss die Abgeltung zwingend vorher
+      vereinbart werden?
+ 6.5  FORMALE VORAUSSETZUNG, bislang von niemandem geprueft: Enthaelt der
+      Betreuerbeschluss vom 23.09.2025 (Az. 110 XVII (K) 1375) den
+      Aufgabenkreis "Vermoegenssorge"? Dr. Lockmann weist darauf hin, dass
+      dieser uebertragen sein MUSS. Aus den vorliegenden Unterlagen ergibt
+      sich das nicht. Was folgt, wenn er fehlt - ist die Ausschlagung dann
+      schon formal unwirksam? Wie laesst sich das ohne Akteneinsicht
+      feststellen?
+ 6.6  § 1952-KLAUSEL IN BINDERS FASSUNG: Sie verlangt eine "vollstaendig
+      wirksam" erklaerte Ausschlagung - was gilt, wenn nach § 1952 Abs. 3
+      BGB nur einer der beiden Erbeserben ausschlaegt?
+ 6.7  FRISTRISIKO: Wie hoch ist das Risiko, dass Hilles Ausschlagungsfrist
+      nach Ende der Hemmung ablaeuft und damit kein vererbliches
+      Ausschlagungsrecht mehr besteht? Fuer eine Strategie "keine
+      Mitwirkung" ist das guenstig, es nimmt aber jede Rueckkehroption.
+
+
+-------------------------------------------------------------------------------
+7. COMDIRECT-DEPOT
+-------------------------------------------------------------------------------
+
+Das comdirect-Depot (111.168,24 EUR) laeuft nach den Finanzreports als
+Einzelkonto auf Klas Krueger. Anne behauptet, es sei eigentlich ein
+Gemeinschaftskonto. Die Abfindung von 190.000 EUR sollte diesen Streit
+mitbeilegen.
+
+ 7.1  Welche Bedeutung hat die Zuordnung fuer § 6 Abs. 1 des Testaments?
+ 7.2  Faellt der Betrag vollstaendig an Bernd und Fabian?
+ 7.3  Erhoeht er, falls Nachlass, die Pflichtteilsbemessungsgrundlage?
+ 7.4  Ist der Streit durch den Vertrag tatsaechlich erledigt, obwohl keine
+      Erledigungsklausel vorhanden ist?
+
+
+-------------------------------------------------------------------------------
+8. WEITERE ERHOEHUNGSPOSTEN UND OFFENE TATSACHEN
+-------------------------------------------------------------------------------
+
+ 8.1  § 2325 BGB: Gab es Schenkungen von Klas in den 10 Jahren vor dem Tod?
+      Aus den Unterlagen ergibt sich dazu nichts. Wie ist das aufzuklaeren,
+      und welches Risiko besteht?
+ 8.2  Wohnungseigentum Uferstrasse 2: Das Niessbrauchsvermaechtnis im
+      Testament spricht dafuer, dass es Hilles Eigentum war - dann nicht im
+      Nachlass von Klas. Bitte bestaetigen.
+ 8.3  Anfangsvermoegen beider Ehegatten zum 20.11.1992 - unbekannt
+      (siehe Prio 1, Frage 3).
+
+
+-------------------------------------------------------------------------------
+9. KOMMUNIKATION UND MANDAT
+-------------------------------------------------------------------------------
+
+ 9.1  Sollte Bernd kuenftig nur noch anwaltlich vertreten kommunizieren?
+ 9.2  Es liegen zwei aeltere, nicht versandte Entwuerfe eines Schreibens an
+      Binder vor (misc\antwort_an_binder.bernd.txt mit benanntem
+      Pflichtteil; misc\anwort.bernd.binder.txt nur mit Abgeltung). Beide
+      sind vor dem 08.10. entstanden, kennen den § 1952-Vorschlag nicht und
+      nennen veraltete Ertragszahlen (4.000 statt 3.707,41 EUR). Nicht
+      versenden - bitte nur nach Durchsicht.
+ 9.3  Mandatsumfang und Kostenrahmen: erbrechtliche Beratung, Vertretung im
+      Genehmigungsverfahren, Entwurf der Erledigungsklausel, Verhandlung
+      mit Anne und Jan, Hinzuziehung eines Steuerberaters?
+ 9.4  Zeitliche Lage: Binder ist bis ca. 24.10.2026 im Urlaub. Eine
+      Aeusserung "in der kommenden Woche" ist angekuendigt. Welcher
+      Zeitplan ist realistisch?
+
+
+-------------------------------------------------------------------------------
+10. UNTERLAGEN, DIE VORLIEGEN
+-------------------------------------------------------------------------------
+
+  erbschaft_kontext\00_kontext.txt                 Sachverhaltsuebersicht
+  erbschaft_kontext\01_testamtent_krueger.txt      Testament 20.11.2013
+  erbschaft_kontext\02_info_lockmann_...txt        Beratung 13.02.2026
+  erbschaft_kontext\03_abfindungsvertrag.txt       ZENTRAL, 13.03.2026
+  erbschaft_kontext\04_rechtsanwalt_binder...txt   Bewertung 28.09.2026
+  erbschaft_kontext\05_abfindungsvertrag_
+                      ergaenzung.txt               Ergaenzungsentwurf
+  erbschaft_kontext\05b_ablehnung_nachvertrag_
+                      bernd.20261005.txt           Ablehnung Bernd
+  erbschaft_kontext\06_mail_anne.20261008.txt      § 1952-Vorschlag
+  erbschaft_kontext\07_mail_bernd_an_binder...txt  bereits versandt
+  nachlass\Nachlass_klas_krueger.xlsx              ZAHLEN
+  nachlass\nachlassverheichnis.unteschrieben.pdf   Nachlassverzeichnis
+  nachlass\fisher_depot\Quartalsabrechnung.
+                      erklaerung.txt               Gebuehrentragung
+  nachlass\comdirect_kto\                          Finanzreports 2024-2025
+  nachlass\saldenbestaetigung\                     Saldenbestaetigungen
+
+  Eigene Analysen (aktueller Stand):
+  handlungsoptionen.txt, pflichtteilsrisiko.txt,
+  abfindungssumme_gegen_rechtssicherheit.txt, vertragsgrundlage_irrtum.txt,
+  versagung_mitwirkung.txt, verfahrensdauer.txt,
+  binder_empfehlung_ohne_ergaenzung.txt,
+  testament_9_bindung_pflichtteilsberechtigten.txt,
+  hautschreiben.vorbereitet.20261014.txt
+
+===============================================================================
+Erstellt 11.10.2026. Keine Rechtsberatung. Alle Paragraphen- und
+Betragsangaben sind anwaltlich zu verifizieren.
+===============================================================================
