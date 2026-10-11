@@ -3,7 +3,7 @@ HAUPTSCHREIBEN AN RA BINDER - VORBEREITETE FASSUNG
 Versand geplant: nach dem Anwaltstermin am 14.10.2026
 ===============================================================================
 
-STATUS: ENTWURF. NICHT VERSENDEN, OHNE DIE DREI ENTSCHEIDUNGEN AUS
+STATUS: ENTWURF. NICHT VERSENDEN, OHNE DIE VIER ENTSCHEIDUNGEN AUS
 ABSCHNITT A GETROFFEN ZU HABEN.
 
 Vorgeschichte: Am 08.10.2026 ist eine kurze Empfangsbestaetigung gegangen
@@ -15,7 +15,7 @@ Grundlagen: anwaltstermin.20261014.prio1.txt, handlungsoptionen.txt
 
 
 -------------------------------------------------------------------------------
-A. DREI ENTSCHEIDUNGEN AUS DEM TERMIN AM 14.10.
+A. VIER ENTSCHEIDUNGEN AUS DEM TERMIN AM 14.10.
 -------------------------------------------------------------------------------
 
 ENTSCHEIDUNG 1 - Wird der Pflichtteil angesprochen?
@@ -74,6 +74,20 @@ ENTSCHEIDUNG 3 - Will Bernd die Ausschlagung noch?
   als Gegenangebot mit Erledigungsklausel aufzugreifen. Textbaustein
   dafuer: siehe BAUSTEIN 3-ALT unten.
 
+ENTSCHEIDUNG 4 - TRAEGT DER NIESSBRAUCHER DIE DEPOTGEBUEHREN?
+  NEU, UNGEPRUEFT. Ziffer 1 und 2 stehen und fallen damit. Der
+  Fisher-Vermoegensverwaltungsvertrag liegt nicht vor; einzige Quelle ist
+  eine eigene Notiz. Das Testament verlagert die Lasten ausdruecklich nur
+  beim Wohnungs-Niessbrauch (01:59), nicht beim Niessbrauch an den
+  Kapitalanlagen (01:97).
+  [ ] bestaetigt    -> Ziffer 1 und 2 koennen wie entworfen bleiben
+  [ ] zweifelhaft   -> Ziffer 1 nur mit Vorbehalt formulieren
+                       ("nach der Vereinbarung mit Fisher Investments,
+                       deren Vorlage vorbehalten bleibt")
+  [ ] widerlegt     -> Ziffer 1 und 2 ersatzlos streichen; das
+                       Zahlenargument entfaellt vollstaendig
+  Ausfuehrlich: anwaltstermin.20261014.prio1.txt Frage 10
+
 WEITERE ENTSCHEIDUNGEN
   [ ] Schreiben von Bernd selbst oder vom Anwalt? Bei anwaltlichem Versand
       Anrede und Schlussformel anpassen, Vollmacht beifuegen.
@@ -130,6 +144,30 @@ insgesamt 14.695,98 EUR.
 Ihrer Stellungnahme vom 28.09.2026 liegt demgegenueber eine Jahres-
 Nettorendite von 27.150,00 EUR zugrunde. Dieser Betrag laesst die vom
 Niessbraucher zu tragenden Depotverwaltungsgebuehren unberuecksichtigt.
+
+  +---------------------------------------------------------------------+
+  | WARNUNG - NICHT ABSENDEN, SOLANGE DIESE PRAEMISSE UNGEPRUEFT IST    |
+  |                                                                     |
+  | Ziffer 1 behauptet gegenueber Binder als Tatsache, dass der         |
+  | Niessbraucher die Depotverwaltungsgebuehren traegt. Belegt ist das  |
+  | NICHT: Der Fisher-Vermoegensverwaltungsvertrag liegt nicht vor,     |
+  | einzige Quelle ist eine eigene Notiz.                               |
+  |                                                                     |
+  | Gegenargumente, die Binder vorbringen kann:                         |
+  | - Die Lastenklausel des Testaments ("auch soweit dies kraft         |
+  |   Gesetzes der Eigentuemer zu tragen haette") steht NUR beim        |
+  |   Wohnungs-Niessbrauch (01:59). Beim Niessbrauch an den             |
+  |   Kapitalanlagen (§ 6 Abs. 1, 01:97) fehlt sie.                     |
+  | - Die Gebuehr ist am Depotwert bemessen, nicht am Ertrag; eine      |
+  |   Managementgebuehr fuer aktive Vermoegensverwaltung kann als       |
+  |   Substanzkost der Nacherben eingeordnet werden.                    |
+  | - 2025 bestanden weder Vorerbschaft noch Niessbrauch (Tod           |
+  |   05.02.2026).                                                      |
+  |                                                                     |
+  | Wird die Praemisse widerlegt, bricht Ziffer 1 UND Ziffer 2 weg -    |
+  | gegenueber dem Verfahrenspfleger, der nachrichtlich an das          |
+  | Betreuungsgericht berichtet. Erst nach prio1 Frage 10 freigeben.    |
+  +---------------------------------------------------------------------+
 
 
 2. Folgerung fuer die vorgeschlagene Ergaenzung

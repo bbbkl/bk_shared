@@ -11,8 +11,12 @@ Abgeltung nachgeordnet. Sie koennen auch nach dem Termin bearbeitet werden.
 
 
 -------------------------------------------------------------------------------
-1. DER ZAHLENSTREIT - HIER IST DER MANDANT VORAUSSICHTLICH IM RECHT
+1. DER ZAHLENSTREIT - BELEGE UND VERWENDUNG
 -------------------------------------------------------------------------------
+
+Die rechtliche Vorfrage, OB der Niessbraucher die Depotgebuehren traegt,
+steht in anwaltstermin.20261014.prio1.txt Frage 10. Hier nur die
+Zahlengrundlage und die Frage der Verwendung.
 
 Die Abfindung soll den durch die Ausschlagung entgehenden Niessbrauch
 ersetzen. RA Binder rechnet mit 27.150 EUR Jahresertrag und kommt so auf
@@ -28,14 +32,14 @@ Das Nachlassverzeichnis zeigt:
   ------------------------------------------------------------------------
   Netto                         3.707,41 EUR         6.127,65 EUR
 
-URSACHE DES FEHLERS: Binder zieht die Depotverwaltungsgebuehren nicht ab.
-Diese traegt nach der Vereinbarung mit Fisher Investments aber der
-Niessbraucher, also Hille. Nur die erfolgsabhaengige Gebuehr traegt sie
-nicht.
+URSACHE DER ABWEICHUNG: Binder zieht die Depotverwaltungsgebuehren nicht
+ab. Nach der Eigennotiz zum Fisher-Depot traegt sie der Niessbraucher, also
+Hille; nur die erfolgsabhaengige Gebuehr nicht. DIESE PRAEMISSE IST NICHT
+BELEGT - siehe prio1 Frage 10.
 
   190.000 / 27.150 = ca.  7 Jahre  (Binders Annahme)
   190.000 /  8.170 = ca. 23 Jahre  (2026 auf 12 Monate hochgerechnet)
-  190.000 /  3.707 = ca. 51 Jahre  (belegtes Ergebnis 2025)
+  190.000 /  3.707 = ca. 51 Jahre  (Ergebnis 2025 nach Gebuehrenabzug)
 
 Abweichungsfaktor ca. 7,3. Bei einer Lebenserwartung unter einem Jahr
 entgeht Hille real ein Betrag in der Groessenordnung von 3.000 bis
@@ -47,13 +51,17 @@ war. Mit geschaetzter Q3-Gebuehr sinkt das Nettoergebnis 2026 auf ca.
 2.230 EUR. Vor einer Verwendung nach aussen bereinigen.
 
 ZU KLAEREN
- 1.1  Ist die Herleitung tragfaehig - traegt der Niessbraucher die
-      Depotverwaltungsgebuehren, so dass sie vom Ertrag abzuziehen sind?
+ 1.1  BELEGBESCHAFFUNG: Der Fisher-Vermoegensverwaltungsvertrag liegt
+      nicht vor. Beizuziehen sind Vertrag und Preis-/Leistungsverzeichnis
+      sowie die Quartalsabrechnungen 2025/2026 als Nachweis der
+      tatsaechlichen Belastung.
  1.2  ACHTUNG ZIELKONFLIKT: Dieses Argument ist das staerkste Sachargument
       des Mandanten, wirkt aber gegen ihn, wenn die Versagung das Ziel ist.
       Es belegt, dass Hille mit 190.000 EUR sehr gut wegkommt, und liefert
       dem Gericht damit den Genehmigungsgrund.
       Soll es nach aussen getragen werden - und wenn ja, wann?
+ 1.3  Sind die 1.413,00 EUR fuer das comdirect-Depot belastbar oder nur
+      geschaetzt? Sie gehen in beide Jahresergebnisse ein.
 
 
 -------------------------------------------------------------------------------
@@ -263,9 +271,18 @@ mitbeilegen.
   nachlass\Nachlass_klas_krueger.xlsx              ZAHLEN
   nachlass\nachlassverheichnis.unteschrieben.pdf   Nachlassverzeichnis
   nachlass\fisher_depot\Quartalsabrechnung.
-                      erklaerung.txt               Gebuehrentragung
+                      erklaerung.txt               Gebuehrentragung,
+                                                   EIGENNOTIZ - nicht belegt
+  nachlass\fisher_depot\*.pdf                      Quartalsabrechnungen und
+                                                   Dividendenuebersichten
   nachlass\comdirect_kto\                          Finanzreports 2024-2025
   nachlass\saldenbestaetigung\                     Saldenbestaetigungen
+
+  NICHT VORHANDEN, ABER BENOETIGT:
+  - Fisher-Vermoegensverwaltungsvertrag samt Preis- und
+    Leistungsverzeichnis (Praemisse der Gebuehrentragung, prio1 Frage 10)
+  - Anfangsvermoegen beider Ehegatten zum 20.11.1992 (prio1 Frage 3)
+  - Betreuerbeschluss vom 23.09.2025, Az. 110 XVII (K) 1375 (Punkt 6.5)
 
   Eigene Analysen (aktueller Stand):
   handlungsoptionen.txt, pflichtteilsrisiko.txt,

@@ -173,7 +173,48 @@ C. FRAGEN - PRIORITAET 1
    FRAGE: Soll das Nachlassverzeichnis ueberhaupt uebersandt werden,
    solange die Abgeltung ungeregelt ist - und besteht dazu eine Pflicht?
 
-10. STEUERZAHLEN VERIFIZIEREN
+10. TRAEGT DER NIESSBRAUCHER DIE DEPOTGEBUEHREN? - PRAEMISSE DES
+    ZAHLENARGUMENTS
+   Die gesamte Ertragsrechnung (3.707,41 EUR netto 2025 statt Binders
+   27.150 EUR, Faktor 7,3) steht und faellt mit dieser Frage. Sie traegt
+   Ziffer 1 und 2 des Hauptschreibens.
+   BELEGLAGE: Der Fisher-Vermoegensverwaltungsvertrag liegt NICHT vor.
+   Einzige Quelle ist eine eigene Notiz
+   (nachlass\fisher_depot\Quartalsabrechnung.erklaerung.txt): 0,25 Prozent
+   pro Quartal Depotfuehrungsgebuehr trage der Niessbraucher, die
+   erfolgsabhaengige Gebuehr von 10 Prozent auf Kurssteigerungen nicht.
+   a) Traegt der Vorerbe die laufenden Depot- und Verwaltungskosten als
+      gewoehnliche Erhaltungskosten nach § 2124 Abs. 1 BGB? Gilt dasselbe
+      fuer den Niessbraucher nach §§ 1041, 1047 BGB i.V.m. § 1068 Abs. 2
+      BGB?
+   b) ASYMMETRIE IM TESTAMENT - bislang nicht geprueft: Die ausdrueckliche
+      Lastenklausel ("alle Aufwendungen und Lasten, auch soweit dies kraft
+      Gesetzes der Eigentuemer zu tragen haette") steht NUR beim
+      Wohnungs-Niessbrauch (01:59). Beim Niessbrauch an den Kapitalanlagen
+      - § 6 Abs. 1, 01:97 - fehlt sie vollstaendig. Gilt dort also allein
+      das Gesetz? Ist die Lastenverlagerung fuer das Depot damit gerade
+      NICHT gewollt?
+   c) Ist die Unterscheidung tragfaehig, dass die erfolgsabhaengige Gebuehr
+      die Nacherben trifft, weil Kurssteigerungen keine Fruechte sind
+      (§ 99 BGB), sondern Substanz?
+   d) Die Gebuehr ist am DEPOTWERT bemessen (1 Prozent p.a. auf ca.
+      1,45 Mio. = ca. 14.500 EUR), nicht am Ertrag. Laesst sich eine
+      kapitalbezogene Verguetung fuer aktive Vermoegensverwaltung als
+      Substanzkost einordnen, die den Nacherben zur Last faellt? Die
+      Unterlagen nennen sie wechselnd "Depotfuehrungs-" und
+      "Managementgebuehr" - eine reine Verwahrgebuehr und eine
+      Managementgebuehr sind nicht dasselbe.
+   e) Die Zahlen 2025 stammen aus Klas' Lebenszeit; Niessbrauch und
+      Vorerbschaft bestanden 2025 noch nicht (Tod 05.02.2026). Ist 2025
+      ueberhaupt die richtige Vergleichsgrundlage, oder ist auf 2026
+      abzustellen?
+   FOLGE: Faellt die Praemisse, faellt der Faktor 7,3 - und mit ihm das
+   staerkste Sachargument. Vor jeder Verwendung nach aussen zu klaeren.
+   BESCHAFFEN: Fisher-Vermoegensverwaltungsvertrag samt Preis- und
+   Leistungsverzeichnis - wem faellt die Gebuehr vertraglich zur Last, und
+   wird sie dem Depot oder einem Verrechnungskonto belastet?
+
+11. STEUERZAHLEN VERIFIZIEREN
    187.000 EUR (ohne Ausschlagung) gegen 87.000 EUR (mit Ausschlagung) ist
    eine Eigenrechnung des Mandanten von Februar 2026, ungeprueft. Binder
    nennt fuer die Vorerbschaft 171.000 EUR. Diese Zahlen tragen die ganze
@@ -184,7 +225,7 @@ C. FRAGEN - PRIORITAET 1
    Ist die Pflichtteilslast nach § 10 Abs. 5 Nr. 2 ErbStG abzugsfaehig?
    Steuerberater erforderlich?
 
-11. STEUERLAGE AUF ANNES SEITE - TRAEGT DIE RISIKOEINSCHAETZUNG
+12. STEUERLAGE AUF ANNES SEITE - TRAEGT DIE RISIKOEINSCHAETZUNG
    Ist der konkrete Zugewinnausgleich nach § 5 Abs. 2 ErbStG
    erbschaftsteuerfrei? Liegt der kleine Pflichtteil von ca. 180.000 EUR
    unter Hilles Freibetrag von 500.000 EUR, also ebenfalls steuerfrei?
@@ -192,7 +233,7 @@ C. FRAGEN - PRIORITAET 1
    UEBERLEGEN - er nutzt einen Freibetrag, der bei Ausschlagung sonst
    verfaellt. Das erhoeht das Risiko erheblich.
 
-12. KEINE MITWIRKUNG ALS ERNSTOPTION
+13. KEINE MITWIRKUNG ALS ERNSTOPTION
    Genuegt die Verweigerung der Unterschrift, oder besteht eine Pflicht,
    an dem Geschaeft mitzuwirken? Kann das Gericht genehmigen, obwohl der
    Verfahrenspfleger nur unter einer nicht erfuellten Bedingung empfiehlt?
@@ -200,7 +241,7 @@ C. FRAGEN - PRIORITAET 1
    dem Mandanten spaeter schadet - in einer Verhandlung mit Anne und Jan
    oder in einem Pflichtteilsprozess?
 
-13. ZWEI VORSCHLAEGE AUF DEM TISCH - BEWERTUNG
+14. ZWEI VORSCHLAEGE AUF DEM TISCH - BEWERTUNG
    a) Ergaenzung (RA Binder, 28.09.2026): Stammerhaltung zu Hilles
       Lebzeiten, jaehrliche Feststellung und Mitteilung entgangener
       Zufluesse, Auszahlung aller Zufluesse oberhalb 190.000 EUR.
@@ -216,7 +257,7 @@ C. FRAGEN - PRIORITAET 1
       wertvollste Posten auf Bernds Seite. In Binders Fassung drohen
       190.000 EUR UND der Pflichtteil. Bestaetigt sich diese Bewertung?
 
-14. HAUPTSCHREIBEN - IM TERMIN ABZUSTIMMEN
+15. HAUPTSCHREIBEN - IM TERMIN ABZUSTIMMEN
    Am 08.10.2026 ist eine Aeusserung "in der kommenden Woche" angekuendigt
    und die eigene anwaltliche Beratung offengelegt worden. Ein Entwurf
    liegt vor (hautschreiben.vorbereitet.20261014.txt).
@@ -262,8 +303,11 @@ E. WAS DER MANDANT AUS DEM TERMIN MITNEHMEN MOECHTE
   [ ] Festlegung des Wegs: keine Mitwirkung, Abgeltung ueber das Gericht
       oder § 1952-Gegenangebot (Frage 6)
   [ ] Entwurf oder Vorgaben fuer die Erledigungsklausel (Frage 7)
-  [ ] Auftrag zur Verifizierung der Steuerzahlen (Fragen 10, 11)
-  [ ] Abstimmung und Versand des Hauptschreibens (Frage 14)
+  [ ] Belastbarkeit der Gebuehrenpraemisse - traegt der Niessbraucher die
+      Depotgebuehren? (Frage 10) Davon haengt ab, ob das Zahlenargument
+      ueberhaupt verwendet werden kann
+  [ ] Auftrag zur Verifizierung der Steuerzahlen (Fragen 11, 12)
+  [ ] Abstimmung und Versand des Hauptschreibens (Frage 15)
 
 ===============================================================================
 Erstellt 11.10.2026. Keine Rechtsberatung.
