@@ -290,10 +290,10 @@ ENTSCHEIDENDE VORFRAGE
 
 
 ===============================================================================
-Grundlagen: analyse.20261008.txt, pflichtteilsrisiko.txt,
+Grundlagen: erbschaft_kontext\00 bis 07, pflichtteilsrisiko.txt,
             verfahrensdauer.txt,
             abfindungssumme_gegen_rechtssicherheit.txt,
-            anwaltstermin.20261014.txt
+            handlungsoptionen.txt
 Siehe auch: vertragsgrundlage_irrtum.txt - der Vertrag wurde ohne
             Kenntnis des Pflichtteilsanspruchs geschlossen; Folgen,
             Notarhaftung, verneinte Vorbefassung

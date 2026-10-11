@@ -11,7 +11,7 @@ Vorgeschichte: Am 08.10.2026 ist eine kurze Empfangsbestaetigung gegangen
 kommenden Woche" angekuendigt und die eigene anwaltliche Beratung
 offengelegt. Dieses Schreiben loest diese Ankuendigung ein.
 
-Grundlagen: analyse.20261008.txt, anwaltstermin.20261014.txt
+Grundlagen: anwaltstermin.20261014.prio1.txt, handlungsoptionen.txt
 
 
 -------------------------------------------------------------------------------

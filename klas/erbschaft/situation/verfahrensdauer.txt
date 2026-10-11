@@ -155,7 +155,7 @@ GRUND 2 - Das Nachlassverzeichnis kann die Genehmigung BESCHLEUNIGEN
   schliessen.
 
   Das Papier, das Binders Begruendung zerstoert, liefert dem Gericht den
-  Genehmigungsgrund. Siehe analyse.20261008.txt Abschnitt 8a.
+  Genehmigungsgrund. Siehe handlungsoptionen.txt Abschnitt 6b.
 
   NACHTRAG 10.10.2026 - DAS IST KONKRETER GEWORDEN: Binder kann den
   Vertrag nach Vorlage des Verzeichnisses auch OHNE Ergaenzung zur
@@ -247,9 +247,9 @@ Beim zweiten Weg braucht er keine Zeit, sondern nur eine klare Position.
 
 
 ===============================================================================
-Grundlagen: analyse.20261008.txt,
+Grundlagen: erbschaft_kontext\00 bis 07,
             abfindungssumme_gegen_rechtssicherheit.txt,
-            anwaltstermin.20261014.txt
+            handlungsoptionen.txt
 Siehe auch: pflichtteilsrisiko.txt - Muss/Kann, Anspruchsinhaber und
             Risikohoehe (steuerfreie Vereinnahmung bei Annes Seite)
 Siehe auch: versagung_mitwirkung.txt - Hebel gegen die Genehmigung und

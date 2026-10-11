@@ -111,7 +111,7 @@ NACHTRAG 10.10.2026 - DAS DILEMMA VERLIERT SEINE SCHAERFE
 3. KORREKTUR GEGENUEBER DER BISHERIGEN ANALYSE: DER ZUGEWINNAUSGLEICH
 -------------------------------------------------------------------------------
 
-In analyse.20261008.txt ist die Groessenordnung mit 180.000 bis
+In den uebrigen Unterlagen ist die Groessenordnung mit 180.000 bis
 360.000 EUR angegeben. Das greift zu kurz.
 
 Schlaegt der ueberlebende Ehegatte aus, kann er nach § 1371 Abs. 3 BGB
@@ -295,7 +295,7 @@ FAZIT
 
 
 ===============================================================================
-Grundlagen: analyse.20261008.txt, anwaltstermin.20261014.txt,
+Grundlagen: erbschaft_kontext\00 bis 07,
             hautschreiben.vorbereitet.20261014.txt
 Siehe auch: verfahrensdauer.txt - zur Frage, wie lange das
             Genehmigungsverfahren noch laeuft und warum Verzoegerung die

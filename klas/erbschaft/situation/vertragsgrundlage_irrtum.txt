@@ -289,7 +289,7 @@ Welcher hypothetische Verlauf ist zu unterstellen?
     Pflichtteil verzichtet? EHER NICHT - bei 180.000 bis 360.000 EUR
     Anspruch waere das wirtschaftlich unsinnig.
   - Dann lautet die Alternative: kein Vertrag, keine Genehmigung,
-    Vorerbschaft bleibt - also Szenario A aus besprechungspapier.txt
+    Vorerbschaft bleibt - also Szenario A aus anwaltstermin.20261014.prio1.txt
     Abschnitt 9.
   - Bernds Schaden waere dann die Differenz A -> B, nicht der Pflichtteil
     in voller Hoehe.
@@ -482,7 +482,7 @@ WAS FOLGT
      sondern der Entwurf einer Seite. Das stuetzt die ergaenzende
      Auslegung - und entlastet Bernd von dem Vorwurf, er haette den
      Pflichtteil erkennen muessen. Er hatte KEINE eigene Beratung
-     (so auch anwaltstermin.20261014.txt Abschnitt 6).
+     (so auch anwaltstermin.20261014.prio2.txt Abschnitt 2).
 
   e) DAS GENEHMIGUNGSVERFAHREN - hier liegt der eigentliche Wert, 5.5
 
@@ -541,7 +541,7 @@ AMBIVALENZ, DIE MAN SEHEN MUSS
   Nachteil. Das Gericht wird den Punkt daher nicht gegen Hille, sondern
   FUER sie werten - was fuer Bernd zweischneidig ist, aber die Genehmigung
   der jetzigen Vertragsfassung unwahrscheinlicher macht. Haengt direkt am
-  Zielkonflikt in anwaltstermin.20261014.txt Abschnitt 1 und
+  Zielkonflikt in handlungsoptionen.txt Abschnitt 6b und
   versagung_mitwirkung.txt.
 
 TAKTISCHE EINORDNUNG
@@ -789,7 +789,7 @@ werden:
     selbst auf das Erfordernis der Vermoegenssorge hin (02:86-87) - ob der
     Aufgabenkreis uebertragen ist, ergibt sich aus den Unterlagen nicht.
   - Ob die grosse oder kleine Pflichtteilsvariante gilt. Siehe
-    besprechungspapier.txt Abschnitt 5 - dort als Abweichung zu den
+    anwaltstermin.20261014.prio1.txt Frage 2 - dort als offen zu den
     uebrigen Dateien gekennzeichnet.
   - Die genaue Fassung des § 17 Abs. 1 BeurkG und ob der Schutz
     unerfahrener Beteiligter dort in Satz 2 steht.
@@ -804,10 +804,10 @@ werden:
 
 
 ===============================================================================
-Grundlagen: analyse.20261008.txt, pflichtteilsrisiko.txt,
+Grundlagen: pflichtteilsrisiko.txt,
             abfindungssumme_gegen_rechtssicherheit.txt,
             versagung_mitwirkung.txt, verfahrensdauer.txt,
-            anwaltstermin.20261014.txt, besprechungspapier.txt
+            handlungsoptionen.txt, anwaltstermin.20261014.prio1.txt
 Quellen:    erbschaft_kontext\02 (Lockmann-Schreiben 13.02.2026),
             03 (Abfindungsvertrag), 05 (Ergaenzung), 06 (§ 1952-Vorschlag)
 Erstellt:   09.10.2026

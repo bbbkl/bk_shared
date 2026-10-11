@@ -4,9 +4,11 @@ Fuenf Wege, Vergleich und Empfehlung
 Stand 10.10.2026
 ===============================================================================
 
-DIESE DATEI IST DER EINSTIEG FUER DEN ANWALTSTERMIN AM 14.10.2026.
-anwaltstermin.20261014.txt ist mit ueber 460 Zeilen die Vollfassung; hier
-stehen nur die Optionen, der Vergleich und die Empfehlung.
+DIESE DATEI IST DER STRATEGISCHE ENTSCHEIDUNGSRAHMEN ZUM ANWALTSTERMIN
+AM 14.10.2026; hier stehen nur die Optionen, der Vergleich und die
+Empfehlung.
+Der Fragenkatalog fuer den Termin steht in
+anwaltstermin.20261014.prio1.txt und anwaltstermin.20261014.prio2.txt.
 
 ENTSCHEIDENDE GRUNDLAGE - BESTAETIGT AM 10.10.2026
   Bernd ist bereit, Option 1 zu verfolgen: keine Mitwirkung, Genehmigung
@@ -227,8 +229,7 @@ betraegt.
 
 ZUR EINORDNUNG DER 90.000 EUR
   Sie ergeben sich aus 187.000 minus 87.000 EUR Steuer, abzueglich der
-  190.000 EUR Abfindung ergibt sich in Szenario 4 der
-  analyse.20261008.txt ein Saldo von ca. -90.000 EUR gegenueber Szenario 1
+  190.000 EUR Abfindung ergibt sich ein Saldo von ca. -90.000 EUR gegenueber Szenario 1
   - die Ausschlagung ist also um diesen Betrag guenstiger, SOFERN kein
   Pflichtteil anfaellt. Genau diese Bedingung ist offen.
 
@@ -283,8 +284,7 @@ a) DAS DILEMMA VERLIERT SEINE SCHAERFE
    ist Option 1.
 
 b) DER ZIELKONFLIKT IST AUFLOESBAR
-   versagung_mitwirkung.txt Abschnitt 3 und anwaltstermin.20261014.txt
-   Abschnitt 1 beschreiben zwei unvereinbare Ziele: Ergaenzung abwehren
+   versagung_mitwirkung.txt Abschnitt 3 beschreibt zwei unvereinbare Ziele: Ergaenzung abwehren
    gegen Genehmigung verhindern.
    Mit der Bestaetigung lautet das Ziel: VERSAGUNG.
    Folge: Bernds staerkstes Sachargument - 190.000 EUR gegen 3.707,41 EUR -
@@ -328,11 +328,10 @@ c) DER ZEITDRUCK LIEGT VOLLSTAENDIG BEI ANNE
          (§ 2325 BGB), konkreten Zugewinnausgleich, Vermaechtnisse und
          den comdirect-Streit.
 
-  [ ] 6. FABIANS HALTUNG KLAEREN
-         Option 1 funktioniert nur, wenn BEIDE nicht unterschreiben;
-         Option 5 ebenso. In den Unterlagen tritt Fabian nirgends
-         eigenstaendig auf. Ohne ihn ist keine Option vollstaendig in
-         Bernds Hand. Das ist vor dem Termin oder im Termin zu klaeren.
+  [ ] 6. FABIAN: GEKLAERT
+         Bernd und Fabian ziehen an einem Strang. Option 1 und Option 5
+         setzen voraus, dass BEIDE nicht unterschreiben - diese
+         Voraussetzung ist erfuellt.
 
 
 -------------------------------------------------------------------------------
@@ -361,22 +360,19 @@ Option 5 der Weg, und die Reihenfolge aus Abschnitt 7 ist einzuhalten.
     (04:37). Tragen die gesamte Abwaegung.
   - PFLICHTTEILSHOEHE: 180.000 bis 360.000 EUR ist eine Groessenordnung.
     Ob grosser oder kleiner Pflichtteil gilt, ist offen - siehe
-    besprechungspapier.txt Abschnitt 5.
+    anwaltstermin.20261014.prio1.txt Frage 2.
   - ZUGEWINNAUSGLEICH: nicht bezifferbar, Anfangsvermoegen 1992 unbekannt.
     Kann die Obergrenze deutlich uebersteigen.
   - ERFOLGSCHANCEN 20-30 % und 50-70 %: Einschaetzungen, anwaltlich zu
     plausibilisieren.
-  - FABIANS HALTUNG: unbekannt.
 
 
 ===============================================================================
-Grundlagen: analyse.20261008.txt Abschnitt 4 (Szenarienvergleich)
-            abfindungssumme_gegen_rechtssicherheit.txt (Optionen 4 und 5)
+Grundlagen: abfindungssumme_gegen_rechtssicherheit.txt (Optionen 4 und 5)
             binder_empfehlung_ohne_ergaenzung.txt (Option 3, ca. 59 %)
             pflichtteilsrisiko.txt (Hoehe, Anspruchsinhaber, Steuerlage)
             verfahrensdauer.txt (Zeitachse, Veto-Wirkung)
             versagung_mitwirkung.txt (Zielkonflikt)
-            besprechungspapier.txt (Pflichtteil, Quotenfrage)
-Vollfassung: anwaltstermin.20261014.txt
+Fragenkatalog: anwaltstermin.20261014.prio1.txt, .prio2.txt
 Erstellt:   10.10.2026
 ===============================================================================

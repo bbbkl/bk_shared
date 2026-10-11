@@ -132,7 +132,7 @@ WAS DAS RISIKO WEITER ERHOEHT
     Annahme des kleinen Pflichtteils nach § 1371 Abs. 3 BGB ist bei einer
     Ausschlagung nach § 2306 Abs. 1 BGB umstritten - § 2306 soll dem
     beschraenkt eingesetzten Erben gerade den VOLLEN Pflichtteil
-    erhalten. Siehe besprechungspapier.txt Abschnitt 5.
+    erhalten. Siehe anwaltstermin.20261014.prio1.txt Frage 2.
   - Anne hat zwei Anwaelte mandatiert (Lockmann, Binder) und ist nach
     Aktenlage aufgebracht (00:36).
   - Beim comdirect-Konto hat sie bereits gezeigt, dass sie Ansprueche
@@ -229,8 +229,7 @@ ANGESETZT
 4. KONSEQUENZ FUER DIE ENTSCHEIDUNG
 -------------------------------------------------------------------------------
 
-Dies verschiebt die Gewichtung gegenueber analyse.20261008.txt
-Abschnitt 8a.
+Dies verschiebt die Gewichtung gegenueber der fruehereren Analyse.
 
 BISHER: Steuerdifferenz von ca. 90.000 EUR gegen ein unbestimmtes
         Pflichtteilsrisiko.
@@ -292,9 +291,9 @@ FOLGERUNGEN
 
 
 ===============================================================================
-Grundlagen: analyse.20261008.txt,
+Grundlagen: erbschaft_kontext\00 bis 07,
             abfindungssumme_gegen_rechtssicherheit.txt,
-            verfahrensdauer.txt, anwaltstermin.20261014.txt
+            verfahrensdauer.txt
 Siehe auch: versagung_mitwirkung.txt - Hebel gegen die Genehmigung und
             der Zielkonflikt zwischen Abwehr der Erweiterung und
             Versagung der Genehmigung

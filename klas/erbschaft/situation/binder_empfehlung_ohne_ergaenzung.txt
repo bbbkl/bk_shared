@@ -25,12 +25,11 @@ WICHTIGER ALS DIE SPANNE
   zusammen mit Abschnitt 6.
 
 DIES IST EINE KORREKTUR
-  anwaltstermin.20261014.txt Abschnitt 5 behandelt die Ergaenzung als
-  Binders feste Bedingung ("Binder macht seine Empfehlung zur Genehmigung
-  davon abhaengig"). Bei genauer Lektuere seines Schreibens traegt das
-  nicht. analyse.20261008.txt Zeilen 162-167 enthaelt den Gedanken bereits
-  als Nebenbemerkung, ohne ihn zur Wahrscheinlichkeitsaussage zu
-  verdichten.
+  Die frueheren Unterlagen behandelten die Ergaenzung als Binders feste
+  Bedingung ("Binder macht seine Empfehlung zur Genehmigung davon
+  abhaengig"). Bei genauer Lektuere seines Schreibens traegt das nicht.
+  Der Gedanke war dort nur Nebenbemerkung, ohne ihn zur
+  Wahrscheinlichkeitsaussage zu verdichten.
 
 KEINE RECHTSBERATUNG. Alle Prozent- und Paragraphenangaben sind
 Einschaetzungen auf Grundlage der vorliegenden Unterlagen.
@@ -264,7 +263,7 @@ DIES IST DER EIGENTLICHE PUNKT DIESER DATEI.
 
 Eine Empfehlung ohne Ergaenzung sieht wie ein Erfolg aus - Bernd muss
 nichts unterschreiben, die verlangten Zusatzpflichten entfallen. Sie fuehrt
-aber in Szenario B aus besprechungspapier.txt Abschnitt 9:
+aber in Szenario B der folgenden Vergleichsrechnung:
 
   Szenario                          Zahlung    Steuer   Pflichtteil   Summe
   --------------------------------------------------------------------------
@@ -286,8 +285,8 @@ ist dieser Effekt staerker als mit der frueher angesetzten Zahl - das
 Verhaeltnis zur Abfindung ist noch eindeutiger.
 
 ZIELKONFLIKT
-Dies ist dieselbe Spannung wie in anwaltstermin.20261014.txt Abschnitt 1
-und versagung_mitwirkung.txt Abschnitt 3: Bernds bestes Sachargument gegen
+Dies ist dieselbe Spannung wie in handlungsoptionen.txt Abschnitt 6b und
+versagung_mitwirkung.txt Abschnitt 3: Bernds bestes Sachargument gegen
 die Ergaenzung ist zugleich das beste Argument FUER die Genehmigung.
 
 
@@ -319,8 +318,7 @@ PRAKTISCH BEDEUTET DAS
 
   4. Falls uebersandt wird: Die Uebersendung sollte ausdruecklich NICHT
      mit einer Bitte um Genehmigung des bestehenden Vertrages verbunden
-     werden. So auch die Empfehlung in anwaltstermin.20261014.txt
-     Abschnitt 9.
+     werden. So auch die Empfehlung in handlungsoptionen.txt Abschnitt 7.
 
 
 -------------------------------------------------------------------------------
@@ -353,11 +351,11 @@ PRAKTISCH BEDEUTET DAS
 
  5. Kann Bernd einer Genehmigung des bestehenden Vertrages
     entgegentreten - ist er Beteiligter mit Antrags- oder
-    Beschwerderecht? Siehe anwaltstermin.20261014.txt Frage 17.
+    Beschwerderecht? Siehe anwaltstermin.20261014.prio2.txt Frage 6.1.
 
  6. Was gilt, wenn das Gericht ohne weitere Anhoerung genehmigt? Dann sind
     190.000 EUR zu zahlen und der Pflichtteil bleibt offen. Siehe
-    anwaltstermin.20261014.txt Frage 11.
+    anwaltstermin.20261014.prio2.txt Frage 6.4.
 
 
 ===============================================================================
@@ -367,12 +365,11 @@ Quellen:    erbschaft_kontext\04 (Binder 28.09.2026) - insbesondere
             06 (§ 1952-Vorschlag, Mandat Annes), 07 (Mail Bernd 08.10.)
 Grundlage:  Niessbrauchswert 2025 = 3.707,41 EUR (korrigiertes
             Nachlassverzeichnis, Stand 10.10.2026)
-Siehe auch: besprechungspapier.txt Abschnitt 9 - Vergleichsrechnung A/B/C
+Siehe auch: anwaltstermin.20261014.prio1.txt Abschnitt D - Szenarien A/B/C
             verfahrensdauer.txt Grund 2 - das Papier liefert den
             Genehmigungsgrund
             versagung_mitwirkung.txt Abschnitt 3 - Zielkonflikt
-            anwaltstermin.20261014.txt Abschnitt 5 - wird hiermit
-            korrigiert
+            handlungsoptionen.txt - Einordnung als Option 3
 Erstellt:   10.10.2026
 Ergaenzt:   10.10.2026 - Abschnitt 4c.1 Entscheidungsbaum: die Spanne von
             50 bis 65 Prozent als Mittelwert zweier Faelle aufgeloest;
