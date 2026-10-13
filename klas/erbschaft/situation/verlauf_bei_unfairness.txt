@@ -1,0 +1,433 @@
+===============================================================================
+WAHRSCHEINLICHSTER VERLAUF, WENN ANNE NICHT FAIR REAGIERT
+Gegenstueck zu loesung_bei_fairness.txt
+Stand 13.10.2026
+===============================================================================
+
+FRAGE
+Anne Weniger reagiert nicht fair: Sobald sie den Pflichtteilsanspruch
+kennt, verfolgt sie ihn. Was ist dann der wahrscheinlichste Verlauf?
+
+ERGEBNIS IN EINEM SATZ
+Ein Patt bis zu Hilles Tod, danach Ausschlagung durch Anne und Jan nach
+§ 1952 BGB und ein Pflichtteilsstreit ueber 180.000 bis 360.000 EUR -
+geschaetzt 45 Prozent. Bernd zahlt in diesem Verlauf keine Abfindung,
+traegt aber die Forderung.
+
+KEINE RECHTSBERATUNG. Alle Rechts-, Steuer- und Betragsangaben sind
+Einschaetzungen auf Grundlage der vorliegenden Unterlagen und anwaltlich
+bzw. steuerlich zu verifizieren. Alle Prozentangaben sind Schaetzungen
+ohne belastbare empirische Grundlage.
+
+
+-------------------------------------------------------------------------------
+1. DER BEFUND, DER ALLES VERSCHIEBT
+-------------------------------------------------------------------------------
+
+  DIE § 1952-AUSSCHLAGUNG BRAUCHT BERNDS UNTERSCHRIFT NICHT.
+
+Sie ist eine EINSEITIGE Erklaerung von Anne und Jan gegenueber dem
+Nachlassgericht (§ 1945 BGB - notarielle Beglaubigung oder Erklaerung zur
+Niederschrift). Bernd ist daran nicht beteiligt. Er kann sie nicht
+verhindern, nicht verzoegern und nicht davon abhaengig machen.
+
+WAS SEINE UNTERSCHRIFT BRAUCHT, IST NUR DIE ABFINDUNG.
+
+  Verzichtet Anne auf die 190.000 EUR, braucht sie Bernd ueberhaupt
+  nicht.
+
+KORREKTUR ZU ZWEI BESTEHENDEN DATEIEN
+
+  a) verfahrensdauer.txt Abschnitt 2 sagt:
+     "Dasselbe gilt fuer den § 1952-Weg: Auch dieser braucht eine neue
+      notarielle Urkunde mit Bernd und Fabian als Beteiligten."
+     DAS TRIFFT NUR FUER DIE ABFINDUNGSVEREINBARUNG ZU, nicht fuer die
+     Ausschlagung selbst.
+
+  b) handlungsoptionen.txt Option 1 sagt:
+     "Das Veto hat Bernd bereits. Ohne seine Unterschrift kommt weder
+      die Ergaenzung noch der § 1952-Weg zustande."
+     und setzt fuer Option 1 an:
+       Pflichtteil        entsteht nie
+       Rechtssicherheit   vollstaendig / 100 %
+
+     BEIDES GILT NICHT MEHR, sobald Anne den Pflichtteil kennt.
+
+WAS DARAUS FOLGT
+
+  OPTION 1 IST KEIN GESICHERTER BODEN, SONDERN NUR EINE TEILSICHERUNG.
+
+  Bernds Veto steuert ausschliesslich, ob er die 190.000 EUR
+  ZUSAETZLICH zahlt. Es steuert NICHT, ob der Pflichtteil entsteht.
+
+  Der einzige Weg, auf dem der Anspruch tatsaechlich nie entsteht, ist
+  der ABLAUF der Ausschlagungsfrist vor Hilles Tod - und den kontrolliert
+  Bernd nicht (Abschnitt 5c).
+
+  STATUS: In handlungsoptionen.txt und verfahrensdauer.txt NICHT
+  nachgetragen. Beide Dateien sind Entscheidungsgrundlage fuer den
+  Termin. Siehe Frage 2 in Abschnitt 8.
+
+
+-------------------------------------------------------------------------------
+2. ANNES STRATEGIERANGFOLGE - WARUM SIE NIE ERLEDIGEN WIRD
+-------------------------------------------------------------------------------
+
+Sobald sie den Anspruch kennt, hat sie vier Wege. Nach wirtschaftlichem
+Ertrag geordnet:
+
+  Rang | Weg                          | Ertrag Anne/Jan  | Braucht
+       |                              |                  | Bernd?
+  -----+------------------------------+------------------+---------
+   1   | Genehmigung von Vertrag 03   | 190.000 EUR      | NEIN -
+       | UNVERAENDERT erreichen,      | PLUS 180.000 bis | Vertrag
+       | spaeter Pflichtteil fordern  | 360.000 EUR      | ist schon
+       |                              |                  | unter-
+       |                              |                  | schrieben
+  -----+------------------------------+------------------+---------
+   2   | Stillhalten, Hilles Tod      | 180.000 bis      | NEIN
+       | abwarten, § 1952 BGB,        | 360.000 EUR      |
+       | dann Pflichtteil             |                  |
+  -----+------------------------------+------------------+---------
+   3   | Nachbesserung UND            | ca. 280.000 EUR, | ja
+       | Erledigung verhandeln        | Pflichtteil weg  |
+  -----+------------------------------+------------------+---------
+   4   | Erledigung gegen             | 190.000 EUR      | ja
+       | 190.000 EUR                  |                  |
+  -----+------------------------------+------------------+---------
+
+  WEG 4 - GENAU DAS, WAS BERND WILL - IST IHR SCHLECHTESTER.
+
+  Eine Erledigungsklausel kostet sie 180.000 bis 360.000 EUR und bringt
+  ihr nichts, was sie nicht auch anders bekommt. EINE UNFAIRE ANNE WIRD
+  SIE NIE GEWAEHREN.
+
+  Und Weg 1 ist ihr bester. Dafuer muss sie nur erreichen, dass das
+  Betreuungsgericht den BESTEHENDEN Vertrag genehmigt. Kein neuer
+  Vertrag, keine Unterschrift, keine Verhandlung.
+
+DAS ERKLAERT AUCH, WARUM SIE AM GENEHMIGUNGSVERFAHREN FESTHALTEN WIRD
+
+  Im adversarialen Szenario ist Binders Hinweis, das Verfahren
+  aufrechtzuerhalten (06:45), fuer Anne doppelt nuetzlich: Es haelt die
+  Ausschlagungsfrist gehemmt UND haelt Weg 1 offen.
+
+STEUERLICHER TREIBER
+  Der Pflichtteilsweg ist fuer Annes Seite nahezu steuerfrei - kleiner
+  Pflichtteil ca. 180.000 EUR unter Hilles Freibetrag von 500.000 EUR,
+  konkreter Zugewinnausgleich nach § 5 Abs. 2 ErbStG steuerfrei.
+  Ausfuehrlich: pflichtteilsrisiko.txt Abschnitt 3.
+  Er nutzt einen Freibetrag, der bei einer Ausschlagung sonst ungenutzt
+  verfaellt. Wer das einmal durchrechnet, hat einen starken Anreiz.
+
+
+-------------------------------------------------------------------------------
+3. DER ABLAUF IN FUENF PHASEN
+-------------------------------------------------------------------------------
+
+PHASE A - 14.10. BIS ENDE OKTOBER 2026
+  Anwaltstermin. Hauptschreiben an Binder, cc Anne und Fabian.
+  ENTSCHEIDUNGSPUNKT: Wird der Pflichtteil benannt?
+  (anwaltstermin.20261014.prio1.txt Frage 8)
+  Binder ist bis ca. 24.10. im Urlaub.
+
+PHASE B - NOVEMBER 2026, DIE ENTDECKUNG
+  Variante 1 - Bernd benennt den Pflichtteil:
+    Anne laesst ihn durch Binder oder einen Fachanwalt pruefen.
+    § 2306 BGB und § 1371 Abs. 3 BGB sind erbrechtliches
+    Standardwissen. Die Pruefung dauert Tage, nicht Monate.
+  Variante 2 - Bernd benennt ihn nicht:
+    Die Entdeckungswahrscheinlichkeit steigt ueber die Monate ohnehin.
+    Zwei Juristen sind befasst (Lockmann, Binder), und Anne wird als
+    Testamentsvollstreckerin fuer Hilles Nachlass (01:120-122) die Akte
+    erneut aufschlagen.
+    verfahrensdauer.txt Abschnitt 3, Grund 1.
+
+  HIER KIPPT DIE ANREIZLAGE. Ab jetzt verhandelt Anne nicht mehr ueber
+  Erledigung - sie betreibt die Genehmigung.
+
+PHASE C - NOVEMBER 2026 BIS FRUEHJAHR 2027, DAS PATT
+  Bernd haelt das Nachlassverzeichnis zurueck. Binders
+  Informationsdefizit bleibt bestehen, er kann die Genehmigung nicht
+  empfehlen (04:83-85). Das Verfahren laeuft, ohne zu entscheiden.
+  Erwartungswert 4 bis 7 Monate (verfahrensdauer.txt), Lebenserwartung
+  unter einem Jahr (00:9).
+  Anne kann in dieser Phase auf eine Entscheidung draengen, Bernd nicht
+  beschleunigen - und muss es auch nicht.
+
+PHASE D - HILLES TOD
+  Das Genehmigungsverfahren endet ohne Entscheidung (04:103-105).
+  § 1952 Abs. 2 BGB gibt Anne und Jan eine FRISCHE FRIST - die Frist
+  endet nicht vor Ablauf der Frist zur Ausschlagung der Erbschaft nach
+  ihrer Mutter, also sechs Wochen ab Kenntnis (§ 1944 BGB).
+  Sie schlagen aus. Die Ausschlagung wird wirksam, Bernd und Fabian
+  werden rueckwirkend Erben des Klas Krueger - und der
+  Pflichtteilsanspruch entsteht in Hilles Nachlass, der Anne und Jan
+  zufaellt (§ 2317 Abs. 2 BGB).
+
+  BILANZ FUER BERND IN DIESER PHASE
+    keine Abfindung - die Bedingung des Vertrages 03 ist ausgefallen
+    (03:55-56), weil keine betreuungsgerichtliche Genehmigung erteilt
+    wurde
+    ABER eine Forderung von 180.000 bis 360.000 EUR
+    PLUS Erbschaftsteuer ca. 87.000 EUR
+
+PHASE E - 2027 BIS 2029, DIE GELTENDMACHUNG
+  Auskunfts- und Wertermittlungsverlangen nach § 2314 BGB, dann
+  Zahlungsaufforderung, dann Klage.
+  Bernds Verteidigung: ergaenzende Vertragsauslegung, § 313 BGB,
+  § 779 BGB, § 242 BGB, Streitverkuendung gegen Dr. Lockmann
+  (vertragsgrundlage_irrtum.txt Abschnitte 1 bis 5).
+  WIRKUNG: Das senkt den Betrag, nicht den Einstieg in den Streit.
+  Verjaehrung drei Jahre ab Kenntnis, §§ 195, 199 BGB - Risikofenster
+  bis Ende 2029 oder spaeter.
+
+
+-------------------------------------------------------------------------------
+4. VERZWEIGUNG MIT SCHAETZUNGEN
+-------------------------------------------------------------------------------
+
+  Verlauf                          | Bernd zahlt        | Chance
+  ---------------------------------+--------------------+--------
+  Patt bis Hilles Tod, § 1952,     | 0 Abfindung        | ~45 %
+  Pflichtteilsstreit               | ~87.000 Steuer     |
+  (Phasen C bis E)                 | 180-360k streitig  |
+  ---------------------------------+--------------------+--------
+  Genehmigung von Vertrag 03,      | 190.000            | ~25 %
+  Pflichtteil bleibt offen         | ~87.000 Steuer     |
+  (Annes Weg 1)                    | bis ~550.000       |
+  ---------------------------------+--------------------+--------
+  Versagung UND Fristablauf vor    | ~187.000 Steuer    | ~15 %
+  Hilles Tod - echte Sicherheit    | sonst nichts       |
+  ---------------------------------+--------------------+--------
+  Anne lenkt doch ein, Erledigung  | ~280.000 plus x    | ~15 %
+  gegen Nachbesserung (Weg 3)      |                    |
+  ---------------------------------+--------------------+--------
+
+DIE DRITTE ZEILE IST BERNDS EINZIGER SAUBERER AUSGANG - UND ANNE KANN
+IHN BLOCKIEREN.
+
+  Wird die Genehmigung versagt, kann sie als Betreuerin Beschwerde
+  einlegen. Das haelt das Verfahren anhaengig und damit die
+  Ausschlagungsfrist gehemmt (06:45). Der Fristablauf, der den Anspruch
+  verhindern wuerde, tritt dann nicht ein.
+
+  Nach versagung_mitwirkung.txt Abschnitt 1 hat Bernd voraussichtlich
+  KEIN Beschwerderecht, kein Akteneinsichtsrecht und keine
+  Beteiligtenstellung. Er kann dem nichts entgegensetzen.
+
+ZUR EINORDNUNG DER PROZENTZAHLEN
+  Sie sind eine Gewichtung der Anreizlage, keine Prognose. Belastbar ist
+  nur die Rangfolge: Der Patt-Verlauf ist der wahrscheinlichste, die
+  echte Sicherheit die unwahrscheinlichste. Die 15 Prozent fuer
+  Zeile 3 setzen voraus, dass Anne keine Beschwerde einlegt - was bei
+  einer unfairen Gegenseite nicht zu erwarten ist.
+
+
+-------------------------------------------------------------------------------
+5. WAS DEN VERLAUF BESCHLEUNIGT ODER KIPPT
+-------------------------------------------------------------------------------
+
+a) DAS NACHLASSVERZEICHNIS
+   Es ist das Einzige, was Binders Informationsdefizit heilt. Geht es
+   hinaus, kann er den Vertrag auch OHNE Ergaenzung zur Genehmigung
+   empfehlen - geschaetzt 50 bis 65 Prozent
+   (binder_empfehlung_ohne_ergaenzung.txt).
+   DANN TRITT ZEILE 2 DER TABELLE EIN: 190.000 EUR und der Pflichtteil
+   offen, bis ca. 550.000 EUR.
+   Die Zusage vom 08.10.2026 lautet nur, dass es VORLIEGT - nicht, dass
+   es uebersandt wird (07:49-51).
+   HAKEN: Sobald der Pflichtteil im Raum steht, koennte eine
+   Vorlagepflicht nach § 2314 BGB entstehen. Schutz durch Zurueckhalten
+   und Offenlegung des Anspruchs widersprechen sich moeglicherweise.
+   Siehe optionen_08.analyse.txt Abschnitt 5.
+
+b) DIE GEMEINSAME HALTUNG VON BERND UND FABIAN
+   handlungsoptionen.txt Abschnitt 7.6 fuehrt diesen Punkt als
+   "GEKLAERT". In Bernds eigener Mail vom 05.10.2026 steht allerdings:
+   "Mit Fabi habe ich das vorher grob abgesprochen. Er ist nicht in
+   allem meiner Meinung" (05b:43).
+   Option 1 und jede Verhandlungslinie setzen voraus, dass BEIDE nicht
+   unterschreiben. Faellt diese Voraussetzung, faellt das Veto.
+   Dies ist der einzige Hebel, mit dem die Gegenseite Bernds Position
+   direkt angreifen kann. Vor dem Termin verlaesslich zu klaeren.
+
+c) DER FRISTABLAUF - DER EINZIGE ECHTE SCHUTZ
+   Laeuft Hilles Ausschlagungsfrist nach Ende der Hemmung ab, entfaellt
+   auch das nach § 1952 BGB vererbliche Ausschlagungsrecht. Dann
+   entsteht der Pflichtteil nie.
+   Darauf weist Binder selbst hin (06:45) - und genau deshalb wird Anne
+   das Verfahren anhaengig halten.
+   OFFEN: Wie lange ist die Restfrist nach Ende der Hemmung? Die
+   Ausschlagung wurde am 13.03.2026 erklaert, die Frist waere am
+   19.03.2026 abgelaufen (02:91). Es verbleiben also moeglicherweise nur
+   wenige Tage. Anwaltlich zu klaeren - davon haengt Zeile 3 der Tabelle
+   ab.
+
+d) DIE ROLLENSITUATION BINDERS
+   Verfahrenspfleger und zugleich von Anne mandatiert (06:7), fuer eine
+   Konstruktion, die wirtschaftlich Anne und Jan nuetzt. Ein Vortrag
+   dazu koennte zur Bestellung eines neuen Verfahrenspflegers fuehren -
+   was das Verfahren verzoegert und damit Zeile 1 beguenstigt.
+   versagung_mitwirkung.txt Abschnitt 4d.
+
+
+-------------------------------------------------------------------------------
+6. WAS BERND IN DIESEM SZENARIO BLEIBT
+-------------------------------------------------------------------------------
+
+  Mittel                        | Wirkung
+  ------------------------------+------------------------------------
+  Nicht unterschreiben          | verhindert die Abfindung, NICHT den
+                                | Pflichtteil
+  ------------------------------+------------------------------------
+  Verzeichnis zurueckhalten     | verhindert Zeile 2 der Tabelle -
+                                | das ist der wichtigste aktive
+                                | Hebel
+  ------------------------------+------------------------------------
+  Verteidigungslinien gegen     | ergaenzende Auslegung, § 313 BGB,
+  die Forderung                 | § 779 BGB, § 242 BGB - senken den
+                                | Betrag, nicht die Geltendmachung
+                                | (vertragsgrundlage_irrtum.txt)
+  ------------------------------+------------------------------------
+  Streitverkuendung gegen       | § 19 BNotO, § 17 BeurkG - setzt
+  Dr. Lockmann                  | einen Schaden voraus, steht also
+                                | im Widerspruch zur ersten
+                                | Verteidigungslinie
+                                | (vertragsgrundlage_irrtum.txt 4.5)
+  ------------------------------+------------------------------------
+  Aufgabenkreis Vermoegens-     | fehlt er im Beschluss vom
+  sorge pruefen lassen          | 23.09.2025, ist die Ausschlagung
+                                | vom 13.03.2026 moeglicherweise
+                                | schon formal unwirksam. Kostenlos,
+                                | von niemandem angesprochen
+                                | (versagung_mitwirkung.txt 4c)
+
+WAS BERND NICHT HAT
+  Kein Mittel, die § 1952-Ausschlagung zu verhindern. Kein
+  Beschwerderecht. Keine Akteneinsicht. Keinen Einfluss auf den
+  Fristablauf.
+
+
+-------------------------------------------------------------------------------
+7. DER ENTSCHEIDENDE OFFENE RECHTSPUNKT
+-------------------------------------------------------------------------------
+
+Das gesamte Szenario steht auf einer Annahme, die in keiner der
+vorliegenden Unterlagen geprueft ist:
+
+  ENTSTEHT DER PFLICHTTEILSANSPRUCH NACH § 2306 ABS. 1 BGB AUCH DANN,
+  WENN NICHT DER BESCHRAENKT EINGESETZTE ERBE SELBST, SONDERN SEINE
+  ERBEN UEBER DAS NACH § 1952 BGB UEBERGEGANGENE RECHT AUSSCHLAGEN -
+  UND STEHT ER DANN IHNEN ZU?
+
+ZWEIFEL
+  § 2306 BGB soll den beschraenkt eingesetzten Erben PERSOENLICH
+  schuetzen: Er soll sich von Beschraenkungen befreien koennen, ohne
+  seinen Mindestanteil zu verlieren. Dass Erbeserben sich dadurch selbst
+  einen sechsstelligen Anspruch verschaffen koennen, den der
+  Erstberufene zu Lebzeiten nie geltend gemacht hat, ist nicht
+  selbstverstaendlich.
+
+TRAGWEITE
+
+  Antwort JA   | Das Szenario dieser Datei gilt. Option 1 ist keine
+               | Sicherheit. Annes Drohpotenzial ist real.
+  -------------+--------------------------------------------------------
+  Antwort NEIN | DAS GESAMTE UNFAIRE SZENARIO BRICHT ZUSAMMEN. Dann
+               | entsteht der Pflichtteil nur bei einer Ausschlagung
+               | durch Hille selbst, also nur bei betreuungs-
+               | gerichtlicher Genehmigung - und die kann Bernd durch
+               | Nichtunterschreiben und Zurueckhalten des
+               | Verzeichnisses verhindern. Option 1 waere dann doch
+               | gesicherter Boden, und Anne haette kein Drohmittel.
+
+  DIESE EINE FRAGE ENTSCHEIDET DAMIT UEBER DIE GESAMTE RISIKOLAGE.
+
+  anwaltstermin.20261014.prio1.txt Frage 6 streift den Punkt am Rand
+  ("Entsteht der Pflichtteil auch bei dieser Ausschlagungsvariante, und
+  wem steht er dann zu?"), ebenso
+  abfindungssumme_gegen_rechtssicherheit.txt Frage 5. In beiden Dateien
+  steht er unter nachgeordneten Punkten. ER GEHOERT NACH VORN.
+
+
+-------------------------------------------------------------------------------
+8. FRAGEN FUER DEN ANWALTSTERMIN
+-------------------------------------------------------------------------------
+
+ 1. VORRANGIG - Entsteht der Pflichtteil nach § 2306 Abs. 1 BGB auch bei
+    einer Ausschlagung durch die Erbeserben nach § 1952 BGB, und steht er
+    dann Anne und Jan selbst zu? (Abschnitt 7)
+    Lautet die Antwort nein, eruebrigt sich das Uebrige.
+
+ 2. Bestaetigt sich, dass die § 1952-Ausschlagung Bernds Unterschrift
+    NICHT braucht - und dass damit die Aussage "Pflichtteil entsteht
+    nie" fuer Option 1 nicht haltbar ist? (Abschnitt 1)
+    handlungsoptionen.txt und verfahrensdauer.txt gehen vom Gegenteil
+    aus.
+
+ 3. Wie lange ist Hilles Restausschlagungsfrist nach Ende der Hemmung?
+    Erklaert am 13.03.2026, Fristablauf waere der 19.03.2026 gewesen -
+    verbleiben also nur Tage? Davon haengt ab, ob der Fristablauf
+    ueberhaupt als Schutz in Betracht kommt. (Abschnitt 5c)
+
+ 4. Kann Anne als Betreuerin gegen eine Versagung Beschwerde einlegen
+    und damit die Hemmung verlaengern? Hat Bernd dagegen ein Mittel?
+    (Abschnitt 4)
+
+ 5. Besteht eine Vorlagepflicht fuer das Nachlassverzeichnis nach
+    § 2314 BGB, sobald ein Pflichtteilsanspruch im Raum steht? Dann
+    waere der wichtigste Hebel aus Abschnitt 6 gefaehrdet.
+
+ 6. Enthaelt der Betreuerbeschluss vom 23.09.2025, Az. 110 XVII (K)
+    1375, den Aufgabenkreis Vermoegenssorge? Wie ist das ohne
+    Akteneinsicht festzustellen, und was folgt, wenn er fehlt?
+
+ 7. Ist in diesem Szenario eine Streitverkuendung gegen Dr. Lockmann
+    anzuraten, und wie verhaelt sie sich zur Hauptverteidigung, die einen
+    Schaden gerade bestreitet? (vertragsgrundlage_irrtum.txt 4.5)
+
+ 8. Verschlechtert ein erkennbares Hinwirken auf die Versagung Bernds
+    Position in einem spaeteren Pflichtteilsprozess?
+    (versagung_mitwirkung.txt Frage 6)
+
+
+-------------------------------------------------------------------------------
+9. FAZIT
+-------------------------------------------------------------------------------
+
+  DER WAHRSCHEINLICHSTE VERLAUF
+    Patt bis Hilles Tod, dann Ausschlagung nach § 1952 BGB und
+    Pflichtteilsstreit. Keine Abfindung, aber eine Forderung von
+    180.000 bis 360.000 EUR. Geschaetzt 45 Prozent.
+
+  DIE UNANGENEHME EINSICHT
+    Bernds Veto schuetzt weniger, als die uebrigen Dateien annehmen. Es
+    verhindert die Zahlung, nicht den Anspruch.
+
+  WAS DARAUS FOLGT
+    Die Gegenversion (erbschaft_kontext\08_vorschlag_gegenversion.txt)
+    bleibt richtig, aber ihre Rolle aendert sich: Sie ist in diesem
+    Szenario nicht der Weg zur Rechtssicherheit, sondern ein ANGEBOT,
+    das Anne voraussichtlich ablehnt. Ihr Wert liegt dann darin, dass
+    Bernd dokumentiert hat, eine vollstaendige Erledigung angeboten zu
+    haben - was in einem Pflichtteilsprozess fuer die Argumentation aus
+    § 242 BGB und § 157 BGB nuetzlich sein kann.
+
+  DIE EINE FRAGE, DIE VORHER ZU KLAEREN IST
+    Entsteht der Pflichtteil bei einer Ausschlagung durch Erbeserben
+    ueberhaupt - und wem steht er zu? Lautet die Antwort nein, ist
+    dieses ganze Szenario gegenstandslos und Option 1 doch sicher.
+
+
+===============================================================================
+Grundlagen: pflichtteilsrisiko.txt - Hoehe, Anspruchsinhaber, Steuerlage
+            verfahrensdauer.txt - Zeitachse (Abschnitt 2 hier KORRIGIERT)
+            handlungsoptionen.txt - Option 1 (hier KORRIGIERT)
+            versagung_mitwirkung.txt - Beteiligtenstellung, Abschnitt 4c
+            vertragsgrundlage_irrtum.txt - Verteidigungslinien, 4.5
+            binder_empfehlung_ohne_ergaenzung.txt - 50 bis 65 Prozent
+            optionen_08.analyse.txt - Gratwanderung, § 2314 BGB
+Gegenstueck: loesung_bei_fairness.txt
+Erstellt: 13.10.2026. Keine Rechtsberatung.
+===============================================================================
