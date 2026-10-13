@@ -1,0 +1,341 @@
+===============================================================================
+WELCHE OPTION ERREICHT DAS ZIEL "190.000 ZAHLEN UND DANACH FREI SEIN"?
+Bewertung der Optionen 4 und 5 im Vergleich
+Stand 13.10.2026
+===============================================================================
+
+FRAGE
+Bernd und Fabian sind bereit, 190.000 EUR Abfindung zu zahlen und danach
+von allen weiteren Verpflichtungen entbunden zu sein. Welche Option ist
+dafuer die beste?
+
+ERGEBNIS IN EINEM SATZ
+OPTION 5 - § 1952-Weg nach Hilles Tod, in der Fassung der Gegenversion
+(erbschaft_kontext\08_vorschlag_gegenversion.txt). Nicht knapp, sondern
+deutlich: 50 bis 70 Prozent gegen 20 bis 30 Prozent bei Option 4.
+
+KEINE RECHTSBERATUNG. Alle Rechts-, Steuer- und Betragsangaben sind
+Einschaetzungen auf Grundlage der vorliegenden Unterlagen und anwaltlich
+bzw. steuerlich zu verifizieren. Alle Prozentangaben sind Schaetzungen.
+
+
+-------------------------------------------------------------------------------
+1. NUR ZWEI VON FUENF OPTIONEN ERREICHEN DAS ZIEL UEBERHAUPT
+-------------------------------------------------------------------------------
+
+  Option                        Chance    Flaschenhals
+  ---------------------------------------------------------------------------
+  4  Abgeltung ueber das        20-30 %   Das Gericht muesste feststellen,
+     Betreuungsgericht                    dass die Aufgabe eines Anspruchs
+                                          von 180.000 bis 360.000 EUR gegen
+                                          190.000 EUR fuer Hille VORTEILHAFT
+                                          ist
+  ---------------------------------------------------------------------------
+  5  § 1952 nach Hilles Tod,    50-70 %   Der Preis - Anne und Jan koennen
+     mit Erledigungsklausel               auch ohne Vertrag ausschlagen
+  ---------------------------------------------------------------------------
+
+Die Optionen 1, 2 und 3 erreichen das Ziel nicht:
+  1  Nichts tun          - keine Zahlung, aber auch keine Ausschlagung
+  2  Ergaenzung 05       - Zahlung plus Zusatzpflichten, Pflichtteil offen
+  3  Vertrag 03          - Zahlung, Pflichtteil offen
+
+Grundlage: handlungsoptionen.txt Abschnitt 2,
+abfindungssumme_gegen_rechtssicherheit.txt Abschnitte 1, 5 und 6.
+
+
+-------------------------------------------------------------------------------
+2. DER ENTSCHEIDENDE GRUND - UND ER IST NICHT DIE PROZENTZAHL
+-------------------------------------------------------------------------------
+
+BEI OPTION 5 FALLEN ZAHLUNG UND SICHERHEIT ZEITLICH ZUSAMMEN.
+
+Das ist die eigentliche Pointe der Gegenversion: Die Erledigung ist
+ZAHLUNGSBEDINGUNG, nicht Zahlungsgegenleistung (Gegenversion § 3 Abs. 1
+Buchst. d, § 4 Abs. 6).
+
+  Wer nicht erledigt, bekommt nichts.
+
+Folge: kein Prozess, keine Vollstreckung, keine Beweislast, kein
+Vertrauen erforderlich. Bernd muss niemanden verklagen und sich auf
+niemanden verlassen.
+
+BEI OPTION 4 IST DAS STRUKTURELL UNMOEGLICH
+
+  Dort entscheidet ein Gericht, auf das Bernd keinen Einfluss hat - und
+  zwar ueber einen Verzicht, den Anne als Betreuerin erklaeren muesste,
+  waehrend sie gleichzeitig zur Vermoegenssorge fuer ihre Mutter
+  verpflichtet ist.
+
+  abfindungssumme_gegen_rechtssicherheit.txt Abschnitt 2 benennt das
+  Dilemma praezise:
+
+    WER DEN VERZICHT VERLANGT, LOEST DIE PRUEFUNG AUS, DIE DEN VERZICHT
+    VERHINDERT.
+
+ZUSATZRISIKO BEI OPTION 4, DAS OPTION 5 NICHT HAT
+
+  Das Gericht koennte Vertrag 03 UNVERAENDERT genehmigen. Dann sind
+  190.000 EUR faellig und der Pflichtteil bleibt offen - das ist
+  Option 3, das schlechteste Szenario ueberhaupt
+  (handlungsoptionen.txt Option 3, ca. 59 Prozent nach
+  binder_empfehlung_ohne_ergaenzung.txt).
+
+  Bei Option 5 gibt es dieses Risiko nicht, weil keine Zahlungspflicht
+  entsteht, solange die Bedingungen nicht eingetreten sind.
+
+
+-------------------------------------------------------------------------------
+3. EIN WEITERER VORTEIL VON OPTION 5 - BISHER NICHT NOTIERT
+-------------------------------------------------------------------------------
+
+BEI OPTION 5 ENTSTEHT DER PFLICHTTEIL IN DEN HAENDEN DERJENIGEN, DIE
+UNTERSCHREIBEN.
+
+  Anne und Jan schlagen aus, der Anspruch entsteht bei ihnen, sie
+  erklaeren in derselben Urkunde den Verzicht. Es gibt keinen Dritten,
+  der spaeter einen Anspruch geltend machen koennte, von dem er nichts
+  wusste.
+
+BEI OPTION 4 DAGEGEN ENTSTEHT DER ANSPRUCH BEI HILLE.
+
+  Anne muesste als Betreuerin ueber ein Recht ihrer Mutter verfuegen,
+  das nach Hilles Tod ohnehin ihr selbst zufaellt (§ 2317 Abs. 2 BGB,
+  pflichtteilsrisiko.txt Abschnitt 2).
+
+  GENAU DIESER INTERESSENKONFLIKT IST DAS, WAS DAS GERICHT PRUEFEN UND
+  BEANSTANDEN WUERDE. Er ist der Grund, warum Glied 3 der Kette in
+  abfindungssumme_gegen_rechtssicherheit.txt nur mit 25 bis 35 Prozent
+  angesetzt ist.
+
+EINSCHRAENKUNG
+  Dieser Vorteil setzt voraus, dass Anne und Jan die ALLEINIGEN Erben
+  Hilles sind. Die Gegenversion faengt den anderen Fall in § 2 Abs. 3
+  und § 4 Abs. 4 Satz 2 auf - allerdings nur durch eine
+  Bemuehenspflicht. Geschuetzt ist Bernd dennoch, weil § 3 Abs. 1
+  Buchst. a und d die VOLLSTAENDIGE Ausschlagung und Erledigung
+  verlangen: bleibt ein Erbe aussen vor, tritt die Bedingung nicht ein
+  und es wird nicht gezahlt.
+
+
+-------------------------------------------------------------------------------
+4. DER PREIS - "PLUS X"
+-------------------------------------------------------------------------------
+
+abfindungssumme_gegen_rechtssicherheit.txt Abschnitt 5 benennt es offen:
+
+  Anne und Jan koennten nach Hilles Tod auch OHNE Vereinbarung
+  ausschlagen und anschliessend den Pflichtteil fordern. Sobald sie den
+  Anspruch kennen, ist ihre Alternative besser als 190.000 EUR.
+
+DARAUS FOLGT: DIE 190.000 EUR WERDEN VORAUSSICHTLICH NICHT HALTEN.
+
+Die Datei schaetzt den Weg "Abfindung auf Pflichtteilshoehe
+nachgebessert" mit 50 bis 60 Prozent - also aehnlich wahrscheinlich wie
+Option 5, aber zu einem deutlich hoeheren Preis.
+
+PREISGRENZE VOR DEM TERMIN FESTLEGEN
+
+  Rechnerisch liegt die Indifferenzgrenze dort, wo Abfindung plus Steuer
+  die ca. 187.000 EUR aus Option 1 erreichen:
+
+    Option 1                        ~187.000 EUR Steuer, 0 Abfindung
+    Option 5 bei 190.000 EUR        ~ 87.000 EUR Steuer + 190.000
+                                    = ~277.000 EUR
+    Differenz                       ~ 90.000 EUR
+
+  Die Abfindung koennte also theoretisch um bis zu ca. 90.000 EUR
+  steigen, bevor Option 5 schlechter ist als Option 1 - rechnerisch
+  also bis ca. 280.000 EUR.
+
+  WICHTIG: Das ist die INDIFFERENZGRENZE, nicht ein Verhandlungsziel.
+  An dieser Grenze ist Option 5 nicht mehr besser als Nichtstun, traegt
+  aber noch das Restrisiko einer unwirksamen Erledigungsklausel. Der
+  sinnvolle Verhandlungsspielraum liegt deutlich darunter.
+
+  ZU BEACHTEN: Diese Rechnung steht und faellt mit den Steuerzahlen.
+  Siehe Abschnitt 6.
+
+
+-------------------------------------------------------------------------------
+5. DIE GRATWANDERUNG - IN KEINER ANDEREN DATEI SO BENANNT
+-------------------------------------------------------------------------------
+
+OPTION 5 SETZT VORAUS, DASS DAS GENEHMIGUNGSVERFAHREN WEITERLAEUFT.
+
+  Es hemmt die Ausschlagungsfrist (06:45). Laeuft die Frist ab, entfaellt
+  auch das nach § 1952 BGB vererbliche Ausschlagungsrecht - und
+  Option 5 ist versperrt. Darauf weist Binder selbst hin.
+
+GLEICHZEITIG GILT: SOLANGE DAS VERFAHREN LAEUFT, KANN ES ENTSCHIEDEN
+WERDEN.
+
+  Mit ca. 59 Prozent, sobald das Nachlassverzeichnis vorliegt
+  (binder_empfehlung_ohne_ergaenzung.txt). Dann landet Bernd in
+  Option 3 - 190.000 EUR und Pflichtteil offen.
+
+OPTION 5 VERLANGT ALSO, DAS VERFAHREN ANHAENGIG ABER UNENTSCHIEDEN ZU
+HALTEN.
+
+Das ist beherrschbar, aber nur ueber zwei Dinge:
+
+  1. NICHT UNTERSCHREIBEN
+     Binder kann die Genehmigung ohne Ergaenzung nicht empfehlen
+     (04:83-85, versagung_mitwirkung.txt Abschnitt 2). Wirkt ohne jedes
+     Zutun, erfordert keine Begruendung und kein Schreiben.
+
+  2. DAS NACHLASSVERZEICHNIS ZURUECKHALTEN
+     Es ist das Einzige, was Binders Informationsdefizit beseitigt und
+     damit eine Empfehlung ohne Ergaenzung ermoeglicht. Die Zusage vom
+     08.10.2026 lautet nur, dass es VORLIEGT - nicht, dass es uebersandt
+     wird (07:49-51).
+
+EIN HAKEN BEI PUNKT 2, DER ZU PRUEFEN IST
+
+  Sobald der Pflichtteil im Raum steht - und die Gegenversion benennt
+  ihn in § 4 Abs. 2 Buchst. a ausdruecklich - koennte eine
+  Vorlagepflicht nach § 2314 BGB entstehen.
+
+  DER SCHUTZ DURCH ZURUECKHALTEN UND DAS MITTEL ZUR ERLEDIGUNG
+  WIDERSPRECHEN SICH ALSO MOEGLICHERWEISE. Das ist im Termin zu
+  bewerten - siehe anwaltstermin.20261014.prio1.txt Frage 9 und
+  Gegenversion Erlaeuterung 11.
+
+
+-------------------------------------------------------------------------------
+6. DIE UNBEQUEME GEGENFRAGE - IST EINE AKTIVE OPTION UEBERHAUPT BESSER?
+-------------------------------------------------------------------------------
+
+Die Fragestellung setzt voraus, dass "190.000 zahlen und frei sein" das
+Ziel ist. Rechnerisch ist das aber nur sinnvoll, wenn die Steuerzahlen
+halten.
+
+  Option 1 (nichts tun)        ~187.000 EUR       sicher, 100 %
+  Option 5 (mit Erledigung)    ~277.000 EUR       50-70 %
+                               plus x
+
+Option 5 ist also ca. 90.000 EUR TEURER als Option 1 und kauft dafuer
+die Beseitigung eines Risikos von 180.000 bis 360.000 EUR. Dieser Tausch
+ist vernuenftig - SOLANGE DIE 187.000 EUR STIMMEN.
+
+GENAU DAS IST OFFEN. Nach der Korrektur vom 13.10.2026 stehen zwei
+ungepruefte Posten gegeneinander:
+
+  a) § 5 ABS. 1 ERBSTG - fiktiver Zugewinnausgleich
+     Koennte Hilles Steuer erheblich senken.
+     FOLGE: Option 1 billiger, Option 5 unattraktiver.
+
+  b) DOPPELBESTEUERUNG beim Nacherbfall (§ 6 Abs. 2 ErbStG)
+     Koennte die Gesamtbelastung bei Option 1 erhoehen.
+     FOLGE: Option 1 teurer, Option 5 attraktiver.
+
+  Ausfuehrlich: bewertung_08_ergaenzung.txt Abschnitt 0, Frage 9 in
+  Abschnitt 7.
+
+OHNE DIESE VERIFIZIERUNG IST DIE RANGFOLGE ZWISCHEN OPTION 1 UND
+OPTION 5 NICHT BELASTBAR.
+
+  Was belastbar ist: OPTION 5 IST DIE BESTE DER AKTIVEN OPTIONEN.
+  Was offen ist:     Ob eine aktive Option ueberhaupt besser ist als
+                     Nichtstun.
+
+Das ist die eigentliche Entscheidung des Termins - handlungsoptionen.txt
+Abschnitt 8 formuliert sie als die eine Frage:
+
+  RECHTFERTIGEN CA. 90.000 EUR STEUERERSPARNIS EIN PFLICHTTEILSRISIKO
+  VON 180.000 BIS 360.000 EUR?
+
+
+-------------------------------------------------------------------------------
+7. DER TAKTISCHE PREIS VON OPTION 5
+-------------------------------------------------------------------------------
+
+Option 5 in der Fassung der Gegenversion nennt den Pflichtteil
+ausdruecklich (§ 4 Abs. 2 Buchst. a). Damit ist die Kernentscheidung aus
+anwaltstermin.20261014.prio1.txt Frage 8 getroffen - in Richtung
+"ansprechen".
+
+DAS IST NICHT RUECKHOLBAR.
+
+  Sobald Anne diesen Text sieht, ist der Anspruch bekannt. Erkennt sie
+  ihn und lehnt die Erledigung ab, ist ihre Position besser als vorher:
+  Sie kann nach Hilles Tod ohne Vertrag ausschlagen und den Pflichtteil
+  fordern (pflichtteilsrisiko.txt, Nachtrag 10.10.2026).
+
+  Zugleich ist das der Grund, warum Option 5 ueberhaupt funktioniert -
+  eine Erledigungsklausel, die den Anspruch nicht benennt, wird eng
+  ausgelegt und schuetzt moeglicherweise nicht.
+
+  Alternativen und Abwaegung: Gegenversion Erlaeuterung 7.
+
+FOLGE FUER DIE REIHENFOLGE
+  Option 5 darf nicht eroeffnet werden, bevor die Hoehe des
+  Pflichtteils beziffert ist. Ohne diese Zahl ist nicht entscheidbar, ob
+  190.000 EUR eine angemessene Gegenleistung sind - und man verhandelt
+  ueber einen Anspruch, den man selbst nicht kennt.
+
+
+-------------------------------------------------------------------------------
+8. ZWEI PUNKTE, DIE VOR DER ENTSCHEIDUNG ZU KLAEREN SIND
+-------------------------------------------------------------------------------
+
+a) JANS ANSCHRIFT
+   Die Gegenversion hat im Rubrum unter Nummer 4 eine Luecke. Ohne Jan
+   Truepers Beteiligung funktioniert Option 5 nicht - er hat nach
+   § 1952 Abs. 3 BGB ein faktisches Veto und kommt im Entwurf 08
+   ueberhaupt nicht vor.
+   In den vorliegenden Unterlagen ist nur sein Geburtsdatum bekannt
+   (02.07.1968, 01:23).
+
+b) AUFGABENKREIS VERMOEGENSSORGE
+   Lockmann weist darauf hin, dass der Aufgabenkreis "Vermoegenssorge"
+   dem Betreuer uebertragen sein MUSS (02:86-87). Ob das im Beschluss
+   vom 23.09.2025, Az. 110 XVII (K) 1375, der Fall ist, ergibt sich aus
+   den vorliegenden Unterlagen NICHT.
+
+   BEDEUTUNG: Fehlt er, ist die Ausschlagung vom 13.03.2026
+   moeglicherweise schon formal unwirksam - und die ganze Abwaegung
+   verschiebt sich.
+   PREIS: keiner. Eine reine Rueckfrage.
+   STATUS: Von niemandem bisher angesprochen.
+   Quelle: versagung_mitwirkung.txt Abschnitt 4c, Empfehlung Stufe 2.
+
+
+-------------------------------------------------------------------------------
+9. FAZIT
+-------------------------------------------------------------------------------
+
+  ZUR GESTELLTEN FRAGE
+    Option 5 - § 1952 nach Hilles Tod, mit vollstaendiger
+    Erledigungsklausel in derselben Urkunde, Anne und Jan persoenlich
+    als Vertragsparteien, Erledigung als Zahlungsbedingung.
+    Textfassung: erbschaft_kontext\08_vorschlag_gegenversion.txt
+
+  WARUM NICHT OPTION 4
+    Nicht wegen der niedrigeren Chance allein, sondern weil Zahlung und
+    Sicherheit dort zeitlich auseinanderfallen und ein Gericht
+    entscheidet, das den Interessenkonflikt der Betreuerin pruefen muss.
+    Zusaetzlich droht dort die unveraenderte Genehmigung von Vertrag 03.
+
+  WAS DIE ANTWORT NICHT IST
+    Keine Empfehlung, Option 5 zu gehen. Ob eine aktive Option
+    ueberhaupt besser ist als Option 1, haengt an den ungepruefen
+    Steuerzahlen (Abschnitt 6).
+
+  REIHENFOLGE AUS handlungsoptionen.txt ABSCHNITT 7 EINHALTEN
+    [ ] 1. Steuerzahlen verifizieren
+    [ ] 2. Pflichtteilsquote und Zugewinnausgleich beziffern
+    [ ] 3. Nachlassverzeichnis zurueckhalten, bis 1 und 2 geklaert sind
+    [ ] 4. erst dann Option 5 eroeffnen
+
+
+===============================================================================
+Grundlagen: handlungsoptionen.txt - Optionenvergleich, Abschnitte 2, 3, 8
+            abfindungssumme_gegen_rechtssicherheit.txt - Abschnitte 1, 5, 6
+            pflichtteilsrisiko.txt - Hoehe, Anspruchsinhaber, Steuerlage
+            versagung_mitwirkung.txt - Abschnitt 2, Abschnitt 4c
+            verfahrensdauer.txt - Hemmung der Ausschlagungsfrist
+            bewertung_08_ergaenzung.txt - Abschnitt 0, Frage 9
+            erbschaft_kontext\08_vorschlag_gegenversion.txt - Textfassung
+Erstellt: 13.10.2026. Keine Rechtsberatung.
+===============================================================================

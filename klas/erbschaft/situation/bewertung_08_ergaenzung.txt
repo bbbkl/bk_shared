@@ -1,0 +1,581 @@
+===============================================================================
+BEWERTUNG DES VORSCHLAGS VOM 12.10.2026
+Ergaenzung zum Abfindungsvertrag - § 1952-Weg
+Quelle: erbschaft_kontext\08_vorschlag_ergaenzung.20261012.txt
+Stand 13.10.2026
+===============================================================================
+
+KEINE RECHTSBERATUNG. Alle Rechts-, Steuer- und Betragsangaben sind
+Einschaetzungen auf Grundlage der vorliegenden Unterlagen und anwaltlich
+bzw. steuerlich zu verifizieren.
+
+Bezug: anwaltstermin.20261014.prio1.txt Frage 14b - dort angelegt, hier
+ausgefuehrt am konkreten Entwurfstext.
+Vergleich der Wege: handlungsoptionen.txt Option 5.
+
+Textstand: Die Rechtschreibfehler des Erstentwurfs sind am 13.10.2026
+korrigiert. Die Bewertung ist davon unberuehrt - sie hing an keinem der
+Tippfehler.
+
+
+-------------------------------------------------------------------------------
+ERGEBNIS IN EINEM SATZ
+-------------------------------------------------------------------------------
+
+Der Entwurf ist einseitig: er begruendet eine zusaetzliche
+Zahlungsverpflichtung fuer Bernd und Fabian und gibt dafuer nichts zurueck
+- keine Abgeltungsklausel, keine Gegenverpflichtung, keine Bindung der
+Personen, die handeln sollen.
+
+IN DIESER FASSUNG NICHT ZU UNTERSCHREIBEN.
+
+ABER: Als VEHIKEL ist der Weg richtig. Er ist der einzige, auf dem eine
+vollstaendige Erledigung ohne den Flaschenhals des Betreuungsgerichts
+erreichbar ist (handlungsoptionen.txt Option 4 Glied 3: nur 25 bis
+35 Prozent). Der Entwurf hat das richtige Gefaess und den falschen Inhalt.
+
+
+-------------------------------------------------------------------------------
+0. ZWECK UND INTERESSENLAGE - WOZU DIENT DER VORSCHLAG?
+-------------------------------------------------------------------------------
+
+DER ZWECK IN EINEM SATZ
+  Der Vorschlag hat genau einen Zweck: die 190.000 EUR fuer Annes Seite zu
+  retten, BEVOR Hille stirbt. Alles andere im Entwurf ist Beiwerk.
+
+DAS PROBLEM, DAS ER LOEST
+
+  Der Vertrag vom 13.03. steht unter einer Bedingung, die
+  wahrscheinlich NIE eintritt:
+
+    Verfahrensdauer bis Rechtskraft   4 bis 7 Monate, Erwartungswert
+                                      Feb. bis Mai 2027
+                                      (verfahrensdauer.txt)
+    Lebenserwartung Hille             unter einem Jahr, eher weniger
+                                      (00:9, 04:45-49)
+    Verfahren endet mit ihrem Tod     04:103-105
+    FOLGE                             Bedingung faellt aus, KEINE
+                                      Abfindung (03:55-56)
+
+  Der Vorschlag beseitigt genau diese Unsicherheit - EINSEITIG ZU BERNDS
+  LASTEN. Er nimmt ihm das wahrscheinlichste und beste Ergebnis und
+  verwandelt es in eine sichere Verbindlichkeit von 190.000 EUR.
+
+DER AUSLOESER - ANNE SCHREIBT ES SELBST
+
+  Nach Bernds Ablehnung vom 05.10. hat Anne RA Binder "auf Hilles
+  Kosten" beauftragt, "ihre/unsere Moeglichkeiten ALS ANWALT zu
+  ueberdenken (und nicht nur als Verfahrenspfleger)" (06:7).
+
+  Der Vorschlag ist also keine Fortschreibung des
+  Genehmigungsverfahrens, sondern die REAKTION AUF BERNDS VETO. Er
+  umgeht zwei Hindernisse gleichzeitig:
+
+    1. das Betreuungsgericht - bei § 1952 BGB schlagen Anne und Jan als
+       voll geschaeftsfaehige Erbeserben aus, keine Genehmigung
+       erforderlich (06:42)
+    2. den Zeitfaktor - der Todeszeitpunkt "wuerde nach der Beurkundung
+       keine Rolle mehr spielen" (06:7)
+
+  Annes eigene Formulierung trifft es: "Damit wuerden die Bedingungen,
+  die wir uns im Maerz ausgedacht haben, DOCH umgesetzt werden koennen"
+  (06:10).
+
+WAS DER VORSCHLAG NICHT IST
+
+  Er ist nicht das, als was er sich bezeichnet. § 1 nennt ihn eine
+  "Konkretisierung der Abfindung" - eine Formulierung, die aus 05
+  uebernommen ist, wo sie zutraf. Hier trifft sie nicht zu:
+  konkretisiert wird nichts, ERWEITERT wird der Bedingungstatbestand um
+  einen Fall, der bisher ausdruecklich zum Ausfall der Zahlungspflicht
+  fuehrte. Dasselbe gilt fuer die Ueberschrift "Anpassung der
+  Abfindungszahlung" in § 2 (siehe Abschnitt 4).
+
+  Er ist auch nicht mehr Binders Vorschlag vom 28.09. Die
+  Bewertungsfrage, die dort die Genehmigungsbedingung trug, ist durch
+  den neuen Vorschlag NICHT BEANTWORTET, SONDERN UMGANGEN (siehe
+  Abschnitt 1a).
+
+WARUM ANNES SEITE DEN WEG WILL - WAS SIE BEI OPTION 1 VERLIERT
+
+  KORRIGIERT AM 13.10.2026. Die erste Fassung dieser Tabelle fuehrte die
+  Steuerersparnis von ca. 171.000 EUR als Verlust Annes auf. DAS WAR
+  FALSCH - Begruendung unten.
+
+  Posten                          bei Option 1 (keine wirksame
+                                  Ausschlagung)
+  ------------------------------------------------------------------
+  Abfindung 190.000 EUR           entfaellt vollstaendig (03:55-56)
+  ------------------------------------------------------------------
+  Aus der Vorerbschaft selbst     NICHTS - sie faellt mit Hilles Tod
+                                  an Bernd und Fabian als Nacherben
+  ------------------------------------------------------------------
+  Verbleibt Anne und Jan          nur die aufgelaufenen
+                                  Niessbrauchsertraege, ca. 3.500 EUR
+                                  pro Jahr
+  ------------------------------------------------------------------
+  Steuerersparnis auf die         KEIN Verlust Annes - die Steuer wird
+  Vorerbschaft                    nach § 20 Abs. 4 ErbStG aus den
+                                  Mitteln der Vorerbschaft entrichtet,
+                                  also aus Substanz, die Anne und Jan
+                                  ohnehin nie erhalten. Die Ersparnis
+                                  ist BERNDS Ersparnis.
+
+  WARUM DIE KORREKTUR NOETIG WAR
+    § 20 Abs. 4 ErbStG: "Bei der Vorerbschaft hat der Vorerbe die durch
+    die Vorerbschaft veranlasste Steuer aus den Mitteln der
+    Vorerbschaft zu entrichten."
+    Hille wird steuerlich als Vollerbin behandelt (§ 6 Abs. 1 ErbStG),
+    versteuert also den gesamten Nachlass - zahlt aber aus der
+    Substanz, nicht aus ihrem eigenen Vermoegen von 400.000 EUR. Dass
+    sie NICHT BEFREITE Vorerbin ist, steht dem nicht entgegen;
+    § 20 Abs. 4 ErbStG erlaubt den Substanzgriff gerade.
+    Wirtschaftlich tragen damit Bernd und Fabian diese Steuer ueber
+    eine entsprechend verringerte Nacherbschaft.
+
+  WIRKUNG AUF DIE EINSCHAETZUNG
+    Annes Verlust bei Option 1 ist DEUTLICH GERINGER als zunaechst
+    angesetzt: 190.000 EUR Abfindung plus ca. 3.500 EUR pro Jahr
+    Niessbrauchsertraege - nicht zusaetzlich 171.000 EUR.
+    DER HEBEL "ANNES SEITE BRAUCHT DEN DEAL" BLEIBT RICHTIG, IST ABER
+    KLEINER. Er ruht allein auf der Abfindung.
+
+  ZWEI PUNKTE, DIE DARAUS FOLGEN UND NOCH NICHT GEPRUEFT SIND
+    Beide betreffen die Steuerzahl 187.000 EUR, auf der der gesamte
+    Entscheidungsmassstab in handlungsoptionen.txt Abschnitt 4 ruht.
+    Hier nur festgehalten; gehoert in die Verifizierung nach
+    anwaltstermin.20261014.prio1.txt Frage 11.
+
+    a) DOPPELBESTEUERUNG BEI OPTION 1
+       Mit Hilles Tod wird ERNEUT besteuert (§ 6 Abs. 2 ErbStG). Bernd
+       und Fabian erwerben steuerlich grundsaetzlich von HILLE -
+       Steuerklasse II, Freibetrag nur 20.000 EUR. Auf Antrag kann das
+       Verhaeltnis zum urspruenglichen Erblasser Klas zugrunde gelegt
+       werden (§ 6 Abs. 2 Satz 2 ErbStG), also Steuerklasse I mit
+       400.000 EUR Freibetrag je Kind.
+       Der Nachteil der Vorerbschaft liegt also in der DOPPELTEN
+       Besteuerung derselben Substanz - einmal bei Hille, einmal bei
+       Bernd und Fabian. Genau diesen Effekt soll die Ausschlagung
+       beseitigen.
+       ZU PRUEFEN: Umfasst Bernds Zahl von 187.000 EUR beide
+       Besteuerungen oder nur Hilles?
+
+    b) § 5 ABS. 1 ERBSTG - FIKTIVER ZUGEWINNAUSGLEICH, IN KEINER DATEI
+       Endet die Zugewinngemeinschaft durch Tod und macht der
+       ueberlebende Ehegatte den konkreten Ausgleich nicht geltend,
+       bleibt nach § 5 Abs. 1 ErbStG der Betrag steuerfrei, der ihm als
+       Ausgleichsforderung nach § 1371 Abs. 2 BGB zugestanden haette.
+       Dies gilt nach vorlaeufigem Verstaendnis auch bei
+       testamentarischer Erbeinsetzung.
+       Bei einem Vermoegenszuwachs von 330.000 EUR (2013, 01:145) auf
+       1.438.262,66 EUR am Sterbetag kann dieser steuerfreie Betrag
+       SECHSSTELLIG sein. Hinzu kommen Hilles Freibetrag von
+       500.000 EUR und der Versorgungsfreibetrag nach § 17 ErbStG.
+       FALLS DAS ZUTRIFFT, waere Hilles Steuer deutlich niedriger als
+       die angesetzten 171.000 bis 187.000 EUR - und die
+       90.000-EUR-Vorteilsrechnung braeche zusammen, ZUGUNSTEN VON
+       OPTION 1.
+       Dasselbe Anfangsvermoegen von 1992, das fuer den Pflichtteil
+       gebraucht wird (prio1 Frage 3), wird auch hier gebraucht. Eine
+       Ermittlung, zwei Zwecke.
+
+  KOMPLIKATION - HILLE STIRBT VOR ZAHLUNG DER STEUER
+    Die Steuer entsteht mit Klas' Tod am 05.02.2026
+    (§ 9 Abs. 1 Nr. 1 ErbStG), ist aber noch nicht festgesetzt. Stirbt
+    Hille vorher, stehen zwei Zuweisungen gegeneinander:
+      - die Steuerschuld geht als Nachlassverbindlichkeit auf Anne und
+        Jan als Gesamtrechtsnachfolger ueber (§ 45 AO)
+      - § 20 Abs. 4 ErbStG weist die Vorerbschaftssubstanz als Quelle
+        zu, die zu diesem Zeitpunkt bereits an Bernd und Fabian
+        gefallen ist
+    Wen das Finanzamt in Anspruch nehmen kann und wie der Ausgleich im
+    Innenverhaeltnis laeuft, ist nach den vorliegenden Unterlagen nicht
+    zu beantworten. Praktisch relevant, weil dieses Szenario nach
+    verfahrensdauer.txt der wahrscheinlichste Verlauf ist.
+
+DER SINN AUS BERNDS BLICKWINKEL
+
+  Der Vorschlag ist DER BEWEIS, DASS ANNES SEITE DEN DEAL BRAUCHT UND
+  BERND NICHT. Er dokumentiert:
+
+    - Anne hat erkannt, dass das Genehmigungsverfahren wahrscheinlich
+      ins Leere laeuft
+    - sie ist bereit, dafuer das Betreuungsgericht zu umgehen
+    - sie ist bereit, eigene Forderungen (Stammerhaltung, Nachweise)
+      fallen zu lassen
+    - sie braucht Bernds und Fabians Unterschrift - ohne sie kommt
+      nichts zustande (verfahrensdauer.txt Abschnitt 2)
+
+  DARIN LIEGT DER TATSAECHLICHE NUTZEN DES PAPIERS FUER BERND: Es ist
+  die Eroeffnung einer Verhandlung, in der ER die Gegenleistung
+  benennen kann. Genau das ist der Ansatz der Gegenversion
+  (08_vorschlag_gegenversion.txt) - der Weg ist brauchbar, die
+  Lastenverteilung nicht.
+
+  OFFEN BLEIBT, OB DIESE VERHANDLUNG UEBERHAUPT ZU EROEFFNEN IST:
+  Option 1 kostet ca. 187.000 EUR und ist sicher; jede aktive Variante
+  kostet ca. 277.000 EUR und setzt eine funktionierende
+  Erledigungsklausel voraus. Siehe Abschnitt 8 und
+  handlungsoptionen.txt Abschnitt 8.
+
+
+-------------------------------------------------------------------------------
+1. WAS SICH GEGENUEBER 05 VERAENDERT HAT - DER AUFFAELLIGSTE BEFUND
+-------------------------------------------------------------------------------
+
+Der Entwurf 08 ist KEIN Zusatz zu 05, sondern ein ERSATZ.
+
+Verschwunden sind alle drei Forderungen aus Binders Schreiben vom
+28.09.2026:
+
+  - Nachlassverzeichnis als Anlage 2            (05 § 1)
+  - Erhalt des Vermoegensstamms                 (05 § 2)
+  - jaehrliche Feststellung und Nachzahlung
+    oberhalb 190.000 EUR                        (05 §§ 2, 3)
+
+Uebrig ist allein die Sicherung der 190.000 EUR ueber Hilles Tod hinaus.
+
+DARAUS FOLGT ZWEIERLEI
+
+a) BINDERS EIGENE BEGRUENDUNG WIRD FALLEN GELASSEN
+   Am 28.09. war sein Argument, die Abfindung muesse gesichert
+   nachweisbar die entgehenden Zufluesse ersetzen, sonst sei sie "nicht
+   bewertbar" und "nicht sicher feststellbar" (04:74-81). Das war die
+   Grundlage seiner Genehmigungsbedingung (04:83-85).
+
+   Im Entwurf 08 kommt dieser Aspekt nicht mehr vor - ohne ein Wort der
+   Begruendung. Er gilt offenbar nicht mehr, sobald der Weg am Gericht
+   vorbeifuehrt.
+
+   VERWERTBAR: Das ist ein Argument gegen die Ergaenzung 05. Wenn die
+   Stammerhaltung fuer Hilles Interessen unverzichtbar war, kann sie es
+   nicht sein, sobald das Genehmigungsverfahren entfaellt.
+
+b) DER ROLLENKONFLIKT IST JETZT GREIFBAR
+   Binder ist gerichtlich bestellter Verfahrenspfleger zur Wahrung von
+   Hilles Interessen IM GENEHMIGUNGSVERFAHREN (04:34-35) und
+   gleichzeitig von Anne "auf Hilles Kosten" mandatierter Anwalt (06:7).
+
+   Der § 1952-Weg ist dazu konstruiert, genau dieses
+   Genehmigungsverfahren zu umgehen (06:42).
+
+   Binder hat die Grenze seines Pflegerauftrags selbst benannt: "Ueber
+   den Tod der Betreuten hinausreichende Optionen liegen jenseits der
+   uebertragenen Verfahrenspflegschaft" (04:108-109). Genau dort setzt
+   der neue Vorschlag an.
+
+   Siehe Frage 6 in Abschnitt 6.
+
+
+-------------------------------------------------------------------------------
+2. DIE DREI WIRTSCHAFTLICHEN EINWAENDE
+-------------------------------------------------------------------------------
+
+EINWAND 1 - DER ENTWURF NIMMT BERND DIE WERTVOLLSTE POSITION
+
+  NACH HEUTIGER LAGE gilt: stirbt Hille vor Rechtskraft der Genehmigung,
+  endet das Verfahren (04:103-105), die Bedingung faellt endgueltig aus,
+  KEINE Abfindung (03:55-56).
+
+  Bei einer Lebenserwartung unter einem Jahr (00:9) und einem
+  Verfahrenserwartungswert von 4 bis 7 Monaten (verfahrensdauer.txt) ist
+  das der wahrscheinlichste Verlauf.
+
+  DER ENTWURF VERWANDELT GENAU DIESEN FALL IN EINE SICHERE
+  VERBINDLICHKEIT VON 190.000 EUR.
+
+  Annes Einschaetzung, es bedeute "fuer Euch ebenfalls keinen Nachteil"
+  (06:7), ist damit sachlich unzutreffend. Es ist der teuerste
+  Einzelpunkt auf dem Tisch.
+
+EINWAND 2 - ER SCHLIESST AUCH DEN FALL DER VERSAGTEN GENEHMIGUNG EIN
+
+  § 2 laesst die Abfindung bei JEDER vollstaendigen § 1952-Ausschlagung
+  geschuldet sein - ohne Ruecksicht darauf, wie das
+  Genehmigungsverfahren geendet ist.
+
+  Auch nach einer VERSAGUNG koennte also gezahlt werden muessen, solange
+  Hilles Ausschlagungsfrist noch laeuft und nach § 1952 BGB auf die
+  Erben uebergeht.
+
+  Damit faellt auch das Ergebnis "Versagung = keine Zahlung" weg - also
+  Option 1 aus handlungsoptionen.txt, der gesicherte Boden.
+
+  UNGELOESTER WIDERSPRUCH: § 3 des Vertrags vom 13.03. ("gilt die
+  Bedingung als endgueltig ausgefallen; in diesem Fall ist keine
+  Abfindung zu zahlen", 03:55-56) wird NICHT aufgehoben, und § 4 des
+  Entwurfs laesst den Altvertrag "im Uebrigen vollumfaenglich" bestehen.
+
+  Zwei einander widersprechende Regelungen zur selben Bedingung. Das ist
+  auslegungsbeduerftig und zu Bernds Lasten regelbar.
+
+EINWAND 3 - DER PFLICHTTEIL BLEIBT OFFEN, UND ZWAR SCHAERFER ALS BISHER
+
+  Keine Abgeltungs-, Erledigungs- oder Verzichtsklausel.
+
+  Beim § 1952-Weg ist das schaerfer als beim Grundvertrag: die
+  Ausschlagung erfolgt durch Anne und Jan, der daraus nach § 2306 Abs. 1
+  BGB entstehende Pflichtteilsanspruch faellt in Hilles Nachlass - also
+  an genau die beiden, die ausgeschlagen haben.
+
+  DROHUNG: 190.000 EUR UND 180.000 bis 360.000 EUR.
+
+  Das ist der Punkt aus pflichtteilsrisiko.txt Abschnitt 4 Nr. 4. Der
+  Entwurf bestaetigt ihn woertlich.
+
+
+-------------------------------------------------------------------------------
+3. DER STRUKTURELLE HAUPTMANGEL
+-------------------------------------------------------------------------------
+
+DIE PERSONEN, DIE HANDELN SOLLEN, SIND NICHT VERTRAGSPARTEI.
+
+Anne erscheint ausdruecklich "nicht handelnd fuer sich persoenlich,
+sondern als Betreuerin" (08:17). Ihre Betreuung ENDET MIT HILLES TOD -
+also genau in dem Moment, in dem der Vertrag wirken soll.
+
+Jan Trueper kommt im Entwurf UEBERHAUPT NICHT VOR.
+
+FOLGEN
+
+  a) Niemand ist verpflichtet, ueberhaupt auszuschlagen. Bernd
+     verpflichtet sich fuer den Fall, dass eine andere Seite eine Option
+     zieht, die sie frei hat.
+
+  b) Nach § 1952 Abs. 3 BGB kann jeder Erbeserbe nur seinen Anteil
+     ausschlagen (so auch Binder selbst, 06:33). Jan hat damit ein
+     faktisches Veto - ohne jede Pflicht und ohne Vertragsbindung.
+
+  c) Eine Erledigungsklausel waere von Anne und Jan PERSOENLICH zu
+     erklaeren. Dafuer muessten sie in der Urkunde sein. Sind sie nicht.
+
+  d) Wer sind "ihre Erben" (08:48)? Heute nicht abschliessend
+     bestimmbar. Bernd verpflichtet sich gegenueber einem offenen
+     Personenkreis.
+
+  e) Was bei TEILausschlagung gilt - keine Abfindung, aber eine
+     zerrissene Erbengemeinschaft mit Jan - ist ungeregelt.
+
+
+-------------------------------------------------------------------------------
+4. WEITERE KONKRETE MAENGEL
+-------------------------------------------------------------------------------
+
+FAELLIGKEIT AB ERKLAERUNG STATT AB ZUGANG            (08:52-53)
+  "ab Erklaerung der vollstaendigen Ausschlagung" - nicht ab Zugang oder
+  Nachweis bei Bernd und Fabian. Die Frist laeuft, bevor sie davon
+  wissen.
+  Der Altvertrag knuepft dagegen an den Zugang bei der Erschienenen zu 3.
+  an (03:60-66). Umzustellen auf Zugang bei den Zahlungspflichtigen.
+
+NACHWEISPFLICHT OHNE SCHULDNER UND OHNE FRIST        (08:53-54)
+  "ist ... nachzuweisen" - kein Verpflichteter benannt. Der Altvertrag
+  benennt die Erschienene zu 3. ausdruecklich und setzt eine Frist von
+  drei Tagen (03:62-64). Hier eine Obliegenheit ohne Schuldner.
+
+VOLLSTRECKUNG OHNE KENNTNIS                          (08:62 i.V.m. 03:74-81)
+  Die Zwangsvollstreckungsunterwerfung "ohne Faelligkeitsnachweis"
+  bleibt bestehen und erfasst nach dem Wortlaut auch den neuen Ausloeser.
+  Kombiniert mit der Faelligkeit ab einer Erklaerung, von der Bernd
+  nichts wissen muss: Vollstreckung ohne vorherige Kenntnis moeglich.
+
+NUR DIE ERBSCHAFT, NICHT DAS VERMAECHTNIS            (08:47-48)
+  Erfasst nur "die ihr ... angefallene Erbschaft". Der Altvertrag liess
+  "aus allen Berufungsgruenden" ausschlagen (03:40).
+  Das Vorausvermaechtnis - Niessbrauch an den Kapitalanlagen, § 6 des
+  Testaments - ist nicht erfasst und koennte fortbestehen bzw.
+  aufgelaufene Ansprueche in Hilles Nachlass hinterlassen.
+  Binder haelt ausdruecklich fest, der Niessbrauch sei "ohne
+  Nachvermaechtnisse" ausgesetzt (04:25-26).
+
+IRREFUEHRENDE UEBERSCHRIFT                           (08:43)
+  "Anpassung der Abfindungszahlung". Angepasst wird nichts - erweitert
+  wird der Bedingungstatbestand. Die Ueberschrift ist aus 05 § 3
+  uebernommen, wo sie etwas anderes bezeichnete (Nachzahlung oberhalb
+  190.000 EUR).
+
+KOSTEN ZUR HAELFTE BEI BERND UND FABIAN              (08:56-58)
+  Haelftige Kosten einer Urkunde, die ausschliesslich die andere Seite
+  beguenstigt.
+
+KOSTEN ZUR HAELFTE BEI HILLE - GENEHMIGUNGSFRAGE     (08:58)
+  Belastung der Betreuten durch ein Rechtsgeschaeft der Betreuerin. Ob
+  die Ergaenzung SELBST betreuungsgerichtlich genehmigungsbeduerftig ist
+  (§ 1854 BGB), ist im Entwurf nicht adressiert. Binder aeussert sich nur
+  zur Genehmigungsfreiheit der spaeteren Ausschlagung (06:42), nicht zu
+  diesem Vertrag.
+
+STEUERLICH PRUEFT NIEMAND                            (08:64-66)
+  Die Notarin nimmt steuerliche Beratung ausdruecklich aus; Binder hat
+  seinen Auftrag ebenfalls ausdruecklich auf das Erbrecht beschraenkt
+  (06:27).
+  Offen bleibt damit, wie eine Abfindung fuer eine Ausschlagung durch
+  Erbeserben NACH Hilles Tod steuerlich einzuordnen ist - insbesondere
+  ob sie bei Bernd und Fabian noch nach § 10 Abs. 5 Nr. 3 ErbStG
+  abzugsfaehig ist.
+  FAELLT DIESE ABZUGSFAEHIGKEIT, BRICHT DIE 90.000-EUR-VORTEILSRECHNUNG
+  aus handlungsoptionen.txt Abschnitt 4.
+
+DATUM UND KLEINIGKEITEN
+  08:4   "am 2026." - Datum offen, bis zur Beurkundung korrekt so.
+  08:28  "Nr.7" - fehlendes Leerzeichen.
+  08:54  "nachzuweisen" ohne Satzpunkt.
+
+
+-------------------------------------------------------------------------------
+5. NEBENBEFUND - WOCHEN ODER MONATE?
+-------------------------------------------------------------------------------
+
+Binders Schreiben vom 28.09. nennt die Raten "jeweils 8, 12 und 16
+MONATEN nach Eingang der Genehmigung" (04:32).
+Der Vertrag vom 13.03. sagt WOCHEN (03:60-66).
+
+Der Entwurf 08 uebernimmt die Faelligkeitsregelung sinngemaess, ohne die
+Diskrepanz aufzuloesen. Zu klaeren - es geht um ein Jahr Zahlungsziel.
+
+
+-------------------------------------------------------------------------------
+6. DER KERN EINES GEGENENTWURFS
+-------------------------------------------------------------------------------
+
+Nicht zwei getrennte Versprechen, sondern EINE BEDINGUNG.
+
+Die Abfindung wird nur und erst dann geschuldet, wenn KUMULATIV
+
+  1. die vollstaendige wirksame Ausschlagung durch ALLE Erben Hilles aus
+     allen Berufungsgruenden einschliesslich des Vorausvermaechtnisses
+     erklaert ist, UND
+
+  2. dieselben Personen in DERSELBEN Urkunde die vollstaendige
+     Erledigung aller Ansprueche aus dem Erbfall erklaeren:
+       - Pflichtteil (§§ 2303, 2306 BGB)
+       - Pflichtteilsergaenzung (§ 2325 BGB)
+       - konkreter Zugewinnausgleich (§ 1371 Abs. 2 BGB)
+       - Vermaechtnisse (§ 6 des Testaments)
+       - comdirect-Streit (111.168,24 EUR)
+     UND
+
+  3. dies Bernd und Fabian nachgewiesen ist - Faelligkeit ab ZUGANG bei
+     ihnen.
+
+ANNE UND JAN MUESSEN DAFUER PERSOENLICH PARTEI SEIN.
+
+DER VORTEIL DIESER KONSTRUKTION
+  Die Erledigung muss nicht einklagbar gemacht werden - sie ist
+  Zahlungsvoraussetzung. Wer sie nicht erklaert, bekommt nichts.
+  Damit entfaellt der Flaschenhals aus Option 4 (Genehmigung eines
+  Verzichts durch das Betreuungsgericht, 20 bis 30 Prozent)
+  vollstaendig.
+
+ZUSAETZLICH ZU REGELN
+  - Aufhebung oder eindeutige Abgrenzung des § 3 des Altvertrags
+    (Ausfallklausel), damit der Widerspruch aus Einwand 2 entfaellt.
+  - Ausdruecklicher Ausschluss des Falls "Genehmigung versagt".
+  - Begrenzung der Zwangsvollstreckungsunterwerfung auf den Eintritt
+    aller drei Bedingungen.
+  - Kosten vollstaendig bei der Seite, die den Weg will.
+
+
+-------------------------------------------------------------------------------
+7. FRAGEN FUER DEN ANWALTSTERMIN - ZUSAETZLICH ZU PRIO1 FRAGE 14B
+-------------------------------------------------------------------------------
+
+ 1. Loest der Entwurf in seiner Fassung tatsaechlich den Fall "Versagung
+    der Genehmigung" mit ein? Wie verhaelt sich § 2 des Entwurfs zur
+    nicht aufgehobenen Ausfallklausel in 03 § 3?
+
+ 2. Erfasst die Zwangsvollstreckungsunterwerfung aus 03 § 4 "ohne
+    Faelligkeitsnachweis" den neuen Ausloeser?
+
+ 3. Ist diese Ergaenzung SELBST nach § 1854 BGB genehmigungsbeduerftig -
+    insbesondere wegen der Kostentragung durch Hille?
+
+ 4. Koennen Anne und Jan sich HEUTE schuldrechtlich binden, nach Hilles
+    Tod auszuschlagen und zu erledigen? Oder ist die
+    Bedingungskonstruktion aus Abschnitt 6 der einzige tragfaehige Weg?
+
+ 5. Bleibt die Abfindung bei Bernd und Fabian nach § 10 Abs. 5 Nr. 3
+    ErbStG abzugsfaehig, wenn die Ausschlagung erst durch die Erbeserben
+    nach Hilles Tod erfolgt? Wer traegt dieses Risiko, wenn beide
+    Berater der Gegenseite es ausdruecklich ausgenommen haben?
+
+ 6. Ist der Rollenkonflikt Binders - Verfahrenspfleger und zugleich
+    Annes Anwalt fuer einen Weg, der das Pflegschaftsverfahren umgeht -
+    gegenueber dem Betreuungsgericht vorzutragen? Nuetzt oder schadet
+    das? Binder sendet seine Schreiben nachrichtlich an das Gericht
+    (04:111-113).
+
+ 7. Laesst sich der Wegfall der Stammerhaltungsforderung gegen die
+    Ergaenzung 05 verwerten? Wenn sie fuer Hilles Interessen
+    unverzichtbar war, kann sie es nicht sein, sobald das Gericht
+    entfaellt.
+
+ 8. Wochen oder Monate bei der Ratenfaelligkeit (Abschnitt 5)?
+
+ 9. STEUERLAGE BEI OPTION 1 - DREI PUNKTE
+    Vorab geklaert (Abschnitt 0): Die Steuer auf die Vorerbschaft wird
+    nach § 20 Abs. 4 ErbStG aus der Vorerbschaftssubstanz entrichtet,
+    nicht aus Hilles eigenem Vermoegen. Wirtschaftlich tragen sie damit
+    Bernd und Fabian. Zu bestaetigen - und dann:
+
+    a) Umfasst die Zahl von 187.000 EUR beide Besteuerungen - Hille nach
+       § 6 Abs. 1 ErbStG UND Bernd/Fabian beim Nacherbfall nach
+       § 6 Abs. 2 ErbStG - oder nur Hilles?
+    b) Greift § 5 Abs. 1 ErbStG (fiktiver Zugewinnausgleich) auch bei
+       testamentarischer Erbeinsetzung? Wie hoch waere der steuerfreie
+       Betrag bei einem Zuwachs von 330.000 EUR (2013) auf
+       1.438.262,66 EUR? Zusammen mit dem Freibetrag von 500.000 EUR
+       und § 17 ErbStG koennte Hilles Steuer deutlich unter den
+       angesetzten 171.000 bis 187.000 EUR liegen - was die
+       90.000-EUR-Vorteilsrechnung zugunsten von Option 1 kippen
+       wuerde.
+    c) Wer schuldet die Steuer, wenn Hille vor der Festsetzung stirbt -
+       Anne und Jan nach § 45 AO oder die bereits an Bernd und Fabian
+       gefallene Substanz nach § 20 Abs. 4 ErbStG?
+
+    Beruehrt unmittelbar die Verifizierung nach
+    anwaltstermin.20261014.prio1.txt Frage 11 und den
+    Entscheidungsmassstab in handlungsoptionen.txt Abschnitt 4.
+
+
+-------------------------------------------------------------------------------
+8. EINORDNUNG IN DEN OPTIONENVERGLEICH
+-------------------------------------------------------------------------------
+
+Der Entwurf 08 ist Option 5 aus handlungsoptionen.txt - OHNE
+Erledigungsklausel.
+
+  Option 5 mit Erledigung      ~277.000 EUR plus x, Pflichtteil erledigt
+  Entwurf 08 wie vorliegend     190.000 EUR und Pflichtteil offen,
+                                zusaetzlich entfaellt Option 1 als Boden
+
+DAMIT IST DER ENTWURF IN DIESER FASSUNG SCHLECHTER ALS OPTION 3 -
+er nimmt zusaetzlich die Rueckfallposition.
+
+  Rangfolge mit Entwurf 08 eingeordnet:
+    1  Nichts tun                      ~187.000, sicher
+    5  § 1952 MIT Erledigung           ~277.000 plus x, 50-70 %
+    4  Abgeltung ueber das Gericht     ~277.000, 20-30 %
+    3  Vertrag 03 genehmigt            bis ~550.000, kein Schutz
+    8  Entwurf 12.10. wie vorliegend   bis ~550.000, kein Schutz,
+                                       kein Rueckweg
+    2  Ergaenzung 05 unterschreiben    wie 3, zusaetzlich belastet
+
+HALTUNG FUER DAS HAUPTSCHREIBEN
+  Nicht ablehnen, sondern umdrehen. Der Weg ist richtig, die Fassung
+  nicht. Grundsatz aus vertragsgrundlage_irrtum.txt Abschnitt 7: nie das
+  Problem ohne die Loesung nennen.
+  Ob der Pflichtteil dabei ausdruecklich benannt wird, ist die offene
+  taktische Kernentscheidung - anwaltstermin.20261014.prio1.txt Frage 8.
+
+
+===============================================================================
+Grundlagen: erbschaft_kontext\03 (Abfindungsvertrag), 04 (Binder
+            28.09.), 05 (Ergaenzung), 06 (Binder/Anne 08.10.),
+            08 (Entwurf 12.10., Textstand 13.10.)
+Siehe auch: handlungsoptionen.txt - Optionenvergleich, Option 5
+            pflichtteilsrisiko.txt - Abschnitt 4 Nr. 4 zum § 1952-Weg
+            verfahrensdauer.txt - Wert der Position "Tod vor Rechtskraft"
+            anwaltstermin.20261014.prio1.txt - Fragen 6b, 8, 14b
+Erstellt: 13.10.2026. Keine Rechtsberatung.
+===============================================================================
