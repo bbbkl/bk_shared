@@ -1,0 +1,459 @@
+===============================================================================
+DIE BESTE LOESUNG FUER ALLE - UNTER DER ANNAHME FAIRNESS
+Annahmen: Anne handelt fair, ist mit 190.000 EUR zufrieden, Bernd spricht
+die Pflichtteilsproblematik offen an
+Stand 13.10.2026
+===============================================================================
+
+FRAGESTELLUNG
+Was waere die beste Loesung fuer ALLE Beteiligten, wenn
+  - Anne Weniger fair handelt,
+  - sie mit der Abfindung von 190.000 EUR zufrieden ist,
+  - Bernd die Pflichtteilsproblematik offen anspricht?
+
+ERGEBNIS IN EINEM SATZ
+Auch unter Fairness bleibt es der § 1952-Weg (Option 5) - aber aus einem
+voellig anderen Grund als im adversarialen Szenario: Annes Fairness kann
+rechtlich gar nicht wirken, solange sie Betreuerin ist. Erfolgschance
+dann 80 bis 90 Prozent statt 50 bis 70 Prozent.
+
+KEINE RECHTSBERATUNG. Alle Rechts-, Steuer- und Betragsangaben sind
+Einschaetzungen auf Grundlage der vorliegenden Unterlagen und anwaltlich
+bzw. steuerlich zu verifizieren. Alle Prozentangaben sind Schaetzungen.
+
+ABGRENZUNG ZU DEN UEBRIGEN DATEIEN
+Alle anderen Situationsdateien unterstellen ein adversariales Szenario -
+Anne verfolgt Ansprueche, sobald sie sie kennt. Diese Datei rechnet die
+Gegenannahme durch. Sie ersetzt die uebrigen Dateien nicht; sie zeigt,
+was sich aendert und was gleich bleibt.
+
+
+-------------------------------------------------------------------------------
+1. DER TRAGENDE PUNKT: FAIRNESS KANN NICHT WIRKEN, SOLANGE ANNE
+   BETREUERIN IST
+-------------------------------------------------------------------------------
+
+Dies ist der wichtigste Befund dieser Datei - und er ist kontraintuitiv.
+
+  ALS BETREUERIN IST ANNE HILLE VERPFLICHTET, NICHT DER FAIRNESS
+  GEGENUEBER BERND.
+
+Einen Pflichtteilsanspruch von 180.000 bis 360.000 EUR fuer 190.000 EUR
+aufzugeben, waere eine Verletzung ihrer Pflicht zur Vermoegenssorge. Der
+Verzicht waere zudem nach § 1854 BGB genehmigungsbeduerftig und nach
+abfindungssumme_gegen_rechtssicherheit.txt Glied 3 kaum
+genehmigungsfaehig - das Gericht muesste feststellen, dass die Aufgabe
+des Anspruchs fuer Hille vorteilhaft ist.
+
+  SIE DARF ALSO NICHT FAIR ZU BERND SEIN.
+
+Erst nach Hilles Tod, als Erbin in eigener Sache, entscheidet sie ueber
+EIGENES Geld - und kann fair sein.
+
+DARAUS FOLGT
+
+  DIE FAIRNESS-ANNAHME ERZWINGT SELBST DEN § 1952-WEG.
+
+  Option 4 (Abgeltung ueber das Betreuungsgericht) bleibt auch bei
+  bestem Willen aller Beteiligten bei 20 bis 30 Prozent, weil das
+  Gericht einen OBJEKTIVEN Massstab anlegt. Annes Fairness aendert daran
+  nichts - sie kann sie nicht in eine genehmigungsfaehige Erklaerung
+  umsetzen.
+
+  Das ist ein Argument, das im adversarialen Szenario gar nicht
+  auftaucht: Dort scheitert Option 4 an Annes vermutetem Eigeninteresse.
+  Hier scheitert sie an ihrer PFLICHT - was dasselbe Ergebnis hat, aber
+  belastbarer ist.
+
+NEBENFOLGE FUER DAS GESPRAECH MIT ANNE
+  Bernd kann ihr das erklaeren, ohne ihr etwas vorzuwerfen. Der
+  § 1952-Weg ist nicht der Weg des Misstrauens, sondern der einzige, auf
+  dem Anne ueberhaupt rechtlich wirksam fair sein KANN.
+
+
+-------------------------------------------------------------------------------
+2. KORREKTUR: OFFENLEGUNG GEGENUEBER DEM GERICHT WAERE AUCH BEI FAIRNESS
+   GEFAEHRLICH
+-------------------------------------------------------------------------------
+
+ACHTUNG - DIESER ABSCHNITT WEICHT VON versagung_mitwirkung.txt AB.
+
+Dort heisst es in Abschnitt 4a, der Pflichtteilsvortrag mache eine
+Genehmigung "kaum vertretbar", und in Abschnitt 5.5, er mache sie
+"unwahrscheinlicher". NACH HIESIGER EINSCHAETZUNG IST DAS GEGENTEIL
+RICHTIG.
+
+DIE BEGRUENDUNG
+
+  Die Ausschlagung LOEST den Pflichtteil aus (§ 2306 Abs. 1 BGB) - sie
+  vernichtet ihn nicht. Der Vertrag 03 regelt ihn nicht. Hilles Bilanz
+  bei Genehmigung lautet daher:
+
+    gibt auf                        | erhaelt
+    --------------------------------+--------------------------------
+    Vorerbschaft - die Substanz     | 190.000 EUR
+    faellt ohnehin mit ihrem Tod    | PLUS einen offenen
+    an Bernd und Fabian als         | Pflichtteilsanspruch von
+    Nacherben                       | 180.000 bis 360.000 EUR
+    --------------------------------+--------------------------------
+    Niessbrauchsertrag              |
+    ca. 3.500 EUR pro Jahr          |
+
+  DAS IST FUER HILLE HOCHVORTEILHAFT.
+
+  Erfaehrt das Gericht davon, STEIGT die Genehmigungschance. Und Bernd
+  landet in Option 3: 190.000 EUR gezahlt, Anspruch offen - das
+  schlechteste Szenario ueberhaupt.
+
+WO DER FEHLER IN versagung_mitwirkung.txt LIEGT
+
+  Dort ist der Vortrag formuliert als: Hille "gibt einen Anspruch von
+  ca. 180.000 EUR auf, ohne dass dies im Abfindungsvertrag geregelt ist"
+  (4a). Der zweite Halbsatz hebt den ersten auf: Weil es NICHT geregelt
+  ist, gibt sie ihn gerade nicht auf. Sie behaelt ihn.
+
+  Die Datei notiert die Ambivalenz in 5.5 selbst ("Fuer die Betreute
+  selbst ist der Pflichtteil ein VORTEIL"), zieht daraus aber den
+  gegenteiligen Schluss.
+
+FOLGE FUER DIE FAIRNESS-VARIANTE
+
+  DIE OFFENLEGUNG GEHT AN ANNE, NICHT AN DAS GERICHT.
+
+  Und: Die Abgeltung muss stehen, BEVOR irgendeine Genehmigung ergeht.
+  Das gilt unabhaengig von der Fairness-Annahme.
+
+  STATUS: Diese Korrektur ist in versagung_mitwirkung.txt nicht
+  nachgetragen. Im Termin zu klaeren, welche Lesart zutrifft - sie
+  entscheidet darueber, ob ueberhaupt etwas an das Gericht geht.
+
+
+-------------------------------------------------------------------------------
+3. WAS UNTER FAIRNESS DER GEMEINSAME GEWINN IST
+-------------------------------------------------------------------------------
+
+Die Ausschlagung ist nicht Verteilung, sondern WERTSCHOEPFUNG.
+
+  Sie vermeidet die DOPPELBESTEUERUNG derselben Substanz:
+    - einmal bei Hille als Vorerbin    (§ 6 Abs. 1 ErbStG)
+    - einmal bei Bernd und Fabian beim
+      Nacherbfall                      (§ 6 Abs. 2 ErbStG)
+
+  Dieser vermiedene Betrag ist der gemeinsame Gewinn, den beide Seiten
+  teilen koennen. Er ist kein Nullsummenspiel.
+
+WARUM DIE 190.000 EUR DABEI BEMERKENSWERT EFFIZIENT SIND
+
+  bei Bernd und Fabian   als Nachlassverbindlichkeit abzugsfaehig
+                         (§ 10 Abs. 5 Nr. 3 ErbStG - ZU VERIFIZIEREN,
+                         siehe Abschnitt 7)
+  ------------------------------------------------------------------
+  bei Hille              unter ihrem Freibetrag von 500.000 EUR,
+                         also steuerfrei
+                         (§ 3 Abs. 2 Nr. 4 ErbStG)
+
+  WIRKUNG: Die Zahlung kostet Bernd netto WENIGER als 190.000 EUR und
+  kommt bei Anne VOLL an. Sie nutzt Hilles Freibetrag, der bei einer
+  Ausschlagung sonst ungenutzt verfaellt.
+
+  Das ist ein echtes Positivsummen-Element - und unter Fairness das
+  beste Argument dafuer, dass 190.000 EUR eine gute Loesung sind. Fuer
+  beide Seiten.
+
+  BEMERKENSWERT: Derselbe Freibetragseffekt, der in
+  pflichtteilsrisiko.txt Abschnitt 3 als RISIKOTREIBER auftritt - der
+  Pflichtteilsweg ist fuer Annes Seite nahezu steuerfrei -, wirkt hier
+  als gemeinsamer Vorteil. Es ist dieselbe Mechanik, nur anders genutzt.
+
+
+-------------------------------------------------------------------------------
+4. EHRLICHKEIT MUSS IN BEIDE RICHTUNGEN GEHEN
+-------------------------------------------------------------------------------
+
+Unter der Fairness-Annahme muss Bernd ZWEI Dinge offenlegen, nicht eines.
+
+  Offenlegung            | wirkt       | Inhalt
+  -----------------------+-------------+------------------------------
+  Pflichtteil            | GEGEN Bernd | § 2306 Abs. 1 BGB, 180.000
+  § 2306 BGB             |             | bis 360.000 EUR, im Vertrag
+                         |             | nicht geregelt
+  -----------------------+-------------+------------------------------
+  Echte Ertragszahlen    | FUER Bernd  | 3.707,41 EUR netto 2025
+                         |             | statt der angenommenen
+                         |             | 27.150 EUR - Faktor 7,3
+
+DAS ZWEITE IST DIE EHRLICHE BEGRUENDUNG, WARUM 190.000 EUR NICHT
+NACHZUBESSERN SIND.
+
+  Anne hat die Summe auf einer um das Siebenfache zu hohen
+  Ertragsannahme kalkuliert (04:40-42). Legt Bernd nur den Pflichtteil
+  offen, erscheinen 190.000 EUR zu niedrig. Legt er beides offen,
+  erscheinen sie als informierter Vergleich.
+
+  BEIDE OFFENLEGUNGEN ZUSAMMEN MACHEN AUS DEN 190.000 EUR EINEN FAIREN
+  VERGLEICH STATT EINES ZUFALLSERGEBNISSES.
+
+  EINSCHRAENKUNG: Die Ertragsrechnung steht und faellt mit der Frage, wer
+  die Fisher-Depotgebuehren traegt. Der Vermoegensverwaltungsvertrag
+  liegt NICHT vor. Siehe anwaltstermin.20261014.prio1.txt Frage 10 -
+  vor jeder Verwendung nach aussen zu klaeren.
+
+DAS GETEILTE INTERESSE - DAS VERSAEUMNIS IST TATSAECHLICH GEMEINSAM
+
+  Dieselbe Juristin hat Anne am 13.02.2026 anwaltlich beraten und am
+  13.03.2026 den Vertrag beurkundet, ohne den Pflichtteil an einer
+  einzigen Stelle zu erwaehnen (vertragsgrundlage_irrtum.txt
+  Abschnitt 4, vier verpasste Gelegenheiten in 4.4).
+
+  Die Beratungsstelle 02:110-112 - "Frau Hille Krueger NICHTS ERBT" -
+  ist in dieser Absolutheit sachlich falsch.
+
+  DAS HAT HILLE GESCHAEDIGT, nicht Bernd. Anne hat moeglicherweise einen
+  eigenen Regressanspruch (vertragsgrundlage_irrtum.txt 4.1, Frage 4f).
+
+  FOLGE FUER DEN TON DES GESPRAECHS: Das Versaeumnis ist nicht
+  vorgeschoben, sondern real und beidseitig. Bernd muss den Pflichtteil
+  nicht als Drohung einbringen, sondern kann ihn als gemeinsames
+  Versaeumnis benennen - so bereits vertragsgrundlage_irrtum.txt
+  Abschnitt 7.
+
+  GRUNDSATZ VON DORT, DER AUCH HIER GILT:
+  NIE DAS PROBLEM OHNE DIE LOESUNG NENNEN. Im selben Gespraech oder
+  Schreiben muss der vollstaendige Vorschlag stehen.
+
+
+-------------------------------------------------------------------------------
+5. HILLE BRAUCHT MATERIELL NICHTS
+-------------------------------------------------------------------------------
+
+  eigenes Vermoegen            ca. 400.000 EUR
+  Einnahmen ueber Ausgaben      ca. 1.000 EUR pro Monat
+  Quelle                        04:50-52, 00:12-13
+
+Binder stellt selbst fest, eine eigene finanzielle Beguenstigung der
+Betreuten duerfte "mutmasslich nicht im Vordergrund stehen" (04:56-58).
+Was Hille erhaelt, fliesst durch an Anne und Jan.
+
+DAS IST NICHT ZYNISCH, SONDERN DIE ERKLAERUNG, WARUM DER § 1952-WEG DER
+EHRLICHERE IST.
+
+  Er wartet, bis die wirtschaftlich Betroffenen - Anne und Jan - selbst
+  und in eigener Sache entscheiden, statt Hilles formale
+  Rechtsposition als Verhandlungsmasse zu benutzen.
+
+  Unter Fairness ist das ein Vorzug, nicht ein Nachteil. Es ist auch der
+  Grund, warum bei diesem Weg kein Betreuungsgericht gebraucht wird: Es
+  gibt niemanden mehr zu schuetzen, dessen Interessen von denen der
+  Handelnden abweichen.
+
+
+-------------------------------------------------------------------------------
+6. DIE LOESUNG IN SECHS PUNKTEN
+-------------------------------------------------------------------------------
+
+  1. WEG
+     § 1952 BGB nach Hilles Tod. Anne Weniger und Jan Trueper
+     PERSOENLICH als Vertragsparteien - nicht Anne als Betreuerin.
+     Jan kommt im Entwurf 08 ueberhaupt nicht vor; ohne ihn funktioniert
+     der Weg nicht (§ 1952 Abs. 3 BGB).
+
+  2. STRUKTUR
+     Die Erledigung ist ZAHLUNGSBEDINGUNG, nicht Versprechen.
+     Textfassung: erbschaft_kontext\08_vorschlag_gegenversion.txt
+     § 3 Abs. 1 Buchst. d, § 4 Abs. 6.
+     Auch unter Fairness richtig: Niemand muss dem anderen vertrauen,
+     und niemand muss klagen. Das entlastet beide Seiten.
+
+  3. BETRAG
+     190.000 EUR, begruendet durch die offengelegten echten
+     Ertragszahlen. Keine Nachbesserung - mit sachlicher Begruendung
+     statt mit Verhandlungsmacht.
+
+  4. OFFENLEGUNG
+     VOLLSTAENDIG AN ANNE - der Pflichtteil UND die Ertragszahlen.
+     NICHT an das Betreuungsgericht (Abschnitt 2).
+
+  5. VERFAHREN
+     Gemeinsamer Antrag auf Ruhen statt Entscheidung. Beide Seiten
+     teilen dem Gericht mit, dass der Vertrag lueckenhaft ist und neu
+     gefasst wird.
+     DAS IST FUER BEIDE SEITEN RICHTIG: Die jetzige Fassung sollte auch
+     aus Hilles Sicht nicht genehmigt werden, weil sie ihren
+     Pflichtteilsanspruch ungeregelt laesst.
+     ZU BEACHTEN: Das Verfahren muss ANHAENGIG bleiben, weil es die
+     Ausschlagungsfrist hemmt (06:45). Laeuft sie ab, entfaellt auch das
+     vererbliche Ausschlagungsrecht - und der § 1952-Weg ist versperrt.
+
+  6. NOTAR
+     Neutraler Notar statt Dr. Lockmann.
+     Schuetzt BEIDE Seiten und haelt Annes eigene Regressoption offen
+     (vertragsgrundlage_irrtum.txt 5.5, letzter Absatz: "eine
+     naheliegende, milde Verwendung - das ist sachlich begruendet und
+     beschuldigt niemanden").
+
+ERFOLGSWAHRSCHEINLICHKEIT UNTER FAIRNESS
+  80 bis 90 Prozent statt 50 bis 70 Prozent.
+  So bereits abfindungssumme_gegen_rechtssicherheit.txt Abschnitt 5:
+  "Damit faellt Glied 3 - der Flaschenhals - vollstaendig weg. Die
+  juristische Belastbarkeit steigt auf geschaetzt 80 bis 90 Prozent."
+  Die dort genannten 50 bis 70 Prozent beziehen die
+  VERHANDLUNGSUNSICHERHEIT ein - genau die faellt unter der
+  Fairness-Annahme weg.
+
+
+-------------------------------------------------------------------------------
+7. WAS AUCH FAIRNESS NICHT LOEST
+-------------------------------------------------------------------------------
+
+a) DIE LUECKE ZWISCHEN HEUTE UND HILLES TOD
+   Eine Erledigungserklaerung ueber einen Anspruch, der erst mit Hilles
+   Tod anfaellt, ist rechtlich unsicher. Die Gegenversion versucht es in
+   § 4 Abs. 3 und sichert es in § 4 Abs. 4 durch eine
+   Wiederholungspflicht ab.
+   Unter Fairness ist das Risiko geringer, aber nicht null - es betrifft
+   die RECHTLICHE Wirksamkeit, nicht den guten Willen.
+   Siehe Gegenversion Erlaeuterung 4.
+
+b) DAS TIMING-PROBLEM
+   Der § 1952-Weg braucht ein anhaengiges Verfahren. Wird es
+   ENTSCHIEDEN, droht Option 3.
+   Unter Fairness offen loesbar (Punkt 5 oben) - aber es erfordert, dass
+   beide Seiten das Gericht gemeinsam ansprechen. Ob das verfahrens-
+   rechtlich geht, ist zu klaeren.
+
+c) WEITERE ERBEN HILLES
+   Sind Anne und Jan nicht die alleinigen Erben, braucht es auch die
+   weiteren. Die Gegenversion faengt das in § 2 Abs. 3 und § 4 Abs. 4
+   Satz 2 auf - nur als Bemuehenspflicht. Der Schutz liegt in der
+   Bedingung: bleibt einer aussen vor, wird nicht gezahlt.
+
+d) DIE STEUERLICHE PRAEMISSE
+   Niemand prueft sie. Notarin und Binder haben sie ausdruecklich
+   ausgenommen (08:64-66, 06:27).
+   OFFEN: Bleibt die Abfindung nach § 10 Abs. 5 Nr. 3 ErbStG
+   abzugsfaehig, wenn die Ausschlagung erst durch die Erbeserben nach
+   Hilles Tod erfolgt? Faellt das weg, bricht die Effizienzrechnung aus
+   Abschnitt 3 - und mit ihr das Fairness-Argument fuer 190.000 EUR.
+
+e) DIE GRUNDANNAHME IST NICHT VERIFIZIERBAR
+   Ob Anne fair handelt, laesst sich vorher nicht feststellen. Die
+   Gegenversion ist deshalb so konstruiert, dass sie NICHT auf Fairness
+   angewiesen ist - die Erledigung ist Bedingung, nicht Vertrauen.
+   DAS IST DER EIGENTLICHE VORZUG: Derselbe Text funktioniert in beiden
+   Szenarien. Man muss sich zwischen den Annahmen nicht entscheiden.
+
+
+-------------------------------------------------------------------------------
+8. WAS SICH GEGENUEBER DEM ADVERSARIALEN SZENARIO AENDERT
+-------------------------------------------------------------------------------
+
+  Punkt                  | adversarial            | unter Fairness
+  -----------------------+------------------------+--------------------
+  Weg                    | Option 5               | Option 5 (gleich)
+  -----------------------+------------------------+--------------------
+  Begruendung fuer       | Annes Eigeninteresse   | Annes PFLICHT als
+  Scheitern Option 4     | nach Entdeckung        | Betreuerin
+  -----------------------+------------------------+--------------------
+  Erfolgschance          | 50-70 %                | 80-90 %
+  -----------------------+------------------------+--------------------
+  Betrag                 | 190.000 "plus x",      | 190.000 EUR,
+                         | bis ca. 280.000 EUR    | begruendet
+  -----------------------+------------------------+--------------------
+  Pflichtteil ansprechen | Kerndilemma, Frage 8   | unproblematisch -
+                         | prio1                  | Voraussetzung
+  -----------------------+------------------------+--------------------
+  Ertragszahlen          | zurueckhalten -        | OFFENLEGEN -
+                         | liefern dem Gericht    | begruenden, warum
+                         | den Genehmigungsgrund  | 190.000 reichen
+  -----------------------+------------------------+--------------------
+  Nachlassverzeichnis    | zurueckhalten          | uebersenden, aber
+                         |                        | an ANNE, nicht an
+                         |                        | das Gericht
+  -----------------------+------------------------+--------------------
+  Verfahren              | nicht beschleunigen    | gemeinsam ruhen
+                         |                        | lassen
+  -----------------------+------------------------+--------------------
+  Textfassung            | Gegenversion           | Gegenversion
+                         |                        | (gleich), Kosten
+                         |                        | § 8 Abs. 2 teilen
+
+WAS GLEICH BLEIBT - UND DAS IST DER WICHTIGSTE BEFUND
+
+  Weg und Textfassung aendern sich NICHT. Nur Ton, Reihenfolge und
+  Kostenverteilung.
+
+  Die Gegenversion ist in beiden Szenarien richtig, weil sie nicht auf
+  Vertrauen baut. Bernd muss sich also NICHT entscheiden, welche Annahme
+  zutrifft, bevor er handelt.
+
+EINE ANPASSUNG WAERE UNTER FAIRNESS ANGEMESSEN
+  Gegenversion § 8 Abs. 2 legt die Kosten vollstaendig Anne und Jan auf.
+  Das ist die richtige Ausgangsposition im adversarialen Szenario. Unter
+  Fairness waere eine Teilung angemessen - so auch der Abfindungsvertrag
+  (03:85). NICHT in die Gegenversion eingearbeitet; dort bewusst als
+  Verhandlungsposition belassen.
+
+
+-------------------------------------------------------------------------------
+9. FRAGEN FUER DEN ANWALTSTERMIN
+-------------------------------------------------------------------------------
+
+ 1. ZUR KORREKTUR IN ABSCHNITT 2 - VORRANGIG
+    Erhoeht oder senkt ein Pflichtteilsvortrag die Genehmigungschance?
+    Eigene Lesart: Er ERHOEHT sie, weil Hille den Anspruch bei
+    Genehmigung BEHAELT - der Vertrag regelt ihn nicht.
+    versagung_mitwirkung.txt Abschnitt 4a und 5.5 nehmen das Gegenteil
+    an. WELCHE LESART TRIFFT ZU? Davon haengt ab, ob ueberhaupt etwas an
+    das Betreuungsgericht geht.
+
+ 2. Darf Anne als Betreuerin einen Pflichtteilsverzicht erklaeren, wenn
+    sie ihn fuer fair haelt - oder verbietet ihre Pflicht zur
+    Vermoegenssorge das unabhaengig von ihrer Haltung? (Abschnitt 1)
+
+ 3. Koennen beide Seiten gemeinsam beantragen, das Genehmigungsverfahren
+    ruhen zu lassen, bis eine neue Vereinbarung vorliegt? Ist Bernd dazu
+    als Nichtbeteiligter ueberhaupt befugt (versagung_mitwirkung.txt
+    Abschnitt 1)? Bleibt die Hemmung der Ausschlagungsfrist dabei
+    erhalten?
+
+ 4. Bleibt die Abfindung nach § 10 Abs. 5 Nr. 3 ErbStG abzugsfaehig,
+    wenn die Ausschlagung erst durch die Erbeserben nach Hilles Tod
+    erfolgt? (Abschnitt 7d - traegt das Fairness-Argument fuer
+    190.000 EUR)
+
+ 5. Ist die Abfindung bei Hille bzw. ihren Erben nach § 3 Abs. 2 Nr. 4
+    ErbStG unter dem Freibetrag von 500.000 EUR steuerfrei?
+    (Abschnitt 3)
+
+ 6. Wie ist die Offenlegung gegenueber Anne konkret zu formulieren -
+    beide Punkte zusammen, Pflichtteil und Ertragszahlen? Muendlich oder
+    schriftlich? Zu beachten: Binder uebersendet seine Schreiben
+    nachrichtlich an das Gericht (04:111-113). Ein Schreiben an Anne mit
+    cc an Binder wird aktenkundig - das waere nach Abschnitt 2 gerade zu
+    vermeiden.
+
+ 7. Kann Bernd Anne auf deren moeglichen eigenen Regressanspruch gegen
+    Dr. Lockmann hinweisen, ohne sich selbst zu schaden? Es wuerde das
+    gemeinsame Interesse belegen - bringt aber einen weiteren Weg ins
+    Spiel, auf dem Geld fliessen kann.
+
+ 8. Ist es vertretbar, die Fairness-Annahme zur Arbeitsgrundlage zu
+    machen - oder ist auch bei fairer Gegenseite die adversariale
+    Absicherung beizubehalten? Eigene Einschaetzung: beibehalten, weil
+    die Gegenversion in beiden Faellen funktioniert (Abschnitt 8).
+
+
+===============================================================================
+Grundlagen: abfindungssumme_gegen_rechtssicherheit.txt - Abschnitt 5
+            (80-90 % ohne Gericht), Glied 3
+            vertragsgrundlage_irrtum.txt - Abschnitt 4 (Notarpflicht),
+            Abschnitt 7 (gemeinsames Versaeumnis)
+            pflichtteilsrisiko.txt - Abschnitt 3 (Steuerlage)
+            versagung_mitwirkung.txt - Abschnitt 4a, 5.5 (hier
+            WIDERSPROCHEN, siehe Abschnitt 2)
+            handlungsoptionen.txt - Optionen 4 und 5
+            optionen_08.analyse.txt - Vergleich Option 4 gegen 5
+            bewertung_08_ergaenzung.txt - Abschnitt 0 (§ 20 Abs. 4 ErbStG)
+Textfassung: erbschaft_kontext\08_vorschlag_gegenversion.txt
+Erstellt: 13.10.2026. Keine Rechtsberatung.
+===============================================================================
