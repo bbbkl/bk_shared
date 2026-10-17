@@ -1,0 +1,117 @@
+===============================================================================
+GIBT ES ZEITDRUCK?
+Stand 16.10.2026
+===============================================================================
+
+ERGEBNIS IN EINEM SATZ
+Ja, es gibt Zeitdruck - aber an einer anderen Stelle, als man zuerst
+denkt. Hilles Tod ist nicht das groesste Risiko. Gefaehrlicher ist eine
+Entscheidung des Betreuungsgerichts, bevor der neue Vertrag steht.
+
+KEINE RECHTSBERATUNG. Alle Rechts- und Fristangaben sind Einschaetzungen
+auf Grundlage der vorliegenden Unterlagen und vom Notar zu pruefen.
+
+
+-------------------------------------------------------------------------------
+1. AM DRINGENDSTEN: DAS GERICHT DARF JETZT NICHT ENTSCHEIDEN (DIESE WOCHE)
+-------------------------------------------------------------------------------
+
+Beide moeglichen Entscheidungen waeren schlecht:
+
+  Entscheidung        | Folge
+  --------------------+------------------------------------------------------
+  GENEHMIGUNG des     | Wir schulden 190.000 EUR, und der Pflichtteil bleibt
+  Vertrags vom 13.03. | offen. Fuer uns ist das der schlechteste Fall.
+  --------------------+------------------------------------------------------
+  VERSAGUNG           | Die Hemmung endet, und Hilles Restfrist laeuft
+                      | weiter. Ausgeschlagen wurde am 13.03., die Frist
+                      | waere am 19.03. abgelaufen (02:91). Danach bleiben
+                      | also moeglicherweise nur etwa 6 Tage. Laeuft die
+                      | Frist ab, gibt es kein Ausschlagungsrecht mehr, das
+                      | Anne und Jan erben koennten, und der Weg ueber
+                      | § 1952 BGB ist versperrt (06:45).
+  --------------------+------------------------------------------------------
+
+  - Binder ist bis etwa 24.10.2026 im Urlaub. Das Gericht kann aber auch
+    ohne ihn entscheiden. Seine Stellungnahme vom 28.09.2026 liegt vor.
+  - DESHALB SOLLTE ANNE DAS GERICHT SOFORT BITTEN, DAS VERFAHREN RUHEN ZU
+    LASSEN, und zwar nicht erst, wenn Binder zurueck ist.
+  - Den Antrag darf sie KEINESFALLS zuruecknehmen.
+
+
+-------------------------------------------------------------------------------
+2. WICHTIG: FUER HILLES TOD VORBEREITET SEIN (IN DEN NAECHSTEN WOCHEN)
+-------------------------------------------------------------------------------
+
+Hilles Tod zerstoert den Weg nicht, aber das Zeitfenster wird eng.
+
+  - Nach Hilles Tod haben Anne und Jan 6 WOCHEN AB KENNTNIS, um
+    auszuschlagen (§ 1952 Abs. 2, § 1944 BGB). Die Ausschlagung braucht
+    eine notariell beglaubigte Erklaerung gegenueber dem Nachlassgericht.
+  - In diesen 6 Wochen muessen beide handeln, auch Jan, und das mitten in
+    der Trauerzeit.
+
+  DAS FENSTER HAT EINEN VORTEIL
+    Unterschreiben alle erst nach Hilles Tod, entfaellt das Problem nach
+    § 311b Abs. 4 BGB. Ein Vertrag ueber den Nachlass einer noch lebenden
+    Person ist dann nicht mehr das Thema. Anne und Jan handeln dann als
+    Erben in eigener Sache, und die Abgeltung ist sicher wirksam.
+
+  DARAUS FOLGT
+    Ein unterschriftsreifer Vertrag vor Hilles Tod ist gut, aber nicht
+    zwingend. Zwingend sind diese Vorbereitungen:
+      - Notar gefunden und eingearbeitet
+      - Entwurf abgestimmt
+      - Jan informiert, einverstanden und erreichbar, seine Anschrift
+        bekannt
+      - Steuerfrage geklaert
+    Dann laesst sich nach Hilles Tod innerhalb von Tagen beurkunden.
+
+
+-------------------------------------------------------------------------------
+3. KEIN ECHTER ZEITDRUCK
+-------------------------------------------------------------------------------
+
+  - HOEHE DER ABFINDUNG: Hier hilft Eile nicht. Lieber vorher die
+    Rechtsfragen klaeren (Pflichtteil bei § 1952, § 311b BGB, Steuern).
+  - ERBSCHAFTSTEUER: Sie ist noch nicht festgesetzt. Eine Frist vom
+    Finanzamt im Blick behalten; sie ist aber nicht der Engpass.
+  - ERTRAEGE WAEHREND DES WARTENS: Sie sind gering, etwa 300 EUR im Monat.
+  - VERJAEHRUNG: Spielt derzeit keine Rolle.
+
+
+-------------------------------------------------------------------------------
+4. REIHENFOLGE
+-------------------------------------------------------------------------------
+
+  1. SOFORT
+     Anne beantragt beim Gericht, das Verfahren ruhen zu lassen, und
+     informiert Binder (bitte_an_binder.txt).
+
+  2. IN DEN NAECHSTEN 1-2 WOCHEN
+     Notar auswaehlen, Jan einbinden, die Fragen an den Notar und den
+     Steuerberater stellen (eckpunkte_notar.txt).
+
+  3. DANACH
+     Den Entwurf abstimmen und moeglichst noch zu Hilles Lebzeiten
+     beurkunden. Wenn das nicht klappt, muss alles bereitliegen, um nach
+     ihrem Tod innerhalb der 6 Wochen zu handeln.
+
+
+-------------------------------------------------------------------------------
+5. OFFEN - VOM NOTAR ZU KLAEREN
+-------------------------------------------------------------------------------
+
+  - Wie lang ist Hilles Restfrist wirklich?
+  - Bleibt die Hemmung erhalten, wenn das Verfahren ruht?
+
+
+===============================================================================
+Grundlagen: erbschaft_kontext\00 (Kontext), 02 (Lockmann 13.02., Frist),
+            04 (Binder 28.09.), 06 (Binder/Anne 08.10., Hemmung),
+            situation\verfahrensdauer.txt,
+            situation\verlauf_bei_unfairness.txt (Abschnitt 5c),
+            situation\eckpunkte_notar.txt,
+            situation\bitte_an_binder.txt
+Erstellt: 16.10.2026. Keine Rechtsberatung.
+===============================================================================

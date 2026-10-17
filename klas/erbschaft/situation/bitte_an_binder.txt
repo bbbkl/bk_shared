@@ -1,0 +1,109 @@
+===============================================================================
+WAS WIR VON RECHTSANWALT BINDER ERBITTEN
+Stand 16.10.2026
+===============================================================================
+
+FRAGE
+Anne arbeitet konstruktiv mit. Wir gehen den Weg ueber § 1952 BGB, den
+Vertrag entwirft ein neutraler Notar (wen_beauftragen_wir.txt). Was
+erbitten wir von RA Binder?
+
+ERGEBNIS IN EINEM SATZ
+Wenig. Er soll das Genehmigungsverfahren offen halten, ohne dass es
+entschieden wird. Einen Vertragsentwurf oder eine Beratung fuer uns
+erbitten wir nicht.
+
+KEINE RECHTSBERATUNG. Alle Rechtsangaben sind Einschaetzungen auf
+Grundlage der vorliegenden Unterlagen.
+
+
+-------------------------------------------------------------------------------
+1. DIE DREI BITTEN
+-------------------------------------------------------------------------------
+
+  1. DAS RUHEN DES VERFAHRENS MITTRAGEN.
+     Er soll unterstuetzen, dass das Gericht das Verfahren aussetzt
+     (§ 21 FamFG), bis der neue Vertrag beurkundet ist. Bis dahin soll er
+     nicht empfehlen, den Vertrag vom 13.03.2026 zu genehmigen.
+     Begruendung: Alle Beteiligten arbeiten an einer umfassenden
+     Neuregelung, und die jetzige Fassung ist lueckenhaft.
+
+  2. DIE FRIST KLAEREN.
+     Er soll bestaetigen, dass die Ausschlagungsfrist auch waehrend der
+     Aussetzung gehemmt bleibt. Ausserdem soll er einschaetzen, wie viel
+     Restfrist nach Ende der Hemmung bleibt.
+     Diese Frage stellt Anne als seine Mandantin. Der Notar prueft sie
+     parallel.
+
+  3. KENNTNIS NEHMEN.
+     Wir folgen seinem Vorschlag vom 08.10.2026 im Grundsatz und gehen den
+     Weg ueber § 1952 BGB. Den Vertrag gestaltet aber ein neutraler Notar.
+     Binder kann den Entwurf fuer Anne pruefen.
+
+
+-------------------------------------------------------------------------------
+2. WAS WIR IHM VORERST NICHT SCHICKEN
+-------------------------------------------------------------------------------
+
+  - KEIN NACHLASSVERZEICHNIS UND KEINE ERTRAGSZAHLEN.
+    Damit koennte er den unveraenderten Vertrag zur Genehmigung empfehlen.
+    Fuer uns waere das der schlechteste Fall: 190.000 EUR gezahlt und der
+    Pflichtteil trotzdem offen.
+
+  - KEINE ZAHLEN ZUM PFLICHTTEIL.
+    Was an Binder geht, landet in der Gerichtsakte (04:111-113). Dass wir
+    "alle Ansprueche umfassend regeln" wollen, ist wahr und reicht als
+    Begruendung.
+
+
+-------------------------------------------------------------------------------
+3. WER WAS SCHREIBT
+-------------------------------------------------------------------------------
+
+  ANNE
+    stellt als Betreuerin und Antragstellerin den Antrag auf Aussetzung
+    beim Gericht und spricht das mit Binder ab.
+
+  BERND
+    schuldet Binder noch die Aeusserung, die am 08.10.2026 zugesagt wurde
+    (07). Binder ist etwa ab dem 24.10.2026 zurueck. Wenige Saetze reichen,
+    zum Beispiel:
+
+    -------------------------------------------------------------------
+    Sehr geehrter Herr Binder,
+
+    wir haben uns mit Frau Dr. Weniger auf den von Ihnen aufgezeigten
+    Weg nach § 1952 BGB verstaendigt. Eine umfassende Regelung unter
+    Einbeziehung von Herrn Jan Trueper wird derzeit bei einem Notar
+    vorbereitet. Wir bitten Sie, eine Aussetzung des
+    Genehmigungsverfahrens bis zur Beurkundung zu unterstuetzen.
+
+    Mit freundlichen Gruessen
+    Bernd Krueger
+    -------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------
+4. ZU BEACHTEN
+-------------------------------------------------------------------------------
+
+  - BINDER IST HILLES INTERESSEN VERPFLICHTET, NICHT UNSEREN.
+    Zustimmen wird er nur, wenn er die Aussetzung fuer Hille vertretbar
+    haelt. Ein Argument dafuer liefert er selbst: Nach seiner
+    Einschaetzung will Hille mutmasslich ihre Erben beguenstigen
+    (04:59-62). Und die Abfindung ueber die Erben nach § 1952 BGB hat er
+    selbst vorgeschlagen (06).
+
+  - OB AUSGESETZT WIRD, ENTSCHEIDET DAS GERICHT.
+    Den Antrag auf Genehmigung darf Anne KEINESFALLS zuruecknehmen. Sonst
+    endet die Hemmung, die Frist laeuft weiter, und der Weg ueber § 1952
+    BGB ist versperrt (06:45).
+
+
+===============================================================================
+Grundlagen: erbschaft_kontext\04 (Binder 28.09.), 06 (Binder/Anne 08.10.),
+            07 (Mail Bernd an Binder 08.10.),
+            situation\wen_beauftragen_wir.txt,
+            situation\gespraech_anne.20261016.txt
+Erstellt: 16.10.2026. Keine Rechtsberatung.
+===============================================================================

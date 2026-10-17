@@ -1,0 +1,130 @@
+===============================================================================
+GESPRAECH MIT ANNE - PUNKTE FUER BERND UND FABIAN
+Stand 16.10.2026
+===============================================================================
+
+GRUNDREGEL
+Das Problem nie ohne unseren Loesungsvorschlag ansprechen. Pflichtteil und
+echte Ertragszahlen gehoeren zusammen auf den Tisch.
+
+KEINE RECHTSBERATUNG. Alle Betraege und Rechtsangaben sind Einschaetzungen
+auf Grundlage der vorliegenden Unterlagen.
+
+
+-------------------------------------------------------------------------------
+1. WAS WIR ENTDECKT HABEN
+-------------------------------------------------------------------------------
+
+  - Wenn Hille ausschlaegt, bekommt sie wahrscheinlich einen eigenen
+    Pflichtteilsanspruch gegen uns (§ 2306 BGB). Das waeren etwa
+    180.000 EUR beim kleinen und bis 360.000 EUR beim grossen Pflichtteil.
+  - Der Vertrag vom 13.03.2026 sagt nicht, dass mit den 190.000 EUR alles
+    abgegolten ist.
+  - Alle haben das uebersehen, auch Dr. Lockmann. Es ist ein gemeinsames
+    Versaeumnis und kein Vorwurf an Anne.
+
+
+-------------------------------------------------------------------------------
+2. WARUM ICH DIE ERGAENZUNG NICHT UNTERSCHREIBE
+-------------------------------------------------------------------------------
+
+  - Mein Nein ist kein Misstrauen. Wir wuerden sonst 190.000 EUR zahlen und
+    haetten den Pflichtteil trotzdem weiter offen.
+  - Das gilt auch fuer Binders Vorschlag nach § 1952 BGB: Dort steht nichts
+    zur Abgeltung, und Jan kommt nicht vor.
+
+
+-------------------------------------------------------------------------------
+3. DIE ECHTEN ERTRAEGE
+-------------------------------------------------------------------------------
+
+  - Der Niessbrauch hat 2025 netto 3.707 EUR gebracht. Angenommen waren
+    27.150 EUR, also gut siebenmal so viel.
+  - 190.000 EUR entsprechen damit rund 51 Jahren Ertrag. Die Abfindung ist
+    grosszuegig und muss nicht nachgebessert werden.
+
+
+-------------------------------------------------------------------------------
+4. WO DER GEMEINSAME VORTEIL LIEGT
+-------------------------------------------------------------------------------
+
+  - Die Ausschlagung erspart, dass dasselbe Vermoegen zweimal besteuert
+    wird: Die Steuer sinkt von etwa 187.000 EUR auf etwa 87.000 EUR.
+  - Bei Hille liegen die 190.000 EUR unter ihrem Freibetrag von
+    500.000 EUR und waeren damit voraussichtlich steuerfrei.
+
+
+-------------------------------------------------------------------------------
+5. ANNE KANN ALS BETREUERIN NICHT VERZICHTEN
+-------------------------------------------------------------------------------
+
+  - Ihre Pflicht gilt Hilles Vermoegen. Einen Verzicht auf den Pflichtteil
+    duerfte das Gericht kaum genehmigen.
+  - Wirksam fair sein kann Anne erst nach Hilles Tod, wenn sie und Jan als
+    Erben in eigener Sache entscheiden.
+
+
+-------------------------------------------------------------------------------
+6. UNSER VORSCHLAG
+-------------------------------------------------------------------------------
+
+  - Wir gehen den Weg ueber § 1952 BGB: Anne und Jan schlagen nach Hilles
+    Tod selbst aus. Beide unterschreiben persoenlich mit, Anne also nicht
+    nur als Betreuerin.
+  - Wir zahlen 190.000 EUR, wenn alle Ansprueche abgegolten sind. Dazu
+    gehoeren Pflichtteil, Zugewinnausgleich, Niessbrauch und das
+    comdirect-Konto.
+  - Die Abgeltung ist Voraussetzung fuer die Zahlung. So muss niemand dem
+    anderen vertrauen und niemand klagen.
+  - Es gibt keine Pflicht, den Vermoegensstamm zu erhalten, keine
+    jaehrlichen Nachweise und keine Nachzahlung.
+  - Faellig wird das Geld erst, wenn wir den Erbschein haben und ueber die
+    Depots verfuegen koennen.
+  - Die Kosten teilen wir. Beurkunden soll moeglichst eine neutrale
+    Notarin oder ein neutraler Notar.
+
+
+-------------------------------------------------------------------------------
+7. WAS MIT DEM GERICHTSVERFAHREN PASSIERT
+-------------------------------------------------------------------------------
+
+  - Das Genehmigungsverfahren muss anhaengig bleiben, weil es die
+    Ausschlagungsfrist hemmt. Ohne diese Frist gibt es kein
+    Ausschlagungsrecht, das Anne und Jan erben koennten.
+  - Es soll aber nicht in der jetzigen Fassung entschieden werden. Am
+    besten bitten wir das Gericht gemeinsam, das Verfahren ruhen zu lassen.
+
+
+-------------------------------------------------------------------------------
+8. WENN WIR UNS NICHT EINIGEN
+-------------------------------------------------------------------------------
+
+  - Dann bleibt es bei meinem Nein. Mein Angebot, Annes bisherige Kosten
+    zu erstatten, gilt weiter.
+
+
+===============================================================================
+VOR DEM GESPRAECH ZU BEACHTEN (nur fuer Bernd und Fabian)
+===============================================================================
+
+  - ANWALTSTERMIN VOM 14.10.2026: Die Ergebnisse stehen in keiner Datei.
+    Die Punkte oben gelten nur, wenn dort nichts anderes herauskam. Das
+    betrifft vor allem zwei Fragen: Entsteht der Pflichtteil auch, wenn
+    Anne und Jan nach § 1952 BGB ausschlagen? Gilt der kleine oder der
+    grosse Pflichtteil?
+  - ABSPRACHE MIT FABIAN: Vorher klaeren, ob er alles mittraegt. Laut der
+    Mail vom 05.10.2026 ist er "nicht in allem" meiner Meinung.
+  - NICHTS NEUES SCHRIFTLICH AN BINDER: Er schickt seine Schreiben in
+    Kopie an das Betreuungsgericht. Was an ihn geht, landet also
+    wahrscheinlich in der Gerichtsakte.
+  - RISIKO DER OFFENHEIT: Kennt Anne den Pflichtteil, kann sie auch ohne
+    uns nach Hilles Tod ausschlagen und ihn fordern. Dagegen gibt es kein
+    Mittel. Das nehmen wir mit dem offenen Gespraech bewusst in Kauf.
+
+===============================================================================
+Grundlagen: erbschaft_kontext\00 bis 08, situation\loesung_bei_fairness.txt,
+            situation\verlauf_bei_unfairness.txt,
+            situation\pflichtteilsrisiko.txt,
+            erbschaft_kontext\08_vorschlag_gegenversion.txt
+Erstellt: 16.10.2026. Keine Rechtsberatung.
+===============================================================================

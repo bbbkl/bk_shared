@@ -1,14 +1,24 @@
-                                                        Gegenversion, Stand 13.10.2026
+                                                        Gegenversion, Stand 16.10.2026
+                                                        (überarbeitet, Vorstand 13.10.2026)
                                                         ENTWURF - NICHT UNTERSCHRIFTSREIF
 
                     GEGENVERSION ZU 08_vorschlag_ergaenzung.20261012.txt
-                    im Interesse von Bernd Krüger und Fabian Krüger
+                    Gesprächsgrundlage für den neutralen Notar
 
-KEINE RECHTSBERATUNG. Dieser Text ist eine Verhandlungsgrundlage für den
-Anwaltstermin am 14.10.2026, kein beurkundungsfähiger Entwurf. Formulierung,
-Zulässigkeit und Wirksamkeit sämtlicher Klauseln sind anwaltlich zu prüfen;
-die steuerliche Behandlung ist gesondert steuerlich zu prüfen.
+KEINE RECHTSBERATUNG. Dieser Text ist eine Gesprächsgrundlage für den
+Entwurf durch einen neutralen Notar (situation\eckpunkte_notar.txt), kein
+beurkundungsfähiger Entwurf. Formulierung, Zulässigkeit und Wirksamkeit
+sämtlicher Klauseln sind notariell zu prüfen; die steuerliche Behandlung
+ist gesondert steuerlich zu prüfen.
 Die Erläuterungen ab Seite "ERLÄUTERUNGEN" sind NICHT Vertragstext.
+
+ÄNDERUNGEN GEGENÜBER DER FASSUNG VOM 13.10.2026
+  - Kosten werden geteilt: je 1/2 Bernd/Fabian und Anne/Jan (§ 8).
+  - Neutraler Notar statt Dr. Lockmann (Rubrum, Erläuterung 12).
+  - Zahlung über Notaranderkonto (§ 5 Abs. 5).
+  - Ausweichlösung zu § 311b Abs. 4 BGB vorgesehen (Erläuterung 4a).
+  - Erläuterungen an die einvernehmliche Lage nach dem Gespräch mit
+    Anne am 16.10.2026 angepasst.
 
 ===============================================================================
                                  VERTRAGSTEXT
@@ -16,9 +26,9 @@ Die Erläuterungen ab Seite "ERLÄUTERUNGEN" sind NICHT Vertragstext.
 
 Nummer des Urkundenverzeichnisses für 2026
 
-Verhandelt in 26122 Oldenburg, Tappenbeckstraße 3, am ........ 2026.
-Vor mir, der unterzeichnenden Notarin im Bezirk des Oberlandesgerichts Oldenburg
-mit dem Amtssitz in Oldenburg (Oldb) Dr. Judith Lockmann
+Verhandelt in ........................................, am ........ 2026.
+Vor mir, dem/der unterzeichnenden Notar/in ..................................
+mit dem Amtssitz in ..........................................
 
 erschienen heute:
 
@@ -42,16 +52,13 @@ erschienen heute:
    wohnhaft ................................................,
    handelnd für sich persönlich.
 
-Die Erschienenen sind der Notarin von Person bekannt; eine Ablichtung ihrer
-Bundespersonalausweise befindet sich mit deren Einverständnis bei den Akten
-der Notarin.
+Die Erschienenen wiesen sich aus durch Vorlage ihrer gültigen
+Bundespersonalausweise.
 
-Die Notarin wies darauf hin, dass sie vor der Beurkundung des in § 1 genannten
-Abfindungsvertrages anwaltlich für die Erschienene zu 3. tätig war. Die
-Erschienenen zu 1. und 2. erklärten hierzu: ....................................
-[Hinweis: Die Frage der Vorbefassung nach § 3 Abs. 1 Satz 1 Nr. 7 BeurkG ist vor
-Beurkundung zu klären; eine schlichte Verneinung wie in den Vorentwürfen kommt
-nicht in Betracht. Siehe Erläuterung 12.]
+Auf Befragen verneinten die Erschienenen eine Vorbefassung des Notars nach § 3
+Abs. 1 Satz 1 Nr. 7 BeurkG.
+[Hinweis: Die Verneinung setzt voraus, dass ein bislang nicht befasster Notar
+beurkundet - nicht Dr. Lockmann. Siehe Erläuterung 12.]
 
 Die Erschienenen baten sodann um die Beurkundung der folgenden
 
@@ -63,11 +70,13 @@ und erklärten:
 § 1  Vorbemerkung
 
 (1) Am 13.03.2026 haben die Erschienenen zu 1., 2. und 3. b) unter der
-    UVZ-Nr. 253/2026 der beurkundenden Notarin einen Abfindungsvertrag
+    UVZ-Nr. 253/2026 der Notarin Dr. Judith Lockmann, Oldenburg, einen
+    Abfindungsvertrag
     geschlossen (nachfolgend "Abfindungsvertrag"). Auf diesen Vertrag wird
     Bezug genommen; er ist dieser Urkunde als Anlage 1 in Kopie beigefügt.
 
-(2) Die Erschienene zu 3. b) hat am 13.03.2026 unter der UVZ-Nr. 252/2026 für
+(2) Die Erschienene zu 3. b) hat am 13.03.2026 unter der UVZ-Nr. 252/2026
+    derselben Notarin für
     Frau Hille Krüger die Ausschlagung der Erbschaft nach dem am 05.02.2026
     verstorbenen Herrn Klas Krüger aus allen Berufungsgründen erklärt. Das
     Verfahren über die betreuungsgerichtliche Genehmigung ist beim Amtsgericht
@@ -220,8 +229,7 @@ und erklärten:
        Kostenbelastung,
     i) Ansprüche auf Ersatz von Kosten, Gebühren, Steuern und Auslagen aus
        Anlass des Erbfalls, des Genehmigungsverfahrens oder dieser Urkunde,
-       einschließlich der Vergütung der Rechtsanwälte und Notare der
-       Gegenseite,
+       soweit in § 8 nichts anderes geregelt ist,
     j) Ansprüche aus oder im Zusammenhang mit § 7 des Testaments vom
        20.11.2013 (Hausrat, Mobiliar, technische Geräte), soweit sie sich
        gegen die Erschienenen zu 1. und 2. richten.
@@ -274,13 +282,16 @@ und erklärten:
     gelten und dass die im Schreiben des Rechtsanwalts Jonas Binder vom
     28.09.2026 genannten Monatsfristen nicht Vertragsinhalt sind.
 
-(5) Die Abfindung ist zu zahlen auf das folgende Konto:
-    Kontoinhaber: ...............................................
-    IBAN: .......................................................
-    Kreditinstitut: .............................................
-    [Hinweis: Das im Abfindungsvertrag genannte Konto lautet auf Hille Krüger.
-    Nach deren Tod ist ein Nachlass- oder Anderkonto zu benennen. Siehe
-    Erläuterung 9.]
+(5) Die Abfindung ist auf ein Anderkonto des beurkundenden Notars zu zahlen.
+    Der Notar wird angewiesen, den Betrag an die Empfänger auszuzahlen, sobald
+    ihm die Erledigungserklärungen nach § 4 in der dort vorgeschriebenen Form
+    vorliegen. Empfänger sind
+    a) bei Ausschlagung durch Frau Hille Krüger selbst: Frau Hille Krüger,
+    b) bei Ausschlagung nach § 2 dieser Urkunde: deren Erben, im Verhältnis
+       ihrer Erbteile.
+    Mit Eingang auf dem Anderkonto ist die jeweilige Rate erfüllt.
+    [Hinweis: Das im Abfindungsvertrag genannte Konto lautet auf Hille Krüger
+    und besteht nach deren Tod so nicht mehr. Siehe Erläuterung 9.]
 
 (6) Im Falle eines Verzuges gelten die gesetzlichen Verzugszinsen.
 
@@ -295,11 +306,11 @@ und erklärten:
     Zahlungsverpflichtung aus § 3 dieser Urkunde als Gesamtschuldner der
     sofortigen Zwangsvollstreckung in ihr gesamtes Vermögen mit der Maßgabe,
     dass eine vollstreckbare Ausfertigung nur erteilt werden darf, wenn
-    gegenüber der Notarin der Eintritt sämtlicher Bedingungen nach § 3 Abs. 1
+    gegenüber dem Notar der Eintritt sämtlicher Bedingungen nach § 3 Abs. 1
     sowie der Zugang des Nachweises nach § 5 Abs. 3 in öffentlicher oder
     öffentlich beglaubigter Form nachgewiesen ist.
 
-(3) Die Notarin wird angewiesen, eine vollstreckbare Ausfertigung erst nach
+(3) Der Notar wird angewiesen, eine vollstreckbare Ausfertigung erst nach
     Vorliegen dieser Nachweise und nach schriftlicher Anhörung der
     Erschienenen zu 1. und 2. mit einer Frist von zwei Wochen zu erteilen.
 
@@ -334,17 +345,27 @@ und erklärten:
 (1) Die auf die Abfindung bei den Empfängern anfallenden Steuern tragen die
     Empfänger.
 
-(2) Die Kosten dieser Beurkundung und ihrer Abwicklung tragen die Erschienene
-    zu 3. a) und der Erschienene zu 4. als Gesamtschuldner.
+(2) Die Kosten dieser Beurkundung und ihrer Abwicklung, einschließlich der
+    Kosten des Notaranderkontos nach § 5 Abs. 5, tragen
+    a) die Erschienenen zu 1. und 2. zu 1/2 Anteil und
+    b) die Erschienene zu 3. a) und der Erschienene zu 4. zu 1/2 Anteil.
+    Innerhalb der jeweiligen Seite haften die Beteiligten als
+    Gesamtschuldner.
 
-(3) Die Kosten einer etwaigen Beurkundung nach § 2 Abs. 2 und § 4 Abs. 4 sowie
-    die Kosten der Erteilung eines Erbscheins und der Beschaffung der Nachweise
-    nach § 3 Abs. 1 Buchstaben b) und c) tragen die Erschienene zu 3. a) und
-    der Erschienene zu 4. als Gesamtschuldner.
+(3) Ebenso geteilt werden die Kosten
+    a) einer etwaigen Beurkundung oder Beglaubigung nach § 2 Abs. 2 und
+       § 4 Abs. 4,
+    b) der Erteilung eines Erbscheins nach § 3 Abs. 1 Buchstabe b) und
+    c) der Beschaffung der Nachweise nach § 3 Abs. 1 Buchstabe c).
 
-(4) Eine Kostenbeteiligung von Frau Hille Krüger findet nicht statt.
+(4) Eine Kostenbeteiligung von Frau Hille Krüger an dieser Urkunde findet
+    nicht statt. Die Kostenregelung in § 5 des Abfindungsvertrages für die
+    Urkunde vom 13.03.2026 bleibt unberührt.
 
-(5) Die Notarin hat keine steuerliche Beratung übernommen; sie hat den
+(5) Die Kosten eigener rechtlicher oder steuerlicher Beratung trägt jede
+    Seite selbst.
+
+(6) Der Notar hat keine steuerliche Beratung übernommen; er hat den
     Vertragsparteien dazu geraten, die steuerlichen Folgen dieser Vereinbarung
     von einem Steuerberater prüfen zu lassen. Die Beteiligten bestätigen, dass
     sie auf das Risiko hingewiesen worden sind, dass die steuerliche
@@ -379,15 +400,21 @@ und erklärten:
     Vertrages. Eine Abschrift ist dem Amtsgericht Oldenburg -
     Betreuungsgericht - zum Aktenzeichen 110 XVII (K) 1375 zu übersenden.
 
-Vorstehendes Protokoll wurde den Erschienenen von der Notarin vorgelesen, von
-ihnen genehmigt und eigenhändig von ihnen und der Notarin, wie folgt,
+Vorstehendes Protokoll wurde den Erschienenen von dem Notar vorgelesen, von
+ihnen genehmigt und eigenhändig von ihnen und dem Notar, wie folgt,
 unterschrieben:
 
 
 ===============================================================================
                                ERLÄUTERUNGEN
-              Nicht Vertragstext. Zur Vorbereitung des Termins.
+              Nicht Vertragstext. Zur Vorbereitung des Notartermins.
 ===============================================================================
+
+AUSGANGSLAGE (Stand 16.10.2026)
+Anne arbeitet konstruktiv mit. Alle Beteiligten wollen den Weg über § 1952
+BGB gehen. Den Entwurf fertigt ein neutraler Notar; diese Fassung ist die
+Gesprächsgrundlage dafür (situation\eckpunkte_notar.txt). Die Kosten werden
+geteilt.
 
 ÜBERSICHT - WAS SICH GEGENÜBER DEM ENTWURF 08 ÄNDERT
 
@@ -400,28 +427,30 @@ unterschrieben:
   Zahlung vor Verfügungsmacht  ja                   nein, § 3(1)c
   Erledigungsklausel           fehlt                § 4
   Fälligkeit                   ab Erklärung         ab Zugang Nachweis, § 5(3)
+  Zahlungsweg                  Konto Hille          Notaranderkonto, § 5(5)
   Vollstreckung ohne Nachweis  bleibt               aufgehoben, § 6
   Stammerhaltung               -                    ausgeschlossen, § 7(1)a
-  Kosten Bernd/Fabian          1/2                  0, § 8(2)
+  Kosten Bernd/Fabian          1/2                  1/2, § 8(2)
+  Kosten Anne/Jan              -                    1/2, § 8(2)
   Kosten Hille                 1/2                  0, § 8(4)
   Wochen/Monate                offen                klargestellt, § 5(4)
   Nießbrauch/Vermächtnis       nicht erfasst        erfasst, § 4(2)e,f
   comdirect-Streit             nicht erfasst        erfasst, § 4(2)g
+  Notar                        Dr. Lockmann         neutraler Notar
 
 
 1. DIE GRUNDKONSTRUKTION - ERLEDIGUNG ALS BEDINGUNG, NICHT ALS PFLICHT
 
-   Der entscheidende Unterschied zum Entwurf 08: Die Erledigung ist nicht als
-   Gegenleistung versprochen, die Bernd notfalls einklagen müsste, sondern als
-   BEDINGUNG der Zahlung ausgestaltet (§ 3 Abs. 1 Buchst. d, § 4 Abs. 6).
+   Die Erledigung ist nicht als Gegenleistung versprochen, die notfalls
+   eingeklagt werden müsste, sondern als BEDINGUNG der Zahlung ausgestaltet
+   (§ 3 Abs. 1 Buchst. d, § 4 Abs. 6).
 
-   Wer nicht erledigt, bekommt nichts. Es gibt keinen Prozess, keine
-   Vollstreckung, keine Beweislast. Das ist die stärkste denkbare Position und
-   setzt kein Vertrauen voraus.
+   Das entlastet beide Seiten: Niemand muss dem anderen vertrauen, niemand
+   muss klagen. Auch bei bestem Einvernehmen ist das die sauberste Lösung,
+   weil sie unabhängig davon funktioniert, wie sich die Lage später
+   entwickelt (z. B. weitere Erben, Wechsel von Beratern).
 
-   § 9 Abs. 4 sichert das ab: Fällt § 4 weg, fällt § 3 mit. Ohne diese Klausel
-   bliebe im Fall einer unwirksamen Erledigungsregelung die Zahlungspflicht
-   stehen - genau das Ergebnis, das vermieden werden soll.
+   § 9 Abs. 4 sichert das ab: Fällt § 4 weg, fällt § 3 mit.
 
 
 2. "ERBEN UND VERFÜGEN" - § 3 ABS. 1 BUCHSTABEN A BIS C
@@ -435,30 +464,22 @@ unterschrieben:
    Buchstabe c) ist der eigentlich wichtige. Die Erbenstellung allein nützt
    nichts, solange Fisher, comdirect und LzO die Depots nicht freigeben. Nach
    dem Erbfall vom 05.02.2026 war der Zugriff über Monate ein praktisches
-   Problem (vgl. 05b:11). Ohne Buchstabe c) könnte die Abfindung fällig
-   werden, während das Geld noch gesperrt ist.
+   Problem (vgl. 05b:11).
 
-   Buchstabe c) nennt ausdrücklich den Nießbrauch. Besteht das
-   Vorausvermächtnis nach § 6 des Testaments fort oder wird es geltend
-   gemacht, ist die Verfügungsmacht eingeschränkt - dann keine Zahlung.
-
-   PRÜFEN: Ist "gleichwertiger Nachweis" zu unbestimmt? Üblich wäre auch das
-   Abstellen auf ein Europäisches Nachlasszeugnis oder auf eine
-   Bankbestätigung. Der Anwalt sollte die Formulierung schärfen.
+   FÜR DEN NOTAR: Ist "gleichwertiger Nachweis" zu unbestimmt? Denkbar ist
+   das Abstellen auf ein Europäisches Nachlasszeugnis oder eine
+   Bankbestätigung.
 
 
 3. ANNE UND JAN MÜSSEN PERSÖNLICH PARTEI SEIN
 
-   Das ist nicht verhandelbar und der Punkt, an dem der Entwurf 08 strukturell
-   scheitert. Annes Betreuung endet mit Hilles Tod - also genau dann, wenn der
-   Vertrag wirken soll. Jan hat nach § 1952 Abs. 3 BGB ein faktisches Veto,
-   kommt im Entwurf 08 aber nicht einmal vor.
+   Annes Betreuung endet mit Hilles Tod - also genau dann, wenn der Vertrag
+   wirken soll. Jan hat nach § 1952 Abs. 3 BGB ein eigenes Ausschlagungsrecht
+   für seinen Anteil und muss deshalb mitwirken.
 
    § 2 Abs. 3 und § 4 Abs. 4 Satz 2 fangen den Fall auf, dass Anne und Jan
-   nicht die alleinigen Erben sind. Es ist nur eine Bemühenspflicht - mehr ist
-   nicht erreichbar. Geschützt ist Bernd dennoch, weil § 3 Abs. 1 Buchst. a)
-   und d) die VOLLSTÄNDIGE Ausschlagung und Erledigung verlangen. Bleibt ein
-   Erbe außen vor, tritt die Bedingung nicht ein und es wird nicht gezahlt.
+   nicht die alleinigen Erben sind. Bleibt ein Erbe außen vor, tritt die
+   Bedingung nicht ein.
 
    Jans Anschrift ist zu ermitteln.
 
@@ -467,187 +488,152 @@ unterschrieben:
 
    Rechtlich ist unsicher, ob Anne und Jan heute wirksam über einen
    Pflichtteilsanspruch verfügen können, der ihnen erst mit Hilles Tod
-   anfällt. § 4 Abs. 3 versucht es (Verfügung über künftige Forderungen),
-   § 4 Abs. 4 sichert es durch eine Wiederholungspflicht nach dem Erbfall ab.
+   anfällt. § 4 Abs. 3 versucht es, § 4 Abs. 4 sichert es durch eine
+   Wiederholungspflicht nach dem Erbfall ab.
 
-   Der Schutz liegt wieder in der Bedingung: Wird die Erklärung nach Abs. 4
-   nicht abgegeben, tritt § 3 Abs. 1 Buchst. d) nicht ein - keine Zahlung.
+4a. VORRANGIGE PRÜFUNG - § 311b ABS. 4 BGB
 
-   ZENTRALE FRAGE FÜR DEN ANWALT: Trägt diese Konstruktion? Oder ist ein
-   Erlassvertrag über einen noch nicht entstandenen, erst künftig anfallenden
-   Pflichtteilsanspruch unzulässig? Falls ja: Reicht die reine
-   Bedingungslösung - also Zahlung erst gegen Erledigungserklärung nach dem
-   Erbfall, ohne jede Vorabbindung?
+   Verträge über den Nachlass eines noch lebenden Dritten sind grundsätzlich
+   nichtig. Betroffen sein könnten:
+     - § 2 Abs. 2 und 3 (Pflicht von Anne und Jan, nach Hilles Tod
+       auszuschlagen),
+     - § 4 Abs. 3 und 4 (Verfügung über Ansprüche, die erst in Hilles
+       Nachlass entstehen).
+   Die Ausnahme des § 311b Abs. 5 BGB gilt nur zwischen künftigen
+   gesetzlichen Erben; Bernd und Fabian sind das im Verhältnis zu Hille
+   nicht.
+
+   AUSWEICHLÖSUNG, falls der Notar die Bedenken teilt:
+     - § 2 Abs. 2 und 3 sowie § 4 Abs. 3 und 4 entfallen als Pflichten.
+     - Anne und Jan verpflichten sich zu nichts.
+     - Bernd und Fabian versprechen die Zahlung, BEDINGT darauf, dass Anne
+       und Jan nach Hilles Tod ausgeschlagen und die Erledigung erklärt
+       haben (§ 3 Abs. 1 a und d).
+   Der Schutz bleibt voll erhalten, weil er in der Bedingung liegt, nicht in
+   der Pflicht. Ob auch das bedingte Zahlungsversprechen unter § 311b Abs. 4
+   BGB fällt, soll der Notar mitprüfen.
 
 
-5. DER SCHWACHPUNKT - § 4 ABS. 5 UND HILLES EIGENE ANSPRÜCHE
+5. HILLES EIGENE ANSPRÜCHE - § 4 ABS. 5
 
    Solange Hille lebt, steht ein etwaiger Pflichtteilsanspruch IHR zu. Anne
    kann darauf als Betreuerin nicht ohne Weiteres verzichten; ein Verzicht
-   wäre voraussichtlich nach § 1854 BGB genehmigungsbedürftig und kaum
-   genehmigungsfähig (handlungsoptionen.txt Option 4, Glied 3: 25 bis
-   35 Prozent).
+   wäre voraussichtlich genehmigungsbedürftig und kaum genehmigungsfähig.
 
    § 4 Abs. 5 ist daher bewusst schwächer formuliert - eine Wissens- und
-   Unterlassungserklärung, kein Verzicht.
+   Unterlassungserklärung, kein Verzicht. Vollständige Sicherheit entsteht
+   erst mit der Erklärung nach § 4 Abs. 4, also nach Hilles Tod. Bis dahin
+   ist die Zahlung nicht fällig; Zahlung und Sicherheit fallen zeitlich
+   zusammen.
 
-   DAS BEDEUTET: Vollständige Sicherheit entsteht erst mit der Erklärung nach
-   § 4 Abs. 4, also nach Hilles Tod. Das ist jedoch kein Mangel dieses
-   Entwurfs, sondern genau der Grund, warum der § 1952-Weg dem Weg über das
-   Betreuungsgericht überlegen ist: Die Zahlung ist bis dahin nicht fällig.
-   Zahlung und Sicherheit fallen zeitlich zusammen.
-
-
-6. WAS BERND DAMIT AUFGIBT - EHRLICHE GEGENRECHNUNG
-
-   Nach heutiger Lage gilt: stirbt Hille vor Rechtskraft der Genehmigung,
-   endet das Verfahren und es ist KEINE Abfindung zu zahlen (03:55-56,
-   04:103-105). Bei einer Lebenserwartung unter einem Jahr ist das der
-   wahrscheinlichste Verlauf und wirtschaftlich die Position "0 EUR".
-
-   Diese Gegenversion gibt diese Position auf. Sie verwandelt sie in
-   "190.000 EUR gegen vollständige Erledigung".
-
-     Option 1 - nichts tun            ~187.000 EUR Steuer, sicher
-     Gegenversion                     ~277.000 EUR, Pflichtteil erledigt
-
-   Die Gegenversion ist also rund 90.000 EUR TEURER als Option 1 - sie kauft
-   dafür die Beseitigung eines Risikos von 180.000 bis 360.000 EUR
-   (pflichtteilsrisiko.txt).
-
-   DAS IST DIE ENTSCHEIDUNG, DIE IM TERMIN ZU TREFFEN IST. Der Anwalt sollte
-   gefragt werden, ob dieser Tausch sinnvoll ist oder ob Option 1 vorzuziehen
-   bleibt. Diese Gegenversion ist die beste Fassung des § 1952-Weges, nicht
-   die Empfehlung, ihn zu gehen.
+   FÜR DEN NOTAR: Wie ist der Fall abzusichern, dass das Betreuungsgericht
+   die Ausschlagung durch Hille doch noch genehmigt? Braucht die Urkunde
+   selbst eine betreuungsgerichtliche Genehmigung, weil Anne darin auch für
+   Hille handelt?
 
 
-7. DER TAKTISCHE PREIS - § 4 ABS. 2 BUCHSTABE A
+6. DER GEMEINSAME VORTEIL
 
-   Diese Urkunde nennt den Pflichtteil ausdrücklich. Damit ist die
-   Kernentscheidung aus anwaltstermin.20261014.prio1.txt Frage 8 getroffen -
-   und zwar in Richtung "ansprechen".
+   Die Ausschlagung vermeidet die doppelte Besteuerung derselben Substanz
+   (bei Hille als Vorerbin und bei Bernd und Fabian beim Nacherbfall).
 
-   Das ist nicht rückholbar. Sobald Anne diesen Text sieht, ist der Anspruch
-   bekannt. Erkennt sie ihn und lehnt die Erledigung ab, ist ihre Position
-   besser als vorher: Sie kann nach Hilles Tod ohne Vertrag ausschlagen und
-   den Pflichtteil fordern (pflichtteilsrisiko.txt, Nachtrag 10.10.2026).
+     ohne Ausschlagung              ~187.000 EUR Steuer
+     mit Ausschlagung               ~ 87.000 EUR Steuer + 190.000 EUR Abfindung
 
-   EINE ALTERNATIVE wäre eine allgemein gehaltene Erledigungsklausel ohne
-   Einzelaufzählung: "sämtliche Ansprüche, gleich aus welchem Rechtsgrund,
-   bekannt oder unbekannt". Das ist weniger auffällig, aber auch weniger
-   sicher - umfassende Klauseln ohne Konkretisierung werden eng ausgelegt.
+   Für Bernd und Fabian kostet der Weg rund 90.000 EUR mehr als "nichts
+   tun", schafft dafür aber vollständige Rechtssicherheit. Für Anne und Jan
+   sind die 190.000 EUR voraussichtlich steuerfrei (Hilles Freibetrag
+   500.000 EUR). Beide Punkte sind steuerlich zu bestätigen (Erläuterung 10).
 
-   ABWÄGUNG FÜR DEN ANWALT: Sicherheit gegen Unauffälligkeit. Beides ist
-   nicht zu haben. Eine Zwischenlösung wäre die Nennung der Paragraphen ohne
-   das Wort "Pflichtteil" - was einem Fachanwalt gegenüber nichts verbirgt.
+
+7. DIE ERTRÄGE ALS BEGRÜNDUNG DES BETRAGS
+
+   Der Nießbrauch hat 2025 netto 3.707,41 EUR erbracht; angenommen waren
+   27.150 EUR (04:40-42). 190.000 EUR entsprechen damit rund 51 Jahren
+   Ertrag. Deshalb keine Nachbesserung und keine Nachzahlungsklausel.
 
 
 8. VOLLSTRECKUNG - § 6
 
-   Der Entwurf 08 lässt die Unterwerfung "ohne Fälligkeitsnachweis" aus
-   03 § 4 bestehen und knüpft die Fälligkeit an eine Erklärung, von der Bernd
-   nichts wissen muss. Die Kombination erlaubt Vollstreckung ohne vorherige
-   Kenntnis.
-
-   § 6 kehrt das um: Nachweis in öffentlicher Form, Anhörungsfrist von zwei
-   Wochen. Dass die Gegenseite auf die bestehende Unterwerfung nicht
-   verzichten will, ist zu erwarten - dann ist mindestens Abs. 2 zu halten.
+   Die Unterwerfung "ohne Fälligkeitsnachweis" aus 03 § 4 passt nicht zu
+   einer Zahlung, die von mehreren Bedingungen abhängt. § 6 knüpft die
+   Vollstreckbarkeit an den Nachweis in öffentlicher Form und eine
+   Anhörungsfrist von zwei Wochen.
 
 
 9. DAS ZAHLUNGSKONTO - § 5 ABS. 5
 
-   Der Abfindungsvertrag nennt ein Konto, das auf Hille Krüger lautet
-   (03:69-71). Erfolgt die Zahlung erst nach ihrem Tod, existiert dieses Konto
-   so nicht mehr. Ohne Regelung droht Streit über die Erfüllungswirkung bei
-   mehreren Erben.
-
-   Bewusst offen gelassen. Vorzugswürdig wäre ein Notaranderkonto mit
-   Auszahlung gegen Vorlage der Erledigungserklärungen - das würde die
-   Bedingungskonstruktion zusätzlich absichern. Mit dem Anwalt klären.
+   Der Abfindungsvertrag nennt ein Konto auf Hille Krüger (03:69-71). Nach
+   ihrem Tod existiert es so nicht mehr. Das Notaranderkonto löst das und
+   sichert zugleich die Bedingungskonstruktion: Der Notar zahlt aus, sobald
+   die Erledigungserklärungen vorliegen. Die Kosten des Anderkontos werden
+   nach § 8 Abs. 2 geteilt.
 
 
-10. STEUERRISIKO - § 8 ABS. 5
+10. STEUERN - § 8 ABS. 6
 
-    Weder die Notarin noch RA Binder prüfen die steuerliche Seite; beide
-    haben das ausdrücklich ausgenommen (08:64-66, 06:27).
-
-    Offen bleibt, ob die Abfindung bei Bernd und Fabian nach § 10 Abs. 5 Nr. 3
-    ErbStG als Nachlassverbindlichkeit abzugsfähig bleibt, wenn die
-    Ausschlagung erst durch die Erbeserben nach Hilles Tod erfolgt. Fällt
-    diese Abzugsfähigkeit, bricht die Vorteilsrechnung von ca. 90.000 EUR, auf
-    der die gesamte Abwägung ruht.
-
-    § 8 Abs. 5 dokumentiert nur den Hinweis. Das Risiko selbst ist vor
-    Unterzeichnung steuerlich zu klären - nicht danach.
+    Weder Notar noch RA Binder prüfen die steuerliche Seite (06:27). Vor
+    Unterzeichnung durch einen Steuerberater zu klären:
+      - Bleibt die Abfindung bei Bernd und Fabian nach § 10 Abs. 5 Nr. 3
+        ErbStG abzugsfähig, wenn die Ausschlagung erst durch die Erbeserben
+        nach Hilles Tod erfolgt?
+      - Ist sie bei Anne und Jan steuerfrei?
+    Fällt die Abzugsfähigkeit, bricht die Vorteilsrechnung aus
+    Erläuterung 6.
 
 
-11. WAS IN DIESER FASSUNG BEWUSST FEHLT
+11. KOSTEN - § 8
 
-    - Stammerhaltung, jährliche Feststellung, Nachzahlung oberhalb
-      190.000 EUR (05 §§ 2, 3). Ausdrücklich ausgeschlossen in § 7 Abs. 1.
-      Begründung für die Verhandlung: Binder selbst hat diese Forderungen in
-      seinem Vorschlag vom 12.10.2026 fallen gelassen. Wer sie jetzt wieder
-      erhebt, muss erklären, warum sie dort entbehrlich waren.
+    Vereinbart ist die Teilung: je 1/2 Bernd/Fabian und Anne/Jan. Das
+    entspricht der Linie des Abfindungsvertrages (03 § 5) und erfasst neben
+    der Beurkundung auch Anderkonto, Folgeerklärungen nach Hilles Tod,
+    Erbschein und Nachweise (§ 8 Abs. 2 und 3).
 
-    - Eine Erhöhung der Abfindung über 190.000 EUR. Dass Anne mehr verlangt,
-      sobald sie den Pflichtteil kennt, ist wahrscheinlich
-      (handlungsoptionen.txt Option 5, "plus x"). Eine Obergrenze sollte vor
-      dem Termin festgelegt werden - rechnerisch liegt sie dort, wo die Summe
-      aus Abfindung und Steuer die 187.000 EUR aus Option 1 erreicht, also bei
-      etwa 100.000 EUR über der heutigen Abfindung. Das ist allerdings nur die
-      Indifferenzgrenze, nicht ein Verhandlungsziel.
+    Hille wird an dieser Urkunde nicht beteiligt (§ 8 Abs. 4); die
+    Kostenregelung für die Urkunde vom 13.03.2026 bleibt unberührt.
 
-    - Eine Regelung zum Nachlassverzeichnis. § 7 Abs. 1 Buchst. d) schließt
-      eine Übersendungspflicht aus. Ob das durchsetzbar ist, ist offen
-      (anwaltstermin.20261014.prio1.txt Frage 9); nach § 2314 BGB kann eine
-      Vorlagepflicht bestehen, sobald ein Pflichtteilsanspruch im Raum steht -
-      was durch § 4 Abs. 2 Buchst. a) gerade benannt wird. Hier besteht ein
-      Zielkonflikt, den der Anwalt bewerten muss.
+    Eigene Berater (Anwälte, Steuerberater) zahlt jede Seite selbst
+    (§ 8 Abs. 5).
+
+    FÜR DEN NOTAR: Die Erbscheinskosten fallen bei Bernd und Fabian ohnehin
+    an. Falls Anne und Jan eine Teilung gerade dieser Position für
+    unangemessen halten, ist § 8 Abs. 3 b) verhandelbar.
 
 
-12. VORBEFASSUNG DER NOTARIN
+12. NEUTRALER NOTAR
 
     Die Vorentwürfe enthalten jeweils die Formel, eine Vorbefassung nach § 3
-    Abs. 1 Satz 1 Nr. 7 BeurkG sei verneint worden (03:16-17, 05:18-19,
-    08:27-28). Nach Aktenlage war Dr. Lockmann vor dem 13.03.2026 anwaltlich
-    für Anne tätig (anwaltstermin.20261014.prio1.txt Abschnitt A,
-    vertragsgrundlage_irrtum.txt).
-
-    Diese Gegenversion verneint die Vorbefassung daher nicht, sondern lässt
-    die Stelle offen. Der Punkt ist vor einer Beurkundung zu klären - er
-    berührt auch die Frage einer Notarhaftung nach § 19 BNotO, § 17 BeurkG
-    wegen der fehlenden Abgeltungsklausel im Ursprungsvertrag.
-
-    Zu erwägen ist, die Beurkundung einem anderen Notar zu übertragen.
+    Abs. 1 Satz 1 Nr. 7 BeurkG sei verneint worden. Dr. Lockmann war vor dem
+    13.03.2026 anwaltlich für Anne tätig (02). Deshalb beurkundet ein bislang
+    nicht befasster Notar; nur dann trägt die Verneinung im Rubrum.
 
 
-13. REIHENFOLGE - NICHT ÜBERSPRINGEN
+13. NOCH ZU KLÄREN VOR DER BEURKUNDUNG
 
-    Nach handlungsoptionen.txt Abschnitt 7 gilt:
-
-      [ ] 1. Steuerzahlen verifizieren (187.000 gegen 87.000 EUR)
-      [ ] 2. Pflichtteilsquote und Zugewinnausgleich beziffern
-      [ ] 3. Nachlassverzeichnis zurückhalten, bis 1 und 2 geklärt sind
-      [ ] 4. erst dann dieses Papier oder Teile davon nach außen geben
-
-    Dieser Entwurf ist Schritt 4. Er sollte nicht vor Abschluss von 1 bis 3
-    übersandt werden - insbesondere nicht, solange die Höhe des Pflichtteils
-    nicht beziffert ist. Ohne diese Zahl ist nicht entscheidbar, ob
-    190.000 EUR überhaupt eine angemessene Gegenleistung sind.
+      [ ] Notar auswählen und Termin vereinbaren
+      [ ] § 311b Abs. 4 BGB prüfen (Erläuterung 4a)
+      [ ] Entsteht der Pflichtteil bei Ausschlagung durch Erbeserben nach
+          § 1952 BGB, und wem steht er zu?
+      [ ] Restfrist nach Ende der Hemmung; bleibt die Hemmung bei Ruhen des
+          Verfahrens erhalten?
+      [ ] Steuerliche Prüfung (Erläuterung 10)
+      [ ] Jans Anschrift
+      [ ] RA Binder informieren, Ruhen des Verfahrens (situation\
+          bitte_an_binder.txt)
 
     Zu beachten: RA Binder übersendet seine Schreiben nachrichtlich an das
-    Betreuungsgericht (04:111-113). Alles, was an ihn geht, wird
-    voraussichtlich Aktenbestandteil.
+    Betreuungsgericht (04:111-113).
 
 
 ===============================================================================
 Grundlagen: erbschaft_kontext\01 (Testament), 03 (Abfindungsvertrag),
             04 (Binder 28.09.), 05 (Ergänzung), 05b (Ablehnung Bernd),
             06 (Binder/Anne 08.10.), 08 (Entwurf 12.10.)
-Siehe auch: bewertung_08_ergaenzung.txt - Bewertung des Ausgangsentwurfs
-            handlungsoptionen.txt - Optionenvergleich, Entscheidungsmaßstab
-            pflichtteilsrisiko.txt - Höhe, Anspruchsinhaber, Steuerlage
-            anwaltstermin.20261014.prio1.txt - Fragen 6, 7, 8, 9
-Erstellt: 13.10.2026. Keine Rechtsberatung. Entwurf, nicht
-unterschriftsreif.
+Siehe auch: situation\eckpunkte_notar.txt
+            situation\wen_beauftragen_wir.txt
+            situation\bitte_an_binder.txt
+            situation\gespraech_anne.20261016.txt
+            situation\loesung_bei_fairness.txt
+Erstellt: 13.10.2026, überarbeitet 16.10.2026. Keine Rechtsberatung.
+Entwurf, nicht unterschriftsreif.
 ===============================================================================

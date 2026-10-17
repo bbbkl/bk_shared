@@ -1,0 +1,157 @@
+===============================================================================
+WEN BEAUFTRAGEN WIR MIT DEM VERTRAG FUER DEN § 1952-WEG?
+Stand 16.10.2026
+===============================================================================
+
+FRAGE
+Anne arbeitet konstruktiv mit uns zusammen. Wir wollen den Weg ueber
+§ 1952 BGB gehen. Ist es schlau, gemeinsam RA Binder zu beauftragen, den
+Vertrag fuer den Notar vorzubereiten?
+
+ERGEBNIS IN EINEM SATZ
+Nein. Auch wenn Anne konstruktiv mitarbeitet, ist Binder fuer einen
+gemeinsamen Auftrag die falsche Wahl. Besser ist es, eine neutrale
+Notarin oder einen neutralen Notar den Vertrag direkt entwerfen zu lassen.
+
+KEINE RECHTSBERATUNG. Alle Rechtsangaben sind Einschaetzungen auf
+Grundlage der vorliegenden Unterlagen.
+
+
+-------------------------------------------------------------------------------
+1. WARUM NICHT BINDER
+-------------------------------------------------------------------------------
+
+  1. ER DARF NICHT BEIDE SEITEN VERTRETEN.
+     Rechtsanwaelte duerfen keine Parteien mit gegensaetzlichen Interessen
+     vertreten (§ 43a Abs. 4 BRAO, § 3 BORA). Auch bei gutem Willen sind
+     die Interessen gegensaetzlich: Es geht darum, wie hoch die Abfindung
+     ist, wie weit die Abgeltung reicht und wann gezahlt wird. Wuerde ein
+     Vertrag spaeter angefochten, waere die gemeinsame Beauftragung ein
+     Angriffspunkt.
+
+  2. ER HAT MEHRERE ROLLEN.
+     Das Gericht hat ihn als Verfahrenspfleger eingesetzt, um Hilles
+     Interessen zu wahren. Gleichzeitig hat Anne ihn auf Hilles Kosten
+     beauftragt (06:7). Ein drittes Mandat, in dem er auch fuer uns
+     arbeitet, macht das noch unklarer. Ausserdem schickt er seine
+     Schreiben in Kopie an das Betreuungsgericht (04:111-113).
+
+  3. ER HAT DIE ENTSCHEIDENDEN PUNKTE BISHER NICHT ABGEDECKT.
+     In seinem Entwurf (08_vorschlag_ergaenzung.20261012.txt) fehlen die
+     Abgeltung des Pflichtteils und Jan. Die steuerliche Seite hat er
+     ausdruecklich ausgeschlossen (06:27).
+
+  4. ES KOSTET DOPPELT.
+     Ein Anwaltsentwurf wird extra bezahlt. Entwirft der Notar, der danach
+     auch beurkundet, ist der Entwurf in der Beurkundungsgebuehr
+     enthalten.
+
+
+-------------------------------------------------------------------------------
+2. WAS BESSER IST
+-------------------------------------------------------------------------------
+
+  1. EIN NEUTRALER NOTAR ENTWIRFT DEN VERTRAG.
+     Er muss gesetzlich unparteiisch sein und beide Seiten belehren
+     (§ 14 BNotO, § 17 BeurkG). Genau das brauchen wir.
+     Dr. Lockmann sollte es nicht sein (Begruendung in Abschnitt 3).
+
+  2. DEM NOTAR UNSERE ECKPUNKTE MITGEBEN,
+     etwa die Gegenversion (erbschaft_kontext\08_vorschlag_gegenversion.txt)
+     als Gespraechsgrundlage. Wichtig sind:
+       - Anne und Jan unterschreiben persoenlich mit.
+       - Die Abgeltung ist Voraussetzung fuer die Zahlung.
+       - Das Verfahren bleibt anhaengig, damit die Frist gehemmt bleibt.
+       - Die Kosten werden geteilt.
+
+  3. JEDE SEITE KANN DEN ENTWURF OPTIONAL VON EINEM EIGENEN ANWALT
+     PRUEFEN LASSEN.
+     Fuer Anne kann das Binder sein, fuer uns unser Anwalt vom 14.10.2026.
+
+  4. EIN STEUERBERATER KLAERT VOR DER UNTERSCHRIFT DIE STEUERLICHEN FRAGEN.
+       - Bleibt die Abfindung fuer uns abzugsfaehig (§ 10 Abs. 5 Nr. 3
+         ErbStG), wenn erst die Erben nach Hilles Tod ausschlagen?
+       - Ist sie fuer Anne und Jan steuerfrei?
+     Davon haengt ab, ob sich der ganze Weg ueberhaupt lohnt.
+
+  5. BINDER SOLLTE NUR INFORMIERT WERDEN,
+     damit er als Verfahrenspfleger dem Ruhen des Verfahrens nicht
+     entgegensteht.
+
+
+-------------------------------------------------------------------------------
+3. WARUM NICHT DR. LOCKMANN ALS NOTARIN
+-------------------------------------------------------------------------------
+
+Kurz: Nicht wegen fachlicher Eignung, sondern wegen eines
+beurkundungsrechtlichen Mitwirkungsverbots und eines Eigeninteresses.
+
+  1. VORBEFASSUNG (§ 3 Abs. 1 Satz 1 Nr. 7 BeurkG)
+     - Ein Notar soll nicht beurkunden, wenn er (oder seine Sozietaet) in
+       derselben Angelegenheit ausserhalb des Notaramts fuer einen
+       Beteiligten taetig war - es sei denn, im Auftrag ALLER Beteiligten.
+     - Dr. Lockmann hat Anne am 13.02.2026 anwaltlich zum Erbfall Klas
+       Krueger beraten (02, Kanzleizeichen 021/26-Lo-B). Fuer Bernd und
+       Fabian war sie nicht taetig.
+     - Trotzdem steht in der Urkunde vom 13.03.2026, eine Vorbefassung sei
+       verneint worden (03:16-17); ebenso in den Entwuerfen 05 und 08.
+     - FOLGE: Die Urkunde vom 13.03. bleibt wirksam (Soll-Vorschrift), aber
+       es liegt eine Amtspflichtverletzung nahe. Fuer die neue Urkunde gilt
+       dasselbe Hindernis - Einverstaendnis aller Beteiligten heilt es nach
+       dem Wortlaut nicht.
+
+  2. EIGENINTERESSE AM ERGEBNIS
+     - In ihrer Beratung und in ihrer Urkunde fehlen der Pflichtteil und
+       eine Abgeltungsklausel. Ihr Satz, Hille "erbt nichts"
+       (02:110-112), ist in dieser Absolutheit ungenau - die Ausschlagung
+       kann den Pflichtteil gerade ausloesen.
+     - Daraus koennen Haftungsfragen gegen sie entstehen: Anne aus der
+       anwaltlichen Beratung, Bernd und Fabian moeglicherweise aus
+       Notarhaftung (§ 19 BNotO).
+     - Wer die Luecke der eigenen Urkunde schliessen soll, hat ein
+       Interesse daran, wie diese Luecke dargestellt wird (z. B. die
+       Vorbemerkung in § 1 Abs. 3 der Gegenversion).
+
+  3. WAHRGENOMMENE PARTEINAEHE
+     - Binder hat seinen Vorschlag bereits mit ihr abgestimmt und sie in cc
+       gesetzt (06:57).
+     - Fuer einen Vertrag, der unsere Interessen absichern soll, braucht es
+       einen Notar, der beide Seiten belehrt, ohne vorher einer Seite
+       verpflichtet gewesen zu sein.
+
+  WAS FUER SIE SPRAECHE
+     - Aktenkenntnis; Fachanwaeltin fuer Steuerrecht (die steuerliche
+       Beratung hat sie allerdings ausdruecklich nicht uebernommen, 03 § 6).
+     - Etwas schneller und guenstiger bei Fortfuehrung derselben Urkunde.
+     - Ein Fehlverhalten ist nicht festgestellt - die Punkte oben sind
+       Risiken, keine Vorwuerfe.
+
+  FAZIT
+     Ein neutraler Notar vermeidet das Mitwirkungsverbot, macht den Vertrag
+     weniger angreifbar und haelt beiden Seiten etwaige Regressoptionen
+     offen.
+
+  GEGENUEBER ANNE so formulieren:
+     "Wir moechten einen Notar, der in der Sache noch nicht taetig war. Das
+      schuetzt alle Beteiligten." - sachlich, ohne Vorwurf an Dr. Lockmann.
+
+
+-------------------------------------------------------------------------------
+4. OFFEN BLEIBT
+-------------------------------------------------------------------------------
+
+Der Notar sollte gleich zu Beginn klaeren, ob der Pflichtteil auch
+entsteht, wenn Anne und Jan nach § 1952 BGB ausschlagen. Ausserdem soll er
+pruefen, ob die Abgeltung schon vor Hilles Tod wirksam vereinbart werden
+kann. Davon haengt ab, wie die Abgeltung im Vertrag gestaltet wird.
+
+
+===============================================================================
+Grundlagen: erbschaft_kontext\02 (Lockmann 13.02.), 03 (Vertrag 13.03.),
+            04 (Binder 28.09.), 06 (Binder/Anne 08.10.),
+            08_vorschlag_ergaenzung.20261012.txt,
+            08_vorschlag_gegenversion.txt,
+            situation\loesung_bei_fairness.txt,
+            situation\gespraech_anne.20261016.txt
+Erstellt: 16.10.2026. Keine Rechtsberatung.
+===============================================================================
