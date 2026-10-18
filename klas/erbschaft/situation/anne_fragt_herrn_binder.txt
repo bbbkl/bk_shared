@@ -32,8 +32,10 @@ pruefen.
     (zeitdruck.txt, zeitraum_1952_weg.txt):
       GENEHMIGUNG -> Wir zahlen 190.000 EUR, und der Pflichtteil bleibt
                      offen. § 1952 spielt keine Rolle mehr.
-      VERSAGUNG   -> Die Restfrist von etwa 6 Tagen laeuft weiter. Laeuft
-                     sie zu Lebzeiten ab, ist der Weg zu.
+      VERSAGUNG   -> Die Restfrist laeuft weiter. Nach der Bekanntgabe
+                     vom 21.04.2026 (11) voraussichtlich eher 6 Wochen
+                     als 6 Tage. Laeuft sie zu Lebzeiten ab, ist der Weg
+                     zu.
 
   EINSCHRAENKUNG
     Anne ist Betreuerin und Binders Mandantin. Wir koennen sie nicht
@@ -94,12 +96,17 @@ pruefen.
 -------------------------------------------------------------------------------
 
   - Bleibt die Ausschlagungsfrist angehalten, wenn das Verfahren ruht
-    (§ 21 FamFG)? Wie lang ist Hilles Restfrist?
+    (§ 21 FamFG)? Wie lang ist Hilles Restfrist? Hilfreich dazu: Beginnt
+    sie erst mit der Bekanntgabe des Testaments am 21.04.2026 (11,
+    § 1944 Abs. 2 S. 2 BGB)?
   - Unterstuetzt er einen Antrag, das Verfahren ruhen zu lassen, bis eine
-    umfassende Neuregelung beurkundet ist?
+    umfassende Neuregelung beurkundet ist? Bernd hat ihn darum am
+    18.10.2026 bereits schriftlich gebeten (10); Anne kann daran
+    anknuepfen.
   - Er wird informiert, dass der Weg ueber § 1952 BGB, den er selbst
     vorgeschlagen hat (06), ueber einen neutralen Notar unter Einbeziehung
-    von Jan umgesetzt wird.
+    von Jan umgesetzt wird. Das hat Bernds Mail (10) schon gesagt; den
+    Namen Schwackenberg muss Anne nicht von sich aus nennen.
   - Was passiert mit dem Verfahren bei Hilles Tod? Er hat schon gesagt,
     dass es dann endet (04:104).
 
@@ -144,7 +151,8 @@ pruefen.
 
 ===============================================================================
 Grundlagen: erbschaft_kontext\04 (Binder 28.09.), 06 (Binder/Anne 08.10.),
-            09 (Info an Anne 16.10.),
+            09 (Info an Anne 16.10.), 10 (Mail Bernd an Binder 18.10.),
+            11 (Testamentseroeffnung 21.04.2026),
             situation\bitte_an_binder.txt,
             situation\gespraech_anne.20261016.txt,
             situation\wen_beauftragen_wir.txt,

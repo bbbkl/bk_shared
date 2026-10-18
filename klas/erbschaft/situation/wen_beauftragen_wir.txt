@@ -1,6 +1,6 @@
 ===============================================================================
 WEN BEAUFTRAGEN WIR MIT DEM VERTRAG FUER DEN § 1952-WEG?
-Stand 16.10.2026
+Stand 16.10.2026, aktualisiert 18.10.2026 (Abschnitt 4: Notar Schwackenberg)
 ===============================================================================
 
 FRAGE
@@ -137,7 +137,35 @@ beurkundungsrechtlichen Mitwirkungsverbots und eines Eigeninteresses.
 
 
 -------------------------------------------------------------------------------
-4. OFFEN BLEIBT
+4. ENTSCHEIDUNG 18.10.2026: NOTAR SCHWACKENBERG
+-------------------------------------------------------------------------------
+
+Anne und Bernd haben am 18.10.2026 telefonisch vereinbart, dass Bernd sich
+um einen Termin bei Notar Wolfgang Schwackenberg, Oldenburg, bemueht.
+
+  DAFUER SPRICHT
+  - Er hat 2013 das gemeinschaftliche Testament beurkundet (01:4) und
+    kennt die Gestaltung (Vor- und Nacherbschaft, Ersatzerben,
+    Testamentsvollstreckung).
+  - Er war fuer keine Seite ausserhalb des Notaramts taetig. Die
+    Beurkundung des Testaments ist Taetigkeit IM Notaramt; eine
+    Vorbefassung nach § 3 Abs. 1 Nr. 7 BeurkG liegt nach unserer
+    Einschaetzung nicht vor.
+  - Anne hat zugestimmt. Er ist damit fuer beide Seiten neutral.
+
+  ZU BEACHTEN
+  - Er hat Hille und Klas 2013 ueber das Pflichtteilsrecht belehrt
+    (01 § 9 Nr. 2). Haftungsfragen wie bei Dr. Lockmann entstehen daraus
+    nach unserer Einschaetzung nicht; das Testament selbst ist nicht
+    lueckenhaft.
+  - Bei der Terminanfrage klaeren, ob er noch im Amt ist (Testament von
+    2013) oder wer seine Akten fuehrt.
+  - Die Mail an Binder vom 18.10.2026 (10) nennt nur "einen Notar". Das
+    ist ausreichend.
+
+
+-------------------------------------------------------------------------------
+5. OFFEN BLEIBT
 -------------------------------------------------------------------------------
 
 Der Notar sollte gleich zu Beginn klaeren, ob der Pflichtteil auch
@@ -147,11 +175,13 @@ kann. Davon haengt ab, wie die Abgeltung im Vertrag gestaltet wird.
 
 
 ===============================================================================
-Grundlagen: erbschaft_kontext\02 (Lockmann 13.02.), 03 (Vertrag 13.03.),
+Grundlagen: erbschaft_kontext\01 (Testament, Notar Schwackenberg),
+            02 (Lockmann 13.02.), 03 (Vertrag 13.03.),
             04 (Binder 28.09.), 06 (Binder/Anne 08.10.),
+            10 (Mail Bernd an Binder 18.10.),
             08_vorschlag_ergaenzung.20261012.txt,
             08_vorschlag_gegenversion.txt,
             situation\loesung_bei_fairness.txt,
             situation\gespraech_anne.20261016.txt
-Erstellt: 16.10.2026. Keine Rechtsberatung.
+Erstellt: 16.10.2026, aktualisiert 18.10.2026. Keine Rechtsberatung.
 ===============================================================================

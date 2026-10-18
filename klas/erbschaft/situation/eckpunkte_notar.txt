@@ -1,10 +1,15 @@
 ===============================================================================
 ECKPUNKTE FUER DEN NOTAR - ENTWURF DER VEREINBARUNG ZUM § 1952-WEG
-Stand 16.10.2026
+Stand 16.10.2026, aktualisiert 18.10.2026
 ===============================================================================
 
 FRAGE
 Welche Punkte geben wir dem neutralen Notar fuer den Entwurf mit?
+
+NOTAR
+Bernd bemueht sich um einen Termin bei Notar Wolfgang Schwackenberg,
+Oldenburg (Absprache mit Anne am 18.10.2026). Er hat 2013 das Testament
+beurkundet (01:4) und war fuer keine Seite anwaltlich taetig.
 
 KEINE RECHTSBERATUNG. Alle Rechts- und Steuerangaben sind Einschaetzungen
 auf Grundlage der vorliegenden Unterlagen und vom Notar bzw. Steuerberater
@@ -16,10 +21,14 @@ A. WER UNTERSCHREIBT
 -------------------------------------------------------------------------------
 
   1. Bernd und Fabian.
-  2. Anne persoenlich, als Betreuerin von Hille und als kuenftige
-     Testamentsvollstreckerin (§ 8 des Testaments).
-  3. Jan persoenlich. Ohne ihn funktioniert der Weg nicht
-     (§ 1952 Abs. 3 BGB).
+  2. Anne persoenlich, als Betreuerin von Hille (Aufgabenkreis
+     Vermoegenssorge, 00:42) und als kuenftige Testamentsvollstreckerin
+     (§ 8 des Testaments).
+  3. Jan persoenlich (Jan Trueper, geb. 02.07.1968, Lucy-Lameck-Str. 29,
+     12049 Berlin). Ohne ihn funktioniert der Weg nicht
+     (§ 1952 Abs. 3 BGB). Er kann notfalls bei einem Berliner Notar
+     unterschreiben (Angebot und Annahme getrennt beurkunden) oder
+     vollmachtlos vertreten werden und nachgenehmigen.
   4. Anne und Jan sind nach dem Testament Hilles Erben (01 § 3 Nr. 4
      und 6). Der Notar soll das bestaetigen.
 
@@ -104,7 +113,12 @@ C. WAS DER NOTAR VORAB PRUEFEN SOLL
      und Jan zu?
 
   3. WIE VIEL RESTFRIST BLEIBT
-     nach Ende der Hemmung? Bleibt die Hemmung erhalten, wenn das
+     nach Ende der Hemmung? Das Nachlassgericht hat das Testament am
+     21.04.2026 bekannt gegeben (11). Beginnt Hilles Frist erst damit
+     (§ 1944 Abs. 2 S. 2 BGB) und war sie wegen des laufenden Verfahrens
+     von Anfang an gehemmt? Dann blieben ca. 6 Wochen statt der bisher
+     angenommenen ca. 6 Tage. Genuegt die Bekanntgabe an Hille persoenlich
+     statt an Anne als Betreuerin? Bleibt die Hemmung erhalten, wenn das
      Verfahren ruht?
 
   4. WAS PASSIERT, WENN DAS GERICHT DIE AUSSCHLAGUNG DOCH GENEHMIGT?
@@ -131,15 +145,22 @@ D. UNTERLAGEN FUER DEN NOTAR
     08.10.2026 (06)
   - Binders Entwurf vom 12.10.2026 (08) und unsere Gegenversion als
     Gespraechsgrundlage (08_vorschlag_gegenversion.txt)
-  - Jans Anschrift (noch zu ermitteln) und das Aktenzeichen des
-    Betreuungsgerichts: AG Oldenburg 110 XVII (K) 1375
+  - Schreiben des Nachlassgerichts vom 21.04.2026 mit
+    Eroeffnungsprotokoll (11), AG Oldenburg 307 IV 1353/13
+  - Bernds Mail an Binder vom 18.10.2026 (10)
+  - Jans Anschrift: Lucy-Lameck-Str. 29, 12049 Berlin
+  - Aktenzeichen des Betreuungsgerichts: AG Oldenburg 110 XVII (K) 1375;
+    Anne mit Aufgabenkreis Vermoegenssorge
+  - Bei Anne erfragen: Datum des Genehmigungsantrags und Datum, an dem
+    sie das Schreiben vom 21.04.2026 erhalten hat
 
 
 ===============================================================================
-Grundlagen: erbschaft_kontext\01, 03, 04, 06, 08,
+Grundlagen: erbschaft_kontext\00, 01, 03, 04, 06, 08, 10, 11,
             08_vorschlag_gegenversion.txt,
             situation\wen_beauftragen_wir.txt,
             situation\bitte_an_binder.txt,
-            situation\gespraech_anne.20261016.txt
-Erstellt: 16.10.2026. Keine Rechtsberatung.
+            situation\gespraech_anne.20261016.txt,
+            situation\zeitraum_1952_weg.txt
+Erstellt: 16.10.2026, aktualisiert 18.10.2026. Keine Rechtsberatung.
 ===============================================================================

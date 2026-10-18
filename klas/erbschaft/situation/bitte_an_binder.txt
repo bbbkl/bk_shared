@@ -1,6 +1,6 @@
 ===============================================================================
 WAS WIR VON RECHTSANWALT BINDER ERBITTEN
-Stand 16.10.2026
+Stand 16.10.2026, aktualisiert 18.10.2026
 ===============================================================================
 
 FRAGE
@@ -65,9 +65,13 @@ Grundlage der vorliegenden Unterlagen.
     beim Gericht und spricht das mit Binder ab.
 
   BERND
-    schuldet Binder noch die Aeusserung, die am 08.10.2026 zugesagt wurde
-    (07). Binder ist etwa ab dem 24.10.2026 zurueck. Wenige Saetze reichen,
-    zum Beispiel:
+    schuldete Binder noch die Aeusserung, die am 08.10.2026 zugesagt wurde
+    (07). ERLEDIGT: Bernd hat am 18.10.2026 an Binder geschrieben, mit cc
+    an Anne und Fabian (10). Der Text entspricht dem Vorschlag unten
+    woertlich. Binder ist etwa ab dem 24.10.2026 zurueck; eine Reaktion
+    ist erst danach zu erwarten.
+
+    Gesendeter Text:
 
     -------------------------------------------------------------------
     Sehr geehrter Herr Binder,
@@ -98,12 +102,31 @@ Grundlage der vorliegenden Unterlagen.
     Den Antrag auf Genehmigung darf Anne KEINESFALLS zuruecknehmen. Sonst
     endet die Hemmung, die Frist laeuft weiter, und der Weg ueber § 1952
     BGB ist versperrt (06:45).
+    Nachtrag 18.10.2026: Wegen der Testamentsbekanntgabe am 21.04.2026
+    (11) bliebe nach Ende der Hemmung voraussichtlich eher 6 Wochen als
+    6 Tage Restfrist (zeitraum_1952_weg.txt). Die Regel bleibt trotzdem.
+
+  - ZUR FRISTFRAGE (Bitte 2): Die Bekanntgabe vom 21.04.2026 kann Anne
+    bei Binder unbedenklich ansprechen. Sie betrifft nur die Frist, nicht
+    Pflichtteil oder Ertraege.
+
+
+-------------------------------------------------------------------------------
+5. STAND 18.10.2026
+-------------------------------------------------------------------------------
+
+  [x] Bernds Mail an Binder (10)
+  [ ] Annes Antrag auf Ruhen/Aussetzung beim Betreuungsgericht
+  [ ] Reaktion Binder (fruehestens ab ca. 24.10.2026)
+  [ ] Termin bei Notar Schwackenberg (Bernd)
 
 
 ===============================================================================
 Grundlagen: erbschaft_kontext\04 (Binder 28.09.), 06 (Binder/Anne 08.10.),
             07 (Mail Bernd an Binder 08.10.),
+            10 (Mail Bernd an Binder 18.10.),
+            11 (Testamentseroeffnung 21.04.2026),
             situation\wen_beauftragen_wir.txt,
             situation\gespraech_anne.20261016.txt
-Erstellt: 16.10.2026. Keine Rechtsberatung.
+Erstellt: 16.10.2026, aktualisiert 18.10.2026. Keine Rechtsberatung.
 ===============================================================================

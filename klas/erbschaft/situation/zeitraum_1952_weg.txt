@@ -1,16 +1,21 @@
 ===============================================================================
 WELCHEN ZEITRAUM HABEN WIR FUER DEN WEG UEBER § 1952 BGB?
-Stand 18.10.2026
+Stand 18.10.2026 (aktualisiert: Testamentseroeffnung 21.04.2026, Mail an
+Binder 18.10.2026, Vermoegenssorge bestaetigt, Anschrift Jan)
 ===============================================================================
 
 ANLASS
 Am 18.10.2026 haben Anne und Bernd telefoniert. Bernd kuemmert sich um
 einen Termin bei Notar Schwackenberg, um den Weg ueber § 1952 BGB
-vorzubereiten.
+vorzubereiten. Am selben Tag hat Bernd Herrn Binder mitgeteilt, dass wir
+diesen Weg gehen, und um Unterstuetzung fuer eine Aussetzung des
+Genehmigungsverfahrens gebeten (10).
 
 ERGEBNIS IN EINEM SATZ
 Der Weg ueber § 1952 BGB geht nur nach Hilles Tod, nicht vorher. Er setzt
-aber voraus, dass Hilles eigene Frist bis zu ihrem Tod offen bleibt.
+aber voraus, dass Hilles eigene Frist bis zu ihrem Tod offen bleibt. Die
+Testamentseroeffnung vom 21.04.2026 spricht dafuer, dass Hilles Restfrist
+deutlich laenger ist als bisher angenommen: eher 6 Wochen als 6 Tage.
 
 KEINE RECHTSBERATUNG. Alle Rechts- und Fristangaben sind Einschaetzungen
 auf Grundlage der vorliegenden Unterlagen und von Notar Schwackenberg zu
@@ -25,7 +30,8 @@ pruefen.
     gehoert ihr Recht, das Erbe von Klas auszuschlagen
     (§ 1952 Abs. 1 BGB).
   - Solange Hille lebt, kann nur sie selbst ausschlagen, also Anne als
-    Betreuerin mit Genehmigung des Gerichts.
+    Betreuerin mit Genehmigung des Gerichts. Anne hat den Aufgabenkreis
+    Vermoegenssorge (00:42); formal ist sie dafuer also zustaendig.
 
 Der Zeitraum hat zwei Teile.
 
@@ -38,16 +44,42 @@ Diese Bedingung ist zwingend. Anne und Jan koennen nur ein Recht erben, das
 Hille bei ihrem Tod noch hat. Ist ihre Frist zu Lebzeiten schon
 abgelaufen, gibt es nichts mehr zu erben (06:45).
 
-  - Hilles Frist waere etwa am 19.03.2026 abgelaufen. Ausgeschlagen wurde
-    am 13.03.2026. Das ist eine Schaetzung von Lockmann (02:89-93).
-  - Solange das Genehmigungsverfahren laeuft, ist die Frist angehalten.
-    Endet das Verfahren, bleiben vermutlich nur noch etwa 6 Tage.
+  BISHERIGE ANNAHME
+  - Hilles Frist waere etwa am 19.03.2026 abgelaufen (Lockmann, 02:89-93).
+    Ausgeschlagen wurde am 13.03.2026. Danach blieben nur etwa 6 Tage.
+
+  NEU: TESTAMENTSEROEFFNUNG VOM 21.04.2026 (11)
+  - Das Nachlassgericht (AG Oldenburg, Gz. 307 IV 1353/13) hat Hille das
+    Eroeffnungsprotokoll mit Schreiben vom 21.04.2026 uebersandt.
+  - Hille ist durch Testament berufen (01 § 5). Dann beginnt die Frist
+    NICHT VOR der Bekanntgabe des Testaments durch das Nachlassgericht
+    (§ 1944 Abs. 2 S. 2 BGB). Lockmanns Datum 19.03.2026 beruecksichtigt
+    das nicht.
+  - Hilles Frist hat also fruehestens mit Zugang des Schreibens vom
+    21.04.2026 begonnen. Ohne Hemmung waere sie etwa Anfang Juni 2026
+    abgelaufen (21.04. + 6 Wochen = 02.06., zuzueglich Postlauf).
+  - Ausgeschlagen wurde schon am 13.03.2026, also VOR Fristbeginn. Das ist
+    zulaessig (§ 1946 BGB: Ausschlagung ab dem Erbfall moeglich).
+  - Lief das Genehmigungsverfahren bei Zugang des Schreibens schon, war die
+    Frist von Anfang an gehemmt (§ 1858 Abs. 3 BGB, 02:91-93). Dann ist
+    noch NICHTS von ihr verbraucht.
+
+  FOLGE
+  - Endet das Verfahren zu Hilles Lebzeiten, bleiben voraussichtlich die
+    VOLLEN 6 WOCHEN, nicht nur etwa 6 Tage.
+  - Moeglicherweise hat die Frist sogar noch gar nicht begonnen: Das
+    Schreiben ist an Hille persoenlich adressiert, nicht an Anne als
+    Betreuerin. Bei einer geschaeftsunfaehigen Erbin kommt es auf die
+    Kenntnis der Betreuerin an. Ob und wann Anne das Schreiben erhalten
+    hat, ist offen.
 
   Ereignis zu Hilles   | Folge
   Lebzeiten            |
   ---------------------+-----------------------------------------------------
-  VERSAGUNG der        | Die Resttage laufen weiter. Laeuft die Frist zu
-  Genehmigung          | Lebzeiten ab, ist der Weg zu.
+  VERSAGUNG der        | Die Restfrist (voraussichtlich ca. 6 Wochen) laeuft
+  Genehmigung          | weiter. Laeuft sie zu Lebzeiten ab, ist der Weg zu.
+                       | Das Risiko ist kleiner als bisher gedacht, aber
+                       | nicht gebannt.
   ---------------------+-----------------------------------------------------
   RUECKNAHME des       | Dieselbe Folge.
   Antrags              |
@@ -55,7 +87,8 @@ abgelaufen, gibt es nichts mehr zu erben (06:45).
   GENEHMIGUNG          | Hilles eigene Ausschlagung ist wirksam, und der
                        | Vertrag vom 13.03. gilt. Wir zahlen 190.000 EUR,
                        | und der Pflichtteil bleibt offen. § 1952 spielt
-                       | dann keine Rolle mehr.
+                       | dann keine Rolle mehr. Das bleibt der schlechteste
+                       | Fall.
   ---------------------+-----------------------------------------------------
   VERFAHREN BLEIBT     | Die Frist bleibt angehalten, und der Weg bleibt
   ANHAENGIG, KEINE     | offen.
@@ -66,7 +99,9 @@ Fuer diese Phase gibt es also kein festes Ende. Sie dauert, solange das
 Verfahren anhaengig bleibt und nicht entschieden wird.
 
 OFFEN: Bleibt die Frist auch dann angehalten, wenn das Verfahren nur
-"ruht"? Das sollte Schwackenberg vorrangig klaeren.
+"ruht"? Das sollte Schwackenberg vorrangig klaeren. Durch die laengere
+Restfrist ist diese Frage weniger kritisch als bisher, aber nicht
+erledigt.
 
 
 -------------------------------------------------------------------------------
@@ -77,17 +112,23 @@ OFFEN: Bleibt die Frist auch dann angehalten, wenn das Verfahren nur
     Ausschlagung vom 13.03. wird dann nicht mehr wirksam.
   - Nach § 1952 Abs. 2 BGB endet die Frist fuer Anne und Jan nicht vor
     ihrer eigenen Frist fuer Hilles Erbe. Das sind 6 WOCHEN AB KENNTNIS
-    (§ 1944 BGB). Hilles kurze Restfrist von etwa 6 Tagen spielt dann
-    keine Rolle mehr.
-  - Wenn Anne und Jan aufgrund eines Testaments erben, beginnt die Frist
-    erst, wenn das Nachlassgericht das Testament bekannt gegeben hat
-    (§ 1944 Abs. 2 S. 2 BGB). Das kann ein paar Wochen Puffer bringen.
+    (§ 1944 BGB). Laeuft Hilles Restfrist (s. Abschnitt 2) laenger, gilt
+    diese.
+  - Anne und Jan erben Hille aufgrund des Testaments von 2013 als
+    Ersatzerben (01 § 3 Nr. 6). Ihre Frist beginnt daher erst, wenn das
+    Nachlassgericht Hilles Verfuegung bekannt gegeben hat (§ 1944 Abs. 2
+    S. 2 BGB). Beim Erbfall Klas lagen zwischen Tod (05.02.) und
+    Bekanntgabe (21.04.) gut 10 Wochen. Das kann Puffer bringen.
     TROTZDEM MIT 6 WOCHEN AB TODESTAG PLANEN.
   - Bis Fristende muss die Erklaerung beim Nachlassgericht EINGEGANGEN
     sein, notariell beglaubigt oder zu Protokoll des Gerichts
-    (§ 1945 BGB).
+    (§ 1945 BGB). Zustaendig ist voraussichtlich wieder das AG Oldenburg
+    (307 IV 1353/13).
   - ANNE UND JAN MUESSEN BEIDE ausschlagen. Jeder kann nur fuer seinen
-    eigenen Anteil ausschlagen (§ 1952 Abs. 3 BGB).
+    eigenen Anteil ausschlagen (§ 1952 Abs. 3 BGB). Jan wohnt in Berlin
+    (Lucy-Lameck-Str. 29, 12049 Berlin). Er kann seine Erklaerung bei
+    einem Berliner Notar beglaubigen lassen; der Notar reicht sie beim
+    AG Oldenburg ein.
   - Eine Genehmigung des Betreuungsgerichts braucht es dann nicht mehr.
     Anne und Jan entscheiden in eigener Sache (06:42).
 
@@ -97,8 +138,15 @@ OFFEN: Bleibt die Frist auch dann angehalten, wenn das Verfahren nur
 -------------------------------------------------------------------------------
 
   05.02.2026        Tod von Klas
+  13.02.2026        Lockmann: Fristende "wohl 19.03.2026" (02:91)
   13.03.2026        Ausschlagung durch Anne fuer Hille, Antrag auf
-                    Genehmigung -> Frist angehalten (Rest ca. 6 Tage)
+                    Genehmigung -> Frist gehemmt
+  21.04.2026        Nachlassgericht gibt das Testament bekannt (11)
+                    -> fruehester Beginn von Hilles Frist; wegen der
+                    Hemmung voraussichtlich noch volle 6 Wochen offen
+  18.10.2026        Telefonat Anne/Bernd: Termin bei Schwackenberg.
+                    Mail Bernd an Binder (cc Anne, Fabian): § 1952-Weg,
+                    Bitte um Aussetzung (10)
   heute bis Tod     Verfahren muss anhaengig bleiben, keine Entscheidung
                     -> Notar, Vertrag, Jan und Steuerfragen vorbereiten
   Hilles Tod (T)    Genehmigungsverfahren endet, Anne und Jan erben
@@ -106,30 +154,54 @@ OFFEN: Bleibt die Frist auch dann angehalten, wenn das Verfahren nur
   T + 6 Wochen      Spaetestes sicheres Ende: Ausschlagung von Anne UND
                     Jan muss beim Nachlassgericht eingegangen sein
                     (ggf. spaeter, wenn die Frist erst mit Bekanntgabe
-                    des Testaments beginnt)
+                    von Hilles Testament beginnt)
 
 
 -------------------------------------------------------------------------------
 5. FOLGEN FUER DEN TERMIN BEI SCHWACKENBERG
 -------------------------------------------------------------------------------
 
+  0. ZUM NOTAR
+     Wolfgang Schwackenberg hat 2013 das gemeinschaftliche Testament
+     beurkundet (01:4). Er kennt die Gestaltung und war fuer keine Seite
+     anwaltlich taetig. Eine Vorbefassung nach § 3 Abs. 1 Nr. 7 BeurkG
+     (Taetigkeit AUSSERHALB des Notaramts) liegt damit nach unserer
+     Einschaetzung nicht vor. Bei der Terminanfrage klaeren, ob er noch im
+     Amt ist oder wer seine Akten fuehrt (Amtsnachfolger, Sozietaet).
+
   1. GERICHT
      Das Verfahren muss anhaengig bleiben und darf nicht entschieden
-     werden. Am besten laesst Anne es ruhen, aber erst wenn geklaert ist,
-     dass die Frist dabei angehalten bleibt.
+     werden. Binder ist um Unterstuetzung einer Aussetzung gebeten (10).
+     Den Antrag auf Ruhen stellt Anne, am besten erst, wenn geklaert
+     ist, dass die Frist dabei angehalten bleibt.
 
   2. VORBEREITUNG
      Der Vertrag mit Abgeltung und mit Jan sollte fertig sein. Dazu
-     gehoeren die Ausschlagungserklaerungen von Anne und Jan als Entwurf
-     und Jans Anschrift. Dann laesst sich nach Hilles Tod innerhalb
-     weniger Tage beurkunden.
+     gehoeren die Ausschlagungserklaerungen von Anne und Jan als Entwurf.
+     Jans Anschrift liegt jetzt vor. Dann laesst sich nach Hilles Tod
+     innerhalb weniger Tage beurkunden.
      Eine Ausschlagung darf keine Bedingung enthalten (03:89). Der
      Abfindungsvertrag sollte deshalb vorher oder gleichzeitig
      unterschrieben sein.
 
-  3. FRAGEN AN DEN NOTAR
-     [ ] Wie lang ist Hilles Restfrist wirklich? Wann hat das
-         Nachlassgericht Klas' Testament bekannt gegeben?
+  3. UNTERLAGEN MITNEHMEN
+     - Schreiben des Nachlassgerichts vom 21.04.2026 mit
+       Eroeffnungsprotokoll (11), Gz. 307 IV 1353/13
+     - Betreuungsgericht: AG Oldenburg 110 XVII (K) 1375; Anne mit
+       Aufgabenkreis Vermoegenssorge
+     - Datum des Genehmigungsantrags (bei Anne erfragen)
+     - Datum, an dem Anne das Schreiben vom 21.04.2026 erhalten hat
+     - uebrige Unterlagen: eckpunkte_notar.txt Abschnitt D
+
+  4. FRAGEN AN DEN NOTAR
+     [ ] Beginnt Hilles Frist nach § 1944 Abs. 2 S. 2 BGB erst mit der
+         Bekanntgabe vom 21.04.2026? Ist Lockmanns 19.03.2026 damit
+         ueberholt?
+     [ ] War die Frist wegen des schon laufenden Genehmigungsverfahrens
+         von Anfang an gehemmt, sodass nach Verfahrensende die vollen
+         6 Wochen bleiben?
+     [ ] Setzt eine Bekanntgabe an Hille persoenlich (statt an Anne als
+         Betreuerin) die Frist ueberhaupt in Gang?
      [ ] Bleibt die Frist angehalten, wenn das Verfahren ruht?
      [ ] Gilt die Ausschlagung durch Anne und Jan zugleich als Annahme
          von Hilles Erbe? (Vermutung, bitte pruefen.)
@@ -139,12 +211,15 @@ OFFEN: Bleibt die Frist auch dann angehalten, wenn das Verfahren nur
 
 
 ===============================================================================
-Grundlagen: erbschaft_kontext\00 (Kontext), 01 (Testament),
+Grundlagen: erbschaft_kontext\00 (Kontext, Vermoegenssorge),
+            01 (Testament, Notar Schwackenberg),
             02 (Lockmann, Frist 19.03.2026, § 1858 Abs. 3 BGB),
             03 (Abfindungsvertrag, Bedingungsfeindlichkeit),
             04 (Binder 28.09., Verfahrensende mit Tod),
             06 (Binder/Anne 08.10., § 1952 BGB, Hemmung),
             09 (Info an Anne 16.10.),
+            10 (Mail Bernd an Binder 18.10.),
+            11 (Testamentseroeffnung 21.04.2026),
             situation\zeitdruck.txt
 Erstellt: 18.10.2026. Keine Rechtsberatung.
 ===============================================================================

@@ -263,6 +263,12 @@ c) DER FRISTABLAUF - DER EINZIGE ECHTE SCHUTZ
    19.03.2026 abgelaufen (02:91). Es verbleiben also moeglicherweise nur
    wenige Tage. Anwaltlich zu klaeren - davon haengt Zeile 3 der Tabelle
    ab.
+   NACHTRAG 18.10.2026: Das Nachlassgericht hat das Testament erst am
+   21.04.2026 bekannt gegeben (11). Die Frist beginnt nicht vor der
+   Bekanntgabe (§ 1944 Abs. 2 S. 2 BGB) und war wegen des laufenden
+   Verfahrens voraussichtlich von Anfang an gehemmt. Es bleiben also
+   eher 6 Wochen als wenige Tage. Der Fristablauf ist damit als Schutz
+   noch unwahrscheinlicher (zeitraum_1952_weg.txt Abschnitt 2).
 
 d) DIE ROLLENSITUATION BINDERS
    Verfahrenspfleger und zugleich von Anne mandatiert (06:7), fuer eine
@@ -302,6 +308,8 @@ d) DIE ROLLENSITUATION BINDERS
                                 | schon formal unwirksam. Kostenlos,
                                 | von niemandem angesprochen
                                 | (versagung_mitwirkung.txt 4c)
+                                | ERLEDIGT 18.10.2026: Anne HAT den
+                                | Aufgabenkreis (00:42). Kein Hebel.
 
 WAS BERND NICHT HAT
   Kein Mittel, die § 1952-Ausschlagung zu verhindern. Kein
@@ -370,6 +378,8 @@ TRAGWEITE
     Erklaert am 13.03.2026, Fristablauf waere der 19.03.2026 gewesen -
     verbleiben also nur Tage? Davon haengt ab, ob der Fristablauf
     ueberhaupt als Schutz in Betracht kommt. (Abschnitt 5c)
+    NACHTRAG 18.10.2026: Bekanntgabe erst am 21.04.2026 (11), daher
+    voraussichtlich eher 6 Wochen Restfrist.
 
  4. Kann Anne als Betreuerin gegen eine Versagung Beschwerde einlegen
     und damit die Hemmung verlaengern? Hat Bernd dagegen ein Mittel?
@@ -382,6 +392,7 @@ TRAGWEITE
  6. Enthaelt der Betreuerbeschluss vom 23.09.2025, Az. 110 XVII (K)
     1375, den Aufgabenkreis Vermoegenssorge? Wie ist das ohne
     Akteneinsicht festzustellen, und was folgt, wenn er fehlt?
+    ERLEDIGT 18.10.2026: Der Aufgabenkreis ist uebertragen (00:42).
 
  7. Ist in diesem Szenario eine Streitverkuendung gegen Dr. Lockmann
     anzuraten, und wie verhaelt sie sich zur Hauptverteidigung, die einen

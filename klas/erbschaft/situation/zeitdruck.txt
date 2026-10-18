@@ -1,7 +1,21 @@
 ===============================================================================
 GIBT ES ZEITDRUCK?
-Stand 16.10.2026
+Stand 16.10.2026, aktualisiert 18.10.2026
 ===============================================================================
+
+NACHTRAG 18.10.2026
+  - Testamentseroeffnung: Das Nachlassgericht hat Hille das Testament mit
+    Schreiben vom 21.04.2026 bekannt gegeben (11). Hilles Frist beginnt
+    erst damit (§ 1944 Abs. 2 S. 2 BGB) und war wegen des laufenden
+    Genehmigungsverfahrens voraussichtlich von Anfang an gehemmt. Die
+    Restfrist nach einer Versagung waere dann eher 6 WOCHEN als 6 Tage.
+    Das Versagungsrisiko ist damit kleiner, aber nicht weg
+    (zeitraum_1952_weg.txt Abschnitt 2).
+  - Bernd hat Binder am 18.10.2026 um Unterstuetzung einer Aussetzung
+    gebeten (10). Bernd bemueht sich um einen Termin bei Notar
+    Schwackenberg.
+  - Jans Anschrift ist bekannt: Lucy-Lameck-Str. 29, 12049 Berlin.
+  - Anne hat den Aufgabenkreis Vermoegenssorge (00:42).
 
 ERGEBNIS IN EINEM SATZ
 Ja, es gibt Zeitdruck - aber an einer anderen Stelle, als man zuerst
@@ -24,12 +38,13 @@ Beide moeglichen Entscheidungen waeren schlecht:
   Vertrags vom 13.03. | offen. Fuer uns ist das der schlechteste Fall.
   --------------------+------------------------------------------------------
   VERSAGUNG           | Die Hemmung endet, und Hilles Restfrist laeuft
-                      | weiter. Ausgeschlagen wurde am 13.03., die Frist
-                      | waere am 19.03. abgelaufen (02:91). Danach bleiben
-                      | also moeglicherweise nur etwa 6 Tage. Laeuft die
-                      | Frist ab, gibt es kein Ausschlagungsrecht mehr, das
-                      | Anne und Jan erben koennten, und der Weg ueber
-                      | § 1952 BGB ist versperrt (06:45).
+                      | weiter. Nach Lockmann (Fristende 19.03., 02:91)
+                      | blieben nur etwa 6 Tage. Wegen der Bekanntgabe am
+                      | 21.04.2026 (11) bleiben voraussichtlich eher
+                      | 6 Wochen. Laeuft die Frist ab, gibt es kein
+                      | Ausschlagungsrecht mehr, das Anne und Jan erben
+                      | koennten, und der Weg ueber § 1952 BGB ist
+                      | versperrt (06:45).
   --------------------+------------------------------------------------------
 
   - Binder ist bis etwa 24.10.2026 im Urlaub. Das Gericht kann aber auch
@@ -62,8 +77,8 @@ Hilles Tod zerstoert den Weg nicht, aber das Zeitfenster wird eng.
     zwingend. Zwingend sind diese Vorbereitungen:
       - Notar gefunden und eingearbeitet
       - Entwurf abgestimmt
-      - Jan informiert, einverstanden und erreichbar, seine Anschrift
-        bekannt
+      - Jan informiert, einverstanden und erreichbar (Anschrift liegt
+        vor: Lucy-Lameck-Str. 29, 12049 Berlin)
       - Steuerfrage geklaert
     Dann laesst sich nach Hilles Tod innerhalb von Tagen beurkunden.
 
@@ -85,11 +100,13 @@ Hilles Tod zerstoert den Weg nicht, aber das Zeitfenster wird eng.
 -------------------------------------------------------------------------------
 
   1. SOFORT
-     Anne beantragt beim Gericht, das Verfahren ruhen zu lassen, und
-     informiert Binder (bitte_an_binder.txt).
+     Anne beantragt beim Gericht, das Verfahren ruhen zu lassen
+     (bitte_an_binder.txt). ERLEDIGT 18.10.: Bernd hat Binder informiert
+     und um Unterstuetzung der Aussetzung gebeten (10).
 
   2. IN DEN NAECHSTEN 1-2 WOCHEN
-     Notar auswaehlen, Jan einbinden, die Fragen an den Notar und den
+     Termin bei Notar Schwackenberg (Bernd kuemmert sich, Absprache mit
+     Anne vom 18.10.), Jan einbinden, die Fragen an den Notar und den
      Steuerberater stellen (eckpunkte_notar.txt).
 
   3. DANACH
@@ -102,7 +119,8 @@ Hilles Tod zerstoert den Weg nicht, aber das Zeitfenster wird eng.
 5. OFFEN - VOM NOTAR ZU KLAEREN
 -------------------------------------------------------------------------------
 
-  - Wie lang ist Hilles Restfrist wirklich?
+  - Wie lang ist Hilles Restfrist wirklich? Beginnt sie erst mit der
+    Bekanntgabe vom 21.04.2026, und war sie von Anfang an gehemmt?
   - Bleibt die Hemmung erhalten, wenn das Verfahren ruht?
 
 
@@ -112,6 +130,8 @@ Grundlagen: erbschaft_kontext\00 (Kontext), 02 (Lockmann 13.02., Frist),
             situation\verfahrensdauer.txt,
             situation\verlauf_bei_unfairness.txt (Abschnitt 5c),
             situation\eckpunkte_notar.txt,
-            situation\bitte_an_binder.txt
-Erstellt: 16.10.2026. Keine Rechtsberatung.
+            situation\bitte_an_binder.txt,
+            10 (Mail Bernd an Binder 18.10.), 11 (Eroeffnung 21.04.2026),
+            situation\zeitraum_1952_weg.txt
+Erstellt: 16.10.2026, aktualisiert 18.10.2026. Keine Rechtsberatung.
 ===============================================================================

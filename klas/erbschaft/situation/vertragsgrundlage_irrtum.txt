@@ -494,6 +494,11 @@ CHRONOLOGIE
                (Ausschlagung UVZ 252/2026 + Abfindung UVZ 253/2026)
   19.03.2026   Ablauf der Ausschlagungsfrist
                (von Lockmann selbst benannt, 02:91)
+               NACHTRAG 18.10.2026: vermutlich unzutreffend - das
+               Testament wurde erst am 21.04.2026 bekannt gegeben (11),
+               die Frist beginnt nicht vorher (§ 1944 Abs. 2 S. 2 BGB).
+               Die Eile am 13.03. war damit wohl nicht zwingend, was den
+               Punkt "Zeitdruck entlastet nicht" eher verstaerkt.
 
 DREI GRUENDE, WARUM DIE EILE NICHT HILFT
 
@@ -786,6 +791,7 @@ werden:
   - Der Betreuerbeschluss vom 23.09.2025 liegt nicht vor. Lockmann weist
     selbst auf das Erfordernis der Vermoegenssorge hin (02:86-87) - ob der
     Aufgabenkreis uebertragen ist, ergibt sich aus den Unterlagen nicht.
+    ERLEDIGT 18.10.2026: Er ist uebertragen (00:42).
   - Ob die grosse oder kleine Pflichtteilsvariante gilt. Siehe
     anwaltstermin.20261014.prio1.txt Frage 2 - dort als offen zu den
     uebrigen Dateien gekennzeichnet.
