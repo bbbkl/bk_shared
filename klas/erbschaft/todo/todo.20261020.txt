@@ -11,22 +11,62 @@ Zeitplan im Detail: situation\eckpunkte_notar.txt Abschnitt E
 SOFORT
 -------------------------------------------------------------------------------
 
-[ ] 1. Antwort des Notariats vom 20.10.2026 (erbschaft_kontext\13) an
+[x] 1. Antwort des Notariats vom 20.10.2026 (erbschaft_kontext\13) an
        Fabian weiterleiten.
        Grund: Das Notariat hat an "fabiankrug@gmx.de" geschickt; richtig
        ist fabiankrueg@gmx.de.
 
-[ ] 2. Nachricht an Anne senden (cc Fabian).
+[x] 2. Nachricht an Anne senden (cc Fabian).
        Text: situation\nachricht_anne.20261020.txt
        Nur den Teil oberhalb der "HINWEISE ZUM VERSAND" senden.
        Nicht an Binder.
 
 [ ] 3. Steuerberater beauftragen.
-       Fragen: situation\eckpunkte_notar.txt Abschnitt C.6
-         - Abfindung bei uns als Nachlassverbindlichkeit abzugsfaehig?
-         - Abfindung fuer Hille bzw. Anne und Jan steuerfrei?
-         - Steuerliche Wirkung des Pflichtteilsverzichts?
+       Fragen mit Begruendung: situation\eckpunkte_notar.txt Abschnitt C.6
+         a) VORRANGIG: Stimmt die Ersparnis 187.000 -> 87.000 EUR?
+            (§ 5 Abs. 1 ErbStG fiktiver Zugewinn, § 6 Abs. 2 S. 2 ErbStG)
+         b) Abfindung bei uns als Nachlassverbindlichkeit abzugsfaehig?
+            (ca. 28.000 EUR zusammen)
+         c) Abfindung fuer Hille bzw. Anne und Jan steuerfrei?
+         d) Steuerliche Wirkung des Pflichtteilsverzichts und Aufteilung
+            der Abfindung in der Urkunde?
+       Unterlagen mitgeben:
+         - Nachlassverzeichnis (siehe Aufgabe 7)
+         - Eigene Steuerrechnung vom Februar (erbschaft_20260222.txt)
+         - Testament (01) und Vertrag vom 13.03.2026 (03)
+          - Vermoegen Klas bei Heirat 1992 - beschaffen, falls moeglich
+        Zusaetzlich pruefen lassen (eckpunkte_notar.txt C.6 e):
+          e) Zahlung an Fabian 05.09.2023 (166.111,34 EUR gegen
+             100.000 EUR 2018): Schenkung? § 14 ErbStG?
+             Zahlungen 07/2022 fuer Hilles Schenkungen (24.000 EUR)?
+       Auftrag: Den Notarentwurf (ca. 02.-06.11.) pruefen, nicht nur
+       allgemein beraten.
        Votum muss bis ca. 13.11.2026 vorliegen.
+
+[ ] 3a. Mit Fabian die Zahlungen 2018 / 2023 klaeren.
+        Quelle: situation\comdirect_konto_bewertung.txt Abschnitt 2
+          - 10.09.2018: +100.000 EUR von Fabian ("Klas Krueger bekannt"),
+            weiter auf das zweite Depot ...0131481400
+          - 05.09.2023: -166.111,34 EUR an Fabian ("Rueckzahlung")
+        Fragen:
+          - Was war vereinbart: Darlehen, Treuhandanlage fuer Fabian,
+            gemeinsame Anlage?
+          - Welche Belege gibt es (Vereinbarung, Depotauszuege
+            ...0131481400, Mails)?
+          - Wer traegt intern eine moegliche Pflichtteilsergaenzung
+            (geschaetzt 6.600 bis 13.200 EUR)?
+        WICHTIG fuer die Abgeltung (eckpunkte_notar.txt B.3) und fuer die
+        Steuer (Aufgabe 3 e). Ergebnis vor dem Notarentwurf.
+
+[ ] 3b. Bei der Sparkasse LzO klaeren (ggf. ueber den Erbschein oder
+        Anne als Betreuerin):
+          - DE08 2805 0100 0011 1360 90 - Inhaber? Laut Vertrag "Hille",
+            in den comdirect-Reports "Klas" bzw. "Klas und Hille".
+            Zahlungskonto fuer die Abfindung (eckpunkte_notar.txt B.7)!
+          - DE10 2805 0100 4587 3513 23 ("Hille u. Klas Krueger")
+          - DE64 2805 0100 4587 1507 25 ("Klas Krueger")
+        Jeweils Inhaber und Stand am 05.02.2026. Gemeinschaftskonten zur
+        Haelfte ins Nachlassverzeichnis (Aufgabe 7).
 
 
 -------------------------------------------------------------------------------
@@ -70,12 +110,31 @@ BIS CA. 30.10.2026
            mitteilen. Thesaurierte Ertraege und Vorabpauschale muessen
            ausdruecklich keine "Zufluesse" sein.
 
-[ ] 7. Nachlassverzeichnis fuer den Notar fertigstellen.
+[ ] 7. Nachlassverzeichnis fertigstellen.
          - Ertraegnisaufstellungen 2025 und 2026
-         - Nettoertrag 2025: 3.707,41 EUR
+         - Nettoertrag 2025: 3.812,04 EUR (bisher 3.707,41 EUR)
+           [x] nachlass\Nachlass_klas_krueger.xlsx korrigiert (20.10.2026):
+               Blatt "Ertrag comdirect 2025" mit Centbetraegen und allen
+               vier Quartalszinsen, Summe 1.517,63 EUR. Nachlassverzeichnis
+               B17 und B25 verweisen jetzt auf diese Summe.
+               Sicherung: Nachlass_klas_krueger.vor_korrektur_20261020.xlsx
+           [ ] Ertraege 2026 (Q1-Q3) jetzt 6.232,28 EUR (bisher 6.127,65),
+               weil der comdirect-Schaetzwert "wie 2025" mitwandert. Fuer
+               2026 besser echte Werte aus den Finanzreporten 2026 holen.
+           [ ] Neue Zahl 3.812,04 EUR im Begleitschreiben an Binder
+               eintragen (Aufgabe 8a) und Anne kurz erklaeren.
          - Kurze Erklaerung, warum die Ausschuettungen so niedrig sind
            (Binder haelt weniger als 0,3 Prozent fuer "nicht
-           vorstellbar")
+           vorstellbar"); haengt an Aufgabe 6.
+           Bei Fisher frassen die Gebuehren 2025 ca. 86 Prozent der
+           Ertraege. comdirect-Depot: nur Einzelaktien, keine Fonds.
+         - Vollstaendigkeit: Sparkassenkonten (Aufgabe 3b) und Herkunft
+           des Fisher-Depots (comdirect-Depot ca. 525.000 EUR Ende 2018
+           aufgeloest)
+         - comdirect-Kontoauszuege NICHT beifuegen, nur Salden am Todestag
+           und Ertraege. Auf gezielte Nachfrage wahrheitsgemaess antworten.
+       Reihenfolge: ZUERST an den Notar (Anlage zur Urkunde),
+       DANACH an Binder (Aufgabe 8a).
 
 
 -------------------------------------------------------------------------------
@@ -85,13 +144,35 @@ BIS 20.11.2026
 [ ] 8. Ersten Entwurf des Notars pruefen (erwartet ca. 02.-06.11.).
        Checkliste: situation\eckpunkte_notar.txt Abschnitt B, vor allem:
          - Abgeltung inkl. Zugewinnausgleich und comdirect-Konto (B.3)
+         - Abgeltung auch gegen Bernd und Fabian als Beschenkte
+           (§ 2329 BGB), Zugewinn inkl. § 1375 Abs. 2 BGB, wechselseitig
+           fuer ALLE Konten (B.3)
+         - Zahlungskonto fuer Fall I korrekt (B.7, Aufgabe 3b)
          - Binders Auflagen eng definiert (B.8)
          - Zwangsvollstreckung nur mit Nachweis (B.9)
          - Verknuepfung beider Genehmigungen (B.12)
          - Tod zwischen Genehmigung und Rechtskraft (B.13)
+       Entwurf sofort an den Steuerberater weitergeben (Aufgabe 3 d).
+
+[ ] 8a. Nachlassverzeichnis und Ertragszahlen an Binder senden
+        (ca. 02.-06.11., cc Anne und Fabian).
+        Text: situation\begleitschreiben_binder_verzeichnis.txt
+        Nur den Teil oberhalb der "HINWEISE ZUM VERSAND" senden.
+        ERST SENDEN, WENN:
+          - Anne das Ruhen des Verfahrens beantragt hat (Aufgabe 4)
+          - der Depotverwalter geantwortet hat und der Platzhalter in
+            Ziffer 1 ausgefuellt ist (Aufgabe 6)
+          - der Notar das Verzeichnis hat (Aufgabe 7)
+        Idealerweise zusammen mit dem Notarentwurf (Aufgabe 8) als
+        Anlage 3 - Zahlen nie ohne die Abgeltung.
+        Vorher mit Fabian und Anne abstimmen.
+        Ziel: Binders Rueckmeldung, dass er die Genehmigung des Pakets
+        empfiehlt - moeglichst vor der Beurkundung.
 
 [ ] 9. Entwurf mit Fabian, Anne und dem Steuerberater abstimmen
        (bis ca. 13.11.).
+       Falls die Ersparnis (3 a) deutlich kleiner ausfaellt als
+       100.000 EUR: Deal mit Fabian neu bewerten, BEVOR beurkundet wird.
 
 [ ] 10. Beurkundungstermin wahrnehmen (bis Fr 20.11.2026).
 
@@ -100,6 +181,8 @@ BIS 20.11.2026
 Grundlagen: situation\eckpunkte_notar.txt,
             situation\nachricht_anne.20261020.txt,
             situation\rueckfrage_notar.20261020.txt,
+            situation\begleitschreiben_binder_verzeichnis.txt,
+            situation\comdirect_konto_bewertung.txt,
             situation\zeitraum_1952_weg.txt
 Erstellt: 20.10.2026
 ===============================================================================

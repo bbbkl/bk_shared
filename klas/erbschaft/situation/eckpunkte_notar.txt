@@ -91,15 +91,24 @@ DIE DREI FAELLE (13, Ziff. 5)
      Mit den 190.000 EUR sind alle Ansprueche aus dem Erbfall Klas
      erledigt. Ohne Abgeltung zahlen wir nichts. Dazu gehoeren:
        - Pflichtteil, Pflichtteilsrest (§ 2305 BGB) und
-         Pflichtteilsergaenzung (§ 2325 BGB)
+         Pflichtteilsergaenzung (§ 2325 BGB) - AUSDRUECKLICH AUCH gegen
+         Bernd und Fabian persoenlich als Beschenkte (§ 2329 BGB).
+         Hintergrund: Zahlung an Fabian 05.09.2023 (166.111,34 EUR gegen
+         100.000 EUR 2018), siehe comdirect_konto_bewertung.txt Abschnitt 2.
        - ZUGEWINNAUSGLEICH (§ 1371 BGB) - eigener gueterrechtlicher
          Anspruch, KEIN Pflichtteil. Weder Binder (12) noch der Notar (13)
-         nennen ihn. Wichtigster Nachtrag.
+         nennen ihn. Wichtigster Nachtrag. EINSCHLIESSLICH etwaiger
+         Hinzurechnungen nach § 1375 Abs. 2 BGB.
        - Niessbrauch und alle Ertraege seit dem 05.02.2026, soweit nicht
          nach B.8 abgerechnet
-       - das comdirect-Konto (111.168 EUR)
+       - ALLE KONTEN: das comdirect-Konto (Saldo 02.02.2026:
+         110.437,94 EUR) UND die Sparkassenkonten mit Klas-Bezug
+         (...1136090, ...7351323, ...7150725). Die Abgeltung gilt
+         WECHSELSEITIG: keine Ansprueche Hilles auf das comdirect-Konto,
+         keine Ansprueche des Nachlasses auf Haelften gemeinsamer Konten.
        - Hausrat, soweit er Klas gehoerte
-       - Auskunfts- und Wertermittlungsansprueche (§ 2314 BGB) und Kosten
+       - Auskunfts- und Wertermittlungsansprueche (§ 2314 BGB,
+         § 1379 BGB) und Kosten
      Binder schlaegt nur den Ausschluss des Pflichtteils nach § 2306 BGB
      vor (12:14, Punkt 3). Das reicht nicht.
 
@@ -126,7 +135,11 @@ DIE DREI FAELLE (13, Ziff. 5)
      Abgeltungserklaerungen von Anne und Jan nachgewiesen sind.
 
   7. ZAHLUNGSWEG
-     Fall I: Konto Hille (03:69-71).
+     Fall I: Konto Hille (03:69-71) - VORHER PRUEFEN: DE08 2805 0100 0011
+     1360 90 erscheint in den comdirect-Reports als "Klas Krueger" bzw.
+     "Klas Krueger Hille Krueger" (comdirect_konto_bewertung.txt
+     Abschnitt 4). Ist es kein reines Konto Hilles, ein anderes Konto
+     Hilles nennen.
      Fall III: Notaranderkonto. Der Notar zahlt aus, sobald die
      Abgeltungserklaerungen vorliegen. Hilles Konto gibt es nach ihrem Tod
      so nicht mehr.
@@ -216,11 +229,72 @@ C. WAS DER NOTAR PRUEFEN SOLL - STAND NACH DER ANTWORT VOM 20.10.2026
 
   6. STEUERN - vor der Unterschrift durch einen Steuerberater
      Der Notar beantwortet keine Steuerfragen (13).
-       - Bleibt die Abfindung fuer uns als Nachlassverbindlichkeit
-         abzugsfaehig (§ 10 Abs. 5 Nr. 3 ErbStG)?
-       - Ist sie fuer Hille bzw. Anne und Jan steuerfrei?
-       - Wie wirkt sich der Pflichtteilsverzicht steuerlich aus?
+     WARUM VOR DER UNTERSCHRIFT: Das Geschaeft dient "zuvorderst der
+     Ersparnis von Erbschaftssteuern" (04:36). Die steuerliche Behandlung
+     folgt dem Wortlaut der Urkunde. Nach Beurkundung und Genehmigung ist
+     eine Korrektur praktisch nicht mehr moeglich.
+
+       a) [NEU, VORRANGIG] STIMMT DIE ERSPARNIS UEBERHAUPT?
+          Die Zahlen ca. 187.000 EUR ohne und ca. 87.000 EUR mit
+          Ausschlagung sind Bernds ungepruefte Eigenrechnung vom Februar
+          2026 (erbschaft_20260222.txt). Zu pruefen:
+            - Steuerfreier fiktiver Zugewinnausgleich fuer Hille
+              (§ 5 Abs. 1 ErbStG). Vermoegen Klas 2013 ca. 330.000 EUR,
+              am Sterbetag 1.438.262,66 EUR - Betrag kann sechsstellig
+              sein.
+            - Antrag nach § 6 Abs. 2 S. 2 ErbStG beim Nacherbfall
+              (Besteuerung nach dem Verhaeltnis zu Klas).
+            - Umfasst die 187.000 EUR beide Besteuerungen (Hille und
+              Nacherbfall)?
+          WARUM: Schon heute gilt ca. 187.000 EUR ohne Deal gegen ca.
+          277.000 EUR mit Deal (87.000 Steuer + 190.000 Abfindung). Die
+          Differenz ist der Preis fuer den Rechtsfrieden (comdirect,
+          Pflichtteil). Ist die Ersparnis kleiner, wird dieser Preis
+          hoeher - das muss vor der Unterschrift bekannt sein.
+          Siehe bewertung_08_ergaenzung.txt:143-177.
+
+       b) Bleibt die Abfindung fuer uns als Nachlassverbindlichkeit
+          abzugsfaehig (§ 10 Abs. 5 Nr. 3 ErbStG)?
+          WARUM: Grob ca. 14.000 EUR je Bruder, zusammen ca. 28.000 EUR
+          (je 95.000 EUR x 15 Prozent). Neu zu pruefen, weil im
+          § 1952-Fall Anne und Jan Empfaenger sind und die Abfindung
+          zusaetzlich Pflichtteilsverzicht und comdirect-Konto abgilt.
+          Klaeren: Enthaelt die 87.000 EUR diesen Abzug schon?
+
+       c) Ist sie fuer Hille bzw. Anne und Jan steuerfrei
+          (§ 3 Abs. 2 Nr. 4 ErbStG)?
+          WARUM: Kostet uns nichts, ist aber Voraussetzung fuer Annes
+          Zustimmung (09:4) und Teil der Wohlpruefung des Gerichts.
+          Voraussichtlich steuerfrei: Hille 500.000 EUR Freibetrag;
+          Anne und Jan Steuerklasse I (Stiefkinder), je 400.000 EUR,
+          auch wenn der Betrag als Erwerb von Hille zu ihrem Vermoegen
+          von ca. 400.000 EUR hinzukaeme.
+
+       d) Wie wirkt sich der Pflichtteilsverzicht steuerlich aus, und wie
+          ist die Abfindung in der Urkunde aufzuteilen?
+          WARUM: Die 190.000 EUR gelten kuenftig fuer Ausschlagung,
+          Pflichtteil, Zugewinnausgleich und comdirect-Konto. Das
+          Finanzamt kann aufteilen; jeder Teil wird anders behandelt
+          (u.a. § 13 Abs. 1 Nr. 11, § 5 Abs. 2 ErbStG). Beim comdirect-
+          Teil ist ein Abzug unwahrscheinlich. Der Steuerberater soll
+          deshalb den ENTWURF pruefen und ggf. eine Aufteilung in der
+          Urkunde empfehlen.
+
+       e) [NEU] Zahlungen Klas -> Fabian 2023 und Klas -> Hille 2022
+          - 05.09.2023: 166.111,34 EUR "Rueckzahlung" an Fabian gegen
+            100.000 EUR von Fabian 2018. Ist die Differenz von
+            66.111,34 EUR eine Schenkung, wird sie mit Fabians Erbe
+            zusammengerechnet (§ 14 ErbStG).
+          - 07/2022: 24.000 EUR fuer "Hilles Schenkungen" an Anne und Jan.
+            Steuerlich Schenkung Klas -> Hille?
+          Siehe comdirect_konto_bewertung.txt Abschnitte 2 und 3.
+
+     UNTERLAGEN FUER DEN STEUERBERATER: Nachlassverzeichnis, Bernds
+     Steuerrechnung vom Februar (erbschaft_20260222.txt), Testament (01),
+     Vertrag (03), Notarentwurf sobald vorhanden, Vermoegen Klas bei
+     Heirat 1992 (fuer den Zugewinn).
      Wegen des Termins bis 20.11. den Steuerberater SOFORT beauftragen.
+     Keine Steuerberatung - alle Zahlen grobe Schaetzungen.
 
   7. [NEU] ANNES ABWESENHEIT 21.11. BIS 13.12.2026
        - Vollmacht vorab oder Nachgenehmigung nach der Rueckkehr, falls der
@@ -231,6 +305,17 @@ C. WAS DER NOTAR PRUEFEN SOLL - STAND NACH DER ANTWORT VOM 20.10.2026
          § 1944 Abs. 3 BGB?
        - Ausschlagungserklaerungen fuer Anne und Jan schon vor der Reise
          unterschriftsreif vorbereiten.
+
+  8. [NEU] SCHENKUNGEN UND KONTEN (comdirect_konto_bewertung.txt)
+       - Pflichtteilsergaenzung und Zugewinn-Hinzurechnung wegen der
+         Zahlung an Fabian 2023: Deckt die Abgeltung (B.3) auch Ansprueche
+         gegen Bernd und Fabian als Beschenkte (§ 2329 BGB)?
+       - Hilles Erhalt von 24.000 EUR fuer ihre Schenkungen 2022: Anrechnung
+         nach § 2327 BGB?
+       - Gemeinschaftskonten bei der Sparkasse (...1136090, ...7351323):
+         Haelfte im Nachlass (§ 430 BGB)? Ist ...1136090 als Zahlungskonto
+         fuer Fall I geeignet (B.7)?
+       - Formulierung der wechselseitigen Abgeltung fuer alle Konten.
 
 
 -------------------------------------------------------------------------------
@@ -268,6 +353,25 @@ D. UNTERLAGEN FUER DEN NOTAR
         steuerliche Vorabpauschale KEINE Zufluesse sind. Dem Notar vor
         dem Entwurf mitteilen.
     Antwort moeglichst vor dem ersten Entwurf (ca. 02.-06.11.) einholen.
+    COMDIRECT-ANTEIL GEPRUEFT 20.10.2026 (comdirect_konto_bewertung.txt
+    Abschnitt 6): Die 1.413,00 EUR aus nachlass\Nachlass_klas_krueger.xlsx
+    ("Ertrag comdirect 2025") sind belegt (exakt 1.415,71 EUR). Es fehlen
+    die Tagesgeldzinsen Q1, Q3, Q4 (101,92 EUR). Vollstaendig: comdirect
+    1.517,63 EUR, Nettoertrag 2025 gesamt 3.812,04 EUR statt
+    3.707,41 EUR. Offen: Zaehlen Tagesgeldzinsen und die Steuererstattung
+    (204,23 EUR) zum Niessbrauch?
+    Das comdirect-Depot enthaelt nur Einzelaktien, KEINE Fonds.
+  - VOLLSTAENDIGKEIT DES VERZEICHNISSES PRUEFEN
+      - Sparkassenkonten mit Klas-Bezug: DE08 2805 0100 0011 1360 90,
+        DE10 2805 0100 4587 3513 23 ("Hille u. Klas"),
+        DE64 2805 0100 4587 1507 25 ("Klas") - Inhaber und Stand am
+        05.02.2026; bei Gemeinschaftskonten die Haelfte
+      - Herkunft des Fisher-Depots: Aufloesung des comdirect-Depots
+        (ca. 525.000 EUR) zwischen 10/2018 und 12/2018, zweites Depot
+        DE60 2004 1111 0131 4814 00
+  - comdirect-Kontoauszuege NICHT von sich aus beifuegen. Nur Salden am
+    Todestag und Ertraege. Auf gezielte Nachfrage wahrheitsgemaess
+    antworten (comdirect_konto_bewertung.txt Abschnitt 7).
   - Jans Anschrift: Lucy-Lameck-Str. 29, 12049 Berlin
   - Aktenzeichen des Betreuungsgerichts: AG Oldenburg 110 XVII (K) 1375;
     Anne mit Aufgabenkreis Vermoegenssorge
@@ -294,6 +398,9 @@ E. ZEITPLAN - ANNE IST VOM 21.11. BIS 13.12.2026 IM AUSLAND
                     | Nachlassverzeichnis mit Erklaerung der   | Bernd
                     | niedrigen Ausschuettungen                |
   ca. 02.-06.11.    | Erster Entwurf vom Notar                 | Notar
+                    | Verzeichnis + Begleitschreiben an Binder | Bernd
+                    | (begleitschreiben_binder_verzeichnis.txt;|
+                    | erst nach Ruhensantrag und Depotantwort) |
   bis ca. 13.11.    | Abstimmung Entwurf, Steuerberater-Votum  | alle
   bis Fr 20.11.     | BEURKUNDUNG                              | alle
   danach            | Anne reicht die Urkunde zur Genehmigung  | Anne
@@ -331,7 +438,8 @@ Grundlagen: erbschaft_kontext\00, 01, 03, 04, 05, 06, 08, 10, 11, 12, 13,
             situation\gespraech_anne.20261016.txt,
             situation\zeitraum_1952_weg.txt
 Siehe auch: situation\rueckfrage_notar.20261020.txt,
-            situation\nachricht_anne.20261020.txt
+            situation\nachricht_anne.20261020.txt,
+            situation\comdirect_konto_bewertung.txt
 Erstellt: 16.10.2026, aktualisiert 18.10.2026 und 20.10.2026.
 Keine Rechtsberatung.
 ===============================================================================
