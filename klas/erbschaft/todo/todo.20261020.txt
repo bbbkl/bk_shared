@@ -1,0 +1,105 @@
+===============================================================================
+TODO BERND - STAND 20.10.2026
+===============================================================================
+
+ZIEL: Beurkundung der Ergaenzung bis Freitag, 20.11.2026.
+Anne ist vom 21.11. bis 13.12.2026 im Ausland.
+Zeitplan im Detail: situation\eckpunkte_notar.txt Abschnitt E
+
+
+-------------------------------------------------------------------------------
+SOFORT
+-------------------------------------------------------------------------------
+
+[ ] 1. Antwort des Notariats vom 20.10.2026 (erbschaft_kontext\13) an
+       Fabian weiterleiten.
+       Grund: Das Notariat hat an "fabiankrug@gmx.de" geschickt; richtig
+       ist fabiankrueg@gmx.de.
+
+[ ] 2. Nachricht an Anne senden (cc Fabian).
+       Text: situation\nachricht_anne.20261020.txt
+       Nur den Teil oberhalb der "HINWEISE ZUM VERSAND" senden.
+       Nicht an Binder.
+
+[ ] 3. Steuerberater beauftragen.
+       Fragen: situation\eckpunkte_notar.txt Abschnitt C.6
+         - Abfindung bei uns als Nachlassverbindlichkeit abzugsfaehig?
+         - Abfindung fuer Hille bzw. Anne und Jan steuerfrei?
+         - Steuerliche Wirkung des Pflichtteilsverzichts?
+       Votum muss bis ca. 13.11.2026 vorliegen.
+
+
+-------------------------------------------------------------------------------
+NACH ANNES ANTWORT
+-------------------------------------------------------------------------------
+
+[ ] 4. Bei Anne zeitnah nachfassen, notfalls telefonisch, falls bis ca.
+       23.10. keine Antwort kommt. Benoetigt werden:
+         - OK zur Weitergabe von Binders Mail an das Notariat (Punkt 5)
+         - OK, dem Notar ihre Reise zu nennen, und moegliche Termintage
+           bis 20.11. (Punkt 6)
+         - Datum des Genehmigungsantrags
+         - Wann und wie sie das Schreiben vom 21.04.2026 erhalten hat
+         - Bestaetigung Vorbefassung fuer sich und Jan
+         - Jan informiert? Unterschrift in Oldenburg oder Berlin?
+         - Ruhensantrag beim Betreuungsgericht gestellt?
+         - Vertretung als Betreuerin und Erreichbarkeit waehrend der Reise
+
+[ ] 5. Rueckfrage an das Notariat senden (cc Fabian, Anne).
+       Text: situation\rueckfrage_notar.20261020.txt
+       Nur den Teil oberhalb der "HINWEISE ZUM VERSAND" senden.
+       Anlagen:
+         1. Binders Mail vom 19.10.2026 (erbschaft_kontext\12) - nur mit
+            Annes OK, sonst Anlage weglassen
+         2. Binders Ergaenzungsentwurf (erbschaft_kontext\05)
+       NICHT beifuegen: Entwurf 08 und unsere Gegenversion.
+       Falls Anne die Reise nicht genannt haben moechte: den Absatz
+       "Zum Zeitplan" und die Fragen c) und d) neutral umformulieren.
+
+
+-------------------------------------------------------------------------------
+BIS CA. 30.10.2026
+-------------------------------------------------------------------------------
+
+[ ] 6. Antwort des Depotverwalters zu thesaurierenden Fonds abwarten
+       (Anfrage am 20.10.2026 gestellt). Falls bis ca. 27.10. nichts
+       kommt: nachfassen.
+         - Keine thesaurierenden Fonds: Klausel B.8 b) bleibt.
+         - Thesaurierende Fonds vorhanden: Anteil und einbehaltene
+           Ertraege 2025 erfragen und dem Notar vor dem Entwurf
+           mitteilen. Thesaurierte Ertraege und Vorabpauschale muessen
+           ausdruecklich keine "Zufluesse" sein.
+
+[ ] 7. Nachlassverzeichnis fuer den Notar fertigstellen.
+         - Ertraegnisaufstellungen 2025 und 2026
+         - Nettoertrag 2025: 3.707,41 EUR
+         - Kurze Erklaerung, warum die Ausschuettungen so niedrig sind
+           (Binder haelt weniger als 0,3 Prozent fuer "nicht
+           vorstellbar")
+
+
+-------------------------------------------------------------------------------
+BIS 20.11.2026
+-------------------------------------------------------------------------------
+
+[ ] 8. Ersten Entwurf des Notars pruefen (erwartet ca. 02.-06.11.).
+       Checkliste: situation\eckpunkte_notar.txt Abschnitt B, vor allem:
+         - Abgeltung inkl. Zugewinnausgleich und comdirect-Konto (B.3)
+         - Binders Auflagen eng definiert (B.8)
+         - Zwangsvollstreckung nur mit Nachweis (B.9)
+         - Verknuepfung beider Genehmigungen (B.12)
+         - Tod zwischen Genehmigung und Rechtskraft (B.13)
+
+[ ] 9. Entwurf mit Fabian, Anne und dem Steuerberater abstimmen
+       (bis ca. 13.11.).
+
+[ ] 10. Beurkundungstermin wahrnehmen (bis Fr 20.11.2026).
+
+
+===============================================================================
+Grundlagen: situation\eckpunkte_notar.txt,
+            situation\nachricht_anne.20261020.txt,
+            situation\rueckfrage_notar.20261020.txt,
+            situation\zeitraum_1952_weg.txt
+Erstellt: 20.10.2026
+===============================================================================
