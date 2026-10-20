@@ -102,6 +102,17 @@ OFFEN: Bleibt die Frist auch dann angehalten, wenn das Verfahren nur
 "ruht"? Das sollte Schwackenberg vorrangig klaeren. Durch die laengere
 Restfrist ist diese Frage weniger kritisch als bisher, aber nicht
 erledigt.
+NACHTRAG 20.10.2026: GEKLAERT. Die Hemmung bleibt bis zum
+rechtskraeftigen Abschluss bestehen, auch beim Ruhen (13, Ziff. 3).
+
+NACHTRAG 20.10.2026 - ANNE IM AUSLAND VOM 21.11. BIS 13.12.2026
+  - Fuer Hilles Frist unkritisch: Das Verfahren ruht, die Hemmung bleibt.
+  - Stirbt Hille waehrend der Reise, muss Anne aus dem Ausland oder nach
+    der Rueckkehr ausschlagen. Fuer sie gilt moeglicherweise die Frist von
+    6 Monaten (§ 1944 Abs. 3 BGB), fuer Jan 6 Wochen. Vom Notar
+    bestaetigen lassen.
+  - Ziel deshalb: Beurkundung der Ergaenzung bis 20.11.2026
+    (eckpunkte_notar.txt Abschnitt E).
 
 
 -------------------------------------------------------------------------------
@@ -149,6 +160,11 @@ erledigt.
                     Bitte um Aussetzung (10)
   heute bis Tod     Verfahren muss anhaengig bleiben, keine Entscheidung
                     -> Notar, Vertrag, Jan und Steuerfragen vorbereiten
+  20.10.2026        Notariat Schwackenberg (13): Hemmung bleibt auch beim
+                    Ruhen des Verfahrens bestehen
+  bis 20.11.2026    Ziel: Beurkundung der Ergaenzung
+  21.11.-13.12.2026 Anne im Ausland, kein Notartermin moeglich
+                    (Details: eckpunkte_notar.txt Abschnitt E)
   Hilles Tod (T)    Genehmigungsverfahren endet, Anne und Jan erben
                     Hilles Ausschlagungsrecht
   T + 6 Wochen      Spaetestes sicheres Ende: Ausschlagung von Anne UND
