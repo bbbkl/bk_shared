@@ -94,7 +94,10 @@ DIE DREI FAELLE (13, Ziff. 5)
          Pflichtteilsergaenzung (§ 2325 BGB) - AUSDRUECKLICH AUCH gegen
          Bernd und Fabian persoenlich als Beschenkte (§ 2329 BGB).
          Hintergrund: Zahlung an Fabian 05.09.2023 (166.111,34 EUR gegen
-         100.000 EUR 2018), siehe comdirect_konto_bewertung.txt Abschnitt 2.
+         100.000 EUR 2018). Nach Klaerung eine Treuhandanlage Fabians,
+         also keine Schenkung - die Abgeltung sichert das trotzdem ab,
+         weil eine schriftliche Treuhandabrede fehlt.
+         Siehe comdirect_konto_bewertung.txt Abschnitt 2.
        - ZUGEWINNAUSGLEICH (§ 1371 BGB) - eigener gueterrechtlicher
          Anspruch, KEIN Pflichtteil. Weder Binder (12) noch der Notar (13)
          nennen ihn. Wichtigster Nachtrag. EINSCHLIESSLICH etwaiger
@@ -280,13 +283,13 @@ C. WAS DER NOTAR PRUEFEN SOLL - STAND NACH DER ANTWORT VOM 20.10.2026
           deshalb den ENTWURF pruefen und ggf. eine Aufteilung in der
           Urkunde empfehlen.
 
-       e) [NEU] Zahlungen Klas -> Fabian 2023 und Klas -> Hille 2022
-          - 05.09.2023: 166.111,34 EUR "Rueckzahlung" an Fabian gegen
-            100.000 EUR von Fabian 2018. Ist die Differenz von
-            66.111,34 EUR eine Schenkung, wird sie mit Fabians Erbe
-            zusammengerechnet (§ 14 ErbStG).
+       e) [NEU] Zahlungen Klas -> Hille 2022
           - 07/2022: 24.000 EUR fuer "Hilles Schenkungen" an Anne und Jan.
             Steuerlich Schenkung Klas -> Hille?
+          - Die Zahlung an Fabian 2023 ist nach Klaerung die Rueckzahlung
+            einer Treuhandanlage, keine Schenkung. Sie ist nicht Teil des
+            gemeinsamen Steuerauftrags; Fabian klaert seine Seite mit
+            einem eigenen Berater.
           Siehe comdirect_konto_bewertung.txt Abschnitte 2 und 3.
 
      UNTERLAGEN FUER DEN STEUERBERATER: Nachlassverzeichnis, Bernds
@@ -307,9 +310,9 @@ C. WAS DER NOTAR PRUEFEN SOLL - STAND NACH DER ANTWORT VOM 20.10.2026
          unterschriftsreif vorbereiten.
 
   8. [NEU] SCHENKUNGEN UND KONTEN (comdirect_konto_bewertung.txt)
-       - Pflichtteilsergaenzung und Zugewinn-Hinzurechnung wegen der
-         Zahlung an Fabian 2023: Deckt die Abgeltung (B.3) auch Ansprueche
-         gegen Bernd und Fabian als Beschenkte (§ 2329 BGB)?
+       - Pflichtteilsergaenzung und Zugewinn-Hinzurechnung: Deckt die
+         Abgeltung (B.3) vorsorglich auch Ansprueche gegen Bernd und Fabian
+         als (angeblich) Beschenkte (§ 2329 BGB)?
        - Hilles Erhalt von 24.000 EUR fuer ihre Schenkungen 2022: Anrechnung
          nach § 2327 BGB?
        - Gemeinschaftskonten bei der Sparkasse (...1136090, ...7351323):
@@ -366,9 +369,10 @@ D. UNTERLAGEN FUER DEN NOTAR
         DE10 2805 0100 4587 3513 23 ("Hille u. Klas"),
         DE64 2805 0100 4587 1507 25 ("Klas") - Inhaber und Stand am
         05.02.2026; bei Gemeinschaftskonten die Haelfte
-      - Herkunft des Fisher-Depots: Aufloesung des comdirect-Depots
-        (ca. 525.000 EUR) zwischen 10/2018 und 12/2018, zweites Depot
-        DE60 2004 1111 0131 4814 00
+      - Herkunft des Fisher-Depots: GEKLAERT 20.10.2026. Das comdirect-
+        Depot (ca. 525.000 EUR) wurde 10-12/2018 in das Fisher-Depot
+        ueberfuehrt (KNR 1181314814, Verrechnungskonto
+        DE60 2004 1111 0131 4814 00). Im Verzeichnis kurz erwaehnen.
   - comdirect-Kontoauszuege NICHT von sich aus beifuegen. Nur Salden am
     Todestag und Ertraege. Auf gezielte Nachfrage wahrheitsgemaess
     antworten (comdirect_konto_bewertung.txt Abschnitt 7).

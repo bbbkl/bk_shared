@@ -8,10 +8,11 @@ Wie sind die Kontobewegungen des comdirect-Kontos zu bewerten
 (D:\bk\bk_shared\klas\comdirect_kto, Finanzreporte 2012 bis 02/2026)?
 
 ERGEBNIS IN EINEM SATZ
-Annes Gemeinschaftskonto-These ist schwach. Wichtiger sind vier andere
+Annes Gemeinschaftskonto-These ist schwach. Wichtiger sind drei andere
 Befunde: die Zahlungen zwischen Klas und Fabian 2018/2023, Klas' Zahlungen
-fuer Hilles Schenkungen 2022, die Inhaberschaft des Sparkassenkontos
-...1136090 und die Aufloesung des grossen Depots Ende 2018.
+fuer Hilles Schenkungen 2022 und die Inhaberschaft des Sparkassenkontos
+...1136090. Die Aufloesung des grossen Depots Ende 2018 ist geklaert:
+Uebergang in das Fisher-Depot (Abschnitt 5).
 
 KEINE RECHTSBERATUNG. Alle Betraege stammen aus den Finanzreporten; alle
 Rechtsangaben sind Einschaetzungen und vom Notar bzw. Steuerberater zu
@@ -71,7 +72,8 @@ Saldo 02.02.2026: 110.437,94 EUR, davon Depot 58.948,58 EUR (20260202.txt).
                                Text "KLAS KRUEGER BEKANNT"
   27.09.2018  -100.001,00 EUR  "Uebertrag auf Verrechnungskonto des
                                Depots", an DE60 2004 1111 0131 4814 00
-                               (zweites comdirect-Depot)
+                               (= Verrechnungskonto des Fisher-Depots,
+                               siehe Abschnitt 5)
               (20181001.txt / .pdf)
 
   05.09.2023  -166.111,34 EUR  an Fabian Krueger
@@ -84,6 +86,55 @@ Saldo 02.02.2026: 110.437,94 EUR, davon Depot 58.948,58 EUR (20260202.txt).
               (20231003.txt / .pdf)
 
   DIFFERENZ: 66.111,34 EUR mehr zurueck als eingezahlt.
+
+  GEKLAERT 20.10.2026 (Bernd): TREUHANDANLAGE
+    Fabian hat Klas 2018 einen Geldbetrag gegeben, den Klas fuer ihn im
+    Fisher-Depot mit anlegen sollte. 2023 hat Klas Fabian ueber das
+    comdirect-Konto ausgezahlt, statt den Anteil aus dem Fisher-Depot zu
+    entnehmen.
+
+  ERBRECHTLICHE FOLGE
+    - Bei einer Treuhand gehoerten die 100.000 EUR und die darauf
+      entfallende Wertentwicklung Fabian. Die Auszahlung 2023 war dann
+      die Rueckgabe seines eigenen Vermoegens - KEINE Schenkung.
+      Pflichtteilsergaenzung, Zugewinn-Hinzurechnung und § 14 ErbStG
+      entfallen.
+    - Wirtschaftlich war es ein Tausch im Vermoegen von Klas: comdirect
+      -166.111 EUR, dafuer gehoert der fruehere Anteil Fabians im
+      Fisher-Depot seitdem Klas. Das Fisher-Depot steht am 05.02.2026
+      deshalb zu Recht voll im Nachlass.
+    - VORAUSSETZUNG: Die 166.111,34 EUR entsprechen dem Wert von Fabians
+      Anteil im Fisher-Depot im 09/2023. Rendite gerechnet: +66 Prozent
+      in 5 Jahren, ca. 10,7 Prozent p.a. Plausibel fuer ein Aktiendepot
+      2018-2023. Lag die Auszahlung deutlich ueber dem anteiligen Wert,
+      waere nur der Mehrbetrag eine Schenkung.
+      Beleg: Depotwerte Fisher 09/2018 und 09/2023
+      (nachlass\fisher_depot\2018_09_14_..._VVV&Bankunterlagen.pdf
+      und Fisher-Quartalsberichte 2023).
+
+  RESTRISIKO
+    - Wer sich auf die Treuhand beruft, muss sie beweisen. Eine
+      schriftliche Treuhandabrede gibt es nach bisherigem Stand nicht.
+      Ohne Beweis koennte ein Dritter die 66.111 EUR als Schenkung werten.
+    - Fuer die Erbauseinandersetzung mit Anne ist das durch die
+      umfassende Abgeltung erledigt (eckpunkte_notar.txt B.3: auch
+      Pflichtteilsergaenzung gegen Bernd und Fabian als Beschenkte).
+      Die Abgeltung ist deshalb fuer Fabian besonders wichtig.
+    - Die steuerliche Behandlung der Anlage 2018-2023 (Zurechnung der
+      Kapitalertraege, Herkunft der Mittel) betrifft Fabian persoenlich.
+      Er klaert sie mit einem EIGENEN Steuerberater. Sie gehoert nicht in
+      den gemeinsamen Steuerauftrag zum Erbfall.
+    - Gegenueber Notar, Gericht und Finanzamt nur wahrheitsgemaesse
+      Angaben machen. Wird nach den Zahlungen gefragt, ist die Antwort:
+      Rueckzahlung einer Treuhandanlage Fabians.
+
+  INNENVERHAELTNIS BERND / FABIAN
+    Etwaige Folgen aus der Anlage 2018-2023 sollte Fabian allein tragen:
+    Pflichtteilsergaenzung, Steuern, Zinsen, Beratungskosten. Dazu eine
+    kurze schriftliche Freistellung Fabian -> Bernd, unabhaengig von der
+    Urkunde mit Anne.
+
+  URSPRUENGLICHE PRUEFUNG (vor der Klaerung, zur Nachvollziehbarkeit)
 
   WARUM DAS WICHTIG IST
     Ist die Differenz (ganz oder teilweise) eine Schenkung von Klas an
@@ -104,13 +155,11 @@ Saldo 02.02.2026: 110.437,94 EUR, davon Depot 58.948,58 EUR (20260202.txt).
     nur fuer ihn angelegt hat (Treuhand), einschliesslich der Ertraege.
     Dann ist die Rueckzahlung samt Gewinn Fabians eigenes Geld.
 
-  ZU KLAEREN (MIT FABIAN, MIT BELEGEN)
-    - Was wurde 2018 vereinbart? Darlehen, Treuhandanlage, gemeinsame
-      Anlage?
-    - Gibt es Unterlagen: Vereinbarung, Depotauszuege ...0131481400,
-      Mails?
-    - Wer traegt intern eine moegliche Pflichtteilsergaenzung - Bernd
-      und Fabian je zur Haelfte oder Fabian allein?
+  ZU KLAEREN (MIT FABIAN, MIT BELEGEN) - TEILWEISE ERLEDIGT
+    - [x] Was wurde 2018 vereinbart? Treuhandanlage im Fisher-Depot.
+    - [ ] Belege: Fisher-Depotwerte 09/2018 und 09/2023, ggf. Mails oder
+          Notizen von Klas zur Anlage fuer Fabian.
+    - [ ] Freistellung Fabian -> Bernd (siehe oben).
 
   NICHT KRITISCH: 04.03.2015 je 49.478,20 EUR an Bernd und Fabian
   ("vorweggenommenes Erbe, wie der Bruder") und 30.000 EUR an Fabian
@@ -185,7 +234,7 @@ Saldo 02.02.2026: 110.437,94 EUR, davon Depot 58.948,58 EUR (20260202.txt).
 
 
 -------------------------------------------------------------------------------
-5. BEFUND D - AUFLOESUNG DES GROSSEN DEPOTS ENDE 2018
+5. BEFUND D - AUFLOESUNG DES GROSSEN DEPOTS ENDE 2018 - GEKLAERT
 -------------------------------------------------------------------------------
 
   01.10.2018  Depot comdirect 524.982,28 EUR (13 Einzelwerte)
@@ -195,13 +244,30 @@ Saldo 02.02.2026: 110.437,94 EUR, davon Depot 58.948,58 EUR (20260202.txt).
               2022: ca. 216.000 EUR, 2023 nach Rueckzahlung: ca.
               55.000 EUR)
 
-  Der Bestand wurde vermutlich auf das zweite Depot (...0131481400) bzw.
-  zu Fisher Investments uebertragen. Im Report selbst ist der Abgang
-  nicht als Buchung sichtbar.
+  GEKLAERT 20.10.2026 (Bernd): Die Aufloesung war der Uebergang in das
+  Fisher-Depot. Es handelt sich um eine Umschichtung innerhalb von Klas'
+  eigenem Vermoegen - keine Zuwendung an Dritte, kein Abgang aus dem
+  Nachlass.
 
-  WARUM DAS WICHTIG IST
-    - Das Nachlassverzeichnis muss die Herkunft des Fisher-Depots
-      lueckenlos zeigen. Sonst stellt Binder es in Frage.
+  ZUORDNUNG DER KONTONUMMERN
+    Das Fisher-Depot steht im Nachlassverzeichnis mit "KNR 1181314814"
+    (nachlass\Nachlass_klas_krueger.xlsx, Zeile 5). Das passt zum
+    comdirect-Format "118 ..." (Kundennummer 118 1314814) und zum
+    Verrechnungskonto DE60 2004 1111 0131 4814 00. Das "zweite Depot" aus
+    Abschnitt 2 IST also das Fisher-Depot.
+
+  FOLGE FUER BEFUND A (ZAHLUNGEN FABIAN)
+    Die 100.000 EUR von Fabian (10.09.2018) flossen am 27.09.2018 auf das
+    Verrechnungskonto des Fisher-Depots - also kurz vor bzw. mit dem
+    Depotuebergang. Die "Rueckzahlung" vom 05.09.2023 kam dagegen aus dem
+    alten comdirect-Konto. Fuer die Klaerung mit Fabian (Abschnitt 2)
+    heisst das: Die Fisher-Unterlagen ab 09/2018 zeigen, ob und wie die
+    100.000 EUR dort fuer Fabian gefuehrt wurden.
+
+  WAS BLEIBT
+    - Im Nachlassverzeichnis genuegt der Hinweis: "Das comdirect-Depot
+      wurde Ende 2018 in die Vermoegensverwaltung Fisher Investments
+      ueberfuehrt."
     - Fuer den Zugewinn: Das Depot 2018 (ca. 525.000 EUR) ist eine
       Zwischenstufe zwischen 2013 (330.000 EUR, 01:145) und 2026
       (1,44 Mio. EUR).
@@ -290,14 +356,16 @@ Saldo 02.02.2026: 110.437,94 EUR, davon Depot 58.948,58 EUR (20260202.txt).
      falsche Auskunft koennte die Abgeltung anfechtbar machen
      (§ 123 BGB).
 
-  3. MIT FABIAN KLAEREN: Vereinbarung 2018 / Rueckzahlung 2023, Belege,
-     interne Tragung einer moeglichen Ergaenzung.
+  3. MIT FABIAN: Treuhandanlage geklaert (Abschnitt 2). Offen: Belege
+     (Fisher-Depotwerte 09/2018 und 09/2023) und schriftliche Freistellung
+     Fabian -> Bernd.
 
   4. BEI DER SPARKASSE KLAEREN: Inhaber und Stand am 05.02.2026 der Konten
      ...1136090, ...7351323, ...7150725.
 
-  5. STEUERBERATER: § 14 ErbStG wegen der Zahlung an Fabian 2023;
-     Einordnung der Zahlungen 2022 fuer Hilles Schenkungen.
+  5. STEUERBERATER (gemeinsamer Auftrag): Einordnung der Zahlungen 2022
+     fuer Hilles Schenkungen. Die Anlage Fabians 2018-2023 klaert Fabian
+     mit einem eigenen Steuerberater.
 
   6. ERTRAG 2025: 1.413,00 EUR sind belegt (exakt 1.415,71). Es fehlen
      drei Quartale Tagesgeldzinsen (101,92 EUR). Vollstaendig:
