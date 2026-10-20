@@ -36,27 +36,30 @@ SOFORT
          - Testament (01) und Vertrag vom 13.03.2026 (03)
           - Vermoegen Klas bei Heirat 1992 - beschaffen, falls moeglich
         Zusaetzlich pruefen lassen (eckpunkte_notar.txt C.6 e):
-          e) Zahlung an Fabian 05.09.2023 (166.111,34 EUR gegen
-             100.000 EUR 2018): Schenkung? § 14 ErbStG?
-             Zahlungen 07/2022 fuer Hilles Schenkungen (24.000 EUR)?
+          e) Zahlungen 07/2022 fuer Hilles Schenkungen (24.000 EUR)?
+        NICHT in diesen Auftrag: die Anlage Fabians 2018-2023 (Aufgabe 3a).
        Auftrag: Den Notarentwurf (ca. 02.-06.11.) pruefen, nicht nur
        allgemein beraten.
        Votum muss bis ca. 13.11.2026 vorliegen.
 
-[ ] 3a. Mit Fabian die Zahlungen 2018 / 2023 klaeren.
+[ ] 3a. Zahlungen 2018 / 2023 mit Fabian - TEILWEISE ERLEDIGT
         Quelle: situation\comdirect_konto_bewertung.txt Abschnitt 2
           - 10.09.2018: +100.000 EUR von Fabian ("Klas Krueger bekannt"),
-            weiter auf das zweite Depot ...0131481400
-          - 05.09.2023: -166.111,34 EUR an Fabian ("Rueckzahlung")
-        Fragen:
-          - Was war vereinbart: Darlehen, Treuhandanlage fuer Fabian,
-            gemeinsame Anlage?
-          - Welche Belege gibt es (Vereinbarung, Depotauszuege
-            ...0131481400, Mails)?
-          - Wer traegt intern eine moegliche Pflichtteilsergaenzung
-            (geschaetzt 6.600 bis 13.200 EUR)?
-        WICHTIG fuer die Abgeltung (eckpunkte_notar.txt B.3) und fuer die
-        Steuer (Aufgabe 3 e). Ergebnis vor dem Notarentwurf.
+            am 27.09.2018 weiter auf das Verrechnungskonto des
+            Fisher-Depots (...0131481400)
+          - 05.09.2023: -166.111,34 EUR an Fabian ("Rueckzahlung"), aus
+            dem alten comdirect-Konto
+        [x] Vereinbarung geklaert: Treuhandanlage Fabians im Fisher-Depot,
+            2023 ueber comdirect ausgezahlt. Erbrechtlich keine Schenkung.
+        [ ] Belege sichern: Fisher-Depotwerte 09/2018 und 09/2023. Passt
+            die Auszahlung zum anteiligen Wert (+66 Prozent in 5 Jahren)?
+        [ ] Kurze schriftliche Freistellung Fabian -> Bernd fuer alle
+            Folgen aus der Anlage 2018-2023 (Pflichtteilsergaenzung,
+            Steuern, Zinsen, Beratungskosten).
+        [ ] Fabian klaert die steuerliche Seite mit einem EIGENEN
+            Steuerberater - getrennt vom gemeinsamen Auftrag (Aufgabe 3).
+        WICHTIG: Die Abgeltung (eckpunkte_notar.txt B.3) muss auch
+        Ansprueche gegen Bernd und Fabian als "Beschenkte" erfassen.
 
 [ ] 3b. Bei der Sparkasse LzO klaeren (ggf. ueber den Erbschein oder
         Anne als Betreuerin):
@@ -128,9 +131,9 @@ BIS CA. 30.10.2026
            vorstellbar"); haengt an Aufgabe 6.
            Bei Fisher frassen die Gebuehren 2025 ca. 86 Prozent der
            Ertraege. comdirect-Depot: nur Einzelaktien, keine Fonds.
-         - Vollstaendigkeit: Sparkassenkonten (Aufgabe 3b) und Herkunft
-           des Fisher-Depots (comdirect-Depot ca. 525.000 EUR Ende 2018
-           aufgeloest)
+         - Vollstaendigkeit: Sparkassenkonten (Aufgabe 3b).
+           Herkunft des Fisher-Depots geklaert (Uebergang des comdirect-
+           Depots Ende 2018); im Verzeichnis einen Satz dazu aufnehmen.
          - comdirect-Kontoauszuege NICHT beifuegen, nur Salden am Todestag
            und Ertraege. Auf gezielte Nachfrage wahrheitsgemaess antworten.
        Reihenfolge: ZUERST an den Notar (Anlage zur Urkunde),
