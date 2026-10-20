@@ -1,0 +1,314 @@
+===============================================================================
+COMDIRECT-KONTO KLAS KRUEGER - BEWERTUNG DER KONTOAUSZUEGE
+Stand 20.10.2026
+===============================================================================
+
+FRAGE
+Wie sind die Kontobewegungen des comdirect-Kontos zu bewerten
+(D:\bk\bk_shared\klas\comdirect_kto, Finanzreporte 2012 bis 02/2026)?
+
+ERGEBNIS IN EINEM SATZ
+Annes Gemeinschaftskonto-These ist schwach. Wichtiger sind vier andere
+Befunde: die Zahlungen zwischen Klas und Fabian 2018/2023, Klas' Zahlungen
+fuer Hilles Schenkungen 2022, die Inhaberschaft des Sparkassenkontos
+...1136090 und die Aufloesung des grossen Depots Ende 2018.
+
+KEINE RECHTSBERATUNG. Alle Betraege stammen aus den Finanzreporten; alle
+Rechtsangaben sind Einschaetzungen und vom Notar bzw. Steuerberater zu
+pruefen.
+
+Kontodaten: comdirect, Kundennummer 118 7285638, Inhaber Klas Krueger.
+  Girokonto      DE78 2004 1111 0728 5638 00
+  Tagesgeld PLUS DE40 2004 1111 0728 5638 05
+  Verrechnung    DE65 2004 1111 0728 5638 40
+Saldo 02.02.2026: 110.437,94 EUR, davon Depot 58.948,58 EUR (20260202.txt).
+
+
+-------------------------------------------------------------------------------
+1. GEMEINSCHAFTSKONTO? - EHER NEIN
+-------------------------------------------------------------------------------
+
+  FUER Annes These                      | DAGEGEN
+  --------------------------------------+---------------------------------------
+  Freistellungsauftrag ab 2020 ueber    | Alle Reports an "Herrn Klas Krueger".
+  den Ehegattenbetrag 1.602 / 2.000 EUR | Hille ist nirgends Mitinhaberin oder
+                                        | Bevollmaechtigte.
+  --------------------------------------+---------------------------------------
+  Uebertraege "Klas Krueger Hille       | Die eingehende RV-Rente ist Klas'
+  Krueger", netto ca. +38.400 EUR seit  | eigene: Rentennummer 97050220438K00711
+  2012 (comdirect_kto\bewertung_        | enthaelt sein Geburtsdatum 22.04.38.
+  comdirect_kto\hille_und_klas.txt)     |
+  --------------------------------------+---------------------------------------
+  Hilles Kosten wurden von hier bezahlt | Ehegatten-Freistellungsauftrag ist bei
+  (Hausgeld Meyerdierks "Krueger Hille",| Einzelkonten ueblich. Kosten fuer Hille
+  Apotheke, Taschengeld, Therapie)      | = Familienunterhalt (§ 1360 BGB), kein
+                                        | Miteigentum.
+  --------------------------------------+---------------------------------------
+                                        | Bei der Sparkasse LzO gab es ein
+                                        | ausdrueckliches Gemeinschaftskonto
+                                        | "Hille u. Klas Krueger"
+                                        | (DE10 2805 0100 4587 3513 23). Das
+                                        | comdirect-Konto blieb bewusst getrennt.
+
+  EINSCHAETZUNG
+    - Formal Einzelkonto von Klas. Vergleich comdirect_kto\
+      bewertung_comdirect_kto\pruefung_gemeinschaftskonto2.txt: 1-2 von 10.
+    - Denkbar bleibt nur eine Innengesellschaft bzw. ein interner
+      Ausgleichsanspruch Hilles fuer gemeinsame Ersparnisse (BGH-
+      Rechtsprechung zu Ehegattenkonten). Belegbar ist nur ein kleiner
+      Beitrag Hilles; die Mittel stammen ueberwiegend aus Klas' Rente und
+      Depot.
+    - FOLGE: Die 190.000 EUR sind auch mit Blick auf das comdirect-Konto
+      grosszuegig. Mit der umfassenden Abgeltung (eckpunkte_notar.txt B.3)
+      ist der Punkt erledigt.
+
+
+-------------------------------------------------------------------------------
+2. BEFUND A - ZAHLUNGEN ZWISCHEN KLAS UND FABIAN 2018 / 2023
+-------------------------------------------------------------------------------
+
+  10.09.2018  +100.000,00 EUR  von FABIAN JOERG KRUEGER,
+                               Text "KLAS KRUEGER BEKANNT"
+  27.09.2018  -100.001,00 EUR  "Uebertrag auf Verrechnungskonto des
+                               Depots", an DE60 2004 1111 0131 4814 00
+                               (zweites comdirect-Depot)
+              (20181001.txt / .pdf)
+
+  05.09.2023  -166.111,34 EUR  an Fabian Krueger
+                               (DE10 2804 0046 0403 5960 00),
+                               Text "Rueckzahlung".
+                               Finanziert aus Tagesgeld (+115.087,79) und
+                               Verrechnungskonto (+51.023,55), zuvor
+                               Wertpapierverkaeufe (Saldo Aktien bis 10/2023
+                               +39.228,93 EUR)
+              (20231003.txt / .pdf)
+
+  DIFFERENZ: 66.111,34 EUR mehr zurueck als eingezahlt.
+
+  WARUM DAS WICHTIG IST
+    Ist die Differenz (ganz oder teilweise) eine Schenkung von Klas an
+    Fabian, dann:
+      - PFLICHTTEILSERGAENZUNG (§ 2325 BGB): im 3. Jahr vor dem Tod
+        (05.09.2023 -> 05.02.2026), Abschmelzung auf 8/10 = ca.
+        52.900 EUR. Hilles Ergaenzungsanspruch: 1/8 bis 1/4 davon, ca.
+        6.600 bis 13.200 EUR.
+        Schuldner sind die Erben, also BERND UND FABIAN; subsidiaer der
+        Beschenkte (§ 2329 BGB).
+      - ZUGEWINN (§ 1375 Abs. 2 Nr. 1 BGB): Hinzurechnung zu Klas'
+        Endvermoegen, wenn die Schenkung keiner sittlichen Pflicht
+        entsprach. Hilles Ausgleich steigt um bis zu ca. 33.000 EUR.
+      - ERBSCHAFTSTEUER (§ 14 ErbStG): Zusammenrechnung mit Fabians
+        Erwerb von Todes wegen.
+
+    Keine Schenkung, wenn das Geld von 2018 Fabian gehoerte und Klas es
+    nur fuer ihn angelegt hat (Treuhand), einschliesslich der Ertraege.
+    Dann ist die Rueckzahlung samt Gewinn Fabians eigenes Geld.
+
+  ZU KLAEREN (MIT FABIAN, MIT BELEGEN)
+    - Was wurde 2018 vereinbart? Darlehen, Treuhandanlage, gemeinsame
+      Anlage?
+    - Gibt es Unterlagen: Vereinbarung, Depotauszuege ...0131481400,
+      Mails?
+    - Wer traegt intern eine moegliche Pflichtteilsergaenzung - Bernd
+      und Fabian je zur Haelfte oder Fabian allein?
+
+  NICHT KRITISCH: 04.03.2015 je 49.478,20 EUR an Bernd und Fabian
+  ("vorweggenommenes Erbe, wie der Bruder") und 30.000 EUR an Fabian
+  ("Spritze fuer Hauserwerb"), 20150401.pdf. Mehr als 10 Jahre vor dem
+  Tod: keine Pflichtteilsergaenzung (§ 2325 Abs. 3 BGB), keine
+  Hinzurechnung zum Zugewinn (§ 1375 Abs. 3 BGB), keine Zusammenrechnung
+  (§ 14 ErbStG).
+
+
+-------------------------------------------------------------------------------
+3. BEFUND B - KLAS HAT 2022 HILLES SCHENKUNGEN AN ANNE UND JAN FINANZIERT
+-------------------------------------------------------------------------------
+
+  15.07.2022  -12.057,00 EUR  "Teil-Schenkung v. Hille an Jan"
+  21.07.2022   -2.943,00 EUR  "Teil-Schenkung von Hille an Tochter Anne"
+  25.07.2022   -9.000,00 EUR  "Uebertrag fuer Hilles Schenkung"
+  Summe        24.000,00 EUR  jeweils an DE08 2805 0100 0011 1360 90
+              (20220801.pdf; finanziert durch Uebertraege von einem
+              anderen comdirect-Konto Klas' von je 9.999 / 4.520 /
+              4.613,24 EUR)
+
+  Ausserdem:
+  12.10.2020  -60.000,00 EUR  an Jan Trueper, "Darlehen Nebenkosten
+                              Wohnung"; 16.06.2021 +60.000,00 EUR
+                              "Rueckzahlung Darlehen" (20201102.pdf,
+                              20210701.txt) - zinslos, ausgeglichen
+  08.10.2020   -3.000,00 EUR  an Merle Weniger, "Zuschuss zum Haus
+                              anlaesslich der Hochzeit"
+
+  WARUM DAS WICHTIG IST
+    - Hat Klas Hille Geld fuer deren Schenkungen gegeben, ist das eine
+      Zuwendung an Hille. Sie muesste sie sich auf einen eigenen
+      Pflichtteilsergaenzungsanspruch anrechnen lassen (§ 2327 BGB).
+    - Es zeigt: Auch Annes Seite hat von Klas' Vermoegen profitiert. Das
+      ist ein sachliches Gegenargument, falls Anne mit Zuwendungen an
+      Bernd und Fabian argumentiert.
+    - Wertungsfrage: Steuerlich koennte die Zahlung als Schenkung Klas ->
+      Hille gelten (Ehegatten-Freibetrag 500.000 EUR, unproblematisch).
+
+
+-------------------------------------------------------------------------------
+4. BEFUND C - WEM GEHOERT DAS ZAHLUNGSKONTO DER ABFINDUNG?
+-------------------------------------------------------------------------------
+
+  Im Vertrag vom 13.03.2026 (03:69-71) steht als Zahlungskonto
+    DE08 2805 0100 0011 1360 90, "Kontoinhaber: Hille Krueger".
+
+  In den comdirect-Reports heisst dasselbe Konto:
+    - "Klas Krueger" (20220801.pdf, 20240502.txt, 20260202.txt)
+    - "Klas Krueger Hille Krueger" (20220801.pdf, 20240502.txt)
+    - Buchungstexte "Uebertrag auf eigenes Konto" (18.07.2022) und
+      "Kontoauffuellung von Comdirect" (19.01.2026)
+
+  Weitere Konten mit Klas-Bezug bei der Sparkasse LzO:
+    - DE10 2805 0100 4587 3513 23  "Hille u. Klas Krueger"
+      (Enkelfuehrerscheine)
+    - DE64 2805 0100 4587 1507 25  "Klas Krueger" (Fortsetzung
+      Hauszinsen)
+
+  WARUM DAS WICHTIG IST
+    - Ist ...1136090 ein Gemeinschaftskonto (Oder-Konto), faellt im
+      Zweifel die Haelfte des Guthabens am 05.02.2026 in den Nachlass
+      (§ 430 BGB). Dasselbe gilt fuer ...7351323. Konto ...7150725 faellt
+      ganz in den Nachlass, wenn es Klas allein gehoerte.
+    - PRUEFEN: Sind diese Konten im Nachlassverzeichnis enthalten?
+    - ZAHLUNGSWEG: Fuer Fall I bleibt das Konto nur dann richtig, wenn es
+      tatsaechlich Hilles Konto ist.
+    - VERHANDLUNG: Wer beim comdirect-Konto eine Haelfte fuer Hille
+      beansprucht, muss bei den gemeinsamen Sparkassenkonten die Haelfte
+      fuer den Nachlass hinnehmen. Mit der Abgeltung (B.3) ist beides
+      erledigt.
+
+
+-------------------------------------------------------------------------------
+5. BEFUND D - AUFLOESUNG DES GROSSEN DEPOTS ENDE 2018
+-------------------------------------------------------------------------------
+
+  01.10.2018  Depot comdirect 524.982,28 EUR (13 Einzelwerte)
+  03.12.2018  kein Depotbestand mehr ausgewiesen; Gesamtsaldo
+              16.857,83 EUR (20181203.pdf)
+  Ab 2019     neuer Aufbau mit kleinen Bestaenden (2019: ca. 120.000 EUR,
+              2022: ca. 216.000 EUR, 2023 nach Rueckzahlung: ca.
+              55.000 EUR)
+
+  Der Bestand wurde vermutlich auf das zweite Depot (...0131481400) bzw.
+  zu Fisher Investments uebertragen. Im Report selbst ist der Abgang
+  nicht als Buchung sichtbar.
+
+  WARUM DAS WICHTIG IST
+    - Das Nachlassverzeichnis muss die Herkunft des Fisher-Depots
+      lueckenlos zeigen. Sonst stellt Binder es in Frage.
+    - Fuer den Zugewinn: Das Depot 2018 (ca. 525.000 EUR) ist eine
+      Zwischenstufe zwischen 2013 (330.000 EUR, 01:145) und 2026
+      (1,44 Mio. EUR).
+
+
+-------------------------------------------------------------------------------
+6. ERTRAEGE UND THESAURIERENDE FONDS
+-------------------------------------------------------------------------------
+
+  - Das comdirect-Depot enthaelt nur Einzelaktien (Reckitt, Nestle, Fuchs,
+    Roche; 02/2026). KEINE Fonds. Thesaurierende Fonds kann es nur bei
+    Fisher geben.
+
+  - ABGLEICH DES ERTRAGS 2025 - GEPRUEFT 20.10.2026
+      Quelle der 1.413,00 EUR: nachlass\Nachlass_klas_krueger.xlsx, Blatt
+      "Ertrag comdirect 2025" (Bernds Berechnung aus den Finanzreporten,
+      Nettobetraege, auf volle Euro gerundet). Das "gesch." in
+      anwaltstermin.20261014.prio2.txt:31 gilt nur fuer 2026.
+
+      Beleg je Buchung (Finanzreporte 2025):
+        01.04.  Roche        Kupon netto           273,02  (Tabelle 273)
+        25.04.  Nestle       Kupon netto           278,70  (Tabelle 278)
+        12.05.  Fuchs        Kupon netto           294,87  (Tabelle 294)
+        27.05.  Nestle       Storno               -278,70  (Tabelle -278)
+        28.05.  Nestle       Kupon neu             278,70  (Tabelle 278)
+        30.05.  Reckitt      Kupon netto           198,27  (Tabelle 198)
+        19.09.  Reckitt      Kupon netto           132,67  (Tabelle 132)
+        23.06.  Steuererstattung ("TAX QUEST",
+                Verrechnungskonto)                 204,23  (Tabelle 204)
+        30.06.  Tagesgeldzinsen Q2 netto            33,95  (Tabelle 34)
+        --------------------------------------------------------------
+        Summe Tabelle (exakt)                    1.415,71  (Tabelle 1.413)
+
+      FEHLEND in der Tabelle: Tagesgeldzinsen Q1, Q3, Q4 netto
+        31.03. 33,89 + 30.09. 33,99 + 31.12. 34,04 =  101,92 EUR
+      Vollstaendig: 1.415,71 + 101,92 =        1.517,63 EUR
+
+      KORREKTUR EIGENER FEHLER: Die frueher hier genannten 1.592,10 EUR
+      (aus bewertung_comdirect_kto\ertraege_24_25.txt) sind FALSCH. Das
+      Skript hat den Nestle-Storno vom 27.05. nicht abgezogen, sondern die
+      Nestle-Dividende doppelt gezaehlt (+278,70 statt -278,70). Richtig
+      sind Dividenden netto 1.177,53 EUR, nicht 1.456,23 EUR.
+
+      FOLGE FUER DEN NETTOERTRAG 2025
+        Fisher Ertraege                         16.990,39
+        Fisher Managementgebuehren             -14.695,98
+        comdirect vollstaendig                   1.517,63
+        -------------------------------------------------
+        Summe                                    3.812,04 EUR
+      statt bisher 3.707,41 EUR (Differenz +104,63 EUR, rund 3 Prozent).
+
+      ZWEI WERTUNGSFRAGEN, BEVOR DIE ZAHL GEAENDERT WIRD
+        a) Tagesgeldzinsen: Gehoeren sie zum Niessbrauch? Testament § 6
+           nennt "Kapitalanlagen ... sowie etwaige Sparbuecher" - spricht
+           dafuer. Dann alle vier Quartale, nicht nur Q2.
+        b) Steuererstattung 204,23 EUR ("GS-OPS TAX QUEST", vermutlich
+           Erstattung auslaendischer Quellensteuer): Zufluss aus Ertraegen
+           frueherer Jahre. Rechnerisch vertretbar, aber dann konsequent:
+           gilt das bei Fisher auch?
+      EMPFEHLUNG: Im Verzeichnis 3.812,04 EUR angeben, mit Fussnote zu a)
+      und b). Die Differenz ist klein; eine nachrechenbar vollstaendige
+      Zahl ist wertvoller als eine niedrigere.
+
+  - Warum der Gesamtertrag so niedrig ist: Bei Fisher frassen die
+    Verwaltungsgebuehren 2025 ca. 86 Prozent der Ertraege
+    (14.695,98 von 16.990,38 EUR, prio2:29-30). Das traegt gegenueber
+    Binder nur, wenn Hille als Niessbraucherin die Gebuehren tragen muss
+    (anwaltstermin.20261014.prio1.txt Frage 10).
+
+
+-------------------------------------------------------------------------------
+7. WAS DARAUS FOLGT
+-------------------------------------------------------------------------------
+
+  1. ABGELTUNG ERWEITERN (eckpunkte_notar.txt B.3)
+       - Pflichtteilsergaenzung auch gegen Bernd und Fabian persoenlich
+         als Beschenkte (§§ 2325, 2329 BGB)
+       - Zugewinn einschliesslich Hinzurechnungen nach § 1375 Abs. 2 BGB
+       - Auskunft und Wertermittlung (§ 2314 BGB, § 1379 BGB)
+       - Abgeltung wechselseitig und fuer alle Konten: comdirect und
+         Sparkassenkonten
+
+  2. AUSZUEGE NICHT VON SICH AUS HERAUSGEBEN
+     Das Nachlassverzeichnis braucht nur Salden am Todestag und Ertraege
+     2025/2026. Auf gezielte Nachfrage wahrheitsgemaess antworten - eine
+     falsche Auskunft koennte die Abgeltung anfechtbar machen
+     (§ 123 BGB).
+
+  3. MIT FABIAN KLAEREN: Vereinbarung 2018 / Rueckzahlung 2023, Belege,
+     interne Tragung einer moeglichen Ergaenzung.
+
+  4. BEI DER SPARKASSE KLAEREN: Inhaber und Stand am 05.02.2026 der Konten
+     ...1136090, ...7351323, ...7150725.
+
+  5. STEUERBERATER: § 14 ErbStG wegen der Zahlung an Fabian 2023;
+     Einordnung der Zahlungen 2022 fuer Hilles Schenkungen.
+
+  6. ERTRAG 2025: 1.413,00 EUR sind belegt (exakt 1.415,71). Es fehlen
+     drei Quartale Tagesgeldzinsen (101,92 EUR). Vollstaendig:
+     3.812,04 EUR statt 3.707,41 EUR (Abschnitt 6).
+
+
+===============================================================================
+Quellen: comdirect_kto\20150401.pdf, 20181001.pdf, 20181203.pdf,
+         20201001.pdf, 20201102.pdf, 20210701.txt, 20220801.pdf,
+         20231003.pdf, 20240502.txt, 20260202.txt, finanzreporte.csv,
+         bewertung_comdirect_kto\*.txt
+         erbschaft_kontext\01, 03; situation\anwaltstermin.20261014.prio2.txt
+Erstellt: 20.10.2026. Keine Rechtsberatung.
+===============================================================================
