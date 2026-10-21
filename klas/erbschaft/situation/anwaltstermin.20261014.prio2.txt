@@ -28,9 +28,9 @@ Das Nachlassverzeichnis zeigt:
   ------------------------------------------------------------------------
   Fisher Ertraege              16.990,38 EUR        12.502,30 EUR
   Fisher Managementgebuehren  -14.695,98 EUR        -7.787,65 EUR
-  comdirect Depot               1.413,00 EUR         1.413,00 EUR (gesch.)
+  comdirect Depot               1.517,63 EUR         1.413,00 EUR (gesch.)
   ------------------------------------------------------------------------
-  Netto                         3.707,41 EUR         6.127,65 EUR
+  Netto                         3.812,04 EUR         6.127,65 EUR
 
 URSACHE DER ABWEICHUNG: Binder zieht die Depotverwaltungsgebuehren nicht
 ab. Nach der Eigennotiz zum Fisher-Depot traegt sie der Niessbraucher, also
@@ -39,7 +39,7 @@ BELEGT - siehe prio1 Frage 10.
 
   190.000 / 27.150 = ca.  7 Jahre  (Binders Annahme)
   190.000 /  8.170 = ca. 23 Jahre  (2026 auf 12 Monate hochgerechnet)
-  190.000 /  3.707 = ca. 51 Jahre  (Ergebnis 2025 nach Gebuehrenabzug)
+  190.000 /  3.812 = ca. 50 Jahre  (Ergebnis 2025 nach Gebuehrenabzug)
 
 Abweichungsfaktor ca. 7,3. Bei einer Lebenserwartung unter einem Jahr
 entgeht Hille real ein Betrag in der Groessenordnung von 3.000 bis
@@ -246,7 +246,7 @@ mitbeilegen.
       Binder vor (misc\antwort_an_binder.bernd.txt mit benanntem
       Pflichtteil; misc\anwort.bernd.binder.txt nur mit Abgeltung). Beide
       sind vor dem 08.10. entstanden, kennen den § 1952-Vorschlag nicht und
-      nennen veraltete Ertragszahlen (4.000 statt 3.707,41 EUR). Nicht
+      nennen veraltete Ertragszahlen (4.000 statt 3.812,04 EUR). Nicht
       versenden - bitte nur nach Durchsicht.
  9.3  Mandatsumfang und Kostenrahmen: erbrechtliche Beratung, Vertretung im
       Genehmigungsverfahren, Entwurf der Erledigungsklausel, Verhandlung

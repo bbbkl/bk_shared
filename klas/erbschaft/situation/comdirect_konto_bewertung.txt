@@ -317,7 +317,7 @@ Saldo 02.02.2026: 110.437,94 EUR, davon Depot 58.948,58 EUR (20260202.txt).
         comdirect vollstaendig                   1.517,63
         -------------------------------------------------
         Summe                                    3.812,04 EUR
-      statt bisher 3.707,41 EUR (Differenz +104,63 EUR, rund 3 Prozent).
+      statt bisher 3.812,04 EUR (Differenz +104,63 EUR, rund 3 Prozent).
 
       ZWEI WERTUNGSFRAGEN, BEVOR DIE ZAHL GEAENDERT WIRD
         a) Tagesgeldzinsen: Gehoeren sie zum Niessbrauch? Testament § 6

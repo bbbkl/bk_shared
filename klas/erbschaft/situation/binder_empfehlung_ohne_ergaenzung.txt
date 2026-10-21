@@ -7,7 +7,7 @@ Stand 10.10.2026
 FRAGE
   Kann es passieren, dass RA Binder nach Zusendung des
   Nachlassverzeichnisses und nach Berechnung des Niessbrauchswerts 2025
-  von 3.707,41 EUR den Abfindungsvertrag OHNE Ergaenzung zur Genehmigung
+  von 3.812,04 EUR den Abfindungsvertrag OHNE Ergaenzung zur Genehmigung
   empfiehlt?
 
 ERGEBNIS IN EINEM SATZ
@@ -60,7 +60,7 @@ SEIN PRUEFMASSSTAB (04:79-81)
 
 DIE NEUE RECHENGRUNDLAGE
 
-  Niessbrauchswert 2025 (korrigiert)                3.707,41 EUR
+  Niessbrauchswert 2025 (korrigiert)                3.812,04 EUR
   Abfindung                                       190.000,00 EUR
   -----------------------------------------------------------------
   Verhaeltnis                                     ca. 51,2 Jahre
@@ -120,7 +120,7 @@ a) DIE STAMMERHALTUNGSPFLICHT IST BEI DIESEN ZAHLEN UNVERHAELTNISMAESSIG
     muesste." (04:96-97)
 
    Eine unbefristete Bindung eines Depots von 1,44 Mio. EUR, um Ertraege
-   von 3.707 EUR jaehrlich zu sichern, ist einem Verfahrenspfleger schwer
+   von 3.812 EUR jaehrlich zu sichern, ist einem Verfahrenspfleger schwer
    zu begruenden.
 
 b) SEIN VERFAHRENSENDE-HINWEIS ERZEUGT DRUCK ZUR EILE
@@ -280,7 +280,7 @@ ungeregelte Pflichtteilslage hinein.
 
 DER ZUSAMMENHANG WAR BEREITS ANGELEGT
 verfahrensdauer.txt Grund 2 warnt: "Das Papier, das Binders Begruendung
-zerstoert, liefert dem Gericht den Genehmigungsgrund." Mit 3.707,41 EUR
+zerstoert, liefert dem Gericht den Genehmigungsgrund." Mit 3.812,04 EUR
 ist dieser Effekt staerker als mit der frueher angesetzten Zahl - das
 Verhaeltnis zur Abfindung ist noch eindeutiger.
 
@@ -363,7 +363,7 @@ Quellen:    erbschaft_kontext\04 (Binder 28.09.2026) - insbesondere
             04:74-78 Einwand, 04:79-81 Pruefmaßstab, 04:86-101 die drei
             Forderungen, 04:103-105 Verfahrensende, 04:111-113 Verteiler
             06 (§ 1952-Vorschlag, Mandat Annes), 07 (Mail Bernd 08.10.)
-Grundlage:  Niessbrauchswert 2025 = 3.707,41 EUR (korrigiertes
+Grundlage:  Niessbrauchswert 2025 = 3.812,04 EUR (korrigiertes
             Nachlassverzeichnis, Stand 10.10.2026)
 Siehe auch: anwaltstermin.20261014.prio1.txt Abschnitt D - Szenarien A/B/C
             verfahrensdauer.txt Grund 2 - das Papier liefert den
