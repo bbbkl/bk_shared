@@ -3,7 +3,10 @@ TODO BERND - STAND 20.10.2026
 ===============================================================================
 
 ZIEL: Beurkundung der Ergaenzung bis Freitag, 20.11.2026.
-Anne ist vom 21.11. bis 13.12.2026 im Ausland.
+Anne ist vom 21.11. bis 13.12.2026 im Ausland (Sri Lanka).
+Moegliche Termine (Anne + Bernd/Fabian): 12.11. 15-18, 13.11. ab 11,
+18.11. 15-18, 19.11. ab 15 Uhr. Jan noch offen.
+AKTUALISIERT 21.10.2026 nach erbschaft_kontext\14 (Binder) und 15 (Anne).
 Zeitplan im Detail: situation\eckpunkte_notar.txt Abschnitt E
 
 
@@ -76,42 +79,60 @@ SOFORT
 NACH ANNES ANTWORT
 -------------------------------------------------------------------------------
 
-[ ] 4. Bei Anne zeitnah nachfassen, notfalls telefonisch, falls bis ca.
-       23.10. keine Antwort kommt. Benoetigt werden:
-         - OK zur Weitergabe von Binders Mail an das Notariat (Punkt 5)
-         - OK, dem Notar ihre Reise zu nennen, und moegliche Termintage
-           bis 20.11. (Punkt 6)
-         - Datum des Genehmigungsantrags
-         - Wann und wie sie das Schreiben vom 21.04.2026 erhalten hat
-         - Bestaetigung Vorbefassung fuer sich und Jan
-         - Jan informiert? Unterschrift in Oldenburg oder Berlin?
-         - Ruhensantrag beim Betreuungsgericht gestellt?
-         - Vertretung als Betreuerin und Erreichbarkeit waehrend der Reise
+[x] 4. Annes Antworten liegen vor (21.10.2026, erbschaft_kontext\15):
+         - OK Weitergabe Binders Mail 19.10. an den Notar: ja
+         - Reise darf genannt werden; Sri Lanka, per Handy/Mail erreichbar
+         - Termine: 05.11. 15-17, 06.11. ganztags (auch Jan), 12.11. 15-18,
+           13.11. ab 11, 18.11. 15-18, 19.11. ab 15 Uhr
+           (Bernd/Fabian erst ab 12.11. -> 05./06.11. entfallen)
+         - Datum Genehmigungsantrag: unbekannt
+         - Schreiben 21.04.2026: an Hille, Uferstrasse 2 (alte Anschrift);
+           in der Kennedystrasse vorgefunden und erhalten
+           10.06.2026
+         - Vorbefassung: bestaetigt
+         - Jan informiert, einverstanden, kommt nach Oldenburg
+         - Ruhensantrag: wird gestellt, bis nach Rueckkehr 13.12.2026
+         - Betreuungsgericht wird ueber Abwesenheit informiert
+       [ ] Offen: Vertretung als Betreuerin waehrend der Reise (klaert
+           Anne mit dem Betreuungsgericht). Bestaetigung, dass der
+           Ruhensantrag gestellt ist.
+       [x] Adresse geklaert: Uferstrasse 2 (21.10.2026).
+       [x] Bernd/Fabian koennen ab 12.11. (05./06.11. entfallen).
+       [ ] Jan: Kann er am 12./13./18./19.11.? Ueber Anne klaeren.
 
-[ ] 5. Rueckfrage an das Notariat senden (cc Fabian, Anne).
-       Text: situation\rueckfrage_notar.20261020.txt
+[ ] 4a. Binders Mail vom 21.10.2026 (erbschaft_kontext\14) - NEU
+        Kernaussage: Nach dem Erbfall kein Pflichtteils-"Verzicht", nur
+        Erlass; Genehmigung durch das Gericht "keineswegs sicher".
+        Alternative: Zweck klarstellen + Abfindung entfaellt / wird
+        zurueckgezahlt, wenn trotzdem Pflichtteil verlangt wird.
+        Unsere Linie (eckpunkte_notar.txt B.4, B.12): Erlass + Wegfall-/
+        Rueckzahlungsklausel als ZUSATZ + Verknuepfung der Genehmigungen.
+        Klausel ALLEIN reicht nicht (Wahlrecht fuer Hilles Seite, kein
+        Zugewinnausgleich).
+        Der Notar soll das bewerten (Aufgabe 5). Binder ist ab 26.10.
+        zurueck - die Notarantwort moeglichst vorher haben.
+        Mit Fabian abstimmen.
+
+[ ] 5. Antwort an das Notariat senden (cc Fabian, Anne).
+       Text: notar\antwort_20261021\00_email_antwort_notariat.20261021.txt
+       (ersetzt rueckfrage_notar.20261020.txt - nicht mehr senden)
        Nur den Teil oberhalb der "HINWEISE ZUM VERSAND" senden.
-       Anlagen:
-         1. Binders Mail vom 19.10.2026 (erbschaft_kontext\12) - nur mit
-            Annes OK, sonst Anlage weglassen
-         2. Binders Ergaenzungsentwurf (erbschaft_kontext\05)
+       Anlagen (Ordner notar\antwort_20261021\, auch als ZIP):
+         1. Binders Mail vom 19.10.2026 (12) - Annes OK liegt vor
+         2. Binders Mail vom 21.10.2026 (14) - Annes OK kurz einholen,
+            sonst weglassen (Inhalt steht im Text)
+         3. Binders Ergaenzungsentwurf (05)
        NICHT beifuegen: Entwurf 08 und unsere Gegenversion.
-       Falls Anne die Reise nicht genannt haben moechte: den Absatz
-       "Zum Zeitplan" und die Fragen c) und d) neutral umformulieren.
+       Vorher: eigene Termine (Bernd, Fabian) fuer Annes Tage pruefen.
 
 
 -------------------------------------------------------------------------------
 BIS CA. 30.10.2026
 -------------------------------------------------------------------------------
 
-[ ] 6. Antwort des Depotverwalters zu thesaurierenden Fonds abwarten
-       (Anfrage am 20.10.2026 gestellt). Falls bis ca. 27.10. nichts
-       kommt: nachfassen.
-         - Keine thesaurierenden Fonds: Klausel B.8 b) bleibt.
-         - Thesaurierende Fonds vorhanden: Anteil und einbehaltene
-           Ertraege 2025 erfragen und dem Notar vor dem Entwurf
-           mitteilen. Thesaurierte Ertraege und Vorabpauschale muessen
-           ausdruecklich keine "Zufluesse" sein.
+[x] 6. Depotverwalter: KEINE thesaurierenden Fonds im Fisher-Depot
+       (21.10.2026). Klausel B.8 b) bleibt. Begleitschreiben an Binder
+       Ziffer 1 ausgefuellt.
 
 [ ] 7. Nachlassverzeichnis fertigstellen.
          - Ertraegnisaufstellungen 2025 und 2026
@@ -124,13 +145,15 @@ BIS CA. 30.10.2026
            [ ] Ertraege 2026 (Q1-Q3) jetzt 6.232,28 EUR (bisher 6.127,65),
                weil der comdirect-Schaetzwert "wie 2025" mitwandert. Fuer
                2026 besser echte Werte aus den Finanzreporten 2026 holen.
-           [ ] Neue Zahl 3.812,04 EUR im Begleitschreiben an Binder
-               eintragen (Aufgabe 8a) und Anne kurz erklaeren.
-         - Kurze Erklaerung, warum die Ausschuettungen so niedrig sind
-           (Binder haelt weniger als 0,3 Prozent fuer "nicht
-           vorstellbar"); haengt an Aufgabe 6.
-           Bei Fisher frassen die Gebuehren 2025 ca. 86 Prozent der
-           Ertraege. comdirect-Depot: nur Einzelaktien, keine Fonds.
+           [x] Neue Zahl 3.812,04 EUR im Begleitschreiben an Binder
+               eingetragen (21.10.2026). [ ] Anne kurz erklaeren
+               (bisher kannte sie 3.707 EUR).
+         - Erklaerung der niedrigen Ausschuettungen - ERLEDIGT 21.10.2026
+           (eckpunkte_notar.txt D, Begleitschreiben Ziffer 1):
+           Fisher brutto 23.548,63 (ca. 1,8 %) - Steuern 6.558,25 -
+           Gebuehr 14.695,98 = 2.294,40; + comdirect 1.517,63 = 3.812,04.
+           Keine Fonds mit Thesaurierung. Einen Satz davon ins
+           Verzeichnis aufnehmen.
          - Vollstaendigkeit: Sparkassenkonten (Aufgabe 3b).
            Herkunft des Fisher-Depots geklaert (Uebergang des comdirect-
            Depots Ende 2018); im Verzeichnis einen Satz dazu aufnehmen.
@@ -153,6 +176,8 @@ BIS 20.11.2026
          - Zahlungskonto fuer Fall I korrekt (B.7, Aufgabe 3b)
          - Binders Auflagen eng definiert (B.8)
          - Zwangsvollstreckung nur mit Nachweis (B.9)
+         - Pflichtteils-ERLASS statt Verzicht, plus Wegfall-/Rueckzahlungs-
+           klausel als Zusatz (B.4, Binder 14)
          - Verknuepfung beider Genehmigungen (B.12)
          - Tod zwischen Genehmigung und Rechtskraft (B.13)
        Entwurf sofort an den Steuerberater weitergeben (Aufgabe 3 d).
@@ -162,9 +187,9 @@ BIS 20.11.2026
         Text: situation\begleitschreiben_binder_verzeichnis.txt
         Nur den Teil oberhalb der "HINWEISE ZUM VERSAND" senden.
         ERST SENDEN, WENN:
-          - Anne das Ruhen des Verfahrens beantragt hat (Aufgabe 4)
-          - der Depotverwalter geantwortet hat und der Platzhalter in
-            Ziffer 1 ausgefuellt ist (Aufgabe 6)
+          - Anne das Ruhen des Verfahrens beantragt hat (zugesagt, 15)
+          - [erledigt] Depotverwalter / Ziffer 1 ausgefuellt (Aufgabe 6)
+          - Ziffer 2 (3) an die Notarantwort zu Binders Mail 14 angepasst
           - der Notar das Verzeichnis hat (Aufgabe 7)
         Idealerweise zusammen mit dem Notarentwurf (Aufgabe 8) als
         Anlage 3 - Zahlen nie ohne die Abgeltung.
@@ -177,15 +202,15 @@ BIS 20.11.2026
        Falls die Ersparnis (3 a) deutlich kleiner ausfaellt als
        100.000 EUR: Deal mit Fabian neu bewerten, BEVOR beurkundet wird.
 
-[ ] 10. Beurkundungstermin wahrnehmen (bis Fr 20.11.2026).
+[ ] 10. Beurkundungstermin wahrnehmen (12./13./18./19.11.2026).
 
 
 ===============================================================================
 Grundlagen: situation\eckpunkte_notar.txt,
             situation\nachricht_anne.20261020.txt,
-            situation\rueckfrage_notar.20261020.txt,
+            notar\antwort_20261021\00_email_antwort_notariat.20261021.txt,
             situation\begleitschreiben_binder_verzeichnis.txt,
             situation\comdirect_konto_bewertung.txt,
             situation\zeitraum_1952_weg.txt
-Erstellt: 20.10.2026
+Erstellt: 20.10.2026, aktualisiert 21.10.2026
 ===============================================================================

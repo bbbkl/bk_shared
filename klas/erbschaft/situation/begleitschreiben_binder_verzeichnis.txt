@@ -1,6 +1,6 @@
 ===============================================================================
 E-MAIL - BEGLEITSCHREIBEN AN RA BINDER ZUM NACHLASSVERZEICHNIS
-Entwurf 20.10.2026 - Versand fruehestens ca. 02.-06.11.2026
+Entwurf 20.10.2026, aktualisiert 21.10.2026 - Versand fruehestens ca. 02.-06.11.2026
 ===============================================================================
 
 An:   RA Jonas Binder <jonasbinder@web.de>
@@ -29,7 +29,7 @@ die derzeit bei Notar Schwackenberg vorbereitet wird.
 1. Ertraege
 
 Der Nettoertrag aus den dem Niessbrauch unterliegenden Kapitalanlagen
-betrug 2025 3.707,41 EUR. Die Herleitung ergibt sich aus Anlage 2.
+betrug 2025 3.812,04 EUR. Die Herleitung ergibt sich aus Anlage 2.
 
 Zu Ihrem Hinweis, eine Rendite von weniger als 0,3 Prozent sei nicht
 vorstellbar:
@@ -41,18 +41,14 @@ vorstellbar:
     ca. 5 Prozent bezeichnen eine Gesamtrendite einschliesslich
     Kursentwicklung.
 
-  - [PLATZHALTER - ERST NACH ANTWORT DES DEPOTVERWALTERS AUSFUELLEN]
-    Variante A (keine thesaurierenden Fonds):
-    "Das Depot besteht ueberwiegend aus [Wachstumswerten / Werten mit
-    niedriger Dividendenrendite]. Die Ausschuettungsrendite lag 2025 bei
-    ca. [x] Prozent; nach Depotkosten und Steuern verbleiben die genannten
-    3.707,41 EUR."
-    Variante B (thesaurierende Fonds vorhanden):
-    "Ein Anteil von ca. [x] Prozent des Depots entfaellt auf
-    thesaurierende Fonds. Deren Ertraege werden nicht ausgeschuettet,
-    sondern im Fondsvermoegen wiederangelegt; sie stehen dem Niessbraucher
-    nicht als Zufluss zur Verfuegung. Die ausgeschuetteten Ertraege nach
-    Kosten und Steuern betrugen 3.707,41 EUR."
+  - Die Depots enthalten keine thesaurierenden Fonds; das comdirect-Depot
+    besteht nur aus Einzelaktien. Im Fisher-Depot betrugen die
+    ausgeschuetteten Bruttoertraege 2025 23.548,63 EUR, also rund
+    1,8 Prozent - ein ueblicher Wert. Davon gehen Steuern von
+    6.558,25 EUR und die Verwaltungsgebuehr des Vermoegensverwalters von
+    14.695,98 EUR (rund 1,1 Prozent des Depotwerts) ab. Es verbleiben
+    2.294,40 EUR. Zusammen mit dem comdirect-Depot (1.517,63 EUR) ergibt
+    das die genannten 3.812,04 EUR.
 
 2. Ihre Vorschlaege (1) bis (3)
 
@@ -68,8 +64,12 @@ Mein Bruder und ich tragen Ihre Vorschlaege mit:
           und Kosten des Erbfalls zulaessig sein und
         - diese Pflichten mit dem Tod von Frau Krueger enden.
   (2) Die Regelung fuer den Fall des § 1952 BGB wird aufgenommen.
-  (3) Der Pflichtteil nach § 2306 BGB wird ausdruecklich ausgeschlossen.
-      Wir bitten, die Abgeltung zugleich auf den Zugewinnausgleich, das
+  (3) Der Pflichtteil nach § 2306 BGB wird ausgeschlossen - nach Ihrem
+      Hinweis vom 21.10.2026 als Erlass des Pflichtteilsanspruchs.
+      Zusaetzlich nehmen wir Ihre Anregung auf, den Zweck der Abfindung
+      klarzustellen und ihren Wegfall bzw. ihre Rueckzahlung zu regeln,
+      falls dennoch Ansprueche geltend gemacht werden. Wir bitten, die
+      Abgeltung zugleich auf den Zugewinnausgleich, das
       comdirect-Konto und Auskunftsansprueche zu erstrecken, damit mit der
       Abfindung alle Fragen aus dem Erbfall erledigt sind.
 
@@ -93,15 +93,16 @@ Zweck: Binders Bedingung (1) erfuellen, seine 5-Prozent-Rechnung sachlich
 entkraeften und sein Votum zur Genehmigung des GESAMTPAKETS einholen.
 
 VERSAND ERST, WENN ALLES ERFUELLT IST
-  [ ] Anne hat das Ruhen des Verfahrens beantragt. Sonst koennte das
-      Gericht auf Grundlage des Verzeichnisses vorzeitig entscheiden.
-  [ ] Der Depotverwalter hat geantwortet; Platzhalter in Ziffer 1 ist
-      ausgefuellt (Variante A oder B, die andere streichen).
+  [ ] Anne hat das Ruhen des Verfahrens beantragt (zugesagt 21.10.2026,
+      15). Sonst koennte das Gericht auf Grundlage des Verzeichnisses
+      vorzeitig entscheiden.
+  [x] Depotverwalter: keine thesaurierenden Fonds (21.10.2026). Ziffer 1
+      entsprechend ausgefuellt.
   [ ] Der Notar hat das Verzeichnis bereits erhalten.
-  [ ] Nettoertrag 2025 aktualisiert: Mit den fehlenden Tagesgeldzinsen
-      Q1/Q3/Q4 (101,92 EUR) ergibt sich 3.812,04 EUR. Die drei Stellen mit
-      3.707,41 EUR in Ziffer 1 anpassen, sobald die Tabelle ergaenzt ist
-      (comdirect_konto_bewertung.txt Abschnitt 6).
+  [x] Nettoertrag 2025 auf 3.812,04 EUR aktualisiert (21.10.2026).
+  [ ] Ziffer 2 (3) an die Antwort des Notars auf Binders Vorschlag vom
+      21.10.2026 (14) anpassen (notar\antwort_20261021\).
+  [ ] Beurkundungstermin in Ziffer 3 konkretisieren, sobald vereinbart.
   [ ] Idealerweise liegt der Entwurf des Notars vor (ca. 02.-06.11.).
       Dann als Anlage 3 mitsenden - Zahlen und Abgeltung zusammen.
       Liegt er noch nicht vor: Anlage 3 streichen, Text bleibt gueltig.
@@ -121,7 +122,7 @@ BEWUSST NICHT ENTHALTEN
   - Kritik an Notarin Dr. Lockmann
   - eigene Steuerrechnungen (187.000 / 87.000 EUR)
   - Annes Reise (ist Annes Sache gegenueber Binder)
-  - "190.000 EUR entsprechen 51 Jahren Ertrag" - wirkt bei Binder als
+  - "190.000 EUR entsprechen rund 50 Jahren Ertrag" - wirkt bei Binder als
     Argument FUER die Genehmigung des alten Vertrags ohne Abgeltung
 
 ZU BEACHTEN
@@ -130,8 +131,8 @@ ZU BEACHTEN
     Gerichtsakte. Text ist darauf ausgelegt.
   - Vorher mit Fabian und Anne abstimmen.
 
-Grundlagen: erbschaft_kontext\04, 05, 07, 12, 13,
+Grundlagen: erbschaft_kontext\04, 05, 07, 12, 13, 14, 15,
             situation\eckpunkte_notar.txt (B.8, D, E),
             situation\binder_empfehlung_ohne_ergaenzung.txt
-Erstellt: 20.10.2026. Keine Rechtsberatung.
+Erstellt: 20.10.2026, aktualisiert 21.10.2026. Keine Rechtsberatung.
 ===============================================================================

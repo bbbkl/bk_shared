@@ -1,6 +1,6 @@
 ===============================================================================
 ECKPUNKTE FUER DEN NOTAR - ERGAENZUNGSURKUNDE ZUM ABFINDUNGSVERTRAG
-Stand 16.10.2026, aktualisiert 18.10.2026 und 20.10.2026
+Stand 16.10.2026, aktualisiert 18.10.2026, 20.10.2026 und 21.10.2026
 ===============================================================================
 
 FRAGE
@@ -19,18 +19,46 @@ Der Notar fragt es bei der Beurkundung ohnehin ab.
 NEU SEIT 20.10.2026 - WAS SICH GEAENDERT HAT
   - Notar (13) und Verfahrenspfleger Binder (12) empfehlen unabhaengig
     voneinander dasselbe: eine Ergaenzungsurkunde mit Pflichtteilsverzicht
-    Hilles, § 1952-Fall und Genehmigung durch das Betreuungsgericht.
+    (richtig: Erlass, 14) Hilles, § 1952-Fall und Genehmigung durch das
+    Betreuungsgericht.
   - Binder argumentiert selbst gegen eine Pflichtteilsforderung (12:12-13).
-    Ein Verzicht ist damit genehmigungsfaehig - anders als bisher
-    angenommen (09, Punkt 5).
+    Ein Erlass schien damit genehmigungsfaehig. EINSCHRAENKUNG 21.10.2026:
+    Binder (14) haelt die Genehmigung "keineswegs sicher".
   - Ziel ist nicht mehr "keine Entscheidung des Gerichts", sondern eine
-    Genehmigung des VOLLSTAENDIGEN PAKETS. Bis zur Beurkundung ruht das
-    Verfahren.
+    Genehmigung des VOLLSTAENDIGEN PAKETS. Das Verfahren ruht bis nach
+    dem 13.12.2026 (15).
   - Bernd und Fabian tragen Binders Auflagen mit, wenn sie eng definiert
     sind (Entscheidung 20.10.2026, siehe B.8).
   - ANNE IST VOM 21.11. BIS 13.12.2026 IM AUSLAND und steht fuer einen
     Notartermin nicht zur Verfuegung. Ziel: Beurkundung bis 20.11.2026
     (siehe Abschnitt E).
+
+NEU SEIT 21.10.2026
+  - BINDER (14): Nach dem Erbfall gibt es keinen Pflichtteils-"Verzicht"
+    mehr, nur einen ERLASS des Pflichtteilsanspruchs (§ 397 BGB). Er
+    zweifelt, ob das Gericht ihn genehmigt, und schlaegt als Alternative
+    vor: Zweck klarstellen + Abfindung entfaellt bzw. ist zurueckzuzahlen,
+    wenn trotzdem der Pflichtteil verlangt wird.
+    BEWERTUNG: Begriff korrigieren (unsere Gegenversion 08 § 4 Abs. 3 ist
+    schon als Erlassvertrag formuliert). Die Wegfall-/Rueckzahlungsklausel
+    ALLEIN reicht nicht: Sie gibt Hilles Seite ein Wahlrecht (Abfindung
+    zurueck, Pflichtteil + Zugewinn fordern, wenn das mehr ist) und
+    erfasst den Zugewinnausgleich nicht. Als ZUSATZ zum Erlass ist sie
+    sinnvoll (Auffangschutz fuer B.12). Siehe B.4 und B.12.
+  - ANNE (15): Ruhensantrag bis nach 13.12.2026 wird gestellt. Datum des
+    Genehmigungsantrags unbekannt. Bekanntgabe vom 21.04.2026 war laut
+    an Hille unter der alten Anschrift UFERSTRASSE 2 adressiert (geklaert
+    21.10.2026); Anne hat sie erst am
+    10.06.2026 erhalten. Vorbefassung bestaetigt. Jan ist informiert,
+    einverstanden und kommt nach Oldenburg. Binders Mail darf an den
+    Notar, die Reise darf genannt werden. Termine siehe Abschnitt E.
+    Reise: Sri Lanka, per Handy/Mail erreichbar (Netz unsicher).
+  - DEPOT: Das Fisher-Depot enthaelt KEINE thesaurierenden Fonds (das
+    comdirect-Depot nur Einzelaktien). B.8 b) bleibt; keine
+    Sonderregelung noetig.
+  - Nettoertrag 2025: 3.812,04 EUR (ueberall konsistent korrigiert).
+  - Antwort an das Notariat: notar\antwort_20261021\ (ersetzt
+    rueckfrage_notar.20261020.txt).
 
 KEINE RECHTSBERATUNG. Alle Rechts- und Steuerangaben sind Einschaetzungen
 auf Grundlage der vorliegenden Unterlagen und vom Notar bzw. Steuerberater
@@ -43,7 +71,7 @@ A. WER UNTERSCHREIBT
 
   1. Bernd und Fabian.
   2. Anne als Betreuerin von Hille (Aufgabenkreis Vermoegenssorge, 00:42).
-     Weil sie fuer Hille den Pflichtteilsverzicht erklaert, braucht die
+     Weil sie fuer Hille den Pflichtteilserlass erklaert, braucht die
      Urkunde die Genehmigung des Betreuungsgerichts (13, Ziff. 4).
   3. Anne und Jan persoenlich (Jan Trueper, geb. 02.07.1968,
      Lucy-Lameck-Str. 29, 12049 Berlin) als kuenftige Erben. Sie
@@ -65,7 +93,7 @@ DIE DREI FAELLE (13, Ziff. 5)
   Fall                       | Folge
   ---------------------------+-------------------------------------------------
   I.  GENEHMIGUNG zu Hilles  | Abfindung an Hille - aber nur, wenn Ausschlagung
-      Lebzeiten              | UND Pflichtteilsverzicht rechtskraeftig
+      Lebzeiten              | UND Pflichtteilserlass rechtskraeftig
                              | genehmigt sind (B.12).
   ---------------------------+-------------------------------------------------
   II. VERSAGUNG zu Hilles    | Keine Abfindung, keine Ausschlagung, kein
@@ -119,9 +147,17 @@ DIE DREI FAELLE (13, Ziff. 5)
      Zu Hilles Lebzeiten koennen ihre Erben weder ausschlagen noch auf den
      Pflichtteil verzichten noch sich dazu wirksam verpflichten
      (§ 311b Abs. 4 BGB, 13, Ziff. 1). Deshalb:
-       - Fall I: Den Verzicht erklaert Anne als Betreuerin FUER HILLE. Das
-         geht, weil Klas schon verstorben ist; es ist kein Vertrag ueber
-         einen kuenftigen Nachlass.
+       - Fall I: Den Pflichtteils-ERLASS (§ 397 BGB; ein "Verzicht" nach
+         § 2346 BGB ist nach dem Erbfall nicht mehr moeglich, Binder 14)
+         erklaert Anne als Betreuerin FUER HILLE, aufschiebend bedingt auf
+         die Wirksamkeit der Ausschlagung. Das geht, weil Klas schon
+         verstorben ist; es ist kein Vertrag ueber einen kuenftigen
+         Nachlass. Erlassempfaenger sind Bernd und Fabian, die nach der
+         Ausschlagung Erben sind.
+         ZUSAETZLICH (Binder 14): Zweck der Abfindung klarstellen; wird
+         trotzdem ein Pflichtteil oder Zugewinnausgleich verlangt,
+         entfaellt die Abfindung bzw. ist zurueckzuzahlen. Nur als
+         Auffangschutz, NICHT anstelle des Erlasses.
        - Fall III: Die Faelligkeit ist aufschiebend bedingt auf
          Ausschlagung und Abgeltung durch Anne und Jan nach Hilles Tod.
      Unser Schutz bleibt voll erhalten: ohne Abgeltung keine Zahlung.
@@ -155,11 +191,12 @@ DIE DREI FAELLE (13, Ziff. 5)
           Anlage.
        b) "ZUFLUESSE" sind nur die tatsaechlich ausgeschuetteten bzw.
           gutgeschriebenen Nettoertraege (Dividenden, Zinsen,
-          Ausschuettungen) nach Kosten und Steuern. Kursgewinne,
+          Ausschuettungen) nach Steuern UND Depot-/Verwaltungskosten
+          (Fisher-Managementgebuehr 2025: 14.695,98 EUR). Kursgewinne,
           Veraeusserungsgewinne und Umschichtungen gehoeren zur Substanz,
           nicht zu den Zufluessen (§ 1068, 99, 100 BGB). Binders
           "5 Prozent" (12:10) ist eine Gesamtrendite und daher nicht der
-          Massstab.
+          Massstab. Thesaurierende Fonds: keine vorhanden (21.10.2026).
        c) ERHALT DES VERMOEGENSSTAMMS heisst Werterhalt, nicht Erhalt der
           einzelnen Papiere. Erlaubt sind Umschichtungen sowie Entnahmen
           fuer Abfindung, Erbschaftsteuer und Kosten des Erbfalls.
@@ -167,7 +204,7 @@ DIE DREI FAELLE (13, Ziff. 5)
        e) Nachzahlung nur fuer Zufluesse im Sinne von b), soweit sie in der
           Summe 190.000 EUR uebersteigen.
        f) ALLE PFLICHTEN ENDEN MIT HILLES TOD. Danach verfuegen wir frei.
-     Wirtschaftlich belastet uns das kaum: Bei 3.707,41 EUR Nettoertrag
+     Wirtschaftlich belastet uns das kaum: Bei 3.812,04 EUR Nettoertrag
      2025 wird eine Nachzahlung praktisch nie faellig.
 
   9. ZWANGSVOLLSTRECKUNG
@@ -188,10 +225,15 @@ DIE DREI FAELLE (13, Ziff. 5)
 
  12. VERKNUEPFUNG DER GENEHMIGUNGEN (Fall I) - NEU
      Die Abfindung wird nur faellig, wenn Ausschlagung UND
-     Pflichtteilsverzicht BEIDE rechtskraeftig genehmigt sind. Sonst droht
+     Pflichtteilserlass BEIDE rechtskraeftig genehmigt sind. Sonst droht
      der schlechteste Fall: 190.000 EUR zahlen, Pflichtteil bleibt offen.
      Der Notar soll pruefen, ob beides in einem Antrag und einem Beschluss
      erfasst werden kann.
+     NEU 21.10.2026: Binder (14) zweifelt an der Genehmigung des Erlasses.
+     Genau dafuer ist diese Verknuepfung da. Zusaetzlich die Wegfall-/
+     Rueckzahlungsklausel (B.4). Versagt das Gericht nur den Erlass, darf
+     die Ausschlagung nicht allein wirksam werden - der Notar soll pruefen,
+     wie das abzusichern ist (z.B. Antrag nur als Paket).
 
  13. TOD ZWISCHEN GENEHMIGUNG UND RECHTSKRAFT - NEU
      Stirbt Hille nach dem Genehmigungsbeschluss, aber vor dessen
@@ -220,13 +262,26 @@ C. WAS DER NOTAR PRUEFEN SOLL - STAND NACH DER ANTWORT VOM 20.10.2026
      WENN DAS VERFAHREN RUHT (13, Ziff. 3).
      Offen:
        - Wirksam war die Bekanntgabe vom 21.04.2026? Sie ging an Hille
-         persoenlich, an die alte Adresse Uferstrasse 2, nicht an Anne
-         (11:3-6). Moeglicherweise laeuft die Frist noch gar nicht.
+         persoenlich, nicht an Anne (11:3-6). Laut Anne (15) an die
+         Uferstrasse 2 adressiert (alte Anschrift, Hille lebte schon in
+         der Kennedystrasse; geklaert 21.10.2026). Anne hat sie ERST AM
+         10.06.2026
+         vorgefunden. Fruehester Fristbeginn damit 10.06.2026; wegen des
+         seit 03/2026 laufenden Verfahrens voraussichtlich von Anfang an
+         gehemmt.
+       - Datum des Genehmigungsantrags: Anne weiss es nicht (15). Laut
+         Vertrag (03 § 2) "gleichzeitig" am 13.03.2026; Binder nennt ein
+         Schreiben Annes an das Gericht vom 16.03.2026 (04:38-39). Notfalls
+         Akteneinsicht.
        - Wie viel Restfrist bleibt nach einer Versagung (Fall II)?
+       Gefragt in notar\antwort_20261021\.
 
-  4. [GEKLAERT] Genehmigung doch erteilt? Anne kann fuer Hille auf den
-     Pflichtteil verzichten, wenn das Gericht genehmigt (13, Ziff. 4).
-     Neu zu pruefen: Verknuepfung beider Genehmigungen (B.12).
+  4. [GEKLAERT, NEU OFFEN] Genehmigung doch erteilt? Anne kann fuer Hille
+     den Pflichtteil erlassen, wenn das Gericht genehmigt (13, Ziff. 4).
+     Binder (14) bezweifelt, dass das Gericht den Erlass genehmigt, und
+     schlaegt eine Wegfall-/Rueckzahlungsklausel vor. Notar um Bewertung
+     gebeten (notar\antwort_20261021\). Verknuepfung beider Genehmigungen
+     (B.12).
 
   5. [GEKLAERT] Genehmigung des Betreuungsgerichts noetig? Ja (13, Ziff. 4).
 
@@ -261,7 +316,7 @@ C. WAS DER NOTAR PRUEFEN SOLL - STAND NACH DER ANTWORT VOM 20.10.2026
           WARUM: Grob ca. 14.000 EUR je Bruder, zusammen ca. 28.000 EUR
           (je 95.000 EUR x 15 Prozent). Neu zu pruefen, weil im
           § 1952-Fall Anne und Jan Empfaenger sind und die Abfindung
-          zusaetzlich Pflichtteilsverzicht und comdirect-Konto abgilt.
+          zusaetzlich Pflichtteilserlass und comdirect-Konto abgilt.
           Klaeren: Enthaelt die 87.000 EUR diesen Abzug schon?
 
        c) Ist sie fuer Hille bzw. Anne und Jan steuerfrei
@@ -273,7 +328,7 @@ C. WAS DER NOTAR PRUEFEN SOLL - STAND NACH DER ANTWORT VOM 20.10.2026
           auch wenn der Betrag als Erwerb von Hille zu ihrem Vermoegen
           von ca. 400.000 EUR hinzukaeme.
 
-       d) Wie wirkt sich der Pflichtteilsverzicht steuerlich aus, und wie
+       d) Wie wirkt sich der Pflichtteilserlass steuerlich aus, und wie
           ist die Abfindung in der Urkunde aufzuteilen?
           WARUM: Die 190.000 EUR gelten kuenftig fuer Ausschlagung,
           Pflichtteil, Zugewinnausgleich und comdirect-Konto. Das
@@ -299,13 +354,17 @@ C. WAS DER NOTAR PRUEFEN SOLL - STAND NACH DER ANTWORT VOM 20.10.2026
      Wegen des Termins bis 20.11. den Steuerberater SOFORT beauftragen.
      Keine Steuerberatung - alle Zahlen grobe Schaetzungen.
 
-  7. [NEU] ANNES ABWESENHEIT 21.11. BIS 13.12.2026
+  7. [NEU] ANNES ABWESENHEIT 21.11. BIS 13.12.2026 (Sri Lanka, per
+     Handy/Mail erreichbar, Netz unsicher; Anne meldet die Abwesenheit
+     dem Betreuungsgericht, 15)
        - Vollmacht vorab oder Nachgenehmigung nach der Rueckkehr, falls der
          Termin bis 20.11. nicht klappt? Was gilt fuer Erklaerungen als
          Betreuerin?
        - Stirbt Hille waehrend der Reise: Beglaubigung der Ausschlagung im
-         Ausland (Konsulat)? Gilt fuer Anne die Frist von 6 Monaten nach
-         § 1944 Abs. 3 BGB?
+         Ausland (Auslandsvertretung)? Gilt fuer Anne die Frist von
+         6 Monaten nach § 1944 Abs. 3 BGB? Vorsorgliche, oeffentlich
+         beglaubigte Ausschlagungsvollmacht (§ 1945 Abs. 3 BGB) vor der
+         Reise?
        - Ausschlagungserklaerungen fuer Anne und Jan schon vor der Reise
          unterschriftsreif vorbereiten.
 
@@ -327,9 +386,9 @@ D. UNTERLAGEN FUER DEN NOTAR
 
   - Testament 2013 (01) und Abfindungsvertrag vom 13.03.2026 (03)
   - Binders Schreiben vom 28.09.2026 (04), Ergaenzungsentwurf (05) und
-    seine Mails vom 08.10.2026 (06) und 19.10.2026 (12).
-    Das Notariat hat 05 NOCH NICHT (Stand 20.10.2026). 05 und 12 gehen
-    mit der Rueckfrage (rueckfrage_notar.20261020.txt) als Anlagen mit.
+    seine Mails vom 08.10.2026 (06), 19.10.2026 (12) und 21.10.2026 (14).
+    Das Notariat hat 05 NOCH NICHT (Stand 21.10.2026). 05, 12 und 14 gehen
+    mit der Antwort (notar\antwort_20261021\) als Anlagen 3, 1, 2 mit.
   - Binders Entwurf vom 12.10.2026 (08) und unsere Gegenversion als
     Gespraechsgrundlage (08_vorschlag_gegenversion.txt)
   - Schreiben des Nachlassgerichts vom 21.04.2026 mit
@@ -341,28 +400,23 @@ D. UNTERLAGEN FUER DEN NOTAR
     ist eine aeltere, gerundete Angabe; das Verzeichnis belegt den Wert.
     Binder haelt weniger als 0,3 Prozent fuer "nicht vorstellbar". Das
     Verzeichnis muss deshalb erklaeren, WARUM die Ausschuettungen so
-    niedrig sind (z.B. thesaurierende Fonds, Wachstumswerte, Kosten).
-    ACHTUNG: Bei thesaurierenden Fonds koennte die Gegenseite die
-    einbehaltenen Ertraege als "Zufluesse" werten. B.8 b) muss das
-    ausdruecklich regeln.
-    STAND 20.10.2026: Anfrage an den Depotverwalter ist raus. Je nach
-    Antwort:
-      - KEINE thesaurierenden Fonds: B.8 b) bleibt wie formuliert. Die
-        niedrigen Ausschuettungen anders erklaeren (Wachstumswerte,
-        niedrige Dividendenrendite, Kosten).
-      - Thesaurierende Fonds vorhanden: Anteil und Hoehe der
-        einbehaltenen Ertraege 2025 erfragen. In B.8 b) ausdruecklich
-        regeln, dass einbehaltene (thesaurierte) Ertraege und die
-        steuerliche Vorabpauschale KEINE Zufluesse sind. Dem Notar vor
-        dem Entwurf mitteilen.
-    Antwort moeglichst vor dem ersten Entwurf (ca. 02.-06.11.) einholen.
+    niedrig sind.
+    STAND 21.10.2026: KEINE thesaurierenden Fonds im Fisher-Depot
+    (comdirect: nur Einzelaktien). B.8 b) bleibt. Erklaerung mit den
+    Zahlen 2025 (Blatt "Ertrag Fisher Depot"):
+      Fisher Bruttoertraege        23.548,63 EUR  (ca. 1,8 % von 1,33 Mio.)
+      - Steuern                    -6.558,25 EUR
+      - Managementgebuehr Q1-Q4   -14.695,98 EUR  (ca. 1,1 % des Depots)
+      = Fisher netto                2.294,40 EUR
+      + comdirect netto             1.517,63 EUR
+      = Nettoertrag 2025            3.812,04 EUR  (ca. 0,27 % von 1,44 Mio.)
+    Kernaussage: Die Ausschuettungsrendite ist mit ca. 1,8 % normal. Die
+    Gebuehr frisst ca. 62 % der Bruttoertraege bzw. ca. 86 % des Ertrags
+    nach Steuern. Rest der Gesamtrendite steckt in Kursgewinnen = Substanz.
     COMDIRECT-ANTEIL GEPRUEFT 20.10.2026 (comdirect_konto_bewertung.txt
-    Abschnitt 6): Die 1.413,00 EUR aus nachlass\Nachlass_klas_krueger.xlsx
-    ("Ertrag comdirect 2025") sind belegt (exakt 1.415,71 EUR). Es fehlen
-    die Tagesgeldzinsen Q1, Q3, Q4 (101,92 EUR). Vollstaendig: comdirect
-    1.517,63 EUR, Nettoertrag 2025 gesamt 3.812,04 EUR statt
-    3.707,41 EUR. Offen: Zaehlen Tagesgeldzinsen und die Steuererstattung
-    (204,23 EUR) zum Niessbrauch?
+    Abschnitt 6): vollstaendig 1.517,63 EUR inkl. aller vier
+    Tagesgeldzinsen. Offen: Zaehlen Tagesgeldzinsen und die
+    Steuererstattung (204,23 EUR) zum Niessbrauch?
     Das comdirect-Depot enthaelt nur Einzelaktien, KEINE Fonds.
   - VOLLSTAENDIGKEIT DES VERZEICHNISSES PRUEFEN
       - Sparkassenkonten mit Klas-Bezug: DE08 2805 0100 0011 1360 90,
@@ -379,38 +433,53 @@ D. UNTERLAGEN FUER DEN NOTAR
   - Jans Anschrift: Lucy-Lameck-Str. 29, 12049 Berlin
   - Aktenzeichen des Betreuungsgerichts: AG Oldenburg 110 XVII (K) 1375;
     Anne mit Aufgabenkreis Vermoegenssorge
-  - Bei Anne erfragen: Datum des Genehmigungsantrags und Datum und Weg,
-    auf dem sie das Schreiben vom 21.04.2026 erhalten hat
+  - Von Anne erfragt (15): Datum des Genehmigungsantrags unbekannt;
+    Schreiben vom 21.04.2026 (an Uferstrasse 2) am 10.06.2026 in der
+    Kennedystrasse vorgefunden. Siehe C.3.
 
 
 -------------------------------------------------------------------------------
 E. ZEITPLAN - ANNE IST VOM 21.11. BIS 13.12.2026 IM AUSLAND
 -------------------------------------------------------------------------------
 
-  Bis Fr 20.11.2026 bleiben ab heute (Di 20.10.) gut vier Wochen.
+  Bis Fr 20.11.2026 bleiben ab heute (Mi 21.10.) gut vier Wochen.
+
+  TERMINE (Anne 15, Bernd/Fabian ab 12.11., geklaert 21.10.2026):
+    Do 12.11. 15-18 Uhr | Fr 13.11. ab 11 Uhr | Mi 18.11. 15-18 Uhr |
+    Do 19.11. ab 15 Uhr
+  (05./06.11. entfallen - Bernd/Fabian koennen erst ab 12.11.)
+  Jan kommt nach Oldenburg (15). OFFEN: Kann Jan an diesen Tagen? Sein
+  sicherer Tag war der 06.11. Notfalls unterschreibt er getrennt.
+  Bei Entwurf ca. 02.-06.11. bleibt dem Steuerberater gut eine Woche.
+
+  RUHEN: Anne beantragt das Ruhen bis NACH IHRER RUECKKEHR AM 13.12.2026
+  (15), nicht nur bis zur Beurkundung. Folge: Auch bei Beurkundung im
+  November entscheidet das Gericht fruehestens nach dem 13.12. Fuer uns
+  unschaedlich - die Hemmung bleibt (13, Ziff. 3), der § 1952-Fall ist
+  ab Beurkundung geregelt.
 
   Wann              | Was                                      | Wer
   ------------------+------------------------------------------+------------
-  sofort            | Mail an Anne (nachricht_anne.20261020)   | Bernd
-                    | Notar-Antwort 13 an Fabian weiterleiten  | Bernd
-  nach Annes OK     | Rueckfrage an Notariat mit Anlagen 05, 12| Bernd
+  ERLEDIGT 20./21.10| Mail an Anne, Notar-Antwort an Fabian    | Bernd
+                    | Annes Antworten (15)                     | Anne
+  sofort            | Antwort an Notariat mit Anlagen 12,14,05 | Bernd
+                    | (notar\antwort_20261021\)                |
   sofort            | Steuerberater beauftragen                | Bernd/Fabian
   bis ca. 30.10.    | Ruhensantrag beim Betreuungsgericht      | Anne
-                    | Jan informiert, Unterschriftsort geklaert| Anne
-                    | Antwort Depotverwalter (thesaurierende   | Bernd
-                    | Fonds; Anfrage am 20.10. gestellt)       |
                     | Nachlassverzeichnis mit Erklaerung der   | Bernd
-                    | niedrigen Ausschuettungen                |
+                    | niedrigen Ausschuettungen an den Notar   |
+  ab 26.10.         | Binder wieder im Buero, prueft 13 + 20.10| Binder
   ca. 02.-06.11.    | Erster Entwurf vom Notar                 | Notar
                     | Verzeichnis + Begleitschreiben an Binder | Bernd
                     | (begleitschreiben_binder_verzeichnis.txt;|
-                    | erst nach Ruhensantrag und Depotantwort) |
+                    | erst nach Ruhensantrag)                  |
   bis ca. 13.11.    | Abstimmung Entwurf, Steuerberater-Votum  | alle
-  bis Fr 20.11.     | BEURKUNDUNG                              | alle
+  12.-19.11.        | BEURKUNDUNG (Termine oben)               | alle
   danach            | Anne reicht die Urkunde zur Genehmigung  | Anne
-                    | ein; das Verfahren wird fortgesetzt      |
-  21.11.-13.12.     | Anne im Ausland                          |
-  ab Mo 14.12.      | Ersatztermin, falls 20.11. nicht klappt  |
+                    | ein; Verfahren ruht bis nach 13.12.      |
+  21.11.-13.12.     | Anne in Sri Lanka                        |
+  ab Mo 14.12.      | Ersatztermin, falls 19.11. nicht klappt; | 
+                    | Fortsetzung des Genehmigungsverfahrens   |
 
   WENN DER TERMIN BIS 20.11. NICHT KLAPPT
     - Kein Fristproblem: Das Verfahren ruht, die Hemmung bleibt (13,
@@ -419,7 +488,7 @@ E. ZEITPLAN - ANNE IST VOM 21.11. BIS 13.12.2026 IM AUSLAND
       genehmigt nach ihrer Rueckkehr. Oder Termin ab 14.12. Klaert der
       Notar (C.7).
     - Jan kann getrennt in Berlin unterschreiben und haengt nicht an
-      Annes Termin.
+      Annes Termin. (Er will aber nach Oldenburg kommen, 15.)
 
   WENN HILLE WAEHREND DER REISE STIRBT
     - Das Genehmigungsverfahren endet (04:104). Fall III.
@@ -436,14 +505,14 @@ E. ZEITPLAN - ANNE IST VOM 21.11. BIS 13.12.2026 IM AUSLAND
 
 ===============================================================================
 Grundlagen: erbschaft_kontext\00, 01, 03, 04, 05, 06, 08, 10, 11, 12, 13,
-            08_vorschlag_gegenversion.txt,
+            14, 15, 08_vorschlag_gegenversion.txt,
             situation\wen_beauftragen_wir.txt,
             situation\bitte_an_binder.txt,
             situation\gespraech_anne.20261016.txt,
             situation\zeitraum_1952_weg.txt
-Siehe auch: situation\rueckfrage_notar.20261020.txt,
+Siehe auch: notar\antwort_20261021\00_email_antwort_notariat.20261021.txt,
             situation\nachricht_anne.20261020.txt,
             situation\comdirect_konto_bewertung.txt
-Erstellt: 16.10.2026, aktualisiert 18.10.2026 und 20.10.2026.
+Erstellt: 16.10.2026, aktualisiert 18.10.2026, 20.10.2026 und 21.10.2026.
 Keine Rechtsberatung.
 ===============================================================================
