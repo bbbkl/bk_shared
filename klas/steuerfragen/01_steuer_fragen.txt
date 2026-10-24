@@ -1,0 +1,41 @@
+Entwurf für die Anfrage an den Steuerberater
+Betreff: Erbschaftsteuerliche Prüfung einer Abfindungsvereinbarung im Erbfall Klas Krüger
+Sehr geehrte/r Frau/Herr Steuerberater,
+ich bitte um eine steuerliche Stellungnahme zu folgendem Sachverhalt:
+
+* Klas Krüger verstarb am 05.02.2026. Sein Vermögen besteht im Wesentlichen aus Kapitalanlagen von ca. 1,45 Mio. €.
+
+* Laut notariellem Testament vom 20.11.2013 ist seine Ehefrau Hille Krüger nicht befreite Vorerbin; die Söhne Bernd Krüger und Fabian Krüger sind Nacherben. Zusätzlich wurde Hille Krüger ein Nießbrauch an den Kapitalanlagen vermacht.
+
+* Für Hille Krüger wurde die Erbschaft ausgeschlagen und gleichzeitig ein Abfindungsvertrag über 190.000 € geschlossen. Die Wirksamkeit hängt derzeit von betreuungsgerichtlichen Vorgängen ab.
+
+* Inzwischen wird alternativ geprüft, ob nach dem Tod von Hille Krüger deren Erben (Anne Weniger und Jan Trüper) das Ausschlagungsrecht nach § 1952 BGB ausüben und die Abfindung erst dann gezahlt wird.
+
+Bitte um Beantwortung folgender Fragen:
+
+1. Ist die Abfindung von 190.000 € bei den Erben Bernd Krüger und Fabian Krüger als Nachlassverbindlichkeit erbschaftsteuerlich abzugsfähig, wenn die Ausschlagung noch zu Lebzeiten von Hille Krüger wirksam wird?
+
+2. Bleibt die Abzugsfähigkeit erhalten, wenn die Ausschlagung erst nach dem Tod von Hille Krüger durch deren Erben nach § 1952 BGB erklärt wird?
+
+3. Führt die Zahlung der 190.000 € bei Anne Weniger und Jan Trüper zu Erbschaftsteuer, Einkommensteuer oder sonstigen steuerlichen Folgen?
+
+4. Macht es steuerlich einen Unterschied, ob die Ansprüche über einen Pflichtteilsverzicht, einen Pflichtteilserlass oder eine Wegfall-/Rückzahlungsklausel abgesichert werden?
+
+5. Sind weitere steuerliche Risiken erkennbar, die die wirtschaftliche Vorteilhaftigkeit der Ausschlagung in Frage stellen könnten?
+
+Mit freundlichen Grüßen
+Bernd Krüger
+
+==========================================
+
+Meine Einschätzung zur Wirtschaftlichkeit der Beratung
+Wenn Sie genau diese fünf Fragen stellen und die Unterlagen
+01_testamtent_krueger
+03_abfindungsvertrag
+13_anfrage_notar_antwort.20261020
+
+mitsenden, sollte ein spezialisierter Steuerberater den Sachverhalt relativ schnell erfassen können.
+
+Für eine schriftliche Stellungnahme würde ich persönlich eher mit 1.000 bis 2.000 € rechnen als mit einem umfangreichen Gutachten. Der entscheidende Punkt ist aus meiner Sicht Frage 2: Ob die steuerliche Anerkennung der Abfindung auch dann erhalten bleibt, wenn die Ausschlagung erst über den § 1952-BGB-Weg erfolgt. Genau darauf weisen Ihre eigenen Unterlagen mehrfach als noch ungeklärten Kernpunkt hin.
+
+Mein Bauchgefühl: Bevor Geld für Anwälte, Notare und weitere Vertragsentwürfe ausgegeben wird, sind diese fünf Steuerfragen vermutlich die wirtschaftlich wichtigste offene Baustelle
