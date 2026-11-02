@@ -1,0 +1,78 @@
+Das Schreiben 19_info_binder.20261102 vom 02.11.2026 ist aus deiner Sicht insgesamt eher positiv zur Ausschlagung, aber kritisch für die geplante umfassende Abgeltung der Pflichtteilsansprüche. Jonas Binder trennt jetzt ausdrücklich zwei Dinge, die zuvor teilweise vermischt wurden: Genehmigung der Ausschlagung einerseits und Genehmigung eines Erlasses von Pflichtteilsansprüchen andererseits.
+
+1. Der wichtigste Punkt: Binder hält die Ausschlagung nun für gut vertretbar
+Nach Vorlage des Nachlassverzeichnisses nennt Jonas Binder konkret:
+Aktivnachlass 1.444.967,56 €, bereinigt um Beerdigungskosten 1.438.042,41 €,
+Dividenden 2025 nach Steuern 16.990,39 € aus dem Fisher-Depot und 1.517,63 € aus dem Comdirect-Depot,
+Fisher-Managementgebühren 14.695,68 €,
+also Dividenden vor dem streitigen Kostenabzug von insgesamt 18.508,02 €.
+Sein entscheidender Satz lautet sinngemäß: Wenn die 190.000 € die entgehenden testamentarischen Zuflüsse ersetzen sollen, ist die Ausschlagung jedenfalls vertretbar. Später wird er sogar deutlicher und schreibt, die Genehmigung der Ausschlagung erscheine aus seiner Sicht mit den Interessen der Betreuten gut vereinbar.
+Das ist gegenüber seinem Schreiben vom 28.09. eine erhebliche Entwicklung. Damals konnte er die 190.000 € noch nicht bewerten, weil die tatsächlichen Zuflüsse nicht bekannt waren, und verlangte deshalb Nachlassverzeichnis, jährliche Nachweise sowie gegebenenfalls Nachzahlungen oberhalb von 190.000 €.
+Für das eigentliche Genehmigungsverfahren zur Ausschlagung ist das deshalb ein gutes Schreiben.
+
+2. Seine Rechnung mit den Kursgewinnen überzeugt mich dagegen nur begrenzt
+Jonas Binder stellt fest, dass aus ursprünglich etwa 500.000 € Anlagevermögen ein sehr erheblich höheres Vermögen entstanden sei, und spricht von rund 900.000 € Vermögenszuwachs bzw. durchschnittlich ca. 120.000 € pro Jahr. Daraus leitet er Zweifel daran ab, sämtliche Fisher-Managementgebühren ausschließlich den Dividenden zuzurechnen.
+Hier würde ich sauber zwischen zwei Fragen unterscheiden:
+A. Wie erfolgreich war die Kapitalanlage?
+ Dafür sind Kursgewinne selbstverständlich relevant.
+B. Welche Zuflüsse hätte Hille Krüger aus ihrem testamentarischen Nießbrauch tatsächlich erhalten?
+ Das ist eine andere Rechts- und Berechnungsfrage.
+Das Testament spricht ausdrücklich vom Nießbrauch an den Kapitalanlagen. Die vorherige anwaltliche Erläuterung von Judith Lockmann beschreibt dessen wirtschaftliche Wirkung ausdrücklich damit, dass Zinsen und Dividenden Hille Krüger zustehen.
+Daher würde ich aus den historischen Kursgewinnen nicht automatisch einen jährlichen Anspruch Hille Krügers von 120.000 € ableiten. Genau das behauptet Binder allerdings auch nicht ausdrücklich. Er benutzt die Kursentwicklung hauptsächlich als Argument für seine Zweifel an der vollständigen Zuordnung der Managementkosten zu den Dividenden.
+Das ist ein wichtiger Unterschied.
+
+3. Das eigentliche Problem ist jetzt der Pflichtteil
+Hier wird das Schreiben für euch interessanter.
+Jonas Binder korrigiert ausdrücklich teilweise seine Einschätzung vom 19.10. und geht nun von einem gesetzlichen Erbteil Hille Krügers von 1/4 und einem daraus resultierenden Pflichtteilsanspruch von 1/8 zuzüglich Zugewinnausgleich aus.
+Am 19.10. hatte er noch formuliert, der Pflichtteil betrage „mindestens 1/4 des Nachlasses“ und könne um bis zu 1/8 höher sein.
+Damit räumt er selbst ein, dass seine frühere Berechnung nicht Bestand hat.
+Noch bedeutender ist aber seine Folgerung:
+Ausschlagung und Pflichtteils-Erlass sind zwei getrennte Genehmigungsfragen.
+Für die Ausschlagung sieht er gute Argumente. Für den Erlass des Pflichtteils verlangt er dagegen im Kern eine wirtschaftliche Vergleichsrechnung: Wie hoch ist der Anspruch überhaupt, und wird dessen Aufgabe durch die vereinbarte Abfindung ausreichend kompensiert?
+Dafür hält er Informationen über Anfangsvermögen bei Eheschließung und Endvermögen beim Erbfall für erforderlich.
+Das ist meines Erachtens der zentrale Punkt des gesamten Schreibens.
+
+4. Und genau hier liegt das Problem für eure geplante Konstruktion
+Im ursprünglichen Abfindungsvertrag steht lediglich:
+190.000 € gegen wirksame Ausschlagung.
+Eine umfassende Abgeltung sämtlicher weiterer Ansprüche steht dort gerade nicht.
+Diese Lücke war der Grund für eure spätere Gegenkonstruktion. Eure 08_vorschlag_gegenversion wollte die Zahlung deshalb davon abhängig machen, dass unter anderem Pflichtteil, Zugewinnausgleich, Nießbrauchsansprüche und der Comdirect-Komplex erledigt werden.
+Das Notariat Wolfgang Schwackenberg hatte bereits am 20.10. darauf hingewiesen, dass eine Vereinbarung über den künftigen Nachlass der noch lebenden Hille Krüger nicht wirksam geschlossen werden könne und eine Lösung über Bedingungen für die Fälligkeit der Abfindung in Betracht komme.
+Und Jonas Binder selbst hatte am 21.10. vorgeschlagen, statt eines möglicherweise schwer genehmigungsfähigen Erlasses eine Wegfall-/Rückzahlungslösung zu erwägen: Werden trotzdem Pflichtteilsansprüche geltend gemacht, fällt der Abfindungsanspruch weg bzw. wäre eine bereits gezahlte Abfindung zurückzuzahlen.
+Diesen Gedanken hält er im neuen Schreiben ausdrücklich aufrecht.
+Das halte ich momentan für die interessanteste Spur.
+Nicht:
+190.000 € und Hille Krüger verzichtet jetzt auf ihren Pflichtteil.
+sondern konstruktiv eher:
+190.000 € werden nur geschuldet, soweit die vereinbarte Konfliktbereinigung tatsächlich erreicht wird.
+Wie diese Bedingung juristisch exakt formuliert werden muss, sollte allerdings der Notar entscheiden.
+
+5. Für den §-1952-Fall macht Binder eine wichtige Abgrenzung
+Jonas Binder sagt ausdrücklich, dass ein späterer Erlass durch Anne Weniger und Jan Trüper als Erbeserben außerhalb seiner Verfahrenspflegschaft liegt und von diesen selbst beurteilt und verhandelt werden muss.
+Das passt zum bisherigen §-1952-Konzept: Das Ausschlagungsrecht kann auf die Erben Hille Krügers übergehen; Jonas Binder hatte diese Möglichkeit bereits am 08.10. beschrieben, zugleich aber betont, dass das laufende Genehmigungsverfahren für die Hemmung der Ausschlagungsfrist erhalten bleiben müsse.
+Das Notariat hat ebenfalls bestätigt, dass bei einem Tod während des anhängigen Verfahrens Hille Krügers Erben nach § 1952 BGB ausschlagen könnten und ein etwaiger Pflichtteilsanspruch grundsätzlich in ihren Nachlass fiele.
+Damit erscheint euer Grundgedanke weiterhin nicht erledigt. Vielmehr trennt Binder jetzt sauber:
+Ausschlagung zu Lebzeiten → Betreuungsgericht entscheidet.
+Pflichtteilserlass zu Lebzeiten → zusätzliche und schwierigere Genehmigungsfrage.
+Tod während des Verfahrens → § 1952 BGB und anschließende Entscheidung von Anne Weniger/Jan Trüper liegen außerhalb seiner Verfahrenspflegschaft.
+
+Meine Gesamtbewertung
+Für Bernd/Fabian: 7/10 positiv.
+Der entscheidende Fortschritt ist, dass Jonas Binder nach Prüfung der tatsächlichen Zahlen nicht mehr grundsätzlich an der wirtschaftlichen Rechtfertigung der Ausschlagung hängen bleibt. Er hält sie nun ausdrücklich für mit den Interessen Hille Krügers gut vereinbar.
+Der Stolperstein wandert dadurch vom„Darf ausgeschlagen werden?“ zum„Was bekommen Bernd und Fabian für die 190.000 € endgültig erledigt?“
+Und da würde ich derzeit keinesfalls einfach den ursprünglichen Vertrag ausführen, ohne die Pflichtteilsfrage vertraglich zu lösen. Der Vertrag vom 13.03. enthält diese umfassende Erledigung gerade nicht.
+Besonders interessant finde ich deshalb Binders eigenen Vorschlag vom 21.10. und 02.11.: nicht zwingend einen heute genehmigungspflichtigen Pflichtteilserlass erzwingen, sondern Zahlung bzw. Behaltendürfen der 190.000 € an das Ausbleiben einer Pflichtteilsforderung koppeln.
+Das wäre auch deutlich näher an eurem eigentlichen wirtschaftlichen Ziel: 190.000 € gegen endgültigen Frieden, nicht 190.000 € plus ein später noch offener Pflichtteil.
+Der nächste sinnvolle Prüfpunkt beim Notar ist deshalb aus meiner Sicht sehr konkret: Kann Binders Wegfall-/Rückzahlungskonstruktion so gestaltet werden, dass sie sowohl bei genehmigter Ausschlagung zu Lebzeiten als auch beim §-1952-Fall funktioniert, ohne dass Hille Krüger heute einen Pflichtteilsanspruch erlassen muss? Genau dort scheint momentan der Hebel zu liegen.
+
+
+
+
+Meine Prioritätenliste für Bernd und Fabian
+Jetzt:
+1. Notariat kontaktieren und neuen Vertragsentwurf verlangen.
+2. Jonas Binders Stellungnahme vom 21.10. zum Erlass/Rückzahlungsmodell an das Notariat geben.
+3. Dem Notariat ausdrücklich sagen: 190.000 € nur gegen vollständige Absicherung des Pflichtteilsthemas und wirksame Ausschlagung.
+4. Jan Trüper für die Beurkundung organisatorisch einplanen.
+5. Parallel nur die steuerlichen Folgen der finalen Konstruktion prüfen lassen.
+6. Darauf achten, dass das laufende Genehmigungsverfahren anhängig bleibt
