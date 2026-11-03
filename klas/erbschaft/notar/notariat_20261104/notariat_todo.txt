@@ -1,0 +1,127 @@
+===============================================================================
+NOTARIAT SCHWACKENBERG - IST DAS NOTARIAT AM ZUG? SOLL ICH MICH MELDEN?
+Stand 04.11.2026, Az. 71152/26
+===============================================================================
+
+ERGEBNIS IN EINEM SATZ
+Ja, das Notariat ist am Zug. Trotzdem jetzt melden, zeitnah, aber NICHT mit
+dem Entwurf notariat_20261103\notriat.20261103.txt.
+
+
+-------------------------------------------------------------------------------
+1. WARUM DAS NOTARIAT AM ZUG IST
+-------------------------------------------------------------------------------
+
+  - 21.10.2026: Bitte um einen Entwurf "moeglichst Anfang November", mit
+    Beurkundung am 12./13./18./19.11.
+    (notar\antwort_20261021\00_email_antwort_notariat.20261021.txt)
+    Dass die Mail abgeschickt wurde, geht aus der Mail vom 28.10. hervor
+    ("wie in meiner E-Mail vom 21.10.2026 angekuendigt").
+  - 28.10.2026: Nachlassverzeichnis, Belege und Eroeffnungsschreiben
+    nachgereicht (erbschaft_kontext\17).
+  - Eine Antwort des Notariats auf diese beiden Mails ist in den Unterlagen
+    nicht abgelegt. Falls doch eine gekommen ist, ist die Lage neu zu
+    bewerten.
+
+
+-------------------------------------------------------------------------------
+2. WARUM TROTZDEM JETZT MELDEN
+-------------------------------------------------------------------------------
+
+  a) Der Zeitplan wird knapp. Bis zum letzten Termin am 19.11. bleiben gut
+     zwei Wochen. Ein Entwurf liegt noch nicht vor, ein Termin ist nicht
+     reserviert, und ob Jan kann, ist noch offen. Anne reist am 21.11. ab.
+
+  b) Binders Schreiben vom 02.11.2026 (erbschaft_kontext\19) ist neu und
+     sollte in den Entwurf einfliessen. Es trennt Ausschlagung und Erlass,
+     nennt den Zugewinnausgleich und verlangt eine Bezifferung von Anfangs-
+     und Endvermoegen.
+     ACHTUNG: Das Schreiben ging an Anne. Vor der Weitergabe kurz ihr OK
+     einholen.
+
+
+-------------------------------------------------------------------------------
+3. WARUM NICHT DER ENTWURF notriat.20261103.txt
+-------------------------------------------------------------------------------
+
+  - Er ignoriert die Mail vom 21.10. Er dankt nur fuer die Stellungnahme
+    vom 20.10. und stellt Binders Mail vom 21.10. als neu vor. Beides hat
+    das Notariat aber schon am 21.10. bekommen.
+
+  - Er nimmt die Position vom 21.10. zurueck. Damals wurde eine umfassende
+    Abgeltung gefordert, einschliesslich Zugewinnausgleich (Punkt 1). Der
+    neue Entwurf nennt nur noch den Pflichtteil. Gerade der
+    Zugewinnausgleich ist der groesste Posten.
+
+  - Er widerspricht der Mail vom 21.10. bei Binders Auflagen. Dort wurden
+    Stammerhaltung und Nachweise unter Bedingungen mitgetragen (Punkt 7).
+    Der Entwurf lehnt sie jetzt pauschal ab. Ein solcher Kurswechsel ohne
+    Erklaerung verwirrt das Notariat und Anne, die in Kopie ist.
+
+  -> notriat.20261103.txt ist UEBERHOLT, nicht senden.
+
+
+-------------------------------------------------------------------------------
+4. VORGEHEN
+-------------------------------------------------------------------------------
+
+  [ ] 1. Anne um OK bitten, Binders Schreiben vom 02.11. an das Notariat
+         weiterzugeben.
+  [ ] 2. Frau Raguse anrufen (0441 97375 27):
+           - Ist der Entwurf in Arbeit, und bis wann kommt er?
+           - Kann einer der Termine am 12., 13., 18. oder 19.11. vorlaeufig
+             reserviert werden?
+  [ ] 3. Danach kurze Mail senden (Text unten), cc Fabian und Anne.
+         Anlage: Binder vom 02.11.2026 (erbschaft_kontext\19), nur mit
+         Annes OK.
+  [ ] 4. Jan: Verfuegbarkeit am 12./13./18./19.11. ueber Anne klaeren.
+
+
+-------------------------------------------------------------------------------
+5. MAILTEXT
+-------------------------------------------------------------------------------
+
+An:   Janina Raguse <janina.raguse@anwalt-ol.de>
+Cc:   Fabian Krueger <fabiankrueg@gmx.de>
+Cc:   Anne Weniger <anne.weniger@gmail.com>
+
+Betreff: Krueger - 71152/26 - Stand des Entwurfs und Schreiben RA Binder
+         vom 02.11.2026
+
+Sehr geehrte Frau Raguse,
+
+bezugnehmend auf meine E-Mails vom 21.10. und 28.10.2026 moechte ich kurz
+nach dem Stand des Entwurfs fragen. Wegen der Abwesenheit von Frau
+Dr. Weniger ab dem 21.11. waeren wir dankbar, wenn wir einen der Termine
+12./13./18./19.11. vorlaeufig reservieren koennten.
+
+Inzwischen liegt ein weiteres Schreiben von RA Binder vom 02.11.2026 vor,
+das ich beifuege. Er trennt darin die Genehmigung der Ausschlagung von der
+Genehmigung eines Erlasses. Fuer Letztere haelt er eine Bezifferung des
+Pflichtteils einschliesslich Zugewinnausgleich (§ 1371 Abs. 3 BGB) fuer
+erforderlich. Er regt alternativ erneut die Wegfall-/Rueckzahlungsloesung
+an. Wir bitten, dies im Entwurf zu beruecksichtigen. Unser Ziel aus der
+Mail vom 21.10. bleibt unveraendert: Mit der Abfindung sollen alle
+Ansprueche aus dem Erbfall erledigt sein, ausdruecklich auch der
+Zugewinnausgleich.
+
+Mit freundlichen Gruessen
+Bernd Krueger
+
+
+-------------------------------------------------------------------------------
+6. HINWEIS
+-------------------------------------------------------------------------------
+
+Einen Entwurf anfordern bindet zu nichts. Unterschreiben erst, wenn ein
+eigener Anwalt die Frage geprueft hat, wie hoch Pflichtteil und
+Zugewinnausgleich werden koennen (siehe Bewertung vom 03.11.2026:
+grob 300.000 bis 640.000 EUR, abhaengig vom Anfangsvermoegen 1992).
+
+
+===============================================================================
+Grundlagen: erbschaft_kontext\13, 14, 16a, 17, 19,
+            notar\antwort_20261021\00_email_antwort_notariat.20261021.txt,
+            notar\notariat_20261103\notriat.20261103.txt (ueberholt)
+Erstellt: 04.11.2026. Keine Rechtsberatung.
+===============================================================================
