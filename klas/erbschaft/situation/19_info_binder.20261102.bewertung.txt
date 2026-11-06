@@ -1,0 +1,285 @@
+===============================================================================
+BEWERTUNG: SCHREIBEN RA JONAS BINDER VOM 02.11.2026 (19)
+Stand 06.11.2026
+===============================================================================
+
+FRAGE
+Wie ist Binders Schreiben nach Erhalt des Nachlassverzeichnisses aus Sicht
+von Bernd (und Fabian) zu bewerten?
+
+ERGEBNIS IN EINEM SATZ
+Das Schreiben ist gut fuer die Genehmigung der Ausschlagung, aber gerade
+deshalb fuer Bernd eher ungünstig: Binder trennt die Ausschlagung (jetzt
+"gut vereinbar") vom Pflichtteilserlass (nur bei nachgewiesener
+Kompensation genehmigungsfaehig) - und nach den eigenen Zahlen liegen
+Pflichtteil plus Zugewinnausgleich voraussichtlich deutlich ueber
+190.000 EUR. Damit verschiebt sich die Verhandlungsmacht zu Hilles Seite.
+
+ABWEICHUNG VON situation\bewertung_binder_20261102.txt
+Dort wird das Schreiben mit "7/10 positiv" bewertet. Das halte ich fuer zu
+optimistisch. Positiv ist es fuer das Ziel "Ausschlagung genehmigt". Fuer
+Bernd ist eine genehmigte Ausschlagung OHNE genehmigten Erlass aber der
+schlechteste Fall (pflichtteilsrisiko.txt Abschnitt 4, eckpunkte_notar.txt
+B.12). Meine Einschaetzung fuer Bernd/Fabian: ca. 4/10.
+
+KEINE RECHTSBERATUNG. Alle Rechts- und Zahlenangaben sind Einschaetzungen
+auf Grundlage der vorliegenden Unterlagen. Wegen der Groessenordnung (siehe
+Abschnitt 3) sollte das ein eigener Fachanwalt fuer Erbrecht pruefen.
+
+
+-------------------------------------------------------------------------------
+1. WAS BINDER SAGT - KURZ
+-------------------------------------------------------------------------------
+
+  a) Ertraege (19:41-48): Er uebernimmt das Nachlassverzeichnis.
+     Aktivnachlass 1.444.967,56 EUR, bereinigt 1.438.042,41 EUR.
+     Dividenden 2025 nach Steuern: Fisher 16.990,39 + comdirect 1.517,63
+     = 18.508,02 EUR (rechnerisch richtig).
+
+  b) Managementgebuehren (19:56-58): Zweifel, ob sie allein den Dividenden
+     anzulasten sind; "zumindest eine Quotelung". Begruendung: hohe
+     Kursgewinne (2018 angelegt 500.000 EUR, Zuwachs ca. 900.000 EUR,
+     ca. 120.000 EUR/Jahr).
+
+  c) Ausschlagung (19:59-65, 84-85): Selbst ohne Kostenabzug sind 190.000 EUR
+     ca. 10 Jahresertraege -> Ausschlagung "jedenfalls vertretbar", mit den
+     Interessen der Betreuten "gut vereinbar".
+
+  d) Pflichtteil (19:66-72): "Gerade weil die Dividenden ... gering" sind,
+     gewinnt die Ausschlagung ZUGUNSTEN VON PFLICHTTEILSANSPRUECHEN an
+     Relevanz. Korrektur seiner Angabe vom 19.10.: 1/8 Pflichtteil plus
+     Zugewinnausgleich (§§ 1931, 2303, 1371 Abs. 3 BGB).
+
+  e) Erlass (19:74-88): Genehmigung nur, wenn die Ansprueche der Hoehe nach
+     feststehen (Anfangs- und Endvermoegen BEIDER Ehegatten) und durch die
+     Abfindung kompensiert werden. Ggf. Erweiterung seines Aufgabenkreises.
+
+  f) Alternative (19:89-91): Abfindung entfaellt, "wenn bzw. insoweit"
+     Pflichtteilsansprueche geltend gemacht werden.
+
+  g) § 1952-Fall (19:92-94): Erlass durch Anne und Jan als Erbeserben liegt
+     ausserhalb seiner Verfahrenspflegschaft.
+
+
+-------------------------------------------------------------------------------
+2. WAS GUT IST
+-------------------------------------------------------------------------------
+
+  - Die Zahlen sind akzeptiert. Der Vorwurf "nicht vorstellbar" (12:10) ist
+    vom Tisch; Binder unterstellt keine Manipulation.
+  - Die Ausschlagung haelt er jetzt fuer genehmigungsfaehig - gegenueber
+    dem 28.09. ("nicht bewertbar", 04:74-78) ein klarer Fortschritt.
+  - Seine eigene Rechnung (10 Jahre) zeigt, dass eine Nachzahlungsklausel
+    praktisch nie greifen wuerde. Das ist ein Hebel, um die Auflagen vom
+    28.09. (jaehrliche Nachweise, Stammerhalt, Nachzahlung) zu streichen.
+  - Er bestaetigt den Gedanken der Familieneinigung als mutmasslichen
+    Willen Hilles (19:29-32) - das wichtigste Argument fuer Bernd (Abschnitt 5).
+  - § 1952-Regelung: kein Widerstand, er mischt sich nicht ein.
+
+
+-------------------------------------------------------------------------------
+3. DER KERN: DIE GROESSENORDNUNG VON PFLICHTTEIL + ZUGEWINN
+-------------------------------------------------------------------------------
+
+Binder verlangt eine Bezifferung. Bernd sollte sie SELBST kennen, bevor sie
+ein anderer erstellt. Grobe Modellrechnung (keine Bewertung der Rechtslage):
+
+  Formel (§ 1371 Abs. 3 BGB, kleiner Pflichtteil):
+    ZGA = (Zugewinn Klas - Zugewinn Hille) / 2
+    PT  = 1/8 x (Nachlass - ZGA)        [ZGA ist Nachlassverbindlichkeit]
+    Summe = ZGA + PT = 180.000 + 7/8 x ZGA   (bei Nachlass 1,44 Mio.)
+
+  Zugewinn Klas = 1,44 Mio. - Anfangsvermoegen 1992 x ca. 1,8
+  (Indexierung nach Verbraucherpreisindex, grob geschaetzt)
+
+  Anfangsvermoegen  | Zugewinn Hille 0       | Zugewinn Hille 200.000
+  Klas 1992         | ZGA      Summe         | ZGA      Summe
+  ------------------+------------------------+------------------------
+           0 EUR    | 720.000  ca. 810.000   | 620.000  ca. 722.000
+     100.000 EUR    | 630.000  ca. 731.000   | 530.000  ca. 644.000
+     200.000 EUR    | 540.000  ca. 652.000   | 440.000  ca. 565.000
+     300.000 EUR    | 450.000  ca. 574.000   | 350.000  ca. 486.000
+     500.000 EUR    | 270.000  ca. 416.000   | 170.000  ca. 329.000
+
+  BEFUNDE
+  - 190.000 EUR entsprechen ziemlich genau dem kleinen Pflichtteil OHNE
+    Zugewinn (180.000 EUR). Jeder Zugewinnausgleich macht den
+    Pflichtteilsweg fuer Hilles Seite besser als die Abfindung.
+  - Kann ein Anfangsvermoegen nicht belegt werden, wird es mit 0 vermutet
+    (§ 1377 Abs. 3 BGB). Die Beweislast fuer Klas' Anfangsvermoegen liegt
+    damit faktisch bei Bernd und Fabian.
+  - Klas 2013: 330.000 EUR (01:145), 2018: ca. 530.000 EUR (19:51-53),
+    2026: 1,44 Mio. Ein grosses Anfangsvermoegen 1992 ist danach
+    unwahrscheinlich. Realistisch: Summe ca. 450.000 bis 750.000 EUR.
+  - Fuer Hilles Seite ist der ZGA erbschaftsteuerfrei (§ 5 Abs. 2 ErbStG),
+    der kleine Pflichtteil liegt unter ihrem Freibetrag.
+
+  FOLGE
+  Legt man Binders Massstab "Kompensation" rein wirtschaftlich an, ist ein
+  Erlass fuer 190.000 EUR voraussichtlich NICHT genehmigungsfaehig. Binder
+  deutet das in 19:66-69 selbst an. Die von ihm verlangte Bezifferung
+  wuerde diese Luecke fuer Gericht und Anne sichtbar machen.
+
+  ZU BINDERS KORREKTUR: 1/8 plus Zugewinn entspricht der herrschenden
+  Meinung (Ausschlagung -> § 1371 Abs. 3 BGB, kleiner Pflichtteil). Die in
+  pflichtteilsrisiko.txt offen gelassene Frage "kleiner oder grosser
+  Pflichtteil" ist damit praktisch zugunsten "kleiner Pflichtteil PLUS
+  Zugewinn" entschieden - fuer Bernd ist das NICHT guenstiger, sondern
+  wegen des Zugewinns meist teurer als der grosse Pflichtteil (360.000 EUR).
+
+
+-------------------------------------------------------------------------------
+4. BINDERS ALTERNATIVE (WEGFALLKLAUSEL) SCHUETZT BERND NICHT
+-------------------------------------------------------------------------------
+
+  "Abfindung entfaellt, wenn bzw. INSOWEIT Pflichtteil geltend gemacht wird"
+  verhindert nur die Doppelung. Sie gibt Hilles Seite ein WAHLRECHT:
+    - 190.000 EUR nehmen, oder
+    - Pflichtteil + Zugewinn fordern (nach Abschnitt 3 meist mehr).
+  "Insoweit" heisst sogar: Anrechnung - Hilles Seite erhaelt im Ergebnis
+  das Hoehere von beidem.
+
+  Dasselbe gilt im § 1952-Fall: Anne und Jan entscheiden nach Hilles Tod
+  frei, ob sie die Abfindung samt Erlass nehmen oder den Pflichtteil
+  fordern (§ 311b Abs. 4 BGB verhindert eine Bindung vorher, 13 Ziff. 1).
+  Die geplante Bedingung "Zahlung nur gegen Erlass" schuetzt also vor
+  Doppelzahlung, NICHT vor dem Pflichtteil.
+
+  Bestaetigt eckpunkte_notar.txt B.4: Wegfallklausel nur als Zusatz, nie
+  als Ersatz fuer den Erlass.
+
+
+-------------------------------------------------------------------------------
+5. BERNDS STAERKSTES ARGUMENT: DER MUTMASSLICHE WILLE HILLES
+-------------------------------------------------------------------------------
+
+  Seit 01.01.2023 sind fuer Betreuer und Betreuungsgericht vorrangig die
+  Wuensche bzw. der mutmassliche Wille der Betreuten massgeblich, nicht
+  nur ihr wirtschaftlicher Vorteil (§ 1821 Abs. 2-4 BGB). Binder selbst
+  argumentiert so (04:54-62, 19:29-32).
+
+  Das Testament von 2013 ist dafuer ein starkes Indiz:
+    - Spiegelbildlich: Jeder Ehegatte setzt den anderen nur als nicht
+      befreiten Vorerben ein; das Vermoegen soll an die EIGENEN Kinder
+      gehen (01 §§ 3, 5). Klas' Vermoegen an Bernd/Fabian, Hilles an
+      Anne/Jan.
+    - Wechselbezueglich (01 § 9). Hille hat diesem Plan selbst zugestimmt.
+  Ein Zugriff von 500.000 EUR und mehr auf Klas' Vermoegen widerspraeche
+  genau diesem Plan. Eine Abfindung, die den entgehenden Niessbrauch
+  grosszuegig ersetzt (ca. 10 bis 50 Jahresertraege), entspricht ihm.
+
+  Damit laesst sich vertreten: Der Erlass ist genehmigungsfaehig, OHNE
+  dass er wirtschaftlich voll kompensiert wird. Das muss gegenueber Binder,
+  Notar und Gericht aktiv vorgetragen werden - von Bernd/Fabian bzw. deren
+  Anwalt, nicht von Binder (er vertritt nur Hille).
+
+  Zusaetzlich: Anne hat die Abfindung selbst als Ersatz fuer den Niessbrauch
+  beantragt (04:38-42) und am 16.10. dem § 1952-Weg mit Abgeltung
+  zugestimmt (09).
+
+
+-------------------------------------------------------------------------------
+6. KLEINERE PUNKTE
+-------------------------------------------------------------------------------
+
+  a) MANAGEMENTGEBUEHREN - NICHT DARUM STREITEN
+     Binders Quotelung ist rechtlich vertretbar (die Gebuehr dient auch dem
+     Substanzzuwachs). Selbst ohne Kostenabzug bleibt sein Ergebnis gleich.
+     Ein Nachgeben hier kostet nichts und staerkt die Glaubwuerdigkeit.
+     Kursgewinne sind aber Substanz und keine Niessbrauchsertraege - das
+     behauptet Binder auch nicht.
+
+  b) ZAHLENDETAIL
+     Binder nennt 14.695,68 EUR Managementgebuehr, unsere Unterlagen
+     14.695,98 EUR. Vermutlich Tippfehler; bei Gelegenheit richtigstellen.
+
+  c) "NOTARIN" (19:78)
+     Binder spricht von "der Notarin" - offenbar Dr. Lockmann. Zustaendig
+     ist jetzt Notar Schwackenberg (Az. 71152/26). Klarstellen.
+
+  d) AUFLAGEN VOM 28.09. GELTEN FUER IHN WEITER (19:20-21)
+     Er geht noch von den damals geforderten Ergaenzungen aus. Mit seiner
+     eigenen 10-Jahres-Rechnung bitten, Nachweis-, Stammerhalt- und
+     Nachzahlungspflicht zu streichen oder eng zu fassen (eckpunkte B.8).
+
+  e) FISHER-UNTERLAGEN 2018 - INTERN MIT FABIAN KLAEREN
+     Binder zitiert die Erklaerung, 500.000 + 30.000 EUR seien das GESAMTE
+     Vermoegen des Erblassers gewesen. Laut comdirect_konto_bewertung.txt
+     Abschnitt 2 und 5 flossen im 09/2018 Fabians 100.000 EUR
+     (Treuhandanlage) auf das Fisher-Verrechnungskonto. Wenn diese in den
+     500.000 EUR enthalten waren und Klas sie als eigenes Vermoegen
+     erklaert hat, schwaecht das die Treuhand-Erklaerung fuer die Zahlung
+     von 166.111,34 EUR in 2023 (Risiko: Pflichtteilsergaenzung,
+     Zugewinn-Hinzurechnung). Nicht von sich aus thematisieren, aber
+     vorbereitet sein und Belege sichern.
+
+  f) ERWEITERUNG DES AUFGABENKREISES (19:86-87)
+     Kostet Zeit. Die Beurkundung eines GENEHMIGUNGSFAEHIGEN Erlasses bis
+     19.11. ist damit unrealistisch.
+
+
+-------------------------------------------------------------------------------
+7. WAS BERND JETZT TUN SOLLTE
+-------------------------------------------------------------------------------
+
+  1. ZUGEWINN SELBST BEZIFFERN (vor jeder Antwort an Binder)
+     Unterlagen zu Klas' Vermoegen 1992 suchen (Kontoauszuege, Depots,
+     Steuerbescheide, Unterlagen zum Testament 2013). Hilles Vermoegen
+     1992 und am 05.02.2026 bei Anne erfragen (Betreuungs-
+     Vermoegensverzeichnis). Erst dann wissen, wie gross die Luecke ist.
+
+  2. EIGENEN FACHANWALT FUER ERBRECHT EINSCHALTEN
+     Binder vertritt nur Hille, der Notar ist neutral. Es geht fuer Bernd
+     und Fabian um eine Differenz von mehreren 100.000 EUR. Aufgabe des
+     Anwalts: Argumentation "mutmasslicher Wille" (Abschnitt 5) gegenueber
+     Binder und Gericht.
+
+  3. ANNES POSITION SCHRIFTLICH KLAEREN
+     Binders Schreiben lenkt Annes Blick ausdruecklich auf den
+     Pflichtteilsweg. Vor dem Notartermin offen fragen: Steht sie zur
+     Absprache vom 16.10. (190.000 EUR gegen Abgeltung von ALLEM,
+     einschliesslich Zugewinn)? Wird sie die Genehmigung der Ausschlagung
+     nur zusammen mit dem Erlass betreiben?
+
+  4. KEINE WEGFALLKLAUSEL ALS ERSATZ AKZEPTIEREN
+     Nur als Zusatz; ausdruecklich auch fuer den Zugewinnausgleich.
+
+  5. NOTARTERMIN 12.-19.11. TROTZDEM NUTZEN
+     Mindestens den § 1952-Fall mit Zahlung nur gegen Ausschlagung UND
+     Abgeltung (inkl. Zugewinn) durch Anne und Jan beurkunden. Das
+     verhindert die Doppelzahlung, falls Hille waehrend Annes Reise
+     (21.11.-13.12.) stirbt. Den Erlass fuer Fall I erst beurkunden, wenn
+     die Bezifferung (Punkt 1) vorliegt.
+
+  6. VERFAHREN WEITER RUHEN LASSEN
+     Keine Entscheidung ueber die Ausschlagung allein. Eine Genehmigung
+     ohne gleichzeitigen Erlass ist fuer Bernd der schlechteste Fall.
+
+  7. BINDER ANTWORTEN - SACHLICH UND KURZ
+     Dank fuer die Pruefung; Hinweis auf Notar Schwackenberg; Zahl
+     14.695,98; Bitte, die Auflagen vom 28.09. angesichts seiner Rechnung
+     zu streichen; Hinweis auf den mutmasslichen Willen (Testament 2013).
+     KEINE eigenen Zugewinnzahlen nennen, bevor Punkt 1 und 2 erledigt sind.
+
+
+-------------------------------------------------------------------------------
+8. GESAMTBEWERTUNG
+-------------------------------------------------------------------------------
+
+  Fuer die Genehmigung der Ausschlagung:     positiv
+  Fuer die Absicherung gegen den Pflichtteil: negativ
+  Fuer Bernd/Fabian insgesamt:               ca. 4/10
+
+  Binder arbeitet korrekt und im Interesse Hilles. Gerade deshalb deckt er
+  auf, dass der Pflichtteil mit Zugewinn fuer Hille wirtschaftlich mehr
+  wert ist als 190.000 EUR. Der Schutz Bernds haengt nicht mehr an
+  Vertragstechnik, sondern an zwei Dingen: dem mutmasslichen Willen Hilles
+  (Testament 2013) und Annes Festhalten an der Einigung vom 16.10.
+
+===============================================================================
+Grundlagen: erbschaft_kontext\00, 01, 03, 04, 09, 12, 13, 14, 16, 19
+            situation\pflichtteilsrisiko.txt, eckpunkte_notar.txt,
+            comdirect_konto_bewertung.txt, bewertung_binder_20261102.txt,
+            08_vorschlag_gegenversion.txt
+Erstellt: 06.11.2026. Keine Rechtsberatung. Modellrechnung grob.
+===============================================================================

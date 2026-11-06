@@ -1,0 +1,327 @@
+===============================================================================
+ANNE KOOPERIERT NICHT MEHR RICHTIG UND WILL PFLICHTTEIL UND ZUGEWINN
+BERECHNET HABEN - WAS BEDEUTET DAS, WAS IST ZU TUN?
+Stand 06.11.2026
+===============================================================================
+
+ERGEBNIS IN EINEM SATZ
+Anne macht genau das, was Binders Schreiben vom 02.11. nahelegt: Sie prueft,
+ob der Pflichtteilsweg fuer Hilles Seite mehr bringt als 190.000 EUR - und
+nach grober Rechnung tut er das. Bernd sollte die Berechnung nicht
+verweigern, aber auch nicht selbst Zahlen liefern, sondern auf eine
+BEIDERSEITIGE, BELEGTE Bezifferung bestehen. Die groessten Hebel liegen
+auf Hilles Seite (ihr eigener Zugewinn, die Wohnung Uferstrasse) und bei
+Klas' Anfangsvermoegen 1992 (Haus Gifhorn).
+
+KEINE RECHTSBERATUNG. Rechenmodell und Rechtsangaben sind Einschaetzungen.
+Ab jetzt ist die Lage streitig. Ein eigener Fachanwalt fuer Erbrecht ist
+nicht mehr optional.
+
+
+-------------------------------------------------------------------------------
+1. WAS ANNE JETZT OHNE BERND TUN KANN
+-------------------------------------------------------------------------------
+
+  Weg                          | Folge fuer Bernd und Fabian
+  -----------------------------+-----------------------------------------------
+  a) Genehmigungsverfahren     | Ausschlagung wird wirksam (Binder befuerwortet
+     fortsetzen                | sie, 19:84-85). Dann: Pflichtteil + Zugewinn-
+                               | ausgleich fuer Hille. Zusaetzlich verlangt der
+                               | Vertrag 03 die 190.000 EUR - mit Vollstreckungs-
+                               | unterwerfung OHNE Faelligkeitsnachweis
+                               | (03:74-81). Schlechtester Fall.
+  -----------------------------+-----------------------------------------------
+  b) Abwarten bis Hilles Tod   | Vertrag 03 entfaellt (Bedingung ausgefallen,
+                               | 03:55-56). Anne und Jan schlagen nach § 1952
+                               | BGB aus und fordern Pflichtteil + Zugewinn-
+                               | ausgleich als Hilles Erben (13 Ziff. 2).
+                               | Bernd kann das nicht verhindern.
+  -----------------------------+-----------------------------------------------
+  c) Antrag zuruecknehmen      | Frist laeuft ab, Hille bleibt Vorerbin. Kein
+                               | Pflichtteil. Bester Fall fuer Bernd - fuer
+                               | Anne unattraktiv, daher unwahrscheinlich.
+  -----------------------------+-----------------------------------------------
+
+  FOLGE: Anne hat die staerkere Position. Die Berechnung entscheidet nicht
+  OB, sondern ZU WELCHEM PREIS man sich einigt.
+
+  ABWEHR GEGEN DIE DOPPELZAHLUNG IN a)
+  Binder schreibt selbst, die Abfindung solle "nach dem erkennbaren Sinn
+  und Zweck nicht neben Pflichtteilsanspruechen gewaehrt werden"
+  (19:28-30, ebenso 14:15). Das ist die wichtigste Aussage fuer Bernd: Der
+  vom Gericht bestellte Verfahrenspfleger legt Vertrag 03 so aus, dass
+  Abfindung und Pflichtteil sich ausschliessen. Diese Aussage sichern
+  (Abschnitt 6, Punkt 3). Zusammen mit vertragsgrundlage_irrtum.txt ist sie
+  die Grundlage einer Vollstreckungsabwehrklage (§ 767 ZPO), falls Anne
+  beides verlangt.
+
+
+-------------------------------------------------------------------------------
+2. DIE RECHNUNG
+-------------------------------------------------------------------------------
+
+  FORMEL (§§ 1371 Abs. 3, 1373 ff., 2303, 1931 BGB)
+    Endvermoegen Klas EK  ca. 1.445.000 EUR (Aktivnachlass am 05.02.2026)
+    Nachlass N            ca. 1.438.000 EUR (nach Beerdigungskosten)
+    Zugewinn Klas  ZK = EK - Anfangsvermoegen Klas x Index
+    Zugewinn Hille ZH = Endvermoegen Hille - Anfangsvermoegen Hille x Index
+                        (+ Schenkungen der letzten 10 Jahre, § 1375 Abs. 2)
+    Zugewinnausgleich ZGA = (ZK - ZH) / 2      (nur wenn ZK > ZH)
+    Kleiner Pflichtteil PT = 1/8 x (N - ZGA)    (ZGA ist Nachlassschuld)
+    Summe = ZGA + PT = ca. 180.000 + 7/8 x ZGA
+
+    Index: Kaufkraftbereinigung des Anfangsvermoegens nach Verbraucher-
+    preisindex. 11/1992 -> 02/2026 grob Faktor 1,7 (bei Destatis genau
+    pruefen). DM-Betraege 1992 vorher durch 1,95583 teilen.
+
+  ERGEBNIS (Summe Pflichtteil + Zugewinnausgleich, gerundet, in TEUR)
+
+    Anfangsvermoegen    |  Zugewinn Hille (ZH)
+    Klas 1992 (EUR)     |      0       200.000      400.000
+    --------------------+------------------------------------
+                  0     |    812         724          637
+            100.000     |    738         650          563
+            200.000     |    663         576          488
+            300.000     |    589         501          414
+            400.000     |    515         427          340
+
+    Zum Vergleich: kleiner Pflichtteil ohne Zugewinn 180 TEUR,
+                   grosser Pflichtteil (1/4) ca. 360 TEUR,
+                   Abfindung 190 TEUR.
+
+  FAUSTREGELN
+    - Jede 100.000 EUR belegtes Anfangsvermoegen Klas senkt die Summe um
+      ca. 74.000 EUR.
+    - Jede 100.000 EUR Zugewinn Hilles senkt die Summe um ca. 44.000 EUR.
+    - Ohne Beleg wird das Anfangsvermoegen mit 0 angesetzt
+      (§ 1377 Abs. 3 BGB). Die Belege fuer Klas muessen also Bernd und
+      Fabian beschaffen.
+
+
+-------------------------------------------------------------------------------
+3. DIE HEBEL - HIER ENTSCHEIDET SICH DIE HOEHE
+-------------------------------------------------------------------------------
+
+  A. HILLES SEITE (muss Anne offenlegen, § 1379 BGB gilt beiderseitig)
+
+    1. WOHNUNG UFERSTRASSE 2 - DER GROESSTE HEBEL
+       Nach dem Testament gehoerte sie Hille (Klas erhielt nur den
+       Niessbrauch, 01 § 4 Nr. 1a). Gekauft wurde sie waehrend der Ehe
+       ("planten/kauften", Trauerrede). Sie gehoert mit dem VERKEHRSWERT
+       am 05.02.2026 zu Hilles Endvermoegen.
+       NACHTRAG 06.11.2026: Bernd haelt den Ansatz von ca. 400.000 EUR
+       fuer zu niedrig. Jede 100.000 EUR Mehrwert senken die Forderung um
+       ca. 44.000 EUR (7/8 x 1/2). Beispiele:
+         Wohnung 500.000 statt 400.000 EUR  ->  ca. -44.000 EUR
+         Wohnung 600.000 statt 400.000 EUR  ->  ca. -88.000 EUR
+       Und: Die ca. 400.000 EUR (04:50-52) sind Hilles GESAMTES Vermoegen
+       laut Betreuungs-Vermoegensverzeichnis 30.09.2025. Klaeren, ob die
+       Wohnung darin ueberhaupt enthalten ist und mit welchem Wert
+       (Betreuer setzen oft Kaufpreis oder Schaetzwert an). Ist sie nicht
+       enthalten, kommt ihr voller Wert zusaetzlich dazu.
+       BELEGE: Kaufvertrag, Kaufpreis; Bodenrichtwert und Vergleichspreise
+       (Gutachterausschuss Oldenburg); Angebote vergleichbarer Wohnungen im
+       Caecilienhof. Bei Streit: Verkehrswertgutachten. Bernd hat als
+       Erbe des Ausgleichspflichtigen einen Auskunfts- und Wertermittlungs-
+       anspruch (§ 1379 BGB).
+
+    2. WER HAT DIE WOHNUNG BEZAHLT? - KORREKTUR
+       Frueher hier als "groesster Hebel" bezeichnet. Das war falsch.
+       Eine Zuwendung von Klas an Hille wird nach § 1380 BGB angerechnet;
+       solange die Wohnung noch in Hilles Endvermoegen steckt, ist das
+       Ergebnis aber rechnerisch GLEICH wie ohne Anrechnung (Zuwendung
+       erhoeht Klas' und senkt Hilles Zugewinn, wird dann abgezogen ->
+       neutral). Entscheidend ist also der Wert der Wohnung (Punkt 1),
+       nicht, wer sie bezahlt hat. Relevant bleibt die Herkunft nur, wenn
+       Hille die Wohnung aus eigenem ANFANGSVERMOEGEN 1992 bezahlt hat:
+       Dann ist ihr Anfangsvermoegen hoeher und ihr Zugewinn kleiner
+       (schlecht fuer Bernd).
+
+    2a. IMMOBILIENBETEILIGUNG HILLES (ca. 25.000 EUR) - NEU 06.11.2026
+       Gehoert mit dem Wert am 05.02.2026 zu Hilles Endvermoegen.
+         - Waehrend der Ehe erworben, heute noch ca. 25.000 EUR wert:
+           Forderung sinkt um ca. 11.000 EUR.
+         - Vor 1992 erworben: zaehlt auch im Anfangsvermoegen; nur die
+           Wertsteigerung wirkt.
+         - Geschlossene Immobilienfonds sind oft weniger wert als der
+           Zeichnungsbetrag (Zweitmarktpreis). Ist sie heute fast wertlos,
+           wirkt sie kaum. War sie Anfangsvermoegen und hat an Wert
+           verloren, steigt die Forderung sogar leicht.
+       Einzeln klein, aber: Steht sie im Vermoegensverzeichnis 30.09.2025?
+       Wenn sie fehlt, ist das ein Hinweis, dass das Verzeichnis fuer die
+       Zugewinnrechnung nicht vollstaendig ist. Belege: Zeichnungsschein,
+       letzte Wertmitteilung bzw. Jahresbericht des Fonds,
+       Ausschuettungen.
+
+    3. HILLES ANFANGSVERMOEGEN 1992
+       Grundschullehrerin, zweite Ehe. Je niedriger, desto hoeher ihr
+       Zugewinn, desto niedriger die Forderung.
+
+    4. SCHENKUNGEN HILLES 2022 AN ANNE UND JAN (24.000 EUR,
+       comdirect_konto_bewertung.txt Abschnitt 3)
+       Werden ihrem Endvermoegen hinzugerechnet (§ 1375 Abs. 2 Nr. 1 BGB),
+       soweit keine sittliche Pflicht. Zusaetzlich § 1380 BGB, weil Klas
+       das Geld gegeben hat.
+
+    5. HILLES RENTENANSPRUECHE zaehlen nicht zum Zugewinn. Nur Vermoegen.
+
+  B. KLAS' SEITE (muessen Bernd und Fabian belegen)
+
+    1. HAUS GIFHORN, BAERLAPPWEG 1 (Anfang der 80er gebaut, Trauerrede)
+       1992 im Eigentum von Klas? Wert 1992? Spaeterer Verkaufspreis?
+       Quellen: Grundbuch/Grundakte AG Gifhorn, Kaufvertrag beim Verkauf,
+       Gutachterausschuss Gifhorn (Bodenrichtwerte 1992).
+
+    2. VERMOEGENSTEUER
+       Bis 1996 erhoben. Ein Vermoegensteuerbescheid 1992 oder 1993 (oder
+       eine Erklaerung dazu) beziffert Klas' Vermoegen fast auf den
+       Stichtag genau. In Klas' Unterlagen danach suchen; ggf. beim
+       Finanzamt Gifhorn anfragen (Aufbewahrungsfristen beachten).
+
+    3. ERBE NACH MARIANNE (gest. 1989)
+       Was Klas von ihr geerbt hat, gehoert zum Anfangsvermoegen. Ggf.
+       Erbschein/Nachlassakte 1989.
+
+    4. WERTPAPIERE, KONTEN, VW-BETEILIGUNGEN 1992
+       Depotauszuege, Jahressteuerbescheinigungen, Belegschaftsaktien.
+
+    5. ACHTUNG, GEGENRICHTUNG
+       Klas 2013: 330.000 EUR, Hille 2013: 320.000 EUR (01:143-146). Das
+       spricht gegen ein grosses Zugewinngefaelle bis 2013. Der grosse
+       Zuwachs auf Klas' Seite liegt 2013 bis 2026 (Fisher-Depot). Das
+       laesst sich nicht wegargumentieren.
+
+    6. ZAHLUNG AN FABIAN 2023 (66.111 EUR Mehrbetrag)
+       Wird Anne nach § 1375 Abs. 2 BGB hinzurechnen wollen. Treuhand-
+       Belege sichern (comdirect_konto_bewertung.txt Abschnitt 2). Nicht
+       von sich aus thematisieren.
+
+
+-------------------------------------------------------------------------------
+4. WAS BERND UND FABIAN AM ENDE BEHALTEN (grob, vor Beratungskosten)
+-------------------------------------------------------------------------------
+
+  Erbschaftsteuer Klasse I, Freibetrag je 400.000 EUR. Pflichtteil,
+  Zugewinnausgleich und Abfindung mindern den steuerpflichtigen Erwerb.
+
+  Szenario                                  | Zahlung  | Steuer | Netto
+  ------------------------------------------+----------+--------+--------
+  Versagung / Hille bleibt Vorerbin         |      0   | ~187*  | ~1.250
+  Einigung 190.000 EUR, alles abgegolten    |    190   |   ~67  | ~1.180
+  Pflichtteil + ZGA 500.000 EUR             |    500   |   ~15  |   ~923
+  Pflichtteil + ZGA 650.000 EUR             |    650   |     0  |   ~788
+  Pflichtteil + ZGA 800.000 EUR             |    800   |     0  |   ~638
+                                (alle Werte in TEUR, * Bernds ungepruefte
+                                 Rechnung vom 02/2026, beide Erbfaelle)
+
+  Fuer Annes Seite ist der Zugewinnausgleich steuerfrei (§ 5 Abs. 2
+  ErbStG), der kleine Pflichtteil liegt unter Hilles Freibetrag. Jeder
+  Euro mehr kommt dort fast ungeschmaelert an.
+
+
+-------------------------------------------------------------------------------
+5. WO BERND TROTZDEM VERHANDLUNGSMASSE HAT
+-------------------------------------------------------------------------------
+
+  - BEWEIS UND AUFWAND: Ohne Einigung braucht Annes Seite Auskunft,
+    Wertermittlung, ggf. Klage. Dauer 1 bis 3 Jahre, Kosten, Prozessrisiko
+    (Auslegung Vertrag 03, § 1380 BGB, Wohnung, Anfangsvermoegen).
+  - HILLES MUTMASSLICHER WILLE (Bewertung 19, Abschnitt 5): Solange Hille
+    lebt, muss Anne als Betreuerin ihm folgen (§ 1821 BGB). Das
+    spiegelbildliche Testament 2013 spricht gegen den Zugriff auf Klas'
+    Vermoegen. Nach Hilles Tod faellt dieses Argument weg - Anne und Jan
+    entscheiden dann in eigener Sache.
+  - ZEIT: Hilles Lebenserwartung ist kurz. Das staerkt eher Annes Seite
+    (Weg 1b), nicht Bernds. Bernd sollte daher NICHT auf Zeit spielen.
+  - REALISTISCHES ZIEL: ein Vergleichsbetrag zwischen 190.000 EUR und der
+    belegten Summe nach Abschnitt 2, abzueglich eines Abschlags fuer
+    Prozessrisiko und Aufwand. Den Betrag erst nennen, wenn die Belege
+    vorliegen und der Anwalt gerechnet hat.
+
+
+-------------------------------------------------------------------------------
+6. VORGEHEN
+-------------------------------------------------------------------------------
+
+  SOFORT
+  [ ] 1. Fachanwalt fuer Erbrecht beauftragen (Bernd und Fabian gemeinsam).
+         Auftrag: Bezifferung, Verhandlung mit Anne, Abwehr der Doppel-
+         zahlung aus Vertrag 03.
+  [ ] 2. Keine eigenen Zahlen an Anne, Binder oder das Notariat. Auch die
+         Spannen aus eckpunkte_notar.txt (intern) bleiben intern.
+  [ ] 3. Binders Auslegung sichern: In der Antwort an Binder bestaetigen,
+         "dass die Abfindung nach Sinn und Zweck des Vertrags nicht neben
+         Pflichtteils- oder Zugewinnausgleichsanspruechen geschuldet ist
+         (Ihr Schreiben vom 02.11.2026)". Binder schickt seine Schreiben
+         nachrichtlich ans Gericht (04:111-113) - das ist hier erwuenscht.
+  [ ] 4. Belege Klas 1992 suchen (Abschnitt 3 B). Fabian einbinden.
+
+  GEGENUEBER ANNE
+  [ ] 5. Der Berechnung zustimmen, aber nur beiderseitig und belegt
+         (Mailentwurf unten). Binder verlangt selbst "beiderseitiges
+         Anfangs- und Endvermoegen" (19:79-81).
+  [ ] 6. Ruhen des Verfahrens bestaetigen lassen: Anne soll bis zu einer
+         Einigung keine Entscheidung herbeifuehren.
+
+  NOTARIAT
+  [ ] 7. Den Termin 12.-19.11. nicht erzwingen. Ein Erlass ist ohne
+         Bezifferung nicht genehmigungsfaehig (19:74-77).
+  [ ] 8. Notariat kurz informieren: Bezifferung laeuft, Entwurf vorerst nur
+         fuer Fall III (§ 1952) mit Zahlung NUR gegen Ausschlagung UND
+         vollstaendige Erledigung inkl. Zugewinn.
+
+  NICHT TUN
+  - Keine Drohung mit "Versagung", keine Ruecknahme der bisherigen
+    Zusagen ohne Anwalt.
+  - Keine Unterschrift unter einer Wegfallklausel als Ersatz fuer die
+    Erledigung.
+  - Keine comdirect-Kontoauszuege von sich aus herausgeben.
+
+
+-------------------------------------------------------------------------------
+7. MAILENTWURF AN ANNE (erst nach Absprache mit Fabian und Anwalt senden)
+-------------------------------------------------------------------------------
+
+An:   Anne Weniger <anne.weniger@gmail.com>
+Cc:   Fabian Krueger <fabiankrueg@gmx.de>
+Betreff: Erbfall Klas Krueger - Berechnung Pflichtteil und Zugewinn
+
+Liebe Anne,
+
+wir verstehen, dass du Pflichtteil und Zugewinnausgleich beziffert haben
+moechtest. Herr Binder haelt das fuer eine Genehmigung ebenfalls fuer
+noetig. Wir sind einverstanden.
+
+Nach seinem Schreiben vom 02.11. braucht es dafuer das Anfangsvermoegen
+beider Ehegatten zum 20.11.1992 und das Endvermoegen beider zum
+05.02.2026. Wir schlagen vor:
+
+  1. Wir stellen fuer Klas die Unterlagen zum Vermoegen 1992 zusammen.
+     Das Endvermoegen ergibt sich aus dem Nachlassverzeichnis.
+  2. Du stellst fuer Hille entsprechend zusammen: Vermoegen 1992, das
+     Vermoegensverzeichnis zum 05.02.2026 einschliesslich der Wohnung
+     Uferstrasse 2, sowie Zuwendungen von Klas an Hille waehrend der Ehe
+     (z. B. Finanzierung der Wohnung).
+  3. Die Berechnung erfolgt anschliessend auf Grundlage dieser Belege
+     durch die beauftragten Anwaelte bzw. das Notariat.
+
+Bis dahin sollte das Verfahren beim Betreuungsgericht weiter ruhen. Uns
+ist wichtig, dass wir weiterhin zu einer gemeinsamen Loesung kommen.
+
+Viele Gruesse
+Bernd und Fabian
+
+  HINWEIS ZUM ENTWURF: Er bleibt freundlich, sagt ja zur Berechnung und
+  macht die Gegenseitigkeit zur Bedingung, ohne sie so zu nennen. Er
+  nennt keine Zahlen und kein Datum fuer die Beurkundung.
+
+
+===============================================================================
+Grundlagen: erbschaft_kontext\01, 03, 04, 13, 14, 16, 19,
+            beisetzung\input_trauerrede.txt,
+            situation\19_info_binder.20261102.bewertung.txt,
+            pflichtteilsrisiko.txt, comdirect_konto_bewertung.txt,
+            vertragsgrundlage_irrtum.txt,
+            notar\notariat_20261104\eckpunkte_notar.txt
+Erstellt: 06.11.2026. Keine Rechtsberatung. Alle Zahlen grob.
+===============================================================================
