@@ -65,8 +65,9 @@ dem Entwurf notariat_20261103\notriat.20261103.txt.
 4. VORGEHEN
 -------------------------------------------------------------------------------
 
-  [ ] 1. Anne um OK bitten, Binders Schreiben vom 02.11. an das Notariat
-         weiterzugeben.
+  [x] 1. Anne um OK bitten, Binders Schreiben vom 02.11. an das Notariat
+         weiterzugeben. ERLEDIGT: Das Schreiben liegt dem Notariat vor
+         (Stand 08.11.2026).
   [ ] 2. Frau Raguse anrufen (0441 97375 27):
            - Ist der Entwurf in Arbeit, und bis wann kommt er?
            - Kann einer der Termine am 12., 13., 18. oder 19.11. vorlaeufig

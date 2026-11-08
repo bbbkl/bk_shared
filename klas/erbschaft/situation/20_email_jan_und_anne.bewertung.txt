@@ -1,0 +1,385 @@
+===============================================================================
+BEWERTUNG: E-MAIL JAN TRUEPER UND ANNE WENIGER VOM 07.11.2026 (20)
+Stand 08.11.2026 (Nachtrag: Notartermin 19.11.2026 und Binder 02.11. beim
+Notariat, Abschnitt 7a)
+===============================================================================
+
+FRAGE
+Wie ist die Mail "Pflichtteilsverzicht" von Jan (mit Anne) aus Sicht von
+Bernd und Fabian zu bewerten?
+
+ERGEBNIS IN EINEM SATZ
+Im Ton ist die Mail sehr gut und ein echtes Signal guten Willens. Als
+ERSATZ fuer eine vertragliche Regelung taugt sie aber nicht: Eine
+private Zusage von Anne und Jan ueber Hilles kuenftigen Pflichtteil ist
+nach § 311b Abs. 4 BGB unwirksam. Fuer Hilles Lebzeiten koennen die
+beiden sie gar nicht geben. Und die Reihenfolge "erst zahlen, dann
+verzichten" legt das ganze Risiko auf Bernd und Fabian. Die Mail ist
+aber ein guter Anlass, eine EINFACHE Loesung vorzuschlagen, die auch
+ohne Bezifferung des Pflichtteils auskommt (Abschnitt 6).
+
+  Beziehungsebene / guter Wille:          ca. 8/10
+  Rechtliche Sicherheit fuer Bernd:       ca. 1/10
+  Nutzen als Verhandlungsbasis:           ca. 6/10
+
+KEINE RECHTSBERATUNG. Alle Rechtsangaben sind Einschaetzungen auf
+Grundlage der Unterlagen und vom Notariat bzw. einem Fachanwalt zu
+pruefen.
+
+
+-------------------------------------------------------------------------------
+1. WAS IN DER MAIL STEHT
+-------------------------------------------------------------------------------
+
+  a) Jan persoenlich (20:11-14)
+     - Erster eigener Auftritt Jans. Arbeitsteilung: Anne kuemmert sich um
+       die Mutter, Jan um den Vater (Trueper).
+     - Er sichert zu, dass "ich, Anne, und Hille auf einen Pflichtteil
+       verzichten, SOBALD die ausgehandelte Abfindung bezahlt wurde".
+
+  b) Anne und Jan gemeinsam (20:18-27)
+     - Eine vertragliche Regelung sei "ungemein kompliziert und teuer",
+       weil der Pflichtteil beim Notar beziffert werden muesse.
+     - Bitte um Vertrauen: Nach gezahlter Abfindung kein Pflichtteil.
+     - Angebot: eine schriftliche Erklaerung, die beide unterschreiben -
+       oder Bernd und Fabian machen einen Formulierungsvorschlag.
+     - Ziel: Der notarielle Aufwand soll entfallen.
+
+
+-------------------------------------------------------------------------------
+2. WAS GUT IST
+-------------------------------------------------------------------------------
+
+  - Jan ist erstmals direkt erreichbar und bekennt sich SCHRIFTLICH zur
+    Absprache. Bisher gab es nur Annes Aussage "Jan weiss Bescheid"
+    (15:18). Fuer den § 1952-Weg braucht man beide (§ 1952 Abs. 3 BGB).
+  - Beide bestaetigen den Grundsatz: Abfindung und Pflichtteil schliessen
+    sich aus. Das deckt sich mit Binder (14:15, 19:28-30) und mit der
+    Absprache vom 16.10. (09).
+  - Die Mail kommt zwei Tage nach dem Eindruck, Anne wolle Pflichtteil und
+    Zugewinn berechnet haben (anne_will_pflichtteil_zugewinn_berechnet.txt).
+    Jetzt sagen beide: Berechnung vermeiden. Das spricht eher dafuer,
+    dass sie den Pflichtteil NICHT ziehen wollen.
+  - Sie bitten ausdruecklich um einen eigenen Formulierungsvorschlag.
+    Bernd kann damit den Rahmen setzen.
+  - Als Beweismittel ist die Mail wertvoll (Abschnitt 4).
+
+
+-------------------------------------------------------------------------------
+3. DIE PROBLEME
+-------------------------------------------------------------------------------
+
+  A. DIE ZUSAGE IST RECHTLICH UNWIRKSAM (§ 311b Abs. 4 BGB)
+     Solange Hille lebt, koennen ihre kuenftigen Erben weder auf einen
+     Anspruch aus ihrem Nachlass verzichten noch sich dazu verpflichten.
+     Das Notariat hat das am 20.10. ausdruecklich gesagt (13 Ziff. 1).
+     Das gilt fuer jede Form - eine "schriftlich verfasste" Erklaerung
+     aendert daran nichts. Die Ausnahme des § 311b Abs. 5 BGB gilt nur
+     unter kuenftigen gesetzlichen Erben Hilles; Bernd und Fabian sind das
+     nicht.
+     -> Anne und Jan koennten sich jederzeit folgenlos davon loesen. Die
+        angebotene Unterschrift schafft keine Bindung, nur ein Indiz.
+
+  B. FUER HILLES LEBZEITEN (FALL I) HILFT DIE ZUSAGE GAR NICHT
+     - Wird die Ausschlagung zu Hilles Lebzeiten genehmigt, steht der
+       Pflichtteil samt Zugewinnausgleich HILLE zu - nicht Anne und Jan.
+     - Jan kann fuer Hille nichts erklaeren. Anne kann es nur als
+       Betreuerin, ist dabei an Hilles Interesse und Willen gebunden
+       (§ 1821 BGB) und braucht fuer einen Erlass die Genehmigung des
+       Betreuungsgerichts (Binder 14:13, 19:74-88).
+     - WIDERSPRUCH IN DER MAIL: Genau dieser genehmigte Erlass setzt nach
+       Binder die Bezifferung voraus, die Anne und Jan vermeiden wollen
+       (20:22). Die Zusage "nach Zahlung verzichten" ist in Fall I also
+       nur mit genau dem Aufwand erfuellbar, den sie sparen wollen.
+     - Gleichzeitig schuldet Bernd in Fall I die 190.000 EUR aus Vertrag
+       03 - vollstreckbar OHNE Faelligkeitsnachweis (03:74-81).
+     -> Fall I bleibt der schlechteste Fall: 190.000 EUR plus offener
+        Pflichtteil und Zugewinnausgleich.
+
+  C. DIE REIHENFOLGE: ERST ZAHLEN, DANN VERZICHTEN
+     "Sobald die Abfindung bezahlt wurde" heisst: Bernd und Fabian gehen
+     mit 190.000 EUR in Vorleistung und vertrauen danach. Das ist das
+     Gegenteil der Absprache vom 16.10. ("Die Abgeltung ist Voraussetzung
+     fuer die Zahlung. So muss niemand dem anderen vertrauen", 09:77-78).
+     Faktisch entspricht das Binders Wegfallklausel: Hilles Seite behaelt
+     ein Wahlrecht (Bewertung 19, Abschnitt 4).
+
+  D. NUR "PFLICHTTEIL" - DER ZUGEWINNAUSGLEICH FEHLT
+     Die Mail spricht nur vom Pflichtteil. Nach § 1371 Abs. 3 BGB ist der
+     Zugewinnausgleich ein EIGENER Anspruch neben dem kleinen Pflichtteil
+     - und nach der Modellrechnung der groessere Teil (grob 270.000 bis
+     720.000 EUR, Bewertung 19 Abschnitt 3). Wird nur auf "den Pflicht-
+     teil" verzichtet, bleibt der Zugewinnausgleich wortlautgemaess offen.
+     Ebenso fehlen Pflichtteilsergaenzung, Auskunftsansprueche und die
+     comdirect-Frage. Wahrscheinlich keine Absicht (Laiensprache), aber
+     gerade deshalb in jedem Text ausdruecklich aufnehmen.
+
+  E. "KOMPLIZIERT UND TEUER" STIMMT NUR FUER FALL I
+     - Eine Bezifferung braucht es nur fuer den GENEHMIGTEN Erlass zu
+       Hilles Lebzeiten (Binder 19:74-81).
+     - Im § 1952-Fall erklaeren Anne und Jan den Erlass in eigener Sache.
+       Dann gibt es keine Genehmigung und keine Bezifferung. Ein Erlass
+       (§ 397 BGB) ist sogar formfrei moeglich.
+     - Die Notarkosten fuer einen Nachtrag mit Geschaeftswert um
+       190.000 EUR liegen grob bei 1.000 bis 2.000 EUR (vom Notariat
+       bestaetigen lassen). Das ist wenig im Verhaeltnis zum Risiko von
+       mehreren 100.000 EUR.
+
+  F. VERTRAG 03 BLEIBT UNVERAENDERT
+     Eine private Zusage aendert weder die Faelligkeit noch die
+     Vollstreckungsunterwerfung in Vertrag 03. Anne koennte nach einer
+     genehmigten Ausschlagung jederzeit eine vollstreckbare Ausfertigung
+     verlangen (03:80-81). Bernd bliebe nur die Vollstreckungsabwehrklage.
+
+
+-------------------------------------------------------------------------------
+4. WAS DIE MAIL TROTZDEM WERT IST
+-------------------------------------------------------------------------------
+
+  - Sie belegt den gemeinsamen Vertragszweck: Abfindung STATT Pflichtteil.
+    Zusammen mit Binder (14:15, 19:28-30) staerkt das eine ergaenzende
+    Vertragsauslegung und den Einwand widerspruechlichen Verhaltens
+    (§ 242 BGB), falls spaeter doch beides gefordert wird
+    (vertragsgrundlage_irrtum.txt).
+  - Sie ist die erste schriftliche Erklaerung Jans. Er ist damit
+    Beteiligter und nicht nur "informiert".
+  - Mail im Original (mit Kopfzeilen) sichern und ablegen.
+
+  Aber: Ein Indiz ist keine Sicherung. Die Verteidigungslinie hilft im
+  Streit, sie verhindert ihn nicht.
+
+
+-------------------------------------------------------------------------------
+5. WIE IST DIE MAIL ZU DEUTEN?
+-------------------------------------------------------------------------------
+
+  Wahrscheinlich ist sie ehrlich gemeint: Anne will seit Wochen einen
+  "sehr knappen, klaren Vertrag" (16:28) und hat Binders Schreiben vom
+  02.11. so verstanden, dass ein Erlass nur mit aufwendiger Rechnung
+  geht. Daraus folgt fuer sie: lieber gar keine Regelung.
+
+  Gleichzeitig - unabhaengig von der Absicht - laesst die vorgeschlagene
+  Loesung Hilles Seite alle Optionen offen. Ob das gewollt ist, laesst
+  sich nicht erkennen und muss auch nicht unterstellt werden. Massgeblich
+  ist die Struktur, nicht das Motiv.
+
+  Fuer die Antwort heisst das: den guten Willen ernst nehmen und
+  wuerdigen, aber eine Loesung vorschlagen, die NIEMANDEM Vertrauen
+  abverlangt - genau so wie am 16.10. vereinbart.
+
+
+-------------------------------------------------------------------------------
+6. DIE EINFACHE LOESUNG - OHNE BEZIFFERUNG
+-------------------------------------------------------------------------------
+
+  Kern: Nicht der Verzicht muss jetzt beurkundet werden, sondern nur die
+  BEDINGUNG der Zahlung. Das ist genau der Weg, den das Notariat fuer
+  zulaessig haelt (13 Ziff. 1, letzter Absatz).
+
+  a) FALL III (§ 1952) ALS REGELFALL
+     - Zahlung der 190.000 EUR nur Zug um Zug: Anne und Jan schlagen nach
+       Hilles Tod aus und erklaeren den Erlass ALLER Ansprueche aus dem
+       Erbfall Klas (Pflichtteil, Pflichtteilsergaenzung, Zugewinnaus-
+       gleich, Auskunft, comdirect).
+     - Annes und Jans Formulierung "sobald bezahlt" laesst sich dabei
+       aufgreifen: Der Erlass wird erklaert und wird mit Eingang der
+       Zahlung (z. B. ueber Notaranderkonto) wirksam. So muss keine Seite
+       vorleisten.
+     - Keine Genehmigung, keine Bezifferung noetig.
+     - Pruefen lassen, ob Vertrag 03 in diesem Fall ueberhaupt noch eine
+       Zahlungspflicht ausloest (Bedingung "betreuungsgerichtliche
+       Genehmigung", 03:52-56) - dann ist der Nachtrag ohnehin die
+       Grundlage, auf die sich Anne und Jan verlassen koennen. Das ist
+       auch IHR Vorteil.
+
+  b) FALL I (GENEHMIGUNG ZU LEBZEITEN) AUSSCHLIESSEN ODER ENTSCHAERFEN
+     - Anne laesst das Verfahren ruhen und betreibt die Genehmigung nicht
+       weiter (wie bisher, 16:11). Damit kommt es voraussichtlich zu
+       Fall III.
+     - Fuer den Fall, dass das Gericht trotzdem entscheidet: Abfindung
+       nur faellig, wenn auch Pflichtteil und Zugewinnausgleich wirksam
+       erledigt sind; sonst entfaellt sie (Binders Klausel als
+       AUFFANGSCHUTZ gegen die Doppelzahlung, nicht als Ersatz).
+
+  c) VOLLSTRECKUNG
+     Unterwerfung aus Vertrag 03 kuenftig nur gegen Nachweis aller
+     Bedingungen.
+
+  Das ist ein kurzer Nachtrag mit drei Punkten, kein umfangreiches
+  Vertragswerk. Ob dafuer notarielle Form zwingend ist, soll das Notariat
+  sagen; wegen der Vollstreckungsunterwerfung in Vertrag 03 ist sie in
+  jedem Fall der sicherere Weg.
+
+  Hinweis Steuer (zu pruefen): Im Fall III geht die Abfindung direkt an
+  Anne und Jan. Als Stiefkinder von Klas sind sie in Steuerklasse I
+  (Freibetrag je 400.000 EUR). Ein Nachteil gegenueber Fall I ist danach
+  nicht zu erwarten - ein Argument, Fall III als Regelfall zu akzeptieren.
+
+
+-------------------------------------------------------------------------------
+7. WAS BERND JETZT TUN SOLLTE
+-------------------------------------------------------------------------------
+
+  [ ] 1. Mit Fabian abstimmen. Nicht spontan antworten, aber zeitnah
+         (Anne reist am 21.11. ab, Notartermine 12.-19.11.).
+  [x] 2a. Notartermin reserviert: Do 19.11.2026, 15:30 Uhr, Notariat
+         Schwackenberg (Frau Raguse). Anne und Fabian sind informiert.
+  [ ] 2b. Notariat (Frau Raguse) noch fragen: Stand des Entwurfs, bis wann
+         er kommt, Kosten eines schlanken Nachtrags nach Abschnitt 6.
+         Mit dieser Auskunft kann man Annes Kostenargument sachlich
+         beantworten. Siehe Abschnitt 7a.
+  [ ] 3. Antwort an Jan und Anne (cc Fabian) - Inhalt:
+         - Dank, besonders an Jan fuer die klare Zusage.
+         - Wir vertrauen euch - es geht nicht um Misstrauen, sondern
+           darum, dass eine Zusage vor Hilles Tod rechtlich nicht wirksam
+           sein KANN (Notariat 20.10., Ziff. 1). Das gilt fuer jede Form.
+         - Gute Nachricht: Im § 1952-Fall braucht es keine Bezifferung
+           und keine Genehmigung. Es reicht, die Zahlung an Ausschlagung
+           und Erledigung zu knuepfen - Zug um Zug, wie am 16.10.
+           besprochen.
+         - Ausdruecklich: "alle Ansprueche, auch Zugewinnausgleich".
+         - Vorschlag: kurzer Nachtrag mit den drei Punkten aus Abschnitt 6,
+           Entwurf durch Notar Schwackenberg, Kosten wie vereinbart.
+         - Termin 19.11.2026, 15:30 Uhr nennen und Jan direkt fragen, ob
+           er kommen kann (Personalausweis mitbringen). Anne hat den
+           Termin bereits; Jan bisher nur ueber Anne.
+         - Bitte an Anne, das Verfahren weiter ruhen zu lassen.
+         KEINE Pflichtteils- oder Zugewinnzahlen nennen.
+  [ ] 4. Die angebotene private Erklaerung NICHT als Ersatz annehmen.
+         Als Zusatz (Absichtserklaerung, unentgeltlich) ist sie
+         willkommen - dann mit "alle Ansprueche einschliesslich Zugewinn-
+         ausgleich" formuliert.
+  [ ] 5. Nichts zahlen und nichts unterschreiben, was die Zahlung vor die
+         Erledigung stellt.
+  [ ] 6. Den eigenen Fachanwalt fuer Erbrecht (siehe Bewertung 19 und
+         anne_will_pflichtteil_zugewinn_berechnet.txt) den Nachtrag vor
+         der Beurkundung pruefen lassen.
+
+
+-------------------------------------------------------------------------------
+7a. NACHTRAG: NOTARTERMIN 19.11.2026, 15:30 UHR
+-------------------------------------------------------------------------------
+
+  Bernd hat bei Frau Raguse (Notariat Schwackenberg, Az. 71152/26) den
+  Termin am Do 19.11.2026, 15:30 Uhr reserviert und Anne und Fabian
+  informiert. Anne hatte fuer den 19.11. "ab 15.00" zugesagt (15:27).
+
+  BEDEUTUNG FUER DIESE BEWERTUNG
+  - Annes und Jans Wunsch, "den notariellen Aufwand" zu vermeiden (20:27),
+    ist damit praktisch beantwortet: Der Termin steht. Die Antwort an
+    Jan und Anne muss nicht mehr ueber das OB diskutieren, sondern nur
+    noch erklaeren, WARUM der Nachtrag einfach bleiben kann (Abschnitt 6).
+  - Der 19.11. ist der LETZTE moegliche Termin vor Annes Abreise am
+    21.11. Es gibt keinen Ausweichtermin. Faellt er aus, ist eine
+    Beurkundung mit Anne erst nach dem 13.12. moeglich - in der Zeit
+    liegt das Risiko, dass Hille ohne Regelung fuer Fall III stirbt.
+
+  ZEITPLAN BIS ZUM TERMIN (rueckwaerts gerechnet)
+    So 08.11.   Antwort an Jan und Anne (Abschnitt 7 Punkt 3), mit Termin
+    Mo 09.11.   Frau Raguse: Entwurf bis wann? Liegen die Eckpunkte vom
+                04.11. vor? (Binders Schreiben vom 02.11. liegt dem
+                Notariat vor - erledigt.)
+                Teilnahme Jans klaeren (persoenlich oder Vollmacht /
+                spaetere Genehmigung).
+    bis 12.11.  Entwurf beim Beteiligten (sollte ca. eine Woche vor dem
+                Termin vorliegen; bei Verbrauchervertraegen gilt
+                § 17 Abs. 2a BeurkG - Notariat fragen, ob es hier greift)
+    bis 17.11.  Pruefung des Entwurfs durch eigenen Fachanwalt;
+                Aenderungswuensche ans Notariat
+    18.11.      Endfassung
+    19.11.      15:30 Beurkundung
+
+  BINDERS SCHREIBEN VOM 02.11.2026 LIEGT DEM NOTARIAT VOR
+  Damit kennt das Notariat alle Stellungnahmen des Verfahrenspflegers
+  (19.10., 21.10., 02.11.) und kann sie im Entwurf beruecksichtigen.
+  Folgen:
+  - GUT: Das Notariat weiss, dass Binder die Ausschlagung fuer gut
+    genehmigungsfaehig haelt, den Erlass zu Lebzeiten aber nur mit
+    Bezifferung (19:74-88). Es kann deshalb Fall I und Fall III sauber
+    trennen.
+  - GUT: Binder schreibt selbst, dass der Erlass im § 1952-Fall
+    ausserhalb seiner Verfahrenspflegschaft liegt und von Anne und Jan
+    selbst zu entscheiden ist (19:92-94). Das stuetzt Abschnitt 6: Fuer
+    Fall III braucht es keine Bezifferung und keine Genehmigung. Damit
+    laesst sich Annes und Jans Kostenargument (20:22) auch mit Binders
+    eigenem Schreiben beantworten.
+  - GUT: Binders Aussage, die Abfindung solle "nicht neben Pflichtteils-
+    anspruechen" gewaehrt werden (19:28-30), ist jetzt aktenkundig beim
+    Notariat. Sie kann in die Zweckbestimmung der Urkunde einfliessen.
+  - RISIKO: Das Notariat koennte Binders Wegfall-/Rueckzahlungsklausel
+    (19:89-91) als "einfache" Loesung fuer Fall I uebernehmen. Bei der
+    Pruefung des Entwurfs gezielt darauf achten: nur als ZUSATZ, nie als
+    Ersatz fuer die Erledigung; Zugewinnausgleich ausdruecklich genannt
+    (Abschnitt 3 D, Bewertung 19 Abschnitt 4).
+  - HINWEIS: Das Notariat kennt durch Binder jetzt auch den Zugewinn-
+    ausgleich (§ 1371 Abs. 3 BGB) als Thema. Eigene Zahlen dazu weiterhin
+    NICHT liefern.
+
+  WENN JAN NICHT KOMMEN KANN
+  - Beurkundung mit Anne, Bernd und Fabian trotzdem durchfuehren; Jan
+    genehmigt nachtraeglich in notariell beglaubigter Form (z. B. bei
+    einem Notar in Berlin) oder erteilt vorab eine Vollmacht. Vom
+    Notariat bestaetigen lassen.
+  - Wichtig: Die Zahlung im Fall III setzt in jedem Fall die Ausschlagung
+    und Erledigung durch BEIDE Erben voraus. Fehlt Jans Unterschrift
+    zunaechst, aendert das an der Bedingung nichts.
+
+  WENN DER ENTWURF NICHT RECHTZEITIG KOMMT ODER NICHT PASST
+  - Lieber eine schlanke Urkunde nur fuer Fall III (Zahlung nur gegen
+    Ausschlagung und Erledigung aller Ansprueche einschliesslich Zugewinn-
+    ausgleich, Vollstreckung nur mit Nachweis) als gar keine. Fall I
+    (Erlass zu Lebzeiten, Bezifferung) kann spaeter folgen; das Verfahren
+    ruht ohnehin.
+  - NICHT unterschreiben: eine Fassung, die die Zahlung vor die Erledigung
+    stellt, den Zugewinnausgleich nicht nennt oder nur Binders Wegfall-
+    klausel enthaelt (Abschnitt 3 C und D, Bewertung 19 Abschnitt 4).
+
+  FUER ANNES REISE (21.11.-13.12.) IM TERMIN MIT KLAEREN
+  - Vorsorgliche, oeffentlich beglaubigte Vollmacht fuer die Ausschlagung
+    nach § 1952 BGB (§ 1945 Abs. 3 BGB), falls Hille waehrend der Reise
+    stirbt (Fragen c und d aus der Mail ans Notariat vom 21.10., 16a).
+  - Erreichbarkeit Annes und Vertretung als Betreuerin (Betreuungsgericht).
+
+
+-------------------------------------------------------------------------------
+8. GESAMTBEWERTUNG
+-------------------------------------------------------------------------------
+
+  Die Mail ist freundlich, ehrlich gemeint und ein Fortschritt: Jan ist
+  an Bord, und beide bekennen sich zu "Abfindung statt Pflichtteil".
+  Rechtlich bietet sie Bernd keinen Schutz - sie ist nach § 311b Abs. 4
+  BGB unverbindlich, greift fuer Hilles Lebzeiten nicht, nennt den
+  Zugewinnausgleich nicht und verlangt Vorleistung.
+
+  Die richtige Antwort ist kein Nein, sondern ein einfacheres Ja: Die
+  Bezifferung, die Anne und Jan scheuen, ist im § 1952-Fall gar nicht
+  noetig. Noetig ist nur, dass die Zahlung an die Erledigung geknuepft
+  wird - dann muss niemand dem anderen vertrauen.
+
+===============================================================================
+Grundlagen: erbschaft_kontext\00, 01, 03, 09, 13, 14, 15, 16, 19, 20
+            situation\19_info_binder.20261102.bewertung.txt,
+            anne_will_pflichtteil_zugewinn_berechnet.txt,
+            pflichtteilsrisiko.txt, vertragsgrundlage_irrtum.txt,
+            notar\notariat_20261104\eckpunkte_notar.txt
+Erstellt: 08.11.2026. Keine Rechtsberatung.
+===============================================================================
+
+
+
+
+
+Lieber Jan, liebe Anne,
+
+vielen Dank für eure Mail. Wir sind darüber sehr erleichtert. Besonders dir, Jan, danken wir, dass du dich direkt meldest und so klar Stellung beziehst.
+
+Wir lesen eure Mail so, dass wir weiterhin das gemeinsame Ziel verfolgen: Die Abfindung wird gezahlt gegen Erledigung aller Ansprüche aus dem Erbfall Klas, also Pflichtteil, Zugewinnausgleich und den Konflikt um das comdirect-Konto.
+
+Am Vertrauen liegt es nicht. Das Notariat hat uns aber am 20.10. geschrieben, dass eine Zusage über Hilles künftigen Nachlass zu ihren Lebzeiten rechtlich nicht wirksam sein kann, egal in welcher Form. Deshalb sollten wir beim Notariat eine kurze Ergänzung beurkunden.
+
+Eine Berechnung des Pflichtteils ist dafür nicht nötig. Für den Fall nach Hilles Tod reicht es festzuhalten, dass die Abfindung fällig wird, sobald ihr ausgeschlagen und die Ansprüche für erledigt erklärt habt. Wie das im Einzelnen geregelt wird, damit es für alle sicher ist, schlägt das Notariat vor.
+
+Beim Notariat Schwackenberg (Frau Raguse, Hindenburgstraße 29, Oldenburg) haben wir Donnerstag, 19.11.2026, 15:30 Uhr reserviert. Wir hoffen, dass wir bis dahin einen Entwurf bekommen, der für uns alle passt. Jan, wir hoffen, dass der Termin auch für dich passt. Bitte bring dann deinen Personalausweis mit. Falls du nicht kommen kannst, sag bitte Bescheid. Dann klären wir mit dem Notariat eine Vollmacht oder eine spätere Unterschrift.
+
+Liebe Grüße
+Bernd und Fabian
