@@ -16,6 +16,7 @@ Alles Weitere formuliert das Notariat.
 
 Ich frage am Dienstag morgen telefonisch bei Frau Raguse an, wie es mit dem Nachvertrag aussieht und bis wann wir Änderungen einbringen können.
 Es ist wichtig, dass Herr Binder Zeit hat, den Entwurf zu begutachten und Änderungswünsche zu machen.
+ich füge noch ein Textdatei an 'faelle.txt', die möglichen Szenarien die eintreten können.
 
 Liebe Grüße
 Bernd und Fabian
