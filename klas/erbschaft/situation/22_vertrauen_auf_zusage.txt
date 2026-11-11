@@ -1,0 +1,207 @@
+===============================================================================
+LAGE, WENN BERND UND FABIAN SICH AUF DIE ZUSAGE VON ANNE UND JAN VERLASSEN
+(kein Pflichtteil, kein Zugewinnausgleich - ohne notarielle Regelung)
+Stand 11.11.2026
+===============================================================================
+
+FRAGE
+Anne und Jan haben zugesagt, Pflichtteil und Zugewinnausgleich nicht
+einzufordern. Wie ist die Lage, wenn Bernd und Fabian sich darauf
+verlassen und beim Notar nichts beurkundet wird?
+
+ERGEBNIS IN EINEM SATZ
+Wenn Anne und Jan zu ihrem Wort stehen, ist die Lage gut und einfach. Es
+bleiben aber Risiken, die nicht von ihrem guten Willen abhaengen, sondern
+von Dingen, die sie selbst nicht in der Hand haben: Vertrauen hilft,
+solange Anne und Jan SELBST entscheiden. Es hilft nicht, solange Anne
+FUER HILLE handelt oder das GERICHT entscheidet.
+
+KEINE RECHTSBERATUNG. Alle Rechtsangaben sind Einschaetzungen auf
+Grundlage der Unterlagen und vom Notariat bzw. einem Fachanwalt zu
+pruefen. Betraege aus der groben Modellrechnung
+(19_info_binder.20261102.bewertung.txt, Abschnitt 3).
+
+
+-------------------------------------------------------------------------------
+1. WAS TATSAECHLICH ZUGESAGT IST
+-------------------------------------------------------------------------------
+
+  a) SCHRIFTLICH (Mail vom 07.11., 20:14 und 20:25)
+     Verzicht auf den Pflichtteil, "sobald die ausgehandelte Abfindung
+     bezahlt wurde". Den Zugewinnausgleich nennen Anne und Jan dort
+     NICHT.
+
+  b) ZUGEWINNAUSGLEICH
+     Steht nur in Bernds Antwort vom 08.11. (21:12). Eine Bestaetigung
+     von Anne und Jan dazu ist in den Unterlagen nicht abgelegt.
+     -> Falls nur muendlich zugesagt: kurz schriftlich bestaetigen
+        lassen. Das ist kein Misstrauen: Der Zugewinnausgleich ist
+        voraussichtlich der groessere Teil, und es soll spaeter kein
+        Missverstaendnis entstehen.
+
+  c) RECHTLICH
+     Solange Hille lebt, ist die Zusage nicht bindend (§ 311b Abs. 4
+     BGB, Notariat 13 Ziff. 1). Sie hat nur den Wert des Wortes von Anne
+     und Jan.
+
+
+-------------------------------------------------------------------------------
+2. DIE FAELLE - UNTER DER ANNAHME, DASS ANNE UND JAN WORT HALTEN
+-------------------------------------------------------------------------------
+
+  FALL A: HILLE STIRBT, WAEHREND DAS VERFAHREN RUHT (am wahrscheinlichsten)
+    - Anne und Jan schlagen nach § 1952 BGB aus. Oeffentliche
+      Beglaubigung noetig (§ 1945 BGB), Frist mindestens sechs Wochen
+      ab Kenntnis (§§ 1944, 1952 Abs. 2 BGB).
+    - Sie erklaeren, dass alle Ansprueche erledigt sind. Bernd und
+      Fabian zahlen 190.000 EUR.
+    - Kein Gericht, keine Berechnung, kein Nachtrag noetig. Anne und Jan
+      entscheiden in eigener Sache - genau dafuer gilt ihr Wort.
+    -> ERGEBNIS: Das funktioniert.
+
+  FALL B: DAS GERICHT GENEHMIGT DIE AUSSCHLAGUNG ZU HILLES LEBZEITEN
+    - Die 190.000 EUR gehen an Hille, vollstreckbar aus Vertrag 03
+      (03:74-81).
+    - Der Anspruch auf Pflichtteil und Zugewinnausgleich steht dann
+      HILLE zu, nicht Anne und Jan.
+    - Anne ist als Betreuerin mit Vermoegenssorge verpflichtet, Hilles
+      Vermoegen zu wahren (§ 1821 BGB). Sie darf Hilles Anspruch nicht
+      einfach liegen lassen, weil sie Bernd etwas zugesagt hat. Binder
+      hat den Anspruch bereits aktenkundig gemacht (19:66-72). Gericht,
+      Binder oder ein anderer Betreuer koennten ihn geltend machen.
+    - Praktisch geht es wahrscheinlich trotzdem gut: Stirbt Hille bald,
+      ohne dass der Anspruch eingefordert wurde, faellt er an Anne und
+      Jan - und dann gilt ihr Wort.
+    -> ERGEBNIS: Echtes Risiko, das Anne und Jan nicht beherrschen.
+       Deshalb ist das Ruhen des Verfahrens so wichtig.
+
+  FALL C: DAS GERICHT LEHNT DIE GENEHMIGUNG AB
+    - Die Hemmung endet, die Ausschlagungsfrist laeuft ab, der Weg nach
+      § 1952 BGB ist verschlossen.
+    - Pflichtteil und Zugewinnausgleich entstehen gar nicht, weil sie
+      eine Ausschlagung voraussetzen.
+    - Bei Hilles Tod erben Bernd und Fabian als Nacherben. Nachteil:
+      doppelte Erbschaftsteuer (nach frueherer Schaetzung rund
+      100.000 EUR mehr, 09:52-54) und Warten.
+    -> ERGEBNIS: Fuer Bernd und Fabian finanziell eher unkritisch.
+       Unwahrscheinlich, weil Binder die Ausschlagung fuer "gut
+       vereinbar" mit Hilles Interessen haelt (19:84-85).
+
+
+-------------------------------------------------------------------------------
+3. RISIKEN, DIE VERTRAUEN NICHT ABDECKT
+-------------------------------------------------------------------------------
+
+  Risiko                    | Warum Vertrauen nicht    | Einschaetzung
+                            | hilft                    |
+  --------------------------+--------------------------+-------------------
+  Gericht entscheidet zu    | Anne ist dann an Hilles  | mittel, haengt am
+  Hilles Lebzeiten          | Interessen gebunden      | Ruhen nach dem
+                            | (Fall B)                 | 13.12.
+  --------------------------+--------------------------+-------------------
+  Anne oder Jan stirbt vor  | Nach Hilles Testament    | gering
+  Hille                     | erben deren Kinder als   |
+                            | Ersatzerben (01 § 3).    |
+                            | Sie haben nichts         |
+                            | zugesagt                 |
+  --------------------------+--------------------------+-------------------
+  Sechs-Wochen-Frist        | Ohne Ausschlagung tritt  | gering, durch
+  versaeumt (z. B. waehrend | die Nacherbfolge ein.    | Vorbereitung
+  Annes Reise 21.11.-13.12.)| Kein finanzieller        | vermeidbar
+                            | Schaden fuer Bernd, aber |
+                            | der gemeinsame Plan      |
+                            | scheitert                |
+  --------------------------+--------------------------+-------------------
+  Meinungswechsel, wenn die | 450.000 bis 750.000 EUR  | real, aber nicht
+  Zahlen sichtbar werden    | statt 190.000 EUR sind   | unterstellen
+                            | eine echte Versuchung,   |
+                            | auch fuer Ehepartner     |
+                            | oder Berater             |
+  --------------------------+--------------------------+-------------------
+  Unterschiedliches         | Kein Wortbruch, sondern  | durch klaren Text
+  Verstaendnis, was genau   | Missverstaendnis         | vermeidbar
+  erledigt ist (Zugewinn-   |                          |
+  ausgleich, comdirect)     |                          |
+  --------------------------+--------------------------+-------------------
+  Dritte greifen auf Hilles | Hille hat ca. 400.000    | sehr gering
+  Anspruch zu (z. B.        | EUR eigenes Vermoegen    |
+  Sozialamt)                | und einen Ueberschuss    |
+                            | (00:12-13)               |
+
+  ZEITLICHE GRENZE
+  Pflichtteil und Zugewinnausgleich verjaehren grob drei Jahre nach Ende
+  des Jahres, in dem die Ausschlagung bekannt wird (§§ 195, 199, 2332,
+  1378 BGB). Wann die Frist genau beginnt, sollte ein Anwalt pruefen.
+  Danach ist das Risiko vorbei.
+
+
+-------------------------------------------------------------------------------
+4. SO STUETZEN SICH BERND UND FABIAN SINNVOLL AUF DIE ZUSAGE
+-------------------------------------------------------------------------------
+
+  Nichts davon erfordert Misstrauen oder eine Berechnung.
+
+  [ ] 1. DAS VERFAHREN RUHT WEITER - WICHTIGSTER PUNKT
+         Anne beantragt vor dem 13.12., dass das Ruhen verlaengert wird,
+         und nimmt das Verfahren nicht ohne Absprache wieder auf. Den
+         Antrag nimmt sie NICHT zurueck (sonst endet die Hemmung,
+         13 Ziff. 3). Das verhindert Fall B.
+
+  [ ] 2. KURZE SCHRIFTLICHE BESTAETIGUNG
+         Zusage ausdruecklich einschliesslich Zugewinnausgleich,
+         unterschrieben von Anne und Jan als Hilles kuenftige Erben.
+         Haben sie selbst angeboten (20:27).
+
+  [ ] 3. ZUG UM ZUG
+         Nach Hilles Tod unterschreiben Anne und Jan die Erledigung
+         GLEICHZEITIG mit der Zahlung, nicht danach. Passt zu ihrer
+         Formulierung "sobald die Abfindung bezahlt wurde", wenn die
+         Erledigung mit Eingang des Geldes wirksam wird.
+
+  [ ] 4. DEN TODESFALL VORBEREITEN
+         Notariat bereitet Entwuerfe fuer Ausschlagung und Erledigung
+         vor. Dazu eine oeffentlich beglaubigte Vollmacht von Anne fuer
+         die Zeit ihrer Reise (§ 1945 Abs. 3 BGB). Den 19.11. dafuer
+         nutzen statt fuer eine Berechnung.
+
+  [ ] 5. KEINE BERECHNUNG FUER FALL A
+         Am 19.11. muessen keine Zahlen erarbeitet werden, die niemand
+         braucht. Unterlagen zum Vermoegen 1992 trotzdem sichern - als
+         Reserve fuer Fall B.
+
+  [ ] 6. LIQUIDITAET
+         Die 190.000 EUR nach Hilles Tod zuegig zahlen koennen. Klaeren,
+         wie lange der Zugriff auf die Depots ohne Erbschein dauert.
+
+
+-------------------------------------------------------------------------------
+5. EINSCHAETZUNG
+-------------------------------------------------------------------------------
+
+  Wenn Anne und Jan Wort halten und das Verfahren ruht:
+    Die Loesung traegt und ist die einfachste und guenstigste fuer alle.
+
+  Verbleibendes Hauptrisiko:
+    Fall B - eine Entscheidung des Gerichts zu Hilles Lebzeiten -,
+    nicht Wortbruch.
+
+  Gegenueber dem Angebotsmodell (22_vorgehen_gemeinsam.angebotsmodell.txt):
+    Bernd und Fabian verzichten nur darauf, Anne und Jan die 190.000 EUR
+    verbindlich zu sichern. Den Pflichtteil schliesst auch das Angebot
+    nicht aus.
+
+  Offen und zu klaeren:
+    - Pflichten Annes als Betreuerin im Fall B (§ 1821 BGB).
+    - Beginn der Verjaehrung von Pflichtteil und Zugewinnausgleich.
+    - Ob Annes Ausschlagung vom 13.03. nach Hilles Tod gegenstandslos
+      wird oder von Anne und Jan noch genehmigt werden kann - davon
+      haengt ab, ob sie neu ausschlagen muessen.
+
+===============================================================================
+Grundlagen: erbschaft_kontext\00, 01, 03, 09, 13, 19, 20, 21, 22
+            situation\19_info_binder.20261102.bewertung.txt,
+            20_email_jan_und_anne.bewertung.txt,
+            22_info_notariat_schwackenberg.20261111.bewertung.txt,
+            22_vorgehen_gemeinsam.angebotsmodell.txt
+Erstellt: 11.11.2026. Keine Rechtsberatung.
+===============================================================================

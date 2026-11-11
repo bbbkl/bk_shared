@@ -1,0 +1,180 @@
+===============================================================================
+BEWERTUNG: E-MAIL NOTARIAT SCHWACKENBERG (FRAU RAGUSE) VOM 11.11.2026 (22)
+Stand 11.11.2026
+===============================================================================
+
+FRAGE
+Wie ist die Mitteilung des Notariats Schwackenberg vom 11.11.2026 aus Sicht
+von Bernd (und Fabian) zu bewerten?
+
+ERGEBNIS IN EINEM SATZ
+Die Mail ist fachlich korrekt und nicht feindlich, aendert aber den Plan
+grundlegend: Am 19.11. wird voraussichtlich nichts beurkundet, der Termin
+wird zur Besprechung. Damit faellt die geplante Absicherung vor Annes Reise
+(21.11.-13.12.) weg, und die Berechnung von Pflichtteil und Zugewinn-
+ausgleich, die alle vermeiden wollten, kommt auf den Tisch.
+
+KEINE RECHTSBERATUNG. Alle Rechtsangaben sind Einschaetzungen auf
+Grundlage der Unterlagen und vom Notariat bzw. einem Fachanwalt zu
+pruefen.
+
+
+-------------------------------------------------------------------------------
+1. WAS DAS NOTARIAT SAGT
+-------------------------------------------------------------------------------
+
+  a) Keine Beurkundung ohne Zahlen (22:9)
+     Ohne konkrete Berechnung des kleinen Pflichtteils und des Zugewinn-
+     ausgleichs ist ein Nachtrag "nicht sinnvoll", weil das Betreuungs-
+     gericht ihn sonst kaum genehmigen kann.
+
+  b) 19.11. nur als Besprechung (22:11)
+     Gemeinsame Besprechung der Details, danach Abstimmung des weiteren
+     Vorgehens.
+
+  c) Kritik am Vertrag vom 13.03.2026 (22:13)
+     Dieser sei "lediglich unvollstaendig" gewesen; das solle sich nicht
+     wiederholen.
+
+  d) Unterlagen mitbringen (22:13)
+     - Vermoegen von Klas und Hille zum Zeitpunkt der Heirat (1992)
+     - Angaben/Unterlagen zu den Dividenden aus den Kapitalanlagen im
+       Nachlass Klas
+
+
+-------------------------------------------------------------------------------
+2. WAS GUT IST
+-------------------------------------------------------------------------------
+
+  - Bernds Kritik am Vertrag vom 13.03. wird bestaetigt. Das Notariat
+    sieht die fehlende Abgeltungsklausel ebenfalls als Mangel. Ein
+    "knapper Vertrag ohne Rechnung" (Wunsch von Anne und Jan, 20:22-27)
+    wird es nicht beurkunden.
+  - Das Notariat arbeitet gruendlich. Das kostet Zeit, macht das Ergebnis
+    aber sicherer als im Maerz.
+  - Belege zu Klas' Vermoegen 1992 helfen Bernd und Fabian: Ohne Belege
+    wird sein Anfangsvermoegen mit 0 angesetzt (§ 1377 Abs. 3 BGB), dann
+    gilt das ganze Endvermoegen als Zugewinn. Jeder Beleg senkt den
+    Zugewinnausgleich. Das ist die einzige Stelle, an der die Berechnung
+    fuer Bernd arbeitet.
+
+
+-------------------------------------------------------------------------------
+3. WAS PROBLEMATISCH IST
+-------------------------------------------------------------------------------
+
+  A. FALL I UND FALL III WERDEN NICHT GETRENNT
+     Das Argument "nicht genehmigungsfaehig" gilt nur fuer Fall I: Erlass
+     zu Hilles Lebzeiten, den Anne als Betreuerin erklaert und den das
+     Gericht genehmigen muss.
+     Im wahrscheinlichsten Fall III (Hille stirbt, Anne und Jan schlagen
+     nach § 1952 BGB selbst aus) handeln Anne und Jan in eigener Sache.
+     Das sieht auch Binder so (19:92-94). Die Mail geht darauf nicht ein.
+     Ungeklaert ist, ob der Nachtrag fuer Fall III schon heute eine
+     Genehmigung braucht, weil Anne fuer Hille mitunterschreiben muesste.
+     -> Diese Frage dem Notariat ausdruecklich stellen.
+
+  B. DIE LUECKE WAEHREND ANNES REISE BLEIBT OFFEN
+     Stirbt Hille zwischen dem 21.11. und dem 13.12., gibt es keine
+     Regelung. Anne und Jan koennten dann frei waehlen:
+       - 190.000 EUR nehmen (falls Vertrag 03 als erfuellt ausgelegt wird)
+       - oder Pflichtteil und Zugewinnausgleich verlangen.
+     Im schlimmsten Fall kommt beides zusammen. Genau das sollte der
+     19.11. verhindern.
+
+  C. DIE GROESSENORDNUNG WIRD FUER ALLE SICHTBAR
+     Nach der groben Modellrechnung (19_info_binder.20261102.bewertung.txt,
+     Abschnitt 3) liegen Pflichtteil plus Zugewinnausgleich etwa bei
+     450.000 bis 750.000 EUR, also deutlich ueber 190.000 EUR.
+     Sobald das Notariat rechnet, sehen das auch Anne, Jan und das
+     Gericht. Das "gemeinsame Ziel" aus den Mails vom 07. und 08.11.
+     wird dann ernsthaft geprueft.
+     -> Damit rechnen, dass ueber die Hoehe der Abfindung neu gesprochen
+        wird.
+
+  D. BERNDS AUSSAGE AN ANNE UND JAN STIMMT NUR ZUR HAELFTE
+     In der Mail vom 08.11. steht: "Eine Berechnung des Pflichtteils ist
+     dafuer nicht noetig" (21:16). Fuer Fall III mag das stimmen, fuer
+     Fall I widerspricht das Notariat jetzt.
+     -> Offen klarstellen, bevor Anne es als Widerspruch aufgreift.
+
+  E. DIVIDENDEN - WELCHE FEHLEN NOCH?
+     Die Ertragsaufstellungen 2025 und 2026 liegen dem Notariat seit dem
+     28.10. vor (17). Unklar, ob weitere Jahre gemeint sind (z. B. fuer die
+     Zugewinnberechnung) oder ob die Unterlagen nicht zugeordnet wurden.
+
+
+-------------------------------------------------------------------------------
+4. EINSCHAETZUNG
+-------------------------------------------------------------------------------
+
+  Rechtlich zutreffend (fuer Fall I):            ja
+  Sicherheit am Ende:                            hoeher als im Maerz
+  Absicherung kurzfristig vor dem 21.11.:        schlechter
+  Verhandlungsposition Bernd/Fabian:             eher schwaecher
+                                                 (Zahlen werden offen gelegt)
+
+
+-------------------------------------------------------------------------------
+5. WAS BERND JETZT TUN SOLLTE
+-------------------------------------------------------------------------------
+
+  [ ] 1. NICHT ERST DIENSTAG, SONDERN 12.11. BEI FRAU RAGUSE ANRUFEN
+         Konkret fragen:
+         - Kann am 19.11. wenigstens eine schlanke Regelung NUR FUER
+           FALL III beurkundet werden? Inhalt: Zahlung nur gegen
+           Ausschlagung durch Anne und Jan plus Erledigung aller
+           Ansprueche, ausdruecklich auch Zugewinnausgleich; Vollstreckung
+           nur mit Nachweis.
+         - Braucht diese Regelung eine Genehmigung des Betreuungsgerichts,
+           wenn Anne fuer Hille mitunterschreibt?
+         - Welche Dividenden fehlen noch? 2025 und 2026 liegen seit dem
+           28.10. vor. Geht es um weitere Jahre?
+
+  [ ] 2. EIGENE ZAHLEN VORHER KENNEN
+         Unterlagen zu Klas' Vermoegen 1992 suchen (Kontoauszuege, Depots,
+         Steuerbescheide, Unterlagen zum Testament 2013) und zum 19.11.
+         mitbringen. Hilles Vermoegen 1992 und am 05.02.2026 kann nur
+         Anne liefern.
+
+  [ ] 3. EIGENEN FACHANWALT FUER ERBRECHT JETZT EINSCHALTEN
+         Binder vertritt nur Hille, das Notariat ist neutral. Es geht ab
+         jetzt um mehrere 100.000 EUR. Aufgabe: gegenueber dem Gericht
+         vertreten, dass ein Erlass gegen 190.000 EUR dem mutmasslichen
+         Willen Hilles entspricht (Testament 2013, § 1821 BGB).
+
+  [ ] 4. ANNE SCHRIFTLICH BITTEN, DAS VERFAHREN WEITER RUHEN ZU LASSEN
+         Mindestens bis 13.12. und bis zum Nachtrag. Eine Genehmigung der
+         Ausschlagung ohne Erlass ist fuer Bernd der schlechteste Fall.
+
+  [ ] 5. KURZE MAIL AN ANNE UND JAN
+         Notariatsmail weiterleiten (Jan stand nicht im Verteiler).
+         Inhalt: Fuer den Fall zu Hilles Lebzeiten verlangt das Notariat
+         eine Berechnung; fuer den Fall nach Hilles Tod wird das gerade
+         geklaert. Der 19.11. bleibt als gemeinsamer Besprechungstermin.
+
+  [ ] 6. KEINE ZUGEWINNZAHLEN AN ANNE ODER BINDER
+         Erst nachdem der eigene Anwalt sie gesehen hat. Gegenueber
+         Notariat und Gericht aber alles korrekt und vollstaendig angeben.
+
+
+-------------------------------------------------------------------------------
+6. GESAMTBEWERTUNG
+-------------------------------------------------------------------------------
+
+  Das Notariat hat fuer Fall I recht und bestaetigt, dass der Vertrag vom
+  13.03. unvollstaendig ist. Fuer Bernd wird das Ergebnis dadurch am Ende
+  sicherer, kurzfristig aber schlechter: Der 19.11. sichert die Reisezeit
+  Annes nicht mehr ab, und die Berechnung macht die Luecke zwischen
+  190.000 EUR und Pflichtteil plus Zugewinnausgleich sichtbar.
+  Entscheidend ist jetzt, ob sich wenigstens Fall III kurzfristig und ohne
+  Bezifferung regeln laesst.
+
+===============================================================================
+Grundlagen: erbschaft_kontext\00, 03, 13, 17, 19, 20, 21, 22
+            situation\19_info_binder.20261102.bewertung.txt,
+            20_email_jan_und_anne.bewertung.txt,
+            nachvertrag_schwackenberg.20261119.faelle.txt,
+            nachvertrag_schwackenberg.20261119.vorbereitung.kurz.txt
+Erstellt: 11.11.2026. Keine Rechtsberatung.
+===============================================================================
