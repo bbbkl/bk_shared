@@ -1,0 +1,120 @@
+===============================================================================
+TODO BERND - STAND 13.11.2026
+===============================================================================
+
+ZIEL: Termin am Do. 19.11.2026, 15:30 Uhr, Notariat Schwackenberg
+(Frau Raguse, Hindenburgstrasse 29, Oldenburg, Az. 71152/26) als
+Besprechung nutzen. Kein Nachvertrag mit Berechnung. Plan fuer den Fall,
+dass Hille stirbt (Weg nach § 1952 BGB).
+Anne ist vom 21.11. bis 13.12.2026 in Sri Lanka.
+Ersetzt todo.20261020.txt (Ziel "Beurkundung der Ergaenzung" entfaellt).
+
+KERN IN EINEM SATZ
+Das Verfahren ruht weiter, Anne und Jan bestaetigen ihre Zusage schriftlich
+einschliesslich Zugewinnausgleich, und bis zur Ausschlagung ruehrt niemand
+Klas' Vermoegen an.
+
+
+-------------------------------------------------------------------------------
+HEUTE / WOCHENENDE (13.-15.11.)
+-------------------------------------------------------------------------------
+
+[ ] 1. Mail an Frau Raguse senden (falls noch nicht geschehen).
+       Entwurf: situation\22_mail_an_raguse.entwurf.txt
+       Ergaenzen:
+         - Frage 6: Bleibt die Hemmung der Ausschlagungsfrist auch bei
+           laengerem Ruhen sicher bestehen, auch nach Weglegung der Akte?
+         - Frage 7: Kann Jan sich telefonisch oder per Video zuschalten?
+         - Frage 3 (Beurkundung am 19.11.) nur stehen lassen, wenn das
+           Angebot schon am 19.11. beurkundet werden soll.
+
+[ ] 2. Schriftliche Bestaetigung der Zusage von Anne und Jan erbitten.
+       Ausdruecklich auch Zugewinnausgleich und comdirect-Konto (bisher nur
+       "Pflichtteil", 20:14). Formlos, ohne Notar.
+       Entwurf: situation\22b_mail_anne_jan_fabi.entwurf.txt
+
+[ ] 3. Angekuendigte Mail an Anne, Jan und Fabian senden (22a:24).
+       Entwurf: situation\22b_mail_anne_jan_fabi.entwurf.txt
+       (enthaelt auch Punkt 2 und Punkt 5)
+
+[ ] 4. Mit Fabian abstimmen:
+         - Bindendes Angebot (190.000 EUR gegen Ausschlagung und Erledigung
+           aller Ansprueche) abgeben, oder reicht die Zusage?
+         - Wer kuemmert sich in Oldenburg, falls Hille waehrend Annes
+           Reise stirbt? (Fabian vor Ort)
+
+
+-------------------------------------------------------------------------------
+BIS MITTWOCH (18.11.)
+-------------------------------------------------------------------------------
+
+[ ] 5. Anne bitten, das Ruhen vor der Abreise (21.11.) zu verlaengern.
+         - mit sachlichem Grund, ohne Bezug auf Hilles Lebenserwartung
+         - etwa drei bis sechs Monate
+         - Antrag NICHT zuruecknehmen
+         - moeglichst Bestaetigung des Gerichts einholen
+       Hintergrund: situation\22_ruhen_des_verfahrens.txt
+
+[ ] 6. Unterlagen zum 19.11. mitbringen:
+         - Testament (01), Lockmann-Vertrag (03), Nachlassverzeichnis,
+           Ertragsaufstellungen 2025/2026
+         - Unterlagen zu Klas' Vermoegen 1992 nur, soweit ohne grossen
+           Aufwand auffindbar - als Reserve, nicht aktiv ermitteln
+
+[ ] 7. Fragenliste fuer den Termin:
+         - Entfaellt die Zahlungspflicht aus dem Lockmann-Vertrag, wenn
+           Hille vor einer Genehmigung stirbt?
+         - Angebot nur von Bernd und Fabian - ohne Genehmigung und ohne
+           Berechnung moeglich? Kosten?
+         - Berechnung der Fristen (§§ 1944, 1952 BGB), auch fuer Anne im
+           Ausland (§ 1944 Abs. 3 BGB)?
+         - Was gilt als Annahme durch schluessiges Handeln?
+         - Koennen Texte fuer Ausschlagung und Erledigung schon jetzt
+           vorbereitet werden?
+
+[ ] 8. Optional: Fachanwalt fuer Erbrecht - Namen parat haben, falls das
+       Gericht doch entscheiden will. Jetzt nicht zwingend.
+
+
+-------------------------------------------------------------------------------
+19.11.2026, 15:30 UHR
+-------------------------------------------------------------------------------
+
+[ ] 9. Termin mit Fabian und Anne. Jan nicht erforderlich (ggf.
+       zugeschaltet).
+       Ziel: Plan fuer den Todesfall
+       (situation\22_risiko_annes_reise.txt, Abschnitt 4).
+       Gegebenenfalls beurkunden Bernd und Fabian das Angebot.
+
+[ ] 10. Danach kurze Zusammenfassung an Anne, Jan und Fabian.
+
+
+-------------------------------------------------------------------------------
+SPAETER, OHNE EILE
+-------------------------------------------------------------------------------
+
+[ ] 11. Kosten Lockmann (ca. 1.000 EUR fuer den nicht beurkundeten
+        Nachvertrag):
+          - Kostenberechnung anfordern (KV-Nummer, Geschaeftswert,
+            Adressat, § 19 GNotKG)
+          - pruefen, ob Bernd ueberhaupt einen Auftrag erteilt hat
+            (§ 29 Nr. 1 GNotKG; Ablehnung am 05.10., 05b)
+          - falls ja: Widerspruch / Antrag nach § 21 GNotKG
+          - moeglichst gemeinsam mit Anne; erst nach dem 19.11.
+
+[ ] 12. Belege sichern (aus todo.20261020.txt, Aufgabe 3a):
+          - Fisher-Depotwerte 09/2018 und 09/2023
+          - schriftliche Freistellung Fabian -> Bernd
+
+
+===============================================================================
+Grundlagen: erbschaft_kontext\13, 15, 16, 20, 21, 22
+            situation\22_mail_an_raguse.entwurf.txt,
+            22_risiko_annes_reise.txt,
+            22_ruhen_des_verfahrens.txt,
+            22_vertrauen_auf_zusage.txt,
+            22_vorgehen_gemeinsam.angebotsmodell.txt,
+            22a_infomail_anne_jan_fabi.20261113.txt
+            todo\todo.20261020.txt
+Erstellt: 13.11.2026
+===============================================================================

@@ -1,0 +1,151 @@
+===============================================================================
+TODO BERND - STAND 14.11.2026
+===============================================================================
+
+ZIEL: Termin am Do. 19.11.2026, 15:30 Uhr, Notariat Schwackenberg
+(Frau Raguse, Hindenburgstrasse 29, Oldenburg, Az. 71152/26) als
+Besprechung nutzen: Rechenweg, Unterlagen, Zustaendigkeiten, Plan fuer
+den Todesfall. Nichts beurkunden, keine Zahlen nennen.
+Anne ist vom 21.11. bis 13.12.2026 in Sri Lanka.
+Ersetzt todo.20261113.txt.
+
+WAS SICH GEAENDERT HAT (Gespraech mit Anne am 14.11.2026)
+Anne will nach der Mail des Notariats vom 11.11. (22) die Hoehe von
+Pflichtteil und Zugewinnausgleich wissen. Damit entfallen:
+  - das bindende Angebot ueber 190.000 EUR (waere fuer Anne nur noch eine
+    sichere Untergrenze)
+  - die Bitte um eine schriftliche Zusage von Anne und Jan
+  - der Mailentwurf 22b (ersetzt durch 24_mail_anne_jan_fabi.entwurf.txt)
+Es geht jetzt nicht mehr um das OB einer Einigung, sondern um den BETRAG.
+
+KERN IN EINEM SATZ
+Das Verfahren ruht weiter, gerechnet wird nur mit Belegen fuer beide
+Seiten, und bis zur Ausschlagung ruehrt niemand Klas' Vermoegen an.
+
+
+-------------------------------------------------------------------------------
+WOCHENENDE (14.-15.11.)
+-------------------------------------------------------------------------------
+
+[ ] 1. Mit Fabian abstimmen (Telefon):
+         - Lage nach dem Gespraech mit Anne
+         - Fachanwalt gemeinsam beauftragen (Punkt 3)
+         - Mailentwurf 24 freigeben
+         - Wer sucht welche Unterlagen zu 1992 (Punkt 5)?
+
+[ ] 2. Mail an Anne, Jan und Fabian senden (nach Punkt 1).
+         Entwurf: situation\24_mail_anne_jan_fabi.entwurf.txt
+
+
+-------------------------------------------------------------------------------
+MONTAG / DIENSTAG (16.-17.11.)
+-------------------------------------------------------------------------------
+
+[ ] 3. FACHANWALT FUER ERBRECHT - JETZT ZWINGEND
+         Mindestens telefonische Erstberatung vor dem 19.11.
+         Fragen:
+           - Realistische Spanne Pflichtteil + Zugewinnausgleich?
+           - Auslegung Vertrag 03: Abfindung nicht NEBEN Pflichtteil
+             (Binder 19:28-30) - wie absichern?
+           - Risiko Vollstreckungsunterwerfung ohne Faelligkeitsnachweis
+             (03:74-81)?
+           - Ab welchem Betrag ist eine Einigung sinnvoller als Streit?
+           - Begleitet er/sie den 19.11. oder bereitet nur vor?
+
+[ ] 4. Frau Raguse anrufen oder mailen (0441 97375 27):
+         - Termin findet als Besprechung statt, keine Beurkundung.
+         - Kann Jan sich telefonisch zuschalten?
+         - Was kostet der Termin? Faellt eine Gebuehr an, wenn nicht
+           beurkundet wird?
+         - Welche Dividenden fehlen noch? 2025 und 2026 liegen seit dem
+           28.10. vor.
+         Entwurf 22_mail_an_raguse.entwurf.txt: Fragen 1-3 (Angebot,
+         Beurkundung am 19.11.) streichen.
+
+[ ] 5. Unterlagen zu Klas' Vermoegen 1992 suchen (soweit ohne grossen
+       Aufwand; der Rest nach dem 19.11.):
+         - Haus Gifhorn, Baerlappweg 1: Eigentum 1992, Wert, spaeterer
+           Verkaufspreis
+         - Vermoegensteuerbescheide 1992/1993
+         - Erbe nach Marianne (gest. 1989)
+         - Depots, Konten, VW-Beteiligungen 1992
+       Ohne Beleg wird Klas' Anfangsvermoegen mit 0 angesetzt
+       (§ 1377 Abs. 3 BGB). Jede 100.000 EUR Beleg senkt die Forderung um
+       ca. 74.000 EUR.
+
+[ ] 6. Anne erinnern, das Ruhen VOR dem 21.11. zu verlaengern (in Mail 24
+       enthalten). Antrag NICHT zuruecknehmen.
+
+
+-------------------------------------------------------------------------------
+19.11.2026, 15:30 UHR
+-------------------------------------------------------------------------------
+
+[ ] 7. Mitbringen:
+         - Testament (01), Lockmann-Vertrag (03), Nachlassverzeichnis,
+           Ertragsaufstellungen 2025/2026, Binder-Schreiben 02.11. (19)
+         - Gefundene Unterlagen 1992
+         - Diese Liste
+
+[ ] 8. Klaeren:
+         a) RECHENWEG: Was genau braucht das Notariat fuer kleinen
+            Pflichtteil und Zugewinnausgleich? Wer rechnet - Notariat,
+            Anwaelte, Gutachter?
+         b) BEIDERSEITIG: Hilles Seite ebenso belegen - Vermoegen 1992,
+            Endvermoegen 05.02.2026 einschliesslich Wohnung Uferstrasse 2
+            (Verkehrswert) und Immobilienbeteiligung, Schenkungen 2022.
+         c) ZUSTAENDIGKEITEN UND ZEITPLAN fuer die Unterlagen.
+         d) VERTRAG 03: Bestaetigen und festhalten, dass die Abfindung nicht
+            neben Pflichtteil und Zugewinnausgleich geschuldet ist.
+         e) RUHEN: Bleibt die Hemmung auch bei langem Ruhen bzw. Weglegung
+            der Akte bestehen?
+         f) FALL 3 (Hille stirbt vorher):
+              - Fristen §§ 1944, 1952 BGB, auch fuer Anne im Ausland
+              - Was gilt als Annahme durch schluessiges Handeln?
+              - Ist ein Vergleich nach Hilles Tod formfrei oder nach
+                § 2385 BGB analog zu beurkunden?
+         g) KOSTEN der Berechnung und einer spaeteren Vereinbarung.
+
+[ ] 9. Plan fuer den Todesfall waehrend Annes Reise vereinbaren:
+         - Jan erster Ansprechpartner, Fabian vor Ort
+         - Bis zur Ausschlagung verfuegt niemand ueber Klas' Depots oder
+           Niessbrauchsertraege
+         - Bernd/Fabian melden sich beim Nachlassgericht, Az. 307 IV 1353/13
+
+       NICHT TUN
+         - Nichts unterschreiben oder beurkunden.
+         - Keine eigenen Zahlen oder Spannen nennen.
+         - Die 190.000 EUR weder neu zusagen noch zuruecknehmen.
+         - Keine comdirect-Kontoauszuege von sich aus herausgeben.
+         - Zahlung an Fabian 2023 nicht von sich aus thematisieren.
+
+[ ] 10. Danach kurze Zusammenfassung an Anne, Jan und Fabian, Kopie an den
+        Fachanwalt.
+
+
+-------------------------------------------------------------------------------
+SPAETER, OHNE EILE
+-------------------------------------------------------------------------------
+
+[ ] 11. Restliche Unterlagen 1992 beschaffen (Grundakte AG Gifhorn,
+        Gutachterausschuss, ggf. Finanzamt Gifhorn).
+
+[ ] 12. Kosten Lockmann (ca. 1.000 EUR fuer den nicht beurkundeten
+        Nachvertrag): Kostenberechnung anfordern, Auftrag pruefen
+        (§ 29 Nr. 1 GNotKG), ggf. § 21 GNotKG. Erst nach dem 19.11.
+
+[ ] 13. Belege sichern:
+          - Fisher-Depotwerte 09/2018 und 09/2023
+          - schriftliche Freistellung Fabian -> Bernd
+
+
+===============================================================================
+Grundlagen: erbschaft_kontext\03, 13, 19, 20, 22
+            situation\anne_will_pflichtteil_zugewinn_berechnet.txt,
+            22_info_notariat_schwackenberg.20261111.bewertung.txt,
+            22_risiko_annes_reise.txt, 22_ruhen_des_verfahrens.txt,
+            23_fall3_nachvertrag_ohne_notar.txt,
+            24_mail_anne_jan_fabi.entwurf.txt
+            todo\todo.20261113.txt
+Erstellt: 14.11.2026. Keine Rechtsberatung.
+===============================================================================
