@@ -1,0 +1,105 @@
+===============================================================================
+FALL 3: SIND DIE 190.000 EUR FUER ANNE UND JAN STEUERFREI?
+Stand 14.11.2026
+===============================================================================
+
+FRAGE
+Sind die 190.000 EUR als Gegenleistung fuer Ausschlagung (§ 1952 BGB)
+und Erledigung aller Ansprueche fuer Anne und Jan steuerfrei?
+
+ERGEBNIS IN EINEM SATZ
+Nicht "steuerfrei" im engeren Sinn - die Abfindung ist erbschaftsteuer-
+pflichtig -, aber sehr wahrscheinlich ohne Steuer, weil sie unter den
+Freibetraegen bleibt. Einkommensteuer faellt nicht an.
+
+KEINE STEUERBERATUNG. Alle Angaben sind Einschaetzungen auf Grundlage
+der Unterlagen und von einem Steuerberater zu pruefen.
+
+
+-------------------------------------------------------------------------------
+1. ERBSCHAFTSTEUER
+-------------------------------------------------------------------------------
+
+  GRUNDLAGE
+  Eine Abfindung fuer eine Ausschlagung gilt als Erwerb von Todes wegen
+  (§ 3 Abs. 2 Nr. 4 ErbStG). Je Person 95.000 EUR.
+
+  WER IST STEUERLICH DER "SCHENKER"? - OFFEN, ABER FUER ANNE UND JAN
+  GLEICH GUENSTIG
+  Bei Ausschlagung durch Hilles Erben nach § 1952 BGB ist nicht sicher,
+  ob die Zahlung als Erwerb von Klas oder von Hille gilt.
+
+    Einordnung          | Verhaeltnis           | Steuer-  | Freibetrag
+                        |                       | klasse   | je Person
+    --------------------+-----------------------+----------+------------
+    Erwerb von Klas     | Stiefkinder           | I        | 400.000 EUR
+                        | (§ 15 Abs. 1 ErbStG)  |          |
+    --------------------+-----------------------+----------+------------
+    Erwerb von Hille    | Kinder                | I        | 400.000 EUR
+
+  RECHNUNG JE PERSON
+    a) Erwerb von Klas: 95.000 EUR, weit unter 400.000 EUR. Eigener
+       Freibetrag neben dem fuer Hilles Erbe.
+    b) Erwerb von Hille (ungünstiger Fall): ca. 200.000 EUR (Haelfte von
+       Hilles Vermoegen von ca. 400.000 EUR, 00:12) + 95.000 EUR
+       = ca. 295.000 EUR, ebenfalls unter 400.000 EUR.
+    -> In beiden Faellen voraussichtlich keine Steuer.
+
+  VORBEHALTE
+    - Schenkungen von Hille oder Klas an Anne oder Jan in den letzten
+      10 Jahren werden mitgezaehlt (§ 14 ErbStG).
+    - Ist Hilles Vermoegen deutlich hoeher als ca. 400.000 EUR, wird
+      Variante b) knapp.
+
+
+-------------------------------------------------------------------------------
+2. EINKOMMENSTEUER
+-------------------------------------------------------------------------------
+
+  Keine. Die Abfindung betrifft die Vermoegensebene und gehoert zu keiner
+  Einkunftsart. Bei Ratenzahlung ueber wenige Wochen spielt ein Zinsanteil
+  keine Rolle.
+
+
+-------------------------------------------------------------------------------
+3. PFLICHTEN UND NEBENPUNKTE FUER ANNE UND JAN
+-------------------------------------------------------------------------------
+
+  [ ] ANZEIGEPFLICHT
+      Innerhalb von 3 Monaten beim Erbschaftsteuer-Finanzamt anzeigen
+      (§ 30 ErbStG), auch wenn keine Steuer anfaellt. Bei Beurkundung
+      meldet zusaetzlich der Notar (§ 34 ErbStG).
+
+  [ ] ERLASS VON PFLICHTTEIL UND ZUGEWINNAUSGLEICH
+      Loest fuer Anne und Jan voraussichtlich keine Steuer aus. Ein nicht
+      geltend gemachter Pflichtteil wird nicht besteuert (§ 3 Abs. 1
+      Nr. 1, § 13 Abs. 1 Nr. 11 ErbStG).
+
+
+-------------------------------------------------------------------------------
+4. NEBENBEI FUER BERND UND FABIAN
+-------------------------------------------------------------------------------
+
+  Die 190.000 EUR sind bei Bernd und Fabian als Erwerbskosten abziehbar
+  (§ 10 Abs. 5 Nr. 3 ErbStG). Ob das auch gilt, wenn erst Hilles Erben
+  ausschlagen, ist ungeprueft
+  (22_vorgehen_gemeinsam.angebotsmodell.txt, 6c).
+
+
+-------------------------------------------------------------------------------
+5. KURZFASSUNG FUER ANNE UND JAN
+-------------------------------------------------------------------------------
+
+  Voraussichtlich keine Steuer, solange jeder unter 400.000 EUR bleibt
+  (Hilles Erbe + Abfindung + Schenkungen der letzten 10 Jahre). Die
+  Anzeige beim Finanzamt ist trotzdem Pflicht. Da kein Steuerberater
+  hinzugezogen wird, diese Grenze zumindest einmal ueberschlagen.
+
+
+===============================================================================
+Grundlagen: erbschaft_kontext\00, 03, 20, 21
+            situation\20_email_jan_und_anne.bewertung.txt,
+            22_vorgehen_gemeinsam.angebotsmodell.txt,
+            23_fall3_nachvertrag_ohne_notar.txt
+Erstellt: 14.11.2026. Keine Steuerberatung.
+===============================================================================
