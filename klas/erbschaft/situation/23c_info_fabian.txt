@@ -1,0 +1,106 @@
+===============================================================================
+INFO FUER FABIAN: WARUM PFLICHTTEIL UND ZUGEWINNAUSGLEICH - UND UM WIEVIEL
+Stand 15.11.2026
+===============================================================================
+
+KEINE RECHTSBERATUNG. Alle Zahlen sind grobe Schaetzungen.
+
+
+-------------------------------------------------------------------------------
+1. WARUM ES DIESEN ANSPRUCH GIBT
+-------------------------------------------------------------------------------
+
+  1. Klas und Hille hatten keinen Ehevertrag. Damit gilt seit der Heirat
+     1992 der gesetzliche Gueterstand: Zugewinngemeinschaft.
+
+  2. Hille ist nur nicht befreite Vorerbin. Sie bekommt die Ertraege
+     (Niessbrauch, ca. 3.800 EUR/Jahr). Die Substanz geht bei ihrem Tod an
+     uns als Nacherben. Weil sie so stark beschraenkt ist, darf sie
+     ausschlagen und trotzdem den Pflichtteil verlangen (§ 2306 BGB).
+
+  3. Ein Ehegatte, der ausschlaegt, erhaelt nach § 1371 Abs. 3 BGB zwei
+     Dinge in Geld:
+       - ZUGEWINNAUSGLEICH: die Haelfte davon, um wie viel der
+         Vermoegenszuwachs von Klas seit 1992 groesser war als der von
+         Hille.
+       - KLEINER PFLICHTTEIL: 1/8 des Nachlasses, nach Abzug des
+         Zugewinnausgleichs.
+
+  4. Wer den Anspruch geltend macht:
+       - Solange Hille lebt: Anne als Betreuerin. Sie ist zur
+         Vermoegenssorge verpflichtet und steht daher eher unter Druck,
+         den Anspruch zu verfolgen.
+       - Nach Hilles Tod: Anne und Jan als ihre Erben. Sie koennen nach
+         § 1952 BGB selbst ausschlagen.
+
+  5. Die Luecke: Im Abfindungsvertrag 03 fehlt eine Klausel, nach der
+     mit der Abfindung alle weiteren Ansprueche abgegolten sind. Deshalb
+     besteht der Anspruch weiter.
+
+  6. Fuer Annes Seite ist dieser Weg nahezu steuerfrei. Der Zugewinn-
+     ausgleich ist erbschaftsteuerfrei (§ 5 Abs. 2 ErbStG), und der
+     kleine Pflichtteil liegt unter Hilles Freibetrag von 500.000 EUR.
+
+  ZU DEINER FRAGE "WARUM ZUGEWINN SEIT 1992?"
+  Das Gesetz vergleicht stur das Vermoegen bei der Heirat (20.11.1992)
+  mit dem Vermoegen am Todestag (05.02.2026). Dabei zaehlt jeder der
+  beiden Ehegatten fuer sich. Der Vermoegensstand von 2013 im Testament
+  (Klas 330.000, Hille 320.000 EUR) spielt fuer die Rechnung keine Rolle.
+  Er zeigt nur, dass der grosse Zuwachs bei Klas erst nach 2013 kam
+  (Depot). Was Klas und Hille gewollt haetten, aendert am gesetzlichen
+  Anspruch nichts.
+
+
+-------------------------------------------------------------------------------
+2. UNGEFAEHRE SUMMEN
+-------------------------------------------------------------------------------
+
+  Ausgangswert ist der Nachlass von ca. 1,44 Mio. EUR.
+
+  Posten                                             | Betrag
+  ---------------------------------------------------+-----------------------
+  Kleiner Pflichtteil allein (1/8, ohne Zugewinn)    | ca. 180.000 EUR
+  Grosser Pflichtteil (1/4), falls das Gericht ihn   | ca. 360.000 EUR
+  statt der Kombination ansetzt; das ist rechtlich   |
+  umstritten                                         |
+  KLEINER PFLICHTTEIL + ZUGEWINNAUSGLEICH            | ca. 340.000 - 810.000 EUR
+  Zum Vergleich: Abfindung laut Vertrag 03           | 190.000 EUR
+
+  WO ES IN DER SPANNE LANDET, HAENGT VOR ALLEM AN ZWEI WERTEN:
+    - Vermoegen von Klas 1992 (z. B. Haus Gifhorn, Depots, Erbe nach
+      Marianne): Jede belegten 100.000 EUR senken die Forderung um ca.
+      74.000 EUR. Ohne Beleg wird das Vermoegen mit 0 angesetzt
+      (§ 1377 Abs. 3 BGB). Die Belege muessen wir beide beschaffen.
+    - Zugewinn von Hille (vor allem die Wohnung Uferstrasse 2): Jede
+      100.000 EUR senken die Forderung um ca. 44.000 EUR.
+
+  REALISTISCHE EINSCHAETZUNG
+  Hilles Vermoegen liegt bei ca. 400.000 EUR, und fuer das Vermoegen von
+  Klas 1992 haben wir noch keine Belege. Damit ergeben sich grob
+  500.000 - 650.000 EUR, also das Drei- bis Vierfache der Abfindung.
+
+  WAS UNS BEIDEN NETTO BLEIBT (zusammen, nach Erbschaftsteuer, grob)
+    Einigung 190.000 EUR, alles abgegolten   ->  ca. 1,18 Mio. EUR
+    Pflichtteil + Zugewinn 500.000 EUR       ->  ca. 0,92 Mio. EUR
+    Pflichtteil + Zugewinn 650.000 EUR       ->  ca. 0,79 Mio. EUR
+
+
+-------------------------------------------------------------------------------
+3. WAS DARAUS FOLGT
+-------------------------------------------------------------------------------
+
+  - Wir brauchen eine Erledigungsklausel, die ausdruecklich auch
+    Pflichtteil und Zugewinnausgleich umfasst. Das ist eine Bedingung,
+    keine Verhandlungsposition.
+  - Die Berechnung muss beiderseitig und mit Belegen erfolgen.
+  - Bitte in Klas' Unterlagen nach Belegen fuer 1992 suchen: Grundbuch
+    bzw. Kaufvertrag Gifhorn, Vermoegensteuerbescheid 1992/93,
+    Depotauszuege, Erbschein Marianne.
+  - Eine genaue Bezifferung sollte ein Fachanwalt fuer Erbrecht machen.
+
+
+===============================================================================
+Grundlagen: situation\anne_will_pflichtteil_zugewinn_berechnet.txt,
+            situation\pflichtteilsrisiko.txt, erbschaft_kontext\00, 01, 03
+Erstellt: 15.11.2026. Keine Rechtsberatung. Alle Zahlen grob.
+===============================================================================

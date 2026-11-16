@@ -1,0 +1,154 @@
+===============================================================================
+ANFANGSVERMOEGEN KLAS - WAS ZAEHLT, WIE ES WIRKT, WO DIE BELEGE SIND
+Stand 15.11.2026
+===============================================================================
+
+ERGEBNIS IN EINEM SATZ
+Klas' Vermoegen bei der Heirat am 20.11.1992 und alles, was er waehrend
+der Ehe geerbt oder geschenkt bekommen hat (Mutter 1999, evtl. Schwester),
+zaehlt zu seinem Anfangsvermoegen und nicht zum Zugewinn (§ 1374 BGB).
+Das ist der groesste Hebel, den Bernd und Fabian selbst in der Hand haben
+- aber nur mit Belegen.
+
+KEINE RECHTSBERATUNG. Indexfaktoren grob; genaue Werte nach dem
+Verbraucherpreisindex von Destatis.
+
+
+-------------------------------------------------------------------------------
+1. WAS ZUM ANFANGSVERMOEGEN ZAEHLT
+-------------------------------------------------------------------------------
+
+  Posten                            | Rechtsgrundlage     | Stichtag
+  ----------------------------------+---------------------+--------------------
+  Vermoegen bei der Heirat          | § 1374 Abs. 1 BGB   | 20.11.1992
+  (Haus Gifhorn, Konten, Depots,    |                     |
+  VW-Beteiligungen, Erbe Marianne   |                     |
+  1989, abzueglich Schulden)        |                     |
+  ----------------------------------+---------------------+--------------------
+  Erbe nach der Mutter              | § 1374 Abs. 2 BGB   | Todestag 1999
+  ----------------------------------+---------------------+--------------------
+  Erbe nach der Schwester (falls)   | § 1374 Abs. 2 BGB   | ihr Todestag
+  ----------------------------------+---------------------+--------------------
+  Schenkungen an Klas waehrend der  | § 1374 Abs. 2 BGB   | Tag der Schenkung
+  Ehe (z. B. von der Mutter)        |                     |
+  ----------------------------------+---------------------+--------------------
+
+  WICHTIG
+  - Bewertet wird zum jeweiligen Stichtag. Der Wert wird dann mit dem
+    Verbraucherpreisindex hochgerechnet: grob Faktor 1,7 fuer 1992 und
+    1,6 fuer 1999. DM-Betraege vorher durch 1,95583 teilen.
+  - Nur was danach an Wert hinzukommt, ist Zugewinn.
+  - Ob das Geld spaeter ins Depot floss oder ausgegeben wurde, ist egal.
+    Es zaehlt der Wert beim Erwerb.
+  - OHNE BELEG ZAEHLT NICHTS: Fehlen die Nachweise, wird das
+    Anfangsvermoegen mit 0 angesetzt (§ 1377 Abs. 3 BGB).
+
+
+-------------------------------------------------------------------------------
+2. WIE ES WIRKT
+-------------------------------------------------------------------------------
+
+  FAUSTREGEL
+  Jede 100.000 EUR belegtes Anfangsvermoegen senken die Forderung
+  (Pflichtteil + Zugewinnausgleich) um ca.:
+    - Vermoegen 1992:        74.000 EUR
+    - Erbe Mutter 1999:      70.000 EUR
+    - spaeteres Erbe:        etwas weniger (kleinerer Indexfaktor)
+
+  BEISPIEL (Betraege ausgedacht, nur zur Veranschaulichung;
+  angenommen Zugewinn Hille 200.000 EUR)
+
+  Anfangsvermoegen Klas                | Wert nach   | Forderung
+                                       | Index       | (gerundet)
+  -------------------------------------+-------------+-------------------
+  nichts belegt                        |       0 EUR | ca. 724.000 EUR
+  1992: 200.000 EUR                    | ca. 340.000 | ca. 576.000 EUR
+  zusaetzlich Mutter 1999: 100.000 EUR | ca. 500.000 | ca. 505.000 EUR
+  zusaetzlich Schwester (z. B. 2010):  | ca. 570.000 | ca. 475.000 EUR
+  50.000 EUR                           |             |
+  -------------------------------------+-------------+-------------------
+
+  In diesem Beispiel senken belegte Erbschaften und das Vermoegen von 1992
+  die Forderung um ca. 250.000 EUR.
+
+
+-------------------------------------------------------------------------------
+3. CHECKLISTE: BELEGE BESCHAFFEN
+-------------------------------------------------------------------------------
+
+  A. ZUERST: KLAS' EIGENE UNTERLAGEN (Bernd und Fabian)
+  [ ] Ordner aus der Uferstrasse und dem Nachlass durchsehen
+  [ ] Erbscheine, Schreiben von Nachlassgerichten, Testamentseroeffnungen
+  [ ] Vermoegensteuerbescheide oder -erklaerungen 1992/93 (bis 1996
+      erhoben, beziffern das Vermoegen fast genau zum Stichtag)
+  [ ] Einkommensteuerbescheide 1992 - 2000 (Kapitalertraege zeigen die
+      Hoehe des Vermoegens)
+  [ ] Erbschaftsteuerbescheide oder -erklaerungen 1999 und spaeter
+  [ ] Depotauszuege, Jahressteuerbescheinigungen, Belegschaftsaktien VW
+  [ ] Kontoauszuege mit dem Eingang eines Erbes
+  [ ] Kaufvertrag und Verkaufsvertrag Haus Gifhorn, Baerlappweg 1
+
+  B. ERBE NACH DER MUTTER (1999)
+  [ ] Letzten Wohnort und genaues Todesdatum klaeren
+  [ ] Nachlassgericht dort: Einsicht in die Nachlassakte beantragen
+      (Testament, Erbschein, ggf. Nachlassverzeichnis). Begruendung:
+      Bernd und Fabian sind Erben des Erben (§ 13 FamFG).
+      Testamente und Erbscheinsakten werden sehr lange aufbewahrt.
+  [ ] Finanzamt am Wohnort: Erbschaftsteuerakte anfragen (wahrscheinlich
+      schon vernichtet, Versuch lohnt)
+  [ ] Grundbuchamt: Gehoerte ein Grundstueck zum Erbe? Grundakte wird
+      dauerhaft aufbewahrt.
+
+  C. ERBE NACH DER SCHWESTER (falls)
+  [ ] Todesdatum und letzten Wohnort klaeren
+  [ ] Hat Klas ueberhaupt geerbt?
+      - Testament vorhanden? -> Wer ist eingesetzt?
+      - Ohne Testament, ohne Kinder und Ehemann: Erben sind die Eltern;
+        lebt die Mutter nicht mehr, die Geschwister (also auch Klas)
+  [ ] Nachlassgericht dort: Einsicht in die Nachlassakte
+  [ ] Weitere Miterben? Dann nur Klas' Anteil
+
+  D. VERMOEGEN 1992
+  [ ] Grundbuch / Grundakte AG Gifhorn (Eigentum 1992, spaeterer Verkauf)
+  [ ] Gutachterausschuss Gifhorn: Bodenrichtwert 1992
+  [ ] Erbe nach Marianne (gest. 1989): Nachlassakte, Erbschein
+  [ ] Finanzamt Gifhorn: Vermoegensteuerakte anfragen
+  [ ] Schulden 1992 (z. B. Hypothek Gifhorn) mit erfassen; sie mindern
+      das Anfangsvermoegen
+
+  E. VORLAGE BEI BANKEN UND AEMTERN
+  [ ] Sterbeurkunde Klas
+  [ ] Testament 2013 / Eroeffnungsprotokoll 21.04.2026
+      (Nachweis Erbenstellung Bernd und Fabian)
+  [ ] Ausweis
+
+
+-------------------------------------------------------------------------------
+4. WAS EBENFALLS GILT - GEGENRICHTUNG
+-------------------------------------------------------------------------------
+
+  - Die Regel gilt auch fuer Hille. Was sie waehrend der Ehe geerbt hat
+    oder geschenkt bekam, erhoeht ihr Anfangsvermoegen. Ihr Zugewinn wird
+    kleiner, die Forderung steigt. Anne wird das vortragen.
+  - Darum von Hilles Seite ebenso Belege verlangen: Vermoegen 1992,
+    Erbschaften und Schenkungen waehrend der Ehe.
+
+
+-------------------------------------------------------------------------------
+5. FUER DEN 19.11.
+-------------------------------------------------------------------------------
+
+  [ ] Sagen: Klas hat 1999 und eventuell spaeter noch geerbt; die Belege
+      werden beschafft.
+  [ ] Keine Betraege nennen, solange die Belege fehlen.
+  [ ] Das Notariat fragen: Welche Nachweise genuegen? Reichen z. B.
+      Steuerbescheide, Nachlassakten oder Bodenrichtwerte?
+  [ ] Hilles Seite bitten, ihre Erbschaften und Schenkungen ebenfalls
+      offenzulegen.
+
+
+===============================================================================
+Grundlagen: erbschaft_kontext\00, 01, 19, 22
+            situation\anne_will_pflichtteil_zugewinn_berechnet.txt
+Erstellt: 15.11.2026. Keine Rechtsberatung. Alle Zahlen grob.
+===============================================================================

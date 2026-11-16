@@ -1,0 +1,117 @@
+===============================================================================
+FAIRNESS JA ODER NEIN - IST ES VERWERFLICH, WENN ANNE JETZT MEHR FORDERT?
+Stand 15.11.2026
+===============================================================================
+
+FRAGE
+Bernd hat den Lockmann-Vertrag (Ausschlagung gegen Abfindung) angestossen,
+um Anne und Jan an der gesparten Erbschaftsteuer zu beteiligen und den
+moeglichen Konflikt um das comdirect-Konto zu vermeiden. Alle dachten,
+damit sei alles abgegolten. Dass dem nicht so ist, wurde erst spaeter
+klar. Ist es verwerflich, wenn Anne nun noch mehr fordert?
+
+ERGEBNIS IN EINEM SATZ
+Verwerflich ist es nicht. Ob es fair ist, kann man aber mit Recht fragen.
+Beides gleichzeitig zu sehen hilft, ohne bitter zu werden.
+
+KEINE RECHTSBERATUNG. Einschaetzung auf Grundlage der Unterlagen.
+
+
+-------------------------------------------------------------------------------
+1. WAS GEGEN "VERWERFLICH" SPRICHT
+-------------------------------------------------------------------------------
+
+  - ANNE IST ALS BETREUERIN DAZU VERPFLICHTET
+    Sie muss Hilles Vermoegen wahren. Einen Verzicht auf mehrere hundert-
+    tausend Euro ohne Berechnung wuerde das Gericht nicht genehmigen, und
+    Anne koennte dafuer haften. Die Berechnung verlangen Binder (02.11.)
+    und das Notariat (11.11.), nicht nur Anne.
+
+  - DER ANSPRUCH STEHT IM GESETZ
+    Zugewinnausgleich heisst: Was ein Paar waehrend der Ehe hinzugewinnt,
+    gehoert nach dem Gesetz beiden zur Haelfte. Aus Sicht des Gesetzes
+    fordert Hilles Seite nicht "noch mehr", sondern das, was ihr zusteht.
+
+  - KEINER WUSSTE ES
+    Auch Anne ging davon aus, dass mit dem Vertrag alles erledigt ist. Sie
+    hat nicht getaeuscht. Sie nimmt das Wissen ernst, das Bernd selbst
+    offengelegt hat.
+
+
+-------------------------------------------------------------------------------
+2. WAS FUER DAS GEFUEHL DER UNFAIRNESS SPRICHT
+-------------------------------------------------------------------------------
+
+  - DIE GESCHAEFTSGRUNDLAGE IST WEGGEFALLEN
+    Der Vertrag wurde gemeinsam in der Annahme geschlossen, dass damit
+    alles abgegolten ist. Jetzt nutzt Hilles Seite genau die Luecke, die
+    keiner kannte. Das ist nicht nur ein Gefuehl, sondern auch ein
+    juristisches Argument: ergaenzende Vertragsauslegung und Stoerung der
+    Geschaeftsgrundlage (§ 313 BGB), siehe vertragsgrundlage_irrtum.txt.
+
+  - DAS ANGEBOT WAR GROSSZUEGIG
+    Nach Bernds (ungepruefter) Rechnung haetten Bernd und Fabian ohne den
+    Vertrag netto mehr behalten: ca. 1,25 Mio. EUR statt ca. 1,18 Mio.
+    EUR. Die Steuerersparnis aus der Ausschlagung wurde freiwillig
+    geteilt.
+
+  - DAS TESTAMENT VON 2013 ZEIGT DEN WILLEN
+    Damals hatten Klas und Hille fast gleich viel Vermoegen (330.000 und
+    320.000 EUR). Die Uferstrasse sollte an Hilles Seite gehen, das Depot
+    an die Seite von Klas. Dass Klas' Vermoegen danach stark gewachsen
+    ist, haben beide nicht mehr neu geregelt. Ein Zugriff darauf ueber den
+    Zugewinn widerspricht wohl dem, was beide wollten.
+
+  - OFFENHEIT WURDE NICHT MIT FAIRNESS BEANTWORTET
+    Bernd hat die Luecke selbst angesprochen, statt zu hoffen, dass niemand
+    sie bemerkt. Wer daraus jetzt das Maximum herausholt, beantwortet
+    Offenheit nicht gerade mit Fairness.
+
+
+-------------------------------------------------------------------------------
+3. DIE UNTERSCHEIDUNG, AUF DIE ES ANKOMMT
+-------------------------------------------------------------------------------
+
+  Wer entscheidet             | Wie es zu bewerten ist
+  ----------------------------+------------------------------------------------
+  Anne als Betreuerin,        | Sie muss rechnen lassen - nicht verwerflich.
+  solange Hille lebt          | Gebunden ist sie aber auch an Hilles
+                              | mutmasslichen Willen (§ 1821 BGB), und der
+                              | spricht eher fuer eine massvolle Loesung.
+  ----------------------------+------------------------------------------------
+  Anne und Jan als Erben,     | Sie entscheiden in eigener Sache. Das
+  nach Hilles Tod             | gesetzliche Maximum zu verlangen ist legal.
+                              | Ob es dem Willen von Klas und Hille
+                              | entspricht, kann man mit Recht bezweifeln.
+  ----------------------------+------------------------------------------------
+
+
+-------------------------------------------------------------------------------
+4. WAS DARAUS FOLGT
+-------------------------------------------------------------------------------
+
+  - FAIRNESS ALS ARGUMENT NUTZEN, NICHT ALS VORWURF
+    Gut: "Wir haben den Vertrag gemeinsam in der Annahme geschlossen, dass
+    alles abgegolten ist. Der Wille von Klas und Hille ergibt sich aus dem
+    Testament von 2013."
+    Schlecht: "Es ist verwerflich, dass ihr jetzt mehr fordert." Das
+    verhaertet die Fronten und schwaecht die eigene Position.
+
+  - DIE SCHULD LIEGT AUCH NICHT BEI BERND
+    Notarin Lockmann hat eine Abgeltungsklausel nicht vorgeschlagen,
+    obwohl sie naheliegend gewesen waere. Das muss sich Bernd nicht selbst
+    vorwerfen.
+
+  - REALISTISCHES ZIEL
+    Ein Vergleich, der deutlich unter dem gesetzlichen Maximum liegt und
+    den Willen von 2013 beruecksichtigt. Ueber 190.000 EUR wird er
+    voraussichtlich trotzdem liegen.
+
+
+===============================================================================
+Grundlagen: erbschaft_kontext\00, 01, 03, 19, 20, 22, 23
+            situation\vertragsgrundlage_irrtum.txt,
+            anne_will_pflichtteil_zugewinn_berechnet.txt,
+            fairness_abfindungssumme.txt
+Erstellt: 15.11.2026. Keine Rechtsberatung.
+===============================================================================
