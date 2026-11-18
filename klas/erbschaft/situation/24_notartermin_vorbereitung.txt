@@ -1,0 +1,148 @@
+===============================================================================
+BEWERTUNG MAIL NOTARIN SCHWACKENBERG VOM 17.11.2026
+UND FOLGEN FUER DEN NOTARTERMIN AM 19.11.2026, 15:30 UHR
+Stand 18.11.2026
+===============================================================================
+
+KURZ GESAGT
+Das ist eine klare Absage an das Angebotsmodell (Fall 3), das Bernd am
+13.11. angefragt hat. Die Mail kommt von der Notarin selbst, nicht vom
+Sekretariat. Sie wird so ein Angebot also nicht beurkunden.
+Sie bestaetigt aber auch: Nach Hilles Tod ist eine Einigung ohne
+Betreuungsgericht und ohne Pflichtteilsberechnung moeglich. Was verloren
+geht, ist vor allem die Moeglichkeit, die Einigung schon jetzt verbindlich
+festzulegen.
+
+KEINE RECHTSBERATUNG. Einschaetzung auf Grundlage der Unterlagen.
+
+
+-------------------------------------------------------------------------------
+1. WAS DIE NOTARIN SAGT
+-------------------------------------------------------------------------------
+
+  Aussage                       | Einschaetzung
+  ------------------------------+----------------------------------------------
+  Eine Vereinbarung ueber       | IM KERN RICHTIG. Die Ausnahme in § 311b
+  kuenftige Ansprueche von Anne | Abs. 5 BGB gilt nur unter kuenftigen
+  und Jan als Hilles Erben ist  | gesetzlichen Erben. Bernd und Fabian sind
+  zu Hilles Lebzeiten nichtig   | aber keine gesetzlichen Erben von Hille.
+  (§ 311b Abs. 4 BGB).          | Deckt sich mit 13, Ziff. 1 (20.10.).
+  ------------------------------+----------------------------------------------
+  Fuer Angebote gilt dasselbe.  | EINE STRENGE SICHT. Man koennte dagegen-
+                                | halten: Ein Angebot bindet nur Bernd und
+                                | Fabian, der Vertrag kaeme erst nach Hilles
+                                | Tod zustande. Es lohnt sich aber nicht,
+                                | darueber zu streiten (naechste Zeile).
+  ------------------------------+----------------------------------------------
+  Ein Angebot bringt ohnehin    | DER ENTSCHEIDENDE PUNKT, UND ER STIMMT.
+  nichts. Die Annahme muesste   | Gleiches Ergebnis in
+  spaeter beurkundet werden,    | 23a_fall3_nachvertrag_ohne_notar.txt,
+  also kann man gleich alles in | Abschnitt 2a: Ein Angebot jetzt gibt Bernd
+  einem gemeinsamen Termin nach | und Fabian kaum Sicherheit.
+  Hilles Tod machen.            |
+  ------------------------------+----------------------------------------------
+  Zu Lebzeiten laesst sich nur  | Passt zu Binder (19, Z. 74-81) und
+  Hilles eigener Anspruch       | Raguse (22).
+  regeln, und nur mit dem       |
+  Betreuungsgericht. Das        |
+  Gericht braucht dafuer eine   |
+  konkrete Berechnung.          |
+  ------------------------------+----------------------------------------------
+
+
+-------------------------------------------------------------------------------
+2. WAS DAS IN DER SACHE BEDEUTET
+-------------------------------------------------------------------------------
+
+  a) DAS ANGEBOTSMODELL IST ERLEDIGT
+     Es ergibt keinen Sinn, es weiter zu verfolgen. Anne hat es am 15.11.
+     ohnehin abgelehnt (23_mail_anne_raguse), und Jan steht hinter ihr
+     (23_mail_jan_neue_lage).
+
+  b) ES BLEIBEN ZWEI WEGE
+
+     WEG A: ERGAENZUNGSVERTRAG MIT HILLE, GENEHMIGT VOM BETREUUNGSGERICHT
+       - Dafuer braucht es die Berechnung von kleinem Pflichtteil und
+         Zugewinnausgleich. Diesen Weg will Anne.
+       - Die Klausel fuer Fall 3 (Faelligkeit erst nach Ausschlagung durch
+         die Erben nach § 1952 BGB und Erlass) kann darin weiter stehen
+         (13, Ziff. 5, dritter Punkt).
+
+     WEG B: ABWARTEN BIS ZU HILLES TOD
+       - Dann koennen Anne und Jan in einem Termin selbst ausschlagen und
+         sich mit Bernd und Fabian einigen.
+       - Gericht und Berechnung braucht es dafuer rechtlich nicht. Das
+         bestaetigt die Notarin ausdruecklich.
+
+  c) HAKEN AN WEG B
+     - Bis zu Hilles Tod ist niemand gebunden: weder Bernd und Fabian an
+       die 190.000 EUR noch Anne und Jan an einen Verzicht.
+     - Anne und Jan koennen nach Hilles Tod auch allein ausschlagen und
+       dann Pflichtteil (1/8) plus Zugewinnausgleich verlangen. Die
+       190.000 EUR sind dann nur noch ein Vergleichsangebot.
+     - Da Anne jetzt rechnen lassen will, wird praktisch auch in Fall 3
+       ueber berechnete Zahlen verhandelt.
+
+  d) FOLGE FUER BERND UND FABIAN
+     Eine Einigung ganz ohne Berechnung ist kaum noch durchzusetzen.
+     Wichtig werden jetzt:
+       - Klas' Anfangsvermoegen 1992 und seine Erbschaften
+         (23c_anfangsvermoegen_klas.txt)
+       - Hilles Seite, vor allem der Wert der Uferstrasse 2
+
+
+-------------------------------------------------------------------------------
+3. WAS JETZT ANGEPASST WERDEN SOLLTE
+-------------------------------------------------------------------------------
+
+  [ ] 1. nachvertrag_schwackenberg.20261119.vorbereitung.kurz.txt, Punkt 3
+         ("Eine Berechnung des Pflichtteils braucht es dafuer nicht"):
+         So kann das nicht mehr in einen Nachvertrag. Falls die Mail noch
+         nicht verschickt ist: Punkt streichen oder umformulieren.
+
+  [ ] 2. 23c_plan_bis_19.11.txt
+         Die Grundlinie passt weiterhin: zuhoeren, nichts zusagen, keine
+         Zahlen nennen, nichts unterschreiben.
+
+  [ ] 3. NICHT MEHR NACHFASSEN
+         Die Mail erklaert die weiteren Fragen ausdruecklich fuer erledigt.
+         Weiteres Draengen auf das Angebotsmodell schadet eher der
+         Gespraechsatmosphaere mit Anne.
+
+  [ ] 4. JAN
+         Die Mail spricht Herrn Trueper an, Jan steht aber nicht im
+         Verteiler. Ob Bernd sie an ihn weiterleitet, entscheidet er.
+         Anne hat sie ohnehin.
+
+
+-------------------------------------------------------------------------------
+4. NEUE FRAGEN FUER DEN TERMIN AM 19.11.
+-------------------------------------------------------------------------------
+
+  Thema                     | Frage
+  --------------------------+--------------------------------------------------
+  Dauer der Berechnung      | Wie lange dauert eine Berechnung realistisch,
+                            | und wer erstellt sie? Ein Verfahren mit
+                            | Berechnung kann leicht laenger dauern, als
+                            | Hille voraussichtlich noch lebt.
+  --------------------------+--------------------------------------------------
+  Termin nach Hilles Tod    | Was ist dann noetig? Ausschlagung beglaubigen,
+                            | Vergleich beurkunden? Was kostet das?
+  --------------------------+--------------------------------------------------
+  Fristhemmung              | Bleibt die Hemmung durch das Ruhen des
+                            | Verfahrens bestehen? Am 20.10. bejaht
+                            | (13, Ziff. 3). Bestaetigen lassen.
+  --------------------------+--------------------------------------------------
+  Kosten                    | Fallen fuer die Antwort vom 17.11. und fuer den
+                            | Termin am 19.11. Gebuehren an? Die Kostenfrage
+                            | hat die Notarin nicht beantwortet.
+  --------------------------+--------------------------------------------------
+
+
+===============================================================================
+Grundlagen: erbschaft_kontext\13, 19, 22, 23, 24
+            situation\23a_fall3_nachvertrag_ohne_notar.txt,
+            23c_plan_bis_19.11.txt, 23c_anfangsvermoegen_klas.txt,
+            nachvertrag_schwackenberg.20261119.vorbereitung.kurz.txt
+Erstellt: 18.11.2026. Keine Rechtsberatung.
+===============================================================================

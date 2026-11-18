@@ -1,7 +1,14 @@
 ===============================================================================
 FALL 3: SIND DIE 190.000 EUR FUER ANNE UND JAN STEUERFREI?
-Stand 14.11.2026
+Stand 14.11.2026, aktualisiert 18.11.2026
 ===============================================================================
+
+AENDERUNG 18.11.2026
+Die Rechnung unten geht von 190.000 EUR aus. Anne will Pflichtteil und
+Zugewinnausgleich berechnen lassen (23_mail_anne_raguse), und die
+Notarin verweist eine Regelung fuer Fall 3 auf einen Termin nach Hilles
+Tod (erbschaft_kontext\24). Ein Vergleich kann deshalb deutlich hoeher
+ausfallen. Dafuer siehe Abschnitt 1a.
 
 FRAGE
 Sind die 190.000 EUR als Gegenleistung fuer Ausschlagung (§ 1952 BGB)
@@ -53,6 +60,38 @@ der Unterlagen und von einem Steuerberater zu pruefen.
 
 
 -------------------------------------------------------------------------------
+1a. WENN DER VERGLEICH HOEHER AUSFAELLT ALS 190.000 EUR (NEU 18.11.)
+-------------------------------------------------------------------------------
+
+  Je Person die Haelfte der Abfindung, dazu in Variante b) ca. 200.000 EUR
+  aus Hilles Vermoegen.
+
+    Abfindung    | je Person | Variante a)        | Variante b)
+    gesamt       |           | (Erwerb von Klas)  | (Erwerb von Hille)
+    -------------+-----------+--------------------+--------------------------
+    190.000 EUR  |  95.000   | steuerfrei         | ca. 295.000 -> steuerfrei
+    400.000 EUR  | 200.000   | steuerfrei         | ca. 400.000 -> Grenze
+    500.000 EUR  | 250.000   | steuerfrei         | ca. 450.000 -> ca. 50.000
+                 |           |                    | steuerpflichtig, 7 %
+                 |           |                    | = ca. 3.500 EUR je Person
+    650.000 EUR  | 325.000   | steuerfrei         | ca. 525.000 -> ca. 125.000
+                 |           |                    | steuerpflichtig, 11 %
+                 |           |                    | = ca. 13.750 EUR je Person
+    -------------+-----------+--------------------+--------------------------
+
+  FOLGE
+    - Bis ca. 400.000 EUR Abfindung bleibt es in beiden Varianten
+      voraussichtlich steuerfrei.
+    - Darueber wird die Frage, ob die Zahlung als Erwerb von Klas oder von
+      Hille gilt, fuer Anne und Jan erheblich.
+    - Ob ein Teil des Vergleichs als Zugewinnausgleich gilt und damit
+      nach § 5 Abs. 2 ErbStG anders zu behandeln ist, ist ungeprueft.
+    - Spaetestens ab dieser Groessenordnung sollte ein Steuerberater die
+      Gestaltung des Vergleichs pruefen - auch fuer Bernd und Fabian
+      (Abschnitt 4).
+
+
+-------------------------------------------------------------------------------
 2. EINKOMMENSTEUER
 -------------------------------------------------------------------------------
 
@@ -80,10 +119,12 @@ der Unterlagen und von einem Steuerberater zu pruefen.
 4. NEBENBEI FUER BERND UND FABIAN
 -------------------------------------------------------------------------------
 
-  Die 190.000 EUR sind bei Bernd und Fabian als Erwerbskosten abziehbar
+  Die Abfindung ist bei Bernd und Fabian als Erwerbskosten abziehbar
   (§ 10 Abs. 5 Nr. 3 ErbStG). Ob das auch gilt, wenn erst Hilles Erben
-  ausschlagen, ist ungeprueft
-  (22_vorgehen_gemeinsam.angebotsmodell.txt, 6c).
+  ausschlagen und der Vergleich nach Hilles Tod geschlossen wird, ist
+  ungeprueft. Das Angebotsmodell, auf das sich die fruehere Pruefung
+  bezog (22_vorgehen_gemeinsam.angebotsmodell.txt, 6c), ist nach der
+  Mail der Notarin vom 17.11. erledigt.
 
 
 -------------------------------------------------------------------------------
@@ -91,15 +132,18 @@ der Unterlagen und von einem Steuerberater zu pruefen.
 -------------------------------------------------------------------------------
 
   Voraussichtlich keine Steuer, solange jeder unter 400.000 EUR bleibt
-  (Hilles Erbe + Abfindung + Schenkungen der letzten 10 Jahre). Die
+  (Hilles Erbe + Abfindung + Schenkungen der letzten 10 Jahre). Bei
+  190.000 EUR Abfindung ist das sicher der Fall, bei einem Vergleich
+  ueber ca. 400.000 EUR nicht mehr unbedingt (Abschnitt 1a). Die
   Anzeige beim Finanzamt ist trotzdem Pflicht. Da kein Steuerberater
   hinzugezogen wird, diese Grenze zumindest einmal ueberschlagen.
 
 
 ===============================================================================
-Grundlagen: erbschaft_kontext\00, 03, 20, 21
+Grundlagen: erbschaft_kontext\00, 03, 20, 21, 23, 24
             situation\20_email_jan_und_anne.bewertung.txt,
-            22_vorgehen_gemeinsam.angebotsmodell.txt,
-            23_fall3_nachvertrag_ohne_notar.txt
-Erstellt: 14.11.2026. Keine Steuerberatung.
+            22_vorgehen_gemeinsam.angebotsmodell.txt (ueberholt),
+            23a_fall3_nachvertrag_ohne_notar.txt,
+            24_notartermin_vorbereitung.txt
+Erstellt: 14.11.2026, aktualisiert 18.11.2026. Keine Steuerberatung.
 ===============================================================================

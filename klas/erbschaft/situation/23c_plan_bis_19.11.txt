@@ -1,7 +1,17 @@
 ===============================================================================
 PLAN BIS ZUM NOTARTERMIN AM 19.11.2026 (OHNE ANWALT VORHER)
-Stand 15.11.2026
+Stand 15.11.2026, aktualisiert 18.11.2026
 ===============================================================================
+
+AENDERUNG 18.11.2026
+Notarin Schwackenberg hat am 17.11. geantwortet (erbschaft_kontext\24):
+- Ein Angebot von Bernd und Fabian fuer Fall 3 waere nichtig. Das
+  Angebotsmodell ist erledigt.
+- Zu Hilles Lebzeiten geht nur ein Ergaenzungsvertrag mit Hille, mit
+  Berechnung und Genehmigung des Betreuungsgerichts.
+- Sonst muss bis zu Hilles Tod gewartet werden. Dann kann alles in einem
+  gemeinsamen Termin beurkundet werden.
+Bewertung und neue Fragen: situation\24_notartermin_vorbereitung.txt
 
 VORAUSSETZUNG
 Bernd und Fabian entscheiden erst nach dem Termin, ob sie einen Fachanwalt
@@ -37,11 +47,12 @@ KEINE RECHTSBERATUNG. Einschaetzung auf Grundlage der Unterlagen.
 
   [ ] 4. FRAU RAGUSE ANRUFEN (0441 97375 27)
          - Wird der Termin jetzt als Besprechung behandelt, nicht als
-           Beurkundung?
+           Beurkundung? (Nach der Mail vom 17.11. ja - kurz bestaetigen)
          - Was kostet er? Faellt eine Gebuehr an, wenn kein Entwurf
-           entsteht?
+           entsteht? Was kostet die Stellungnahme vom 17.11.?
          - Nimmt Herr Binder teil?
          - Welche Unterlagen sollen wir mitbringen?
+         - NICHT mehr nach dem Angebotsmodell fragen (erledigt, 24).
 
   [ ] 5. DATEN ZU MUTTER UND SCHWESTER KLAEREN
          - Todesdatum
@@ -60,6 +71,16 @@ KEINE RECHTSBERATUNG. Einschaetzung auf Grundlage der Unterlagen.
          - Kommt er zum Termin?
          - Linie abstimmen: zuhoeren, Fragen stellen, nichts zusagen,
            keine Zahlen nennen.
+         - Ihm sagen: Seine "Variante 3" (Mail vom 15.11.: Aufschub,
+           nach Hilles Tod Ausschlagung, urspruenglicher Weg) ist durch
+           die Mail der Notarin vom 17.11. nicht mehr vorab absicherbar.
+           Moeglich bleibt sie nur als Einigung nach Hilles Tod, ohne
+           Bindung bis dahin - und Anne will vorher rechnen lassen.
+
+  [ ] 6a. NACHVERTRAG-KURZFASSUNG PRUEFEN
+          nachvertrag_schwackenberg.20261119.vorbereitung.kurz.txt,
+          Punkt 3 ("Eine Berechnung des Pflichtteils braucht es dafuer
+          nicht") passt nicht mehr. Nicht so verschicken.
 
 
 -------------------------------------------------------------------------------
@@ -122,6 +143,15 @@ KEINE RECHTSBERATUNG. Einschaetzung auf Grundlage der Unterlagen.
                             | erledigt: Pflichtteil, Zugewinnausgleich,
                             | comdirect-Konto, Vertrag 03
   --------------------------+--------------------------------------------------
+  Dauer der Berechnung      | Wie lange dauert sie realistisch, wer erstellt
+  (neu 18.11.)              | sie? Kann leicht laenger dauern, als Hille
+                            | voraussichtlich noch lebt.
+  --------------------------+--------------------------------------------------
+  Termin nach Hilles Tod    | Was ist dann zu beurkunden bzw. zu beglaubigen
+  (neu 18.11.)              | (Ausschlagung, Vergleich)? Was kostet das?
+                            | Kann die Fall-3-Klausel (13, Ziff. 5) in einen
+                            | Ergaenzungsvertrag mit Hille aufgenommen werden?
+  --------------------------+--------------------------------------------------
 
   SAGEN KANN BERND
   - "Wir wollen eine Einigung, keinen Streit."
@@ -135,6 +165,8 @@ KEINE RECHTSBERATUNG. Einschaetzung auf Grundlage der Unterlagen.
     Renovierung und die Miete."
 
   NICHT TUN
+  - das Angebotsmodell nicht erneut ansprechen (Notarin 17.11., Anne
+    15.11.: erledigt)
   - keine Betraege oder Spannen nennen, auch keine fuer die Wohnung
   - das Gutachten nicht als "falsch" bezeichnen, bevor es gelesen ist
   - keine Renovierungskosten nennen und keine Kontoauszuege vorlegen,
@@ -241,9 +273,9 @@ Bernd
 
 
 ===============================================================================
-Grundlagen: erbschaft_kontext\22, 23
+Grundlagen: erbschaft_kontext\22, 23, 24
             situation\warum_anwalt.txt, info_fabian.txt,
             anfangsvermoegen_klas.txt, 22_ruhen_des_verfahrens.txt,
-            22_risiko_annes_reise.txt
-Erstellt: 15.11.2026. Keine Rechtsberatung.
+            22_risiko_annes_reise.txt, 24_notartermin_vorbereitung.txt
+Erstellt: 15.11.2026, aktualisiert 18.11.2026. Keine Rechtsberatung.
 ===============================================================================

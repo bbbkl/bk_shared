@@ -1,0 +1,112 @@
+===============================================================================
+WAS ZUM NOTARTERMIN AM 19.11.2026, 15:30 UHR, MITBRINGEN?
+Notariat Schwackenberg, Hindenburgstrasse 29, 26122 Oldenburg
+Stand 18.11.2026
+===============================================================================
+
+KURZ GESAGT
+Das Notariat hat am 11.11. nur um zwei Dinge gebeten: Angaben zum
+Vermoegen bei der Heirat 1992 und Unterlagen zu den Dividenden
+(erbschaft_kontext\22, Z. 13). Alles andere dient Bernd als
+Gedaechtnisstuetze oder Nachweis.
+
+KEINE RECHTSBERATUNG. Einschaetzung auf Grundlage der Unterlagen.
+
+
+-------------------------------------------------------------------------------
+1. UNBEDINGT MITBRINGEN
+-------------------------------------------------------------------------------
+
+  [ ] 1. PERSONALAUSWEIS
+         Es wird zwar nichts beurkundet, aber das Notariat prueft trotzdem
+         oft die Identitaet.
+
+  [ ] 2. UNTERLAGEN ZU DEN DIVIDENDEN (Wunsch des Notariats)
+         Am besten auf Papier:
+         - Ertraegnisaufstellungen 2025 und 2026 von Fisher und comdirect
+         - Aufstellung der Managementgebuehren. Binder stellt deren
+           Anrechnung auf die Dividenden in Frage (19, Z. 56-58).
+         Das Notariat hat beides seit dem 28.10. Nachfragen, ob es weitere
+         Jahre braucht.
+
+  [ ] 3. WAS ZU KLAS' VERMOEGEN 1992 UND SEINEN ERBSCHAFTEN GEFUNDEN WURDE
+         (Wunsch des Notariats)
+         Liegt noch nichts vor, reicht eine Liste, wo Bernd sucht:
+         - Grundakte Gifhorn
+         - Nachlassakten Mutter 1999 und ggf. Schwester
+         - Erbe nach Marianne (1989)
+         - Vermoegensteuerbescheide
+         Siehe 23c_anfangsvermoegen_klas.txt, Abschnitt 3.
+
+  [ ] 4. NACHLASSVERZEICHNIS ZUM 05.02.2026 MIT BELEGEN
+         So wie es am 28.10. verschickt wurde.
+
+
+-------------------------------------------------------------------------------
+2. ZUM NACHSCHLAGEN (KOPIEN)
+-------------------------------------------------------------------------------
+
+  [ ] Testament vom 20.11.2013 (01) und Eroeffnungsschreiben vom
+      21.04.2026 (11)
+  [ ] Abfindungsvertrag vom 13.03.2026 (03) und Binders
+      Ergaenzungsvorschlag (05)
+  [ ] Binders Schreiben vom 02.11.2026 (19)
+  [ ] Mails des Notariats vom 20.10., 11.11. und 17.11. (13, 22, 24)
+  [ ] Annes Mail vom 15.11. (23_mail_anne_raguse)
+  [ ] Sterbeurkunde Klas
+
+
+-------------------------------------------------------------------------------
+3. FUER BERND SELBST
+-------------------------------------------------------------------------------
+
+  [ ] 24_notartermin_vorbereitung.txt, Abschnitt 4: die neuen Fragen
+  [ ] 23c_plan_bis_19.11.txt, Abschnitt 4: Tabelle "Klaeren lassen",
+      "Sagen kann Bernd" und "Nicht tun"
+  [ ] Block und Stift fuer das Gedaechtnisprotokoll
+
+
+-------------------------------------------------------------------------------
+4. BEWUSST NICHT MITBRINGEN BZW. NICHT VORLEGEN
+-------------------------------------------------------------------------------
+
+  - RECHNUNGEN UND KONTOAUSZUEGE ZUR RENOVIERUNG
+    Wegen der Naehe zum Streit ums comdirect-Konto erst mit einem Anwalt
+    vorlegen.
+  - UNTERLAGEN ZUM COMDIRECT-KONTO UND ZUR ZAHLUNG VON 2023
+  - EIGENE BERECHNUNGEN ODER ZAHLENSPANNEN
+    Gemeint sind die Modellrechnungen in 23c_info_fabian.txt,
+    23c_anfangsvermoegen_klas.txt und 19_info_binder.20261102.bewertung.txt.
+    Am besten zu Hause lassen, damit sie nicht versehentlich auf dem
+    Tisch liegen.
+
+
+-------------------------------------------------------------------------------
+5. SACHE VON ANNE, NICHT VON BERND
+-------------------------------------------------------------------------------
+
+  Hilles Unterlagen muss Bernd nicht mitbringen. Die muss Anne liefern,
+  und Bernd kann im Termin danach fragen:
+  - Hilles Vermoegen 1992 und am 05.02.2026
+  - Gutachten zur Uferstrasse 2 (360.000 EUR)
+  - Mietvertrag
+
+
+-------------------------------------------------------------------------------
+6. NOCH VOR DEM TERMIN KLAEREN
+-------------------------------------------------------------------------------
+
+  [ ] Frau Raguse anrufen (0441 97375 27), falls noch nicht geschehen:
+      - Nimmt Herr Binder am Termin teil?
+      - Was kostet der Termin?
+      (siehe 23c_plan_bis_19.11.txt, Punkt 4)
+
+
+===============================================================================
+Grundlagen: erbschaft_kontext\01, 03, 05, 11, 13, 19, 22, 23, 24
+            situation\23c_plan_bis_19.11.txt,
+            23c_anfangsvermoegen_klas.txt,
+            22_info_notariat_schwackenberg.20261111.bewertung.txt,
+            24_notartermin_vorbereitung.txt
+Erstellt: 18.11.2026. Keine Rechtsberatung.
+===============================================================================

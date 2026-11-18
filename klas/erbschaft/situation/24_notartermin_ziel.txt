@@ -1,0 +1,132 @@
+===============================================================================
+WAS IST BERNDS ZIEL IM NOTARTERMIN AM 19.11.2026, 15:30 UHR?
+Notariat Schwackenberg, Oldenburg
+Stand 18.11.2026
+===============================================================================
+
+KURZ GESAGT
+Das Ziel ist, den Weg zur Berechnung und zur Einigung festzulegen. Bernd
+geht ohne Zugestaendnis und ohne Zahl raus, und das Verhaeltnis zu Anne
+bleibt gut. Die Einigung selbst faellt erst spaeter.
+
+KEINE RECHTSBERATUNG. Einschaetzung auf Grundlage der Unterlagen.
+
+
+-------------------------------------------------------------------------------
+1. WAS SICH GEAENDERT HAT
+-------------------------------------------------------------------------------
+
+  Urspruenglich war die Idee: 190.000 EUR zahlen, damit ist alles
+  erledigt, und die gesparten Steuern werden geteilt.
+
+  Das geht so nicht mehr:
+  - Das Angebot ist vom Tisch (Notarin, 17.11., erbschaft_kontext\24).
+  - Anne will rechnen lassen (23_mail_anne_raguse, 15.11.).
+
+  Realistisch geht es jetzt um einen Vergleich irgendwo zwischen
+  190.000 EUR und dem gesetzlichen Anspruch aus Pflichtteil und
+  Zugewinnausgleich. Am Donnerstag wird dafuer der Rahmen gesetzt.
+  Deshalb zaehlt, WIE gerechnet wird, mehr als eine Zahl.
+
+
+-------------------------------------------------------------------------------
+2. MUSS ERREICHT WERDEN
+-------------------------------------------------------------------------------
+
+  [ ] 1. KEINE DOPPELZAHLUNG
+         Alle bestaetigen den Grundsatz: Jede Zahlung erledigt alle
+         Ansprueche, also Pflichtteil, Zugewinnausgleich, comdirect-Konto
+         und Vertrag 03.
+         Binder sieht das genauso (19, Z. 28-31). Darauf bestehen, denn
+         das ist der teuerste Einzelposten.
+
+  [ ] 2. DAS VERFAHREN RUHT WEITER
+         Anne verlaengert das Ruhen vor ihrer Abreise am 21.11. und nimmt
+         den Antrag nicht zurueck.
+         Das schuetzt davor, dass das Gericht die Ausschlagung genehmigt,
+         bevor eine Erledigungsklausel steht. Das waere fuer Bernd der
+         schlechteste Fall.
+
+  [ ] 3. BEIDE SEITEN LEGEN OFFEN, MIT BELEGEN
+         - Hilles Seite: Vermoegen 1992 und am 05.02.2026, Gutachten zur
+           Uferstrasse mit Mietvertrag, Erbschaften und Schenkungen
+         - Bernds Seite: Klas' Vermoegen 1992 und seine Erbschaften
+         Anne hat das in ihrer Mail vom 15.11. selbst angedeutet: "Beide
+         Seiten werden sich jetzt kundig machen".
+
+
+-------------------------------------------------------------------------------
+3. SOLL ERREICHT WERDEN
+-------------------------------------------------------------------------------
+
+  [ ] 4. ABLAUF KLAEREN
+         Wer rechnet (Notariat, Gutachter oder Anwaelte)? Bis wann? Wer
+         traegt die Kosten?
+
+  [ ] 5. FALL 3 KLAEREN
+         - Was geschieht, wenn Hille waehrend Annes Reise stirbt? Jan ist
+           dann Ansprechpartner, und niemand fasst Klas' Depots oder die
+           Ertraege an.
+         - Was wird im Termin nach Hilles Tod beurkundet?
+
+  [ ] 6. KOSTEN KLAEREN
+         Was kosten die Stellungnahme vom 17.11. und der Termin?
+
+
+-------------------------------------------------------------------------------
+4. KANN, MUSS ABER NICHT
+-------------------------------------------------------------------------------
+
+  [ ] 7. WILLEN AUS DEM TESTAMENT VON 2013 SACHLICH ANSPRECHEN
+         Uferstrasse an Hilles Seite, Depot an Klas' Seite. Das ist kein
+         Vorwurf, aber Bernds bestes Argument fuer einen Abschlag.
+
+  [ ] 8. ERBSCHAFTEN VON KLAS ERWAEHNEN
+         Klas hat 1999 und eventuell spaeter geerbt. So ist klar, dass
+         diese Posten in die Rechnung gehoeren.
+
+
+-------------------------------------------------------------------------------
+5. AUSDRUECKLICH NICHT DAS ZIEL
+-------------------------------------------------------------------------------
+
+  - eine Zahl festlegen, auch nicht ungefaehr
+  - einem Rechenweg zustimmen, z. B. kleiner oder grosser Pflichtteil oder
+    dem Wert der Wohnung
+  - etwas unterschreiben
+  - das Angebotsmodell retten
+  - Streit ueber Fairness fuehren
+
+
+-------------------------------------------------------------------------------
+6. WORAN BERND MERKT, DASS DER TERMIN GUT WAR
+-------------------------------------------------------------------------------
+
+  Abends kann er in einer kurzen Mail an alle mit "Wie besprochen: ..."
+  festhalten:
+  - Wer liefert welche Belege bis wann?
+  - Wer rechnet?
+  - Das Verfahren ruht weiter.
+  - Eine Zahlung erledigt alles.
+
+  Und er hat nichts zugesagt, was nicht in dieser Mail steht.
+
+
+-------------------------------------------------------------------------------
+7. DANACH
+-------------------------------------------------------------------------------
+
+  [ ] Mit Fabian ueber einen Anwalt im Hintergrund entscheiden
+      (23c_warum_anwalt.txt). Bis Anne am 13.12. zurueckkommt, ist Zeit
+      genug.
+
+
+===============================================================================
+Grundlagen: erbschaft_kontext\03, 13, 19, 22, 23, 24
+            situation\23c_plan_bis_19.11.txt,
+            23a_fall3_nachvertrag_ohne_notar.txt,
+            23c_warum_anwalt.txt,
+            24_notartermin_vorbereitung.txt,
+            24_notartermin_mitbringen.txt
+Erstellt: 18.11.2026. Keine Rechtsberatung.
+===============================================================================
