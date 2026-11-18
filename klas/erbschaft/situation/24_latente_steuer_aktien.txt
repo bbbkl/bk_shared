@@ -1,0 +1,131 @@
+===============================================================================
+LATENTE STEUER AUF DIE AKTIEN - WER TRAEGT SIE, UND ZAEHLT SIE BEI
+PFLICHTTEIL UND ZUGEWINNAUSGLEICH?
+Stand 18.11.2026
+===============================================================================
+
+KURZ GESAGT
+Die Steuer zahlen Bernd und Fabian. Ob sie bei Pflichtteil und Zugewinn-
+ausgleich wertmindernd beruecksichtigt wird, ist aber ein Verhandlungs-
+punkt, und zwar ein grosser: grob 100.000 bis 130.000 EUR weniger
+Forderung.
+
+KEINE RECHTS- ODER STEUERBERATUNG. Alle Zahlen grob.
+
+
+-------------------------------------------------------------------------------
+1. WER DIE STEUER ZAHLT
+-------------------------------------------------------------------------------
+
+  - Bernd und Fabian uebernehmen als Erben die ANSCHAFFUNGSKOSTEN VON KLAS
+    (§ 20 Abs. 4 Satz 6 EStG). Die Kursgewinne, die zu seinen Lebzeiten
+    entstanden sind, gehen also auf sie ueber.
+  - Bei einem Verkauf fallen auf den Gewinn Abgeltungsteuer und Soli an,
+    zusammen ca. 26,4 %, mit Kirchensteuer etwas mehr.
+  - Anne und Jan erhalten Geld. Der Zugewinnausgleich ist fuer sie
+    steuerfrei (§ 5 Abs. 2 ErbStG), der kleine Pflichtteil liegt unter dem
+    Freibetrag. Sie tragen von dieser Steuer nichts.
+  - Auch wenn Aktien statt Geld uebertragen werden, gilt das steuerlich als
+    Verkauf. Die Steuer faellt dann trotzdem bei Bernd und Fabian an.
+
+
+-------------------------------------------------------------------------------
+2. WIRD DIE STEUER BEI DER BERECHNUNG ABGEZOGEN?
+-------------------------------------------------------------------------------
+
+  Bereich              | Einschaetzung
+  ---------------------+--------------------------------------------------------
+  Zugewinnausgleich    | GUTE ARGUMENTE. Der BGH zieht im Zugewinnausgleich
+                       | latente Ertragsteuern wertmindernd ab, und zwar auch
+                       | dann, wenn gar nicht verkauft wird (Grundsatzurteil
+                       | BGH XII ZR 40/09 vom 02.02.2011, seither staendige
+                       | Rechtsprechung). Fuer Wertpapiere im Privatvermoegen
+                       | liegt dieser Gedanke nahe, weil seit 2009 jeder
+                       | Kursgewinn steuerpflichtig ist. Das Endvermoegen von
+                       | Klas waere dann um die latente Steuer niedriger.
+  ---------------------+--------------------------------------------------------
+  Pflichtteil          | UNSICHERER. Ob die latente Steuer den Nachlasswert
+                       | mindert, ist umstritten. Haeufig wird sie nur
+                       | beruecksichtigt, wenn ein Verkauf noetig ist, um den
+                       | Pflichtteil zu bezahlen. Anwaltlich klaeren.
+  ---------------------+--------------------------------------------------------
+  Erbschaftsteuer      | KEIN ABZUG. Dort wird mit dem Kurswert am Todestag
+                       | gerechnet.
+  ---------------------+--------------------------------------------------------
+
+
+-------------------------------------------------------------------------------
+3. GROESSENORDNUNG (grob)
+-------------------------------------------------------------------------------
+
+  Schritt                                              | Betrag
+  -----------------------------------------------------+---------------------
+  Kursgewinn laut Binder (500.000 EUR angelegt 2018,   | ca. 900.000 EUR
+  ca. 1,44 Mio. EUR am Todestag; 19, Z. 49-55)         |
+  -----------------------------------------------------+---------------------
+  Latente Steuer darauf (26,4 %)                       | ca. 237.000 EUR
+  -----------------------------------------------------+---------------------
+  Zugewinnausgleich sinkt um die Haelfte davon         | ca. 119.000 EUR
+  -----------------------------------------------------+---------------------
+  Forderung insgesamt sinkt (Formel                    | ca. 104.000 EUR
+  180.000 + 7/8 x Zugewinnausgleich)                   |
+  -----------------------------------------------------+---------------------
+  Zusaetzlich, falls auch beim Pflichtteil abgezogen   | ca.  30.000 EUR
+  wird (1/8 der latenten Steuer)                       |
+  -----------------------------------------------------+---------------------
+
+  INSGESAMT CA. 100.000 BIS 130.000 EUR WENIGER FORDERUNG.
+  Das ist einer der groessten Einzelhebel, die Bernd und Fabian haben.
+
+
+-------------------------------------------------------------------------------
+4. EINSCHRAENKUNGEN
+-------------------------------------------------------------------------------
+
+  - Die 900.000 EUR sind Binders ueberschlaegige Zahl. Massgeblich sind die
+    tatsaechlichen EINSTANDSKURSE JE POSITION am Todestag. Die stehen in den
+    Depotunterlagen bzw. den steuerlichen Daten bei Fisher und comdirect.
+  - ALTBESTAND, also Wertpapiere, die vor 2009 gekauft wurden, ist
+    steuerfrei, und darauf gibt es keine latente Steuer. Das kann Teile des
+    comdirect-Depots betreffen, beim Fisher-Depot (eroeffnet 2018) eher
+    nicht.
+  - FONDS werden teilweise steuerfrei gestellt (bei Aktienfonds 30 %).
+    Das senkt die latente Steuer.
+  - Ob die ERMAESSIGUNG BEI DOPPELBELASTUNG MIT ERBSCHAFTSTEUER (§ 35b EStG)
+    bei Abgeltungsteuer zusteht, ist fraglich. Das sollte ein
+    Steuerberater pruefen.
+
+
+-------------------------------------------------------------------------------
+5. WAS ZU TUN IST
+-------------------------------------------------------------------------------
+
+  [ ] 1. AM 19.11. NUR ALS PUNKT NENNEN, NICHT BEZIFFERN
+         "Bei der Berechnung muss die latente Ertragsteuer auf die
+         Kursgewinne beruecksichtigt werden. Diese Steuer tragen allein
+         wir."
+
+  [ ] 2. EINSTANDSKURSE ANFORDERN
+         Bei Fisher und comdirect eine Aufstellung der nicht realisierten
+         Gewinne je Position zum 05.02.2026 anfordern.
+
+  [ ] 3. DEM ANWALT MITGEBEN
+         Vor allem die Frage, ob die latente Steuer auch beim Pflichtteil
+         abgezogen wird.
+
+  [ ] 4. MIT DEM VERKAUF WARTEN, BIS DIE EINIGUNG STEHT
+         Dann ist klar, wie viel verkauft werden muss, und die tatsaechliche
+         Steuer ist belegt.
+
+  HINWEIS
+  Bernd und Fabian hatten beschlossen, keinen Steuerberater hinzuzuziehen.
+  Bei dieser Groessenordnung waere eine einmalige Beratung zu diesem einen
+  Punkt aber gut angelegtes Geld.
+
+
+===============================================================================
+Grundlagen: erbschaft_kontext\00, 19
+            situation\24_plichtanteil_zugewinn.txt,
+            anne_will_pflichtteil_zugewinn_berechnet.txt
+Erstellt: 18.11.2026. Keine Rechts- oder Steuerberatung. Alle Zahlen grob.
+===============================================================================
