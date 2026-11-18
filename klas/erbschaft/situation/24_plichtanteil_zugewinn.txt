@@ -1,0 +1,116 @@
+===============================================================================
+WENN PFLICHTTEIL UND ZUGEWINN BERECHNET WERDEN - IST DANN KLAR, DASS ANNE
+MEHR WILL ALS DIE ABFINDUNG?
+Stand 18.11.2026
+===============================================================================
+
+KURZ GESAGT
+Ja, praktisch sicher. Und Anne haette dabei nicht nur einen Wunsch, sondern
+als Betreuerin kaum eine andere Wahl.
+
+KEINE RECHTSBERATUNG. Alle Zahlen grob.
+
+
+-------------------------------------------------------------------------------
+1. WARUM DIE RECHNUNG FAST ZWANGSLAEUFIG UEBER 190.000 EUR LIEGT
+-------------------------------------------------------------------------------
+
+  - Allein der KLEINE PFLICHTTEIL betraegt 1/8 von rund 1.438.000 EUR,
+    also ca. 180.000 EUR. Das ist schon fast die ganze Abfindung.
+
+  - Dazu kommt der ZUGEWINNAUSGLEICH. Grob gilt:
+      Summe = ca. 180.000 + 7/8 x Zugewinnausgleich
+    (anne_will_pflichtteil_zugewinn_berechnet.txt, Z. 71)
+    Schon ein Zugewinnausgleich von etwa 12.000 EUR bringt die Summe ueber
+    190.000 EUR.
+
+  - Der Zugewinnausgleich wird aber deutlich groesser sein. Binder rechnet
+    aus den Fisher-Unterlagen vor: 2018 betrug das gesamte Vermoegen von
+    Klas ca. 530.000 EUR, beim Tod rund 1,44 Mio. EUR
+    (erbschaft_kontext\19, Z. 49-55).
+    Selbst im guenstigsten Rechenbeispiel kommen ca. 340.000 EUR heraus
+    (anne_will_pflichtteil_zugewinn_berechnet.txt, Z. 86). Dafuer muesste
+    Klas 400.000 EUR Anfangsvermoegen belegen koennen und Hille 400.000 EUR
+    Zugewinn haben.
+
+  - Unter 190.000 EUR bliebe es nur, wenn Hilles Zugewinn ungefaehr so
+    gross waere wie der von Klas. Das ist bei diesen Zahlen nicht
+    realistisch.
+
+
+-------------------------------------------------------------------------------
+2. WARUM ANNE ALS BETREUERIN GAR NICHT WENIGER VERLANGEN KANN
+-------------------------------------------------------------------------------
+
+  Binder schreibt, eine Genehmigung des Erlasses haenge davon ab, "ob die
+  Ansprueche durch die Einigung auf eine Abfindung kompensiert werden"
+  (19, Z. 86-88).
+
+  Steht die Rechnung, kann das Betreuungsgericht also keinen Vergleich
+  genehmigen, der weit darunter liegt. DIE BERECHNUNG LEGT DAMIT PRAKTISCH
+  EINE UNTERGRENZE FEST.
+
+
+-------------------------------------------------------------------------------
+3. WAS DARAUS FOLGT
+-------------------------------------------------------------------------------
+
+  a) DIE 190.000 EUR SIND ALS BEZUGSGROESSE ERLEDIGT
+     Es geht nicht mehr darum, ob Bernd mehr zahlt, sondern wie viel
+     weniger als die berechnete Summe. Hebel fuer einen Abschlag:
+       - belegtes Anfangsvermoegen von Klas mit den Erbschaften von 1999
+         und eventuell spaeter (23c_anfangsvermoegen_klas.txt)
+       - der Wert der Uferstrasse in Hilles Endvermoegen
+       - das Prozessrisiko
+       - der Wille von 2013
+
+  b) WEG A IST VORAUSSICHTLICH DER TEURERE WEG
+     Solange Hille lebt, braucht jede Einigung die Genehmigung des
+     Gerichts. Das Gericht orientiert sich an der Rechnung, und der Wille
+     von 2013 faellt bei einem Abschlag nur begrenzt ins Gewicht.
+
+  c) NACH HILLES TOD (WEG B) ENTSCHEIDEN ANNE UND JAN SELBST
+     Dann waere ein Vergleich mit groesserem Abschlag rechtlich moeglich,
+     aber nicht erzwingbar. Sie koennen auch das volle gesetzliche Mass
+     verlangen. Weg B ist also nicht automatisch billiger, nur offener.
+
+  d) NETTO KOSTET JEDER ZUSAETZLICHE EURO WENIGER ALS EINEN EURO
+     Pflichtteil und Zugewinnausgleich mindern die Erbschaftsteuer. Laut
+     Tabelle in anne_will_pflichtteil_zugewinn_berechnet.txt, Z. 207-213,
+     bleiben Bernd und Fabian netto grob:
+       - ca. 1.180.000 EUR bei einer Einigung auf 190.000 EUR
+       - ca.   923.000 EUR bei 500.000 EUR Zahlung
+     Die zusaetzlichen 310.000 EUR Zahlung kosten netto also etwa
+     257.000 EUR.
+
+  e) ENTSCHEIDEND BLEIBT DIE DOPPELZAHLUNG
+     Die Abfindung darf nicht zusaetzlich zu Pflichtteil und Zugewinn-
+     ausgleich faellig werden. Binder sieht das genauso (19, Z. 28-30).
+     Das muss im Termin festgehalten werden, denn es geht um 190.000 EUR.
+
+
+-------------------------------------------------------------------------------
+4. FUER DEN TERMIN AM 19.11.2026
+-------------------------------------------------------------------------------
+
+  NICHT darueber streiten, DASS mehr herauskommt. Das ist absehbar und
+  gesetzlich begruendet.
+
+  Wichtig ist, WIE gerechnet wird:
+  [ ] beide Seiten legen ihr Vermoegen offen, mit Belegen
+  [ ] die Uferstrasse wird mit dem Verkehrswert angesetzt
+  [ ] die Erbschaften von Klas zaehlen zu seinem Anfangsvermoegen
+  [ ] eine einzige Zahlung erledigt alle Ansprueche
+
+  Eine eigene Zahl erst nennen, wenn die Belege vorliegen und ein Anwalt
+  gerechnet hat. Ab jetzt lohnt sich ein eigener Fachanwalt fuer Erbrecht
+  (23c_warum_anwalt.txt).
+
+
+===============================================================================
+Grundlagen: erbschaft_kontext\19, 23, 24
+            situation\anne_will_pflichtteil_zugewinn_berechnet.txt,
+            23c_anfangsvermoegen_klas.txt, 23c_warum_anwalt.txt,
+            24_notartermin_ziel.txt
+Erstellt: 18.11.2026. Keine Rechtsberatung. Alle Zahlen grob.
+===============================================================================
