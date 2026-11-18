@@ -1,0 +1,175 @@
+===============================================================================
+STRATEGIE, WENN ANNE AUCH IN FALL 3 PFLICHTTEIL PLUS ZUGEWINNAUSGLEICH
+VERLANGT
+Stand 18.11.2026
+===============================================================================
+
+KURZ GESAGT
+Rechtlich kann Bernd nicht verhindern, dass Anne und Jan in Fall 3
+Pflichtteil und Zugewinnausgleich verlangen. Am Grundsatz zu streiten
+bringt deshalb nichts. Sinnvoll ist, darueber zu verhandeln, WIE gerechnet
+wird, und Schnelligkeit und Sicherheit gegen einen Abschlag anzubieten.
+
+KEINE RECHTSBERATUNG. Alle Zahlen grob.
+
+
+-------------------------------------------------------------------------------
+1. DIE LAGE IN FALL 3
+-------------------------------------------------------------------------------
+
+  - Fall 3 heisst: Hille stirbt, bevor das Betreuungsgericht entscheidet.
+    Dann kann die Genehmigung nicht mehr erteilt werden. Vertrag 03
+    entfaellt, weil seine Bedingung ausfaellt (03, Z. 55-56). Die
+    190.000 EUR sind damit nicht mehr geschuldet.
+  - Anne und Jan schlagen dann selbst aus (§ 1952 BGB) und machen als
+    Hilles Erben den kleinen Pflichtteil und den Zugewinnausgleich geltend
+    (Notariat, 13 Ziff. 2).
+  - Es gibt KEINE GERICHTLICHE KONTROLLE. Das Argument mit Hilles
+    mutmasslichem Willen wird schwaecher, weil Anne und Jan dann in eigener
+    Sache entscheiden.
+  - Gerechnet wird fuer den Zugewinn zum 05.02.2026 (Tod von Klas), nicht
+    zu Hilles Todestag.
+
+
+-------------------------------------------------------------------------------
+2. FUER BERND IST FALL 3 NICHT SCHLECHTER ALS WEG A, EHER IM GEGENTEIL
+-------------------------------------------------------------------------------
+
+                         | Weg A (Vergleich zu Hilles  | Fall 3
+                         | Lebzeiten, mit Genehmigung) |
+  -----------------------+-----------------------------+-----------------------
+  Berechnung noetig      | ja                          | praktisch ja, weil
+                         |                             | Anne sie verlangt
+  -----------------------+-----------------------------+-----------------------
+  Untergrenze durch das  | ja, nahe an der Rechnung    | nein
+  Gericht                |                             |
+  -----------------------+-----------------------------+-----------------------
+  Risiko, doppelt zu     | JA, falls das Gericht nur   | nein, Vertrag 03
+  zahlen                 | die Ausschlagung genehmigt  | entfaellt
+  -----------------------+-----------------------------+-----------------------
+  Abschlag moeglich      | begrenzt                    | frei verhandelbar
+  -----------------------+-----------------------------+-----------------------
+
+  Weg A muss also nicht unter Zeitdruck erzwungen werden.
+
+
+-------------------------------------------------------------------------------
+3. DIE HEBEL
+-------------------------------------------------------------------------------
+
+  Hebel                     | Wirkung (grob)        | Was zu tun ist
+  --------------------------+-----------------------+---------------------------
+  Anfangsvermoegen Klas     | je 100.000 EUR ca.    | BELEGEN. Ohne Belege wird
+  1992 und seine Erbschaften| -70.000 bis -74.000   | es mit 0 angesetzt
+  (1999, eventuell spaeter) | EUR                   | (§ 1377 Abs. 3 BGB). Die
+                            |                       | Beweislast liegt bei
+                            |                       | Bernd und Fabian.
+                            |                       | (23c_anfangsvermoegen_
+                            |                       | klas.txt)
+  --------------------------+-----------------------+---------------------------
+  Latente Steuer auf die    | ca. -100.000 bis      | Einstandskurse bei Fisher
+  Kursgewinne               | -130.000 EUR          | und comdirect anfordern
+                            |                       | (24_latente_steuer_
+                            |                       | aktien.txt)
+  --------------------------+-----------------------+---------------------------
+  Uferstrasse mit Verkehrs- | je 100.000 EUR ca.    | Auskunft ueber Hilles
+  wert in Hilles End-       | -44.000 EUR           | Vermoegen verlangen
+  vermoegen                 |                       | (§ 1379 BGB), notfalls ein
+                            |                       | Gutachten
+  --------------------------+-----------------------+---------------------------
+  Hilles uebriger Zugewinn: | erhoeht Hilles        | gezielt nachfragen
+  Schenkungen 2022 an Anne  | Zugewinn, senkt die   |
+  und Jan, Immobilien-      | Forderung             |
+  beteiligung               |                       |
+  --------------------------+-----------------------+---------------------------
+  Ertraege aus den Depots   | gehoeren nach der     | gegenrechnen, falls
+  seit dem 05.02.2026       | Ausschlagung Bernd    | Hilles Seite etwas
+                            | und Fabian            | eingenommen hat
+  --------------------------+-----------------------+---------------------------
+  Dauer, Kosten und Risiko  | ohne Einigung dauert  | Schnelligkeit als
+  eines Prozesses fuer Anne | es 1 bis 3 Jahre bis  | Gegenleistung anbieten
+  und Jan                   | zum Geld              |
+  --------------------------+-----------------------+---------------------------
+
+
+-------------------------------------------------------------------------------
+4. STRATEGIE IN SCHRITTEN
+-------------------------------------------------------------------------------
+
+  a) JETZT, SOLANGE HILLE LEBT
+  [ ] Einen Anwalt beauftragen. Weil der Zugewinnausgleich Familienrecht
+      ist, waere jemand mit Erfahrung in Erbrecht UND Familienrecht ideal
+      (23c_warum_anwalt.txt).
+  [ ] Belege sammeln und die Einstandskurse anfordern.
+  [ ] Den Anwalt intern eine SPANNE rechnen lassen, mit zwei Werten:
+        - einem Zielwert, den Bernd anstrebt
+        - einer Obergrenze, ab der ihm ein Prozess lieber ist
+      Beide Werte werden nicht herausgegeben.
+
+  b) DEN RECHENWEG GEMEINSAM FESTLEGEN
+  [ ] Vorschlagen, dass ein NEUTRALER GUTACHTER die strittigen Werte
+      verbindlich festlegt, also die Uferstrasse und die Bewertungsfragen.
+      Das ist als Schiedsgutachten nach § 317 BGB moeglich. Fuer beide
+      Seiten ist das billiger und schneller als ein Prozess.
+  [ ] Beide Seiten legen offen, mit Belegen. Anne hat das am 15.11. selbst
+      angekuendigt (23_mail_anne_raguse).
+
+  c) ANGEBOT NACH HILLES TOD: SCHNELLIGKEIT GEGEN ABSCHLAG
+  [ ] DEN SOCKEL SOFORT ZAHLEN. Den unstreitigen Teil, etwa den kleinen
+      Pflichtteil nach Abzug der latenten Steuer, gleich nach der
+      Ausschlagung zahlen. Das zeigt guten Willen, und Verzugszinsen
+      fallen nur noch auf den Rest an.
+  [ ] DEN REST NACH GUTACHTEN ZAHLEN, oder gleich als Gesamtvergleich mit
+      einem Abschlag fuer das Prozessrisiko.
+  Fuer Anne und Jan heisst das: Sie bekommen das Geld in Wochen statt in
+  Jahren, ohne Prozesskosten, und der Familienfrieden bleibt erhalten.
+
+  d) DEN VERGLEICH SAUBER FASSEN
+     (ein Termin beim Notar, 23a_fall3_nachvertrag_ohne_notar.txt,
+     Abschnitt 4)
+  [ ] Die Ausschlagung durch Anne UND Jan, die Zahlung erst danach.
+  [ ] Alle Ansprueche erledigt: Pflichtteil, Pflichtteilsergaenzung,
+      Zugewinnausgleich, Auskunftsansprueche, comdirect-Konto.
+  [ ] Vertrag 03 aufheben und die vollstreckbaren Ausfertigungen
+      zurueckgeben lassen.
+
+  e) NICHT AUF ZEIT SPIELEN
+     Nach einer Mahnung laufen Verzugszinsen von 5 Prozentpunkten ueber dem
+     Basiszins. Auf eine Summe von mehreren hunderttausend Euro sind das
+     schnell mehrere zehntausend Euro im Jahr.
+
+
+-------------------------------------------------------------------------------
+5. WAS VERMIEDEN WERDEN SOLLTE
+-------------------------------------------------------------------------------
+
+  - UEBER DEN GRUNDSATZ STREITEN. Der Anspruch steht im Gesetz. Der
+    Spielraum liegt beim Rechenweg.
+  - EIGENE ZAHLEN NENNEN, bevor die Belege da sind und der Anwalt
+    gerechnet hat.
+  - ZAHLEN, BEVOR AUSGESCHLAGEN IST.
+  - DRUCK UEBER FAMILIE ODER BEERDIGUNG MACHEN. Das kostet voraussichtlich
+    mehr als jeder Rechenpunkt.
+  - JAN UEBERGEHEN. Er wird zur Haelfte Hilles Erbe und muss mit
+    unterschreiben. Ihn in alle Mails direkt mit einbeziehen, ohne ihn
+    gegen Anne auszuspielen.
+
+
+-------------------------------------------------------------------------------
+6. NETTO BLEIBT DIE BELASTUNG KLEINER, ALS SIE AUSSIEHT
+-------------------------------------------------------------------------------
+
+  Pflichtteil und Zugewinnausgleich mindern in Fall 3 die Erbschaftsteuer
+  von Bernd und Fabian. Netto kostet jeder Euro, der zusaetzlich gezahlt
+  wird, deshalb weniger als einen Euro
+  (anne_will_pflichtteil_zugewinn_berechnet.txt, Z. 207-213).
+
+
+===============================================================================
+Grundlagen: erbschaft_kontext\03, 13, 19, 23, 24
+            situation\23a_fall3_nachvertrag_ohne_notar.txt,
+            23c_anfangsvermoegen_klas.txt, 23c_warum_anwalt.txt,
+            24_latente_steuer_aktien.txt, 24_plichtanteil_zugewinn.txt,
+            anne_will_pflichtteil_zugewinn_berechnet.txt
+Erstellt: 18.11.2026. Keine Rechtsberatung. Alle Zahlen grob.
+===============================================================================
