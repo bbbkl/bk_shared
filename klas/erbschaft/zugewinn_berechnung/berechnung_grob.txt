@@ -1,0 +1,272 @@
+===============================================================================
+GROBE BERECHNUNG ZUGEWINNAUSGLEICH + KLEINER PFLICHTTEIL
+Stand 21.11.2026, abends (inkl. comdirect-Auswertung und "Ackerglueck")
+===============================================================================
+
+KURZ GESAGT
+Die Forderung (Zugewinnausgleich + kleiner Pflichtteil) liegt nach
+heutigem Stand grob ZWISCHEN 225.000 UND 420.000 EUR.
+
+  Postweg-Szenario                     | ohne latente  | mit latenter
+                                       | Steuer        | Steuer (200.000)
+  -------------------------------------+---------------+------------------
+  A: Postweg nach 20.11.1992           | 318.000 -     | 231.000 -
+     ueberschrieben (zaehlt bei Hille) | 420.000       | 333.000
+  B: Postweg vor der Hochzeit          | 312.000 -     | 224.000 -
+     ueberschrieben (zaehlt nicht)     | 345.000       | 257.000
+  -------------------------------------+---------------+------------------
+
+NEU GEGENUEBER DEM LETZTEN STAND
+  - Der Kauf der Uferstrasse 2004 mit Klas' Geld (§ 1380 BGB) ist jetzt
+    eingerechnet. Er senkt die Forderung in Szenario A um ca. 45.000 bis
+    69.000 EUR. Damit verliert das Datum der Postweg-Ueberschreibung viel
+    von seiner Bedeutung: A und B liegen nur noch ca. 6.000 bis 75.000 EUR
+    auseinander, je nachdem, wie viel § 1380 anerkannt wird.
+  - Das "Ackerglueck" 2014 aendert an der Rechnung nichts (mehr als 10
+    Jahre vor dem 05.02.2026).
+
+Vergleich: Abfindung aus Vertrag 03: 190.000 EUR.
+
+KEINE RECHTSBERATUNG. Alle Zahlen grob. Kaufkraftfaktoren pruefen.
+Rechenskript: berechnung_grob.py (Werte dort anpassen und neu rechnen).
+
+
+-------------------------------------------------------------------------------
+1. EINGANGSWERTE
+-------------------------------------------------------------------------------
+
+  Punkt                        | Wert                  | Quelle
+  -----------------------------+-----------------------+------------------------
+  Anfangsvermoegen Klas 1992   | 780.000 DM + 86.400 DM| vermoegensuebersicht_
+                               | Lebensversicherungen  | klas.txt
+  -----------------------------+-----------------------+------------------------
+  Erbe Mutter 1998             | 1/4 von 119.859 DM    | dito
+                               | = ca. 15.300 EUR      |
+  -----------------------------+-----------------------+------------------------
+  Erbe Gundula 2009            | ca. 35.500 bis        | erbschaft_klas_von_
+                               | 89.000 EUR            | gundula.txt
+  -----------------------------+-----------------------+------------------------
+  Anfangsvermoegen Hille 1992  | 155.800 DM mobil,     | vermoegensuebersicht_
+                               | 110.000 DM Acker,     | hille.txt
+                               | 300.000 DM Postweg    |
+  -----------------------------+-----------------------+------------------------
+  Endvermoegen Klas            | 1.444.968 EUR         | Nachlassverzeichnis
+  Endvermoegen Hille           | ca. 400.000 EUR inkl. | Bernd, 21.11.2026
+                               | Uferstrasse           |
+  -----------------------------+-----------------------+------------------------
+  Schenkungen Hilles (10 J.)   | 24.000 EUR (07/2022)  | zugewinnausgleich_kto_
+                               |                       | comdirect.txt, Abschn. 5
+  Schenkungen Klas (10 J.)     | nicht angesetzt       | dito (Merle, Huettner:
+                               |                       | Anstand/sittl. Pflicht)
+  -----------------------------+-----------------------+------------------------
+  Zuwendung Klas -> Hille      | 67.000 oder 103.000   | dito, Abschnitt 1
+  Uferstrasse 12/2004          | EUR (Varianten)       |
+  (§ 1380 BGB)                 |                       |
+  -----------------------------+-----------------------+------------------------
+  Latente Steuer               | 0 oder 200.000 EUR    | dito, Abschnitt 4;
+                               | (fast nur Fisher)     | 24_latente_steuer_
+                               |                       | aktien.txt
+  -----------------------------+-----------------------+------------------------
+  Renten                       | zaehlen nicht         | § 2 Abs. 4 VersAusglG
+  "Ackerglueck" 03/2014        | zaehlt nicht          | > 10 Jahre
+  -----------------------------+-----------------------+------------------------
+
+  Kaufkraftfaktoren bis 02/2026 (grob): 1992: 1,85 - 1998: 1,62 -
+  2004: 1,53 - 2009: 1,42.
+
+  Zuwendung § 1380, zwei Varianten:
+    67.000 EUR  = nur Klas' Wertpapierverkauf vom 17.12.2004 (sicher
+                  Klas' Geld)
+    103.000 EUR = Kaufpreisanteil ohne Ackererloes (222.500 - 119.500);
+                  setzt voraus, dass auch die Sparraten 2003/2004 von Klas
+                  stammten
+
+
+-------------------------------------------------------------------------------
+2. ANFANGSVERMOEGEN (indexiert, EUR)
+-------------------------------------------------------------------------------
+
+  KLAS                                   | nominal  | indexiert
+  ---------------------------------------+----------+------------
+  Vermoegen 1992 (780.000 DM)            |  398.808 |   737.795
+  Lebensversicherungen (86.400 DM)       |   44.176 |    81.725
+  Erbe Mutter 1998                       |   15.321 |    24.820
+  Erbe Gundula 2009 (niedrig / hoch)     |   35.500 |    50.410
+                                         |   89.000 |   126.380
+  ---------------------------------------+----------+------------
+  Summe (Gundula niedrig / hoch)         |          | ca. 894.700
+                                         |          | ca. 970.700
+
+  HILLE                                  | nominal  | indexiert
+  ---------------------------------------+----------+------------
+  Mobiles Vermoegen (155.800 DM)         |   79.659 |   147.369
+  Acker (110.000 DM)                     |   56.242 |   104.048
+  Haus Postweg (300.000 DM)              |  153.388 |   283.767
+  ---------------------------------------+----------+------------
+  Summe mit Postweg                      |          | ca. 535.200
+  Summe ohne Postweg                     |          | ca. 251.400
+
+
+-------------------------------------------------------------------------------
+3. ERGEBNIS (gerundet, EUR)
+-------------------------------------------------------------------------------
+
+  SZENARIO A: Postweg zaehlt bei Hille (nach 20.11.1992 ueberschrieben)
+
+  Erbe     | latente | ohne § 1380 | § 1380: 67.000 | § 1380: 103.000
+  Gundula  | Steuer  |             |                |
+  ---------+---------+-------------+----------------+-----------------
+  niedrig  | 0       |    420.500  |       375.600  |        351.500
+  niedrig  | 200.000 |    333.000  |       288.100  |        264.000
+  hoch     | 0       |    387.200  |       342.300  |        318.300
+  hoch     | 200.000 |    299.700  |       254.800  |        230.800
+  ---------+---------+-------------+----------------+-----------------
+
+  SZENARIO B: Postweg zaehlt nicht (vor der Hochzeit ueberschrieben)
+  (§ 1380 hier rechnerisch neutral, siehe Abschnitt 4 c)
+
+  Erbe     | latente | Zugewinn  | Zugewinn  |     ZGA | PT 1/8 |  SUMME
+  Gundula  | Steuer  | Klas      | Hille     |         |        |
+  ---------+---------+-----------+-----------+---------+--------+--------
+  niedrig  | 0       |   550.200 |   172.600 | 188.800 |156.200 |345.000
+  niedrig  | 200.000 |   350.200 |   172.600 |  88.800 |168.700 |257.500
+  hoch     | 0       |   474.200 |   172.600 | 150.800 |160.900 |311.700
+  hoch     | 200.000 |   274.200 |   172.600 |  50.800 |173.400 |224.200
+  ---------+---------+-----------+-----------+---------+--------+--------
+
+
+-------------------------------------------------------------------------------
+4. WAS DIE TABELLE ZEIGT
+-------------------------------------------------------------------------------
+
+  a) DIE AUFSTELLUNG VON 1992 IST DER GROESSTE EINZELPOSTEN
+     Ohne belegtes Anfangsvermoegen (§ 1377 Abs. 3 BGB: dann 0) laege die
+     Forderung bei ca. 700.000 bis 780.000 EUR. Die Aufstellung senkt sie
+     also um ca. 350.000 EUR. Ihre Beweiskraft ist deshalb der wichtigste
+     Punkt ueberhaupt.
+
+  b) IN SZENARIO A IST HILLES ZUGEWINN 0
+     Ihr Anfangsvermoegen (indexiert ca. 535.000 EUR) liegt ueber ihrem
+     Endvermoegen (424.000 EUR). Dann gilt:
+     - Hilles Schenkungen 2022 (24.000 EUR) wirken nicht.
+     - Weitere Schenkungen Hilles wirken erst ueber ca. 111.000 EUR.
+     - § 1380 wirkt dagegen voll: Die Zuwendung fuer die Uferstrasse wird
+       auf die Forderung angerechnet.
+
+  c) IN SZENARIO B IST HILLES ZUGEWINN POSITIV
+     § 1380 ist dort rechnerisch neutral (Zuwendung erhoeht Klas' und senkt
+     Hilles Zugewinn, wird dann abgezogen). Dafuer wirken Hilles
+     Schenkungen: je 10.000 EUR ca. -4.400 EUR.
+
+  d) WAS KLAS' ZUGEWINN SENKT, WIRKT IMMER
+     Erbschaften, latente Steuer: je 10.000 EUR ca. -4.400 EUR.
+
+  e) DER PFLICHTTEIL STEIGT, WENN DER ZUGEWINNAUSGLEICH SINKT
+     Jeder Euro weniger Zugewinnausgleich bringt nur ca. 0,875 EUR weniger
+     Gesamtforderung.
+
+  f) UNTER 190.000 EUR KOMMT DIE FORDERUNG IN KEINEM FALL
+     Der kleine Pflichtteil allein betraegt 145.000 bis 173.000 EUR.
+
+
+-------------------------------------------------------------------------------
+5. WAS FUER BERND AM WICHTIGSTEN ZU KLAEREN IST
+-------------------------------------------------------------------------------
+
+  Rang | Punkt                        | Wirkung (grob)      | Was zu tun ist
+  -----+------------------------------+---------------------+-------------------
+   1   | BEWEISKRAFT DER AUFSTELLUNG  | ca. 350.000 EUR     | Original suchen:
+       | VON 1992                     | (alles oder nichts) | Datum, wer hat
+       |                              |                     | unterschrieben?
+       |                              |                     | Mit Hilles
+       |                              |                     | Unterschrift gilt
+       |                              |                     | sie als richtig
+       |                              |                     | (§ 1377 Abs. 1).
+       |                              |                     | Stuetzen:
+       |                              |                     | Grundakte Gifhorn,
+       |                              |                     | Vermoegensteuer
+       |                              |                     | 1992/93, Depot
+       |                              |                     | 2001 (467.750 DM)
+  -----+------------------------------+---------------------+-------------------
+   2   | LATENTE STEUER (FISHER)      | ca. -88.000 EUR     | Einstandskurse je
+       |                              | bei 200.000 EUR     | Position zum
+       |                              | Steuer              | 05.02.2026 bei
+       |                              |                     | Fisher anfordern;
+       |                              |                     | Anwalt: Abzug
+       |                              |                     | durchsetzen
+  -----+------------------------------+---------------------+-------------------
+   3   | KAUF UFERSTRASSE 2004        | in A: ca. -45.000   | Kaufvertrag
+       | (§ 1380 BGB)                 | bis -69.000 EUR     | (Preis, Datum,
+       |                              |                     | Eigentuemerin);
+       |                              |                     | Herkunft der
+       |                              |                     | Sparraten 2003/04
+       |                              |                     | und des Ueber-
+       |                              |                     | trags "Kaufpreis"
+       |                              |                     | 02/2003 (LzO)
+  -----+------------------------------+---------------------+-------------------
+   4   | DATUM UEBERSCHREIBUNG        | ca. -6.000 bis      | Anne: Ueber-
+       | POSTWEG                      | -75.000 EUR         | lassungsvertrag
+       |                              | (je nach § 1380)    | an Anne und Jan
+  -----+------------------------------+---------------------+-------------------
+   5   | ERBE GUNDULA BELEGEN         | ca. -33.000 EUR     | Nachlassakte
+       |                              | (hoch statt         | Luebeck; LzO-
+       |                              | niedrig)            | Auszuege 2009/10;
+       |                              |                     | Kolkmeyer/Delaneau
+  -----+------------------------------+---------------------+-------------------
+   6   | LEBENSVERSICHERUNGEN 1992    | je 10.000 DM        | Policen; Rueck-
+       |                              | weniger: ca.        | kaufswert 1992
+       |                              | +4.100 EUR          | beim Versicherer
+  -----+------------------------------+---------------------+-------------------
+   7   | TREUHAND FABIAN              | faellt sie weg:     | Fabian; Fisher-
+       |                              | ca. +29.000 EUR     | Depotwerte 09/2018
+       |                              |                     | und 09/2023
+  -----+------------------------------+---------------------+-------------------
+   8   | HILLES SCHENKUNGEN, REST-    | nur in B, oder in A | Anne: Sparda 2020,
+       | ACKER, SPARDA                | ueber ca. 111.000   | Acker heute,
+       |                              |                     | Schenkungen seit
+       |                              |                     | 02/2016
+  -----+------------------------------+---------------------+-------------------
+   9   | ERBSCHAFTEN HILLES IN DER    | erhoehen ihr AV,    | Anne
+       | EHE                          | Forderung steigt    |
+  -----+------------------------------+---------------------+-------------------
+  10   | GENAUE KAUFKRAFTFAKTOREN     | einige tausend EUR  | Notarin (VPI)
+  -----+------------------------------+---------------------+-------------------
+
+  EMPFEHLUNG FUER DIE REIHENFOLGE
+  - SOFORT: Punkt 1 (Original der Aufstellung) und Punkt 2 (Fisher).
+    Beide liegen in Bernds Hand und haben die groesste Wirkung.
+  - PARALLEL: Punkt 3 und 5 ueber die LzO-Auszuege 2003 - 2010 - eine
+    Anfrage bei der LzO deckt beide ab.
+  - BEI ANNE ANFRAGEN (nach ihrer Rueckkehr am 13.12.): Punkt 4, 8, 9 und
+    der Kaufvertrag Uferstrasse.
+
+
+-------------------------------------------------------------------------------
+6. HINWEISE
+-------------------------------------------------------------------------------
+
+  - Die Aufstellung von 1992 ist fuer Bernd teils unguenstig (Hilles
+    mobiles Vermoegen 155.800 DM). Trotzdem vollstaendig vorlegen
+    (§ 1379 BGB; sonst Anfechtung nach § 123 BGB).
+  - Annes 1:1-Vorschlag fuer Postweg und Gifhorn ist ueberholt: Fuer den
+    Postweg gibt es einen Wert (300.000 DM), Gifhorn steckt in Klas'
+    780.000 DM.
+  - § 1380 BGB setzt voraus, dass die Zuwendung auf den Zugewinnausgleich
+    angerechnet werden soll. Bei groesseren Zuwendungen wird das vermutet
+    (§ 1380 Abs. 1 Satz 2 BGB). Ein Ehegattenkauf einer gemeinsam
+    bewohnten Wohnung ist typischerweise so ein Fall. Anwaltlich pruefen.
+  - Die Berechnung macht am Ende die Notarin. Diese Tabelle dient nur
+    dazu, die eigenen Hebel zu kennen und die Berechnung der Notarin
+    pruefen zu koennen.
+  - Keine eigenen Zahlen an Anne oder das Notariat geben, bevor die Belege
+    vorliegen und ein Anwalt gerechnet hat.
+
+
+===============================================================================
+Grundlagen: zugewinn_berechnung\vermoegensuebersicht_klas.txt,
+            vermoegensuebersicht_hille.txt, erbschaft_klas_von_gundula.txt,
+            zugewinnausgleich_kto_comdirect.txt, berechnung_grob.py
+            erbschaft_kontext\19, 24a
+            situation\24_latente_steuer_aktien.txt
+Erstellt: 21.11.2026. Keine Rechtsberatung. Alle Zahlen grob.
+===============================================================================

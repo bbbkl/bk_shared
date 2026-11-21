@@ -127,12 +127,62 @@ Die Buchungen ab 2010 sind dort nicht zuverlaessig zugeordnet.
   Hille hatte also ein eigenes Konto. Es wurde spaetestens im Mai 2020
   aufgeloest, als Hille vermutlich schon nicht mehr selbst handelte.
 
+  "ACKERGLUECK" 2014 - ERGAENZT 21.11.2026
+  Nach Bernds Erinnerung hat Hille Acker verkauft und den Kindern daraus
+  Schenkungen gemacht ("Ackerglueck"). Im comdirect-Konto findet sich:
+
+  Datum       |     Betrag | Buchung
+  ------------+------------+------------------------------------------------
+  03.03.2014  | -20.000,00 | an BERND KRUEGER (DE83 5405 0110 0100 9028 40),
+              |            | OHNE Verwendungszweck; vorher am selben Tag
+              |            | 20.000,00 vom eigenen Tagesgeld PLUS umgebucht
+              |            | (Saldo 62.007 -> 42.007 EUR). 20140303.02.pdf
+  ------------+------------+------------------------------------------------
+  03.07.2014  |  +9.869,00 | vom LzO-Konto "Klas Krueger Hille Krueger":
+              |            | "Teiluebertrag Buscha KK."      20140804.07.pdf
+  04.07.2014  |  +9.131,00 | dito: "Buscha letzte Rate"      20140804.07.pdf
+  03.12.2014  |  +8.000,00 | dito: "letzter Buscha - Posten" 20150106.12.pdf
+  ------------+------------+------------------------------------------------
+
+  BEFUND
+  - Die 20.000 EUR an Bernd kamen formal von KLAS, aus seinem eigenen
+    Tagesgeld. Ein vorheriger Eingang vom LzO-Konto oder von Hille, der zu
+    einem Ackerverkauf passt, ist im comdirect-Konto NICHT zu sehen.
+  - Zahlungen an Fabian, Anne oder Jan finden sich 06/2013 bis 12/2014
+    im comdirect-Konto nicht. Sie liefen, wenn es sie gab, ueber andere
+    Konten.
+  - Die "Buscha"-Eingaenge 07/2014 ergeben zusammen genau 19.000 EUR, mit
+    12/2014 27.000 EUR. Moeglich ist, dass damit Klas' Vorleistung
+    erstattet wurde. Was "Buscha" ist (Kaeufer, Paechter, etwas
+    anderes), ist offen.
+
+  DEUTUNG (nicht belegt)
+  Klas hat Bernd den Anteil am "Ackerglueck" aus eigenem Geld vorgestreckt
+  oder ausgezahlt; der Erloes des Ackers lief ueber das LzO-Gemeinschafts-
+  konto oder Hilles Sparda-Konto.
+
+  BEDEUTUNG FUER DEN ZUGEWINN
+  - KEINE HINZURECHNUNG: 03.03.2014 liegt 11 Jahre 11 Monate vor dem
+    05.02.2026 (§ 1375 Abs. 3 BGB) - egal ob Klas oder Hille geschenkt
+    hat. Gleiches gilt fuer Schenkungen Hilles an Anne und Jan aus dem
+    Verkauf 2014. Fuer die Rechnung ohne Bedeutung.
+  - INDIREKT WICHTIG: Wurde 2014 Acker verkauft, steht er nicht mehr in
+    Hilles Endvermoegen (passt zu ca. 400.000 EUR). Die Pacht lief aber
+    bis 2020 weiter. Also wurde nur ein Teil verkauft oder es gab mehrere
+    Flurstuecke. Der Verbleib des Rests bleibt offen.
+
   NACHFRAGEN
   [ ] Gehoert Hille noch Acker? Wo, wie gross, welcher Wert? Wer erhaelt
       heute die Pacht?
   [ ] Sparda-Konto: Stand bei Aufloesung 2020 und wohin das Guthaben ging.
       Floss es an Anne oder Jan, waere das eine Schenkung innerhalb der
       10 Jahre (Hinzurechnung bei Hille).
+  [ ] "Ackerglueck" 2014: LzO-Auszuege 2014 (Eingang Verkaufserloes,
+      Zahlungen an Anne und Jan); Kaufvertrag Acker 2014 (Kaeufer, Preis,
+      Flurstueck, ueber Grundakte bzw. Notarin).
+  [ ] Fabian fragen: Hat er 03/2014 auch 20.000 EUR erhalten, von welchem
+      Konto?
+  [ ] "Buscha" klaeren: Kaeufer, Paechter oder etwas anderes?
 
 
 -------------------------------------------------------------------------------
@@ -305,6 +355,7 @@ Die Buchungen ab 2010 sind dort nicht zuverlaessig zugeordnet.
 ===============================================================================
 Quellen: comdirect_kto\20010608.05, 20030303.02, 20040202.01-20040701.06,
          20041231.12, 20050201.01, 20100601.05, 20130701.06, 20131101.10,
+         20140303.02, 20140804.07, 20150106.12,
          20150401.03, 20150505.04, 20160102.12-20170101.12, 20200602.05,
          20201102.10, 20210701.06, 20220801.07, 20231003.09,
          20260202.01 (jeweils .pdf)
