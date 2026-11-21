@@ -1,0 +1,266 @@
+===============================================================================
+BEWERTUNG GEDAECHTNISPROTOKOLL NOTARTERMIN SCHWACKENBERG AM 19.11.2026
+Stand 19.11.2026
+===============================================================================
+
+KURZ GESAGT
+Fuer Bernd ist der Termin ueberwiegend gut gelaufen: Die Doppelzahlung ist
+im Kern vom Tisch, die Notarin rechnet neutral, und beide Seiten muessen
+belegt offenlegen.
+Die Ergaenzungen verschieben aber die Lage: FALL 3 IST JETZT DER
+HAUPTFALL. Der Wille von 2013 zaehlt fuer die Berechnung nicht. Das
+Ergebnis haengt damit fast nur noch an Belegen und Bewertungsfragen.
+Bei der latenten Steuer hat die Notarin eine Einschaetzung abgegeben, die
+Bernd voraussichtlich viel Geld kostet. Die sollte nicht stehen bleiben.
+
+KEINE RECHTSBERATUNG. Einschaetzung auf Grundlage des Protokolls
+(erbschaft_kontext\24a_schackenberg_termin.20261119.txt).
+
+
+-------------------------------------------------------------------------------
+1. ABGLEICH MIT DEN ZIELEN (24_notartermin_ziel.txt)
+-------------------------------------------------------------------------------
+
+  Ziel                      | Ergebnis
+  --------------------------+---------------------------------------------------
+  1. Keine Doppelzahlung    | ERREICHT (Z. 6), aber nur muendlich. Anne war
+                            | dabei und hat nach dem Protokoll nicht
+                            | widersprochen. Schriftlich festhalten.
+  --------------------------+---------------------------------------------------
+  2. Verfahren ruht weiter  | TEILWEISE. Angesprochen, die Notarin sieht keine
+                            | Probleme (Z. 19). Eine Zusage von Anne steht
+                            | nicht im Protokoll. Ihr Ruhensantrag laeuft nach
+                            | 15_antworten_anne bis nach dem 13.12. Danach
+                            | muss er verlaengert werden.
+  --------------------------+---------------------------------------------------
+  3. Beide Seiten legen     | ERREICHT. Belege brauchen keine bestimmte Form,
+     offen                  | es braucht Vergleichswerte Klas/Hille (Z. 12).
+  --------------------------+---------------------------------------------------
+  4. Ablauf klaeren         | GROESSTENTEILS. Die Notarin rechnet, die Belege
+                            | brauchen einige Wochen (Z. 10, 13). Offen: feste
+                            | Fristen, wer was liefert.
+  --------------------------+---------------------------------------------------
+  5. Fall 3 klaeren         | ERREICHT. Die Notarin nennt Fall 3 den wahr-
+                            | scheinlichsten Verlauf (Z. 23).
+  --------------------------+---------------------------------------------------
+  6. Kosten klaeren         | NICHT IM PROTOKOLL, auch nicht, was die
+                            | Berechnung durch die Notarin kostet.
+  --------------------------+---------------------------------------------------
+  7. Wille aus dem          | Angesprochen. Fuer die Berechnung OHNE EINFLUSS
+     Testament von 2013     | (Z. 25).
+  --------------------------+---------------------------------------------------
+  8. Erbschaften von Klas   | ERREICHT (Z. 8): Mutter 1999, Schwester Gundula.
+  --------------------------+---------------------------------------------------
+  Keine Zahl, nichts        | Nach dem Protokoll eingehalten.
+  unterschreiben            |
+  --------------------------+---------------------------------------------------
+
+
+-------------------------------------------------------------------------------
+2. DIE EINZELNEN PUNKTE
+-------------------------------------------------------------------------------
+
+  POSITIV
+
+  - KLEINER PFLICHTTEIL 1/8 (Z. 5)
+    Zu erwarten. Damit ist auch klar, dass nicht ueber den grossen
+    Pflichtteil gestritten wird.
+
+  - KEINE DOPPELZAHLUNG (Z. 6)
+    Der teuerste Einzelposten ist im Kern gesichert. Wichtig ist der Satz
+    "das wuerde ein Richter nicht genehmigen". Damit ist die Notarin auf
+    derselben Linie wie Binder (19, Z. 28-30).
+
+  - DIE NOTARIN RECHNET (Z. 13)
+    Neutral und guenstiger als zwei Anwaelte. ABER: Sie rechnet mit dem,
+    was beide Seiten einreichen, und entscheidet die Bewertungsfragen nach
+    ihrer Sicht. Sie ist nicht Bernds Vertreterin. Ihr Ergebnis sollte vor
+    einer Zustimmung jemand auf Bernds Seite pruefen.
+
+  - NACHVERTRAG (Z. 15)
+    Weg A bleibt offen: Abfindung X gegen Erledigung aller Ansprueche, mit
+    Genehmigung des Gerichts. Nach dem Tod von Klas waere das rechtlich ein
+    ERLASS, kein Verzicht. In einem Entwurf richtig formulieren lassen.
+
+  - "BEI VERTRAG 03 IST EINIGES NICHT GUT GELAUFEN" (Z. 27)
+    Eine Notarin von aussen bestaetigt, was Bernd von Anfang an als Mangel
+    benannt hat: keine Klausel, dass mit der Abfindung alle Ansprueche
+    erledigt sind. Das stuetzt das Argument der weggefallenen gemeinsamen
+    Geschaeftsgrundlage (vertragsgrundlage_irrtum.txt).
+    Eine Haftung von Notarin Lockmann (§ 19 BNotO) kommt theoretisch in
+    Betracht, gilt aber nur nachrangig und setzt einen nachweisbaren
+    Schaden voraus. Spaeter vom Anwalt pruefen lassen, jetzt kein Vorrang.
+
+
+  FALL 3 IST DER WAHRSCHEINLICHSTE VERLAUF (Z. 23, 27)
+
+    Die Notarin sagt damit selbst: Der Nachvertrag mit Genehmigung des
+    Gerichts (Weg A) wird voraussichtlich nicht rechtzeitig fertig.
+    Zusammen mit Z. 27 ("fundiert, nicht schnell") ist das fast sicher.
+
+    Besser fuer Bernd            | Schlechter fuer Bernd
+    -----------------------------+---------------------------------------------
+    Vertrag 03 entfaellt. Das    | Anne und Jan entscheiden in eigener Sache.
+    Risiko der Doppelzahlung ist | Hilles Wille zaehlt rechtlich nicht mehr.
+    praktisch weg.               |
+    -----------------------------+---------------------------------------------
+    Das Gericht setzt keine      | Der Anspruch entsteht mit der Ausschlagung
+    Untergrenze.                 | von selbst. Eine Einigung brauchen Anne und
+                                 | Jan dafuer nicht.
+    -----------------------------+---------------------------------------------
+
+    Der Rahmen fuer die Verhandlung ist 24_strategie.txt. Die Berechnung der
+    Notarin wird zur Grundlage eines privaten Vergleichs, nicht mehr eines
+    Antrags auf Genehmigung.
+
+
+  WILLE AUS DEM TESTAMENT OHNE EINFLUSS (Z. 25)
+
+    - Fuer die Berechnung stimmt das. Pflichtteil und Zugewinnausgleich
+      ergeben sich aus dem Gesetz, nicht aus dem, was Klas und Hille
+      wollten.
+    - Gefragt war nur nach der Berechnung. Bei der Frage, ob das Gericht
+      einen Vergleich UNTER der Rechnung genehmigt, waere der Wille
+      weiterhin von Bedeutung (§ 1821 BGB). Diese Frage stellt sich nur
+      noch, wenn Weg A doch zum Abschluss kommt.
+    - FOLGE: In 24_argumente_betreuungsgericht.txt verliert Argument 1
+      praktisch an Wert. In Fall 3 bleibt nur die moralische Wirkung auf
+      Anne und Jan. Nach Annes Aussage gegenueber Fabian (Z. 33) ist damit
+      nicht zu rechnen.
+
+
+  KRITISCH: LATENTE STEUER (Z. 17)
+
+    - DASS BERND UND FABIAN DIE STEUER ZAHLEN, ist richtig und war zu
+      erwarten.
+    - WENN DIE NOTARIN DAMIT MEINTE, DASS DIE STEUER BEI DER BERECHNUNG
+      NICHT ABGEZOGEN WIRD, ist das nachteilig und NICHT ZWINGEND:
+        - Beim Zugewinnausgleich zieht der BGH latente Ertragsteuern
+          grundsaetzlich wertmindernd ab, auch ohne tatsaechlichen Verkauf.
+        - Beim Pflichtteil kommt hinzu: Bernd und Fabian muessen die Aktien
+          verkaufen, um zahlen zu koennen. Genau das ist der Fall, in dem
+          ein Abzug am ehesten anerkannt wird.
+        - Es geht um grob 100.000 BIS 130.000 EUR
+          (24_latente_steuer_aktien.txt).
+    - NICHT ALS BESPROCHEN UEBERNEHMEN. Ausdruecklich als offene
+      Bewertungsfrage festhalten und anwaltlich klaeren lassen.
+
+
+  UFERSTRASSE (Z. 29-30): EHER ERNUECHTERND
+
+    - 1.100 EUR Kaltmiete = 13.200 EUR im Jahr. Bei 380.000 EUR ist das das
+      28,8-Fache der Jahresmiete, Bruttorendite ca. 3,5 %. FUER DIE MIETE
+      IST DIE SCHAETZUNG EHER HOCH ALS NIEDRIG. Ein deutlich hoeherer Wert
+      laesst sich damit kaum begruenden.
+    - Zwei Dinge sprechen sogar gegen Bernd:
+        - STICHTAG IST DER 05.02.2026. Wurde erst nach dem Tod von Klas
+          renoviert, lag der Wert am Stichtag unter 380.000 EUR.
+        - Vermietete Wohnungen werden oft niedriger bewertet als
+          unvermietete.
+      Beides senkt Hilles Endvermoegen und erhoeht damit die Forderung.
+    - Trotzdem nachfragen:
+        - Wer hat geschaetzt, wann und wozu?
+        - Wann wurde renoviert, was hat es gekostet, wer hat bezahlt?
+        - Ist die Wohnung in Hilles Vermoegensverzeichnis ueber ca.
+          400.000 EUR enthalten?
+      Die letzte Frage ist jetzt wichtiger als der Wert selbst. Fehlt die
+      Wohnung im Verzeichnis, kommen 380.000 EUR zu Hilles Endvermoegen
+      hinzu.
+
+
+  BERNDS AUSSAGE ZUM GEMEINSAMEN ZIEL (Z. 21)
+
+    Sachlich richtig, und sie stuetzt spaeter das Argument der weggefallenen
+    Geschaeftsgrundlage. Mehr davon waere schnell als Vorwurf angekommen.
+    Einmal reicht.
+
+
+  ANNES AUSSAGE GEGENUEBER FABIAN (Z. 33, NICHT FUER DAS PROTOKOLL)
+
+    - Sie bestaetigt, dass Anne das Maximum will, ausdruecklich fuer Jan,
+      also als kuenftige Erbin und nicht nur als Betreuerin. Mit
+      Grosszuegigkeit ist nicht zu rechnen. Das Ergebnis bestimmen allein
+      Belege und Bewertungsfragen.
+    - Rechtlich beruehrt das den Interessenkonflikt (Argument 6 in
+      24_argumente_betreuungsgericht.txt). TROTZDEM NICHT VERWENDEN. Es
+      waere Hoerensagen aus einem privaten Telefonat, wuerde Fabians
+      Verhaeltnis zu Anne belasten und das Gespraechsklima zerstoeren.
+
+
+-------------------------------------------------------------------------------
+3. WAS SICH GEGENUEBER DER VORBEREITUNG AENDERT
+-------------------------------------------------------------------------------
+
+  Punkt                     | Vorher                  | Jetzt
+  --------------------------+-------------------------+-------------------------
+  Hauptfall                 | Weg A oder Fall 3 offen | FALL 3
+  --------------------------+-------------------------+-------------------------
+  Bernds wichtigste Hebel   | Wille, Belege,          | NUR NOCH BELEGE UND
+                            | Bewertung               | BEWERTUNG, dazu
+                            |                         | Schnelligkeit als
+                            |                         | Gegenleistung
+  --------------------------+-------------------------+-------------------------
+  Latente Steuer            | wichtig                 | NOCH WICHTIGER, einer
+                            |                         | der wenigen grossen
+                            |                         | Hebel, die bleiben
+  --------------------------+-------------------------+-------------------------
+  Anwalt auf Bernds Seite   | dringend                | DRINGEND. Er prueft die
+                            |                         | Berechnung der Notarin:
+                            |                         | latente Steuer,
+                            |                         | Uferstrasse, Anrechnung
+                            |                         | der Erbschaften
+  --------------------------+-------------------------+-------------------------
+
+
+-------------------------------------------------------------------------------
+4. WAS IN FALL 3 ZUSAETZLICH WICHTIG WIRD
+-------------------------------------------------------------------------------
+
+  a) FRIST FUER DIE AUSSCHLAGUNG
+     Nach Hilles Tod gilt fuer Anne und Jan eine Frist von mindestens
+     sechs Wochen (§ 1952 Abs. 2 BGB). Schlagen sie nicht rechtzeitig aus,
+     tritt der Nacherbfall ein, und es gibt keinen Pflichtteil.
+     KEIN HEBEL, DEN BERND EINSETZEN SOLLTE. Die beiden werden die Frist
+     kennen, und ein Spiel auf Zeit wuerde das Klima zerstoeren.
+
+  b) BELEGE BEREIT HABEN, BEVOR HILLE STIRBT
+     Bis Fall 3 eintritt, bleibt wahrscheinlich wenig Zeit. Wer dann schon
+     belegte Zahlen hat, bestimmt den Rechenweg.
+
+  c) JAN IST ANSPRECHBAR
+     Waehrend Annes Reise vom 21.11. bis 13.12. ist Jan als zweiter Erbe
+     Ansprechpartner. Annes Aussage, sie wolle "fuer Jan so viel
+     rausholen wie geht", legt nahe, dass Jan selbst vielleicht weniger
+     fordernd ist. Nicht gegen Anne ausspielen.
+
+
+-------------------------------------------------------------------------------
+5. NAECHSTE SCHRITTE
+-------------------------------------------------------------------------------
+
+  [ ] 1. MAIL "WIE BESPROCHEN" schnell schicken
+         (Entwurf: 24a_mail_wie_besprochen.entwurf.txt)
+  [ ] 2. ANNE UM UNTERLAGEN ZUR UFERSTRASSE BITTEN
+         - Wertschaetzung mit Datum und Ersteller
+         - Mietvertrag
+         - Zeitpunkt, Kosten und Bezahlung der Renovierung
+         - Vermoegensverzeichnis vom 30.09.2025
+  [ ] 3. BEI DER NOTARIN NACHFRAGEN
+         - Was kostet die Berechnung?
+         - Was kosteten der Termin und die Stellungnahme vom 17.11.?
+  [ ] 4. ERÖFFNUNGSPROTOKOLL VON FABIAN HOLEN (Z. 7) und mit der Suche
+         nach Belegen beginnen (23c_anfangsvermoegen_klas.txt)
+  [ ] 5. ANWALT BEAUFTRAGEN. Erste Aufgaben:
+         - latente Steuer
+         - Bewertung der Uferstrasse
+         - spaeter Pruefung der Berechnung durch die Notarin
+
+
+===============================================================================
+Grundlagen: erbschaft_kontext\03, 15, 19, 24, 24a
+            situation\24_notartermin_ziel.txt, 24_strategie.txt,
+            24_latente_steuer_aktien.txt,
+            24_argumente_betreuungsgericht.txt,
+            23c_anfangsvermoegen_klas.txt, vertragsgrundlage_irrtum.txt
+Erstellt: 19.11.2026. Keine Rechtsberatung.
+===============================================================================
