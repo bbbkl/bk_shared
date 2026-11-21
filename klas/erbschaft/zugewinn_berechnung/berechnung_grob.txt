@@ -24,6 +24,9 @@ NEU GEGENUEBER DEM LETZTEN STAND
     auseinander, je nachdem, wie viel § 1380 anerkannt wird.
   - Das "Ackerglueck" 2014 aendert an der Rechnung nichts (mehr als 10
     Jahre vor dem 05.02.2026).
+  - Annes Mails vom 25.01.2026 (Immobilienfonds SD Plaza, Grundstueck
+    Hoeven) aendern die Spanne kaum, werfen aber eine wichtige Frage
+    auf: Hille hat waehrend der Ehe vom Vater GEERBT (Abschnitt 1a).
 
 Vergleich: Abfindung aus Vertrag 03: 190.000 EUR.
 
@@ -80,6 +83,52 @@ Rechenskript: berechnung_grob.py (Werte dort anpassen und neu rechnen).
     103.000 EUR = Kaufpreisanteil ohne Ackererloes (222.500 - 119.500);
                   setzt voraus, dass auch die Sparraten 2003/2004 von Klas
                   stammten
+
+
+-------------------------------------------------------------------------------
+1a. NEU: ANNES MAILS VOM 25.01.2026 (vermoegensuebersicht_hille.txt)
+-------------------------------------------------------------------------------
+
+  IMMOBILIENFONDS SD PLAZA
+  - "waren mal 50.000", heute nur noch ca. ein Drittel wert.
+  - Waehrung offen: 50.000 DM -> heute ca. 8.500 EUR,
+                    50.000 EUR -> heute ca. 16.700 EUR.
+  - Das ist vermutlich die "Immobilienbeteiligung ca. 25.000 EUR" aus
+    anne_will_pflichtteil_zugewinn_berechnet.txt (Abschnitt 3 A.2a).
+  - Zaehlt mit dem Wert am 05.02.2026 zu Hilles Endvermoegen.
+  - Wann gezeichnet? War er 1992 schon da, steckt er vermutlich in
+    "mobiles Vermoegen 155.800 DM" - dann hat er an Wert verloren, was
+    Hilles Zugewinn senkt (leicht unguenstig fuer Bernd).
+
+  GRUNDSTUECK HOEVEN
+  - Gehoert noch Hille. "Vom Vater geerbt."
+  - Reine Agrarflaeche, nicht bebaubar, wenig Wert. Grundsteuer ca. 30 EUR
+    im Jahr. Pflege nur muendlich durch Nachbarn Pollmann, kein
+    Pachtvertrag. Beide Nachbarn haben Kaufinteresse.
+  - Zaehlt mit dem Wert am 05.02.2026 zu Hilles Endvermoegen
+    (Groessenordnung vermutlich wenige tausend EUR; Flaeche und
+    Bodenrichtwert klaeren).
+  - Ist Hoeven der "Rest-Acker" mit der Ackerpacht bis 2020? Dann passt
+    das Bild: Die Pacht endete, als das Sparda-Konto erlosch, und seitdem
+    gibt es nur die muendliche Absprache.
+
+  DIE WICHTIGE FRAGE: WANN HAT HILLE VOM VATER GEERBT?
+  - VOR dem 20.11.1992: Das Grundstueck ist Teil ihres Anfangsvermoegens
+    (vermutlich in "Acker 110.000 DM" enthalten). Keine Aenderung.
+  - NACH dem 20.11.1992: Das Erbe vom Vater kommt zu Hilles Anfangs-
+    vermoegen hinzu (§ 1374 Abs. 2 BGB) - und zwar das GESAMTE Erbe, nicht
+    nur Hoeven. Das senkt ihren Zugewinn und ERHOEHT die Forderung.
+    In Szenario A ohne Wirkung (Hilles Zugewinn ist dort ohnehin 0), in
+    Szenario B je 10.000 EUR indexiertes Erbe ca. +4.400 EUR.
+  - Diese Information kommt von Hilles Seite. Anne wird sie vortragen,
+    wenn sie Hilles Anfangsvermoegen belegt.
+
+  WIRKUNG AUF DIE RECHNUNG (sofern Fonds und Hoeven im Verzeichnis
+  ueber ca. 400.000 EUR FEHLEN)
+  - Szenario A: keine (Hilles Zugewinn bleibt 0).
+  - Szenario B: Fonds + Hoeven zusammen ca. 10.000 bis 22.000 EUR
+    -> Forderung ca. -4.000 bis -10.000 EUR.
+  - Im Skript: EV_HILLE_ZUSATZ (bisher 0).
 
 
 -------------------------------------------------------------------------------
@@ -221,15 +270,26 @@ Rechenskript: berechnung_grob.py (Werte dort anpassen und neu rechnen).
        |                              | ca. +29.000 EUR     | Depotwerte 09/2018
        |                              |                     | und 09/2023
   -----+------------------------------+---------------------+-------------------
-   8   | HILLES SCHENKUNGEN, REST-    | nur in B, oder in A | Anne: Sparda 2020,
-       | ACKER, SPARDA                | ueber ca. 111.000   | Acker heute,
-       |                              |                     | Schenkungen seit
+   8   | HILLES SCHENKUNGEN, SPARDA   | nur in B, oder in A | Anne: Sparda 2020,
+       |                              | ueber ca. 111.000   | Schenkungen seit
        |                              |                     | 02/2016
   -----+------------------------------+---------------------+-------------------
-   9   | ERBSCHAFTEN HILLES IN DER    | erhoehen ihr AV,    | Anne
-       | EHE                          | Forderung steigt    |
+   9   | ERBSCHAFTEN HILLES IN DER    | erhoehen ihr AV,    | Anne: Wann starb
+       | EHE - NEU: ERBE VOM VATER    | Forderung steigt    | Hilles Vater, was
+       | (Grundstueck Hoeven)         | (nur in B: je       | hat sie insgesamt
+       |                              | 10.000 indexiert    | geerbt?
+       |                              | ca. +4.400)         |
   -----+------------------------------+---------------------+-------------------
-  10   | GENAUE KAUFKRAFTFAKTOREN     | einige tausend EUR  | Notarin (VPI)
+  10   | IMMOBILIENFONDS SD PLAZA,    | nur in B, gering:   | Anne: im Verzeich-
+       | GRUNDSTUECK HOEVEN im        | ca. -4.000 bis      | nis 30.09.2025
+       | Endvermoegen?                | -10.000, falls sie  | enthalten? Wert am
+       |                              | im Verzeichnis      | 05.02.2026, DM
+       |                              | fehlen              | oder EUR, Datum der
+       |                              |                     | Zeichnung; Hoeven:
+       |                              |                     | Flaeche, Boden-
+       |                              |                     | richtwert
+  -----+------------------------------+---------------------+-------------------
+  11   | GENAUE KAUFKRAFTFAKTOREN     | einige tausend EUR  | Notarin (VPI)
   -----+------------------------------+---------------------+-------------------
 
   EMPFEHLUNG FUER DIE REIHENFOLGE
@@ -237,8 +297,8 @@ Rechenskript: berechnung_grob.py (Werte dort anpassen und neu rechnen).
     Beide liegen in Bernds Hand und haben die groesste Wirkung.
   - PARALLEL: Punkt 3 und 5 ueber die LzO-Auszuege 2003 - 2010 - eine
     Anfrage bei der LzO deckt beide ab.
-  - BEI ANNE ANFRAGEN (nach ihrer Rueckkehr am 13.12.): Punkt 4, 8, 9 und
-    der Kaufvertrag Uferstrasse.
+  - BEI ANNE ANFRAGEN (nach ihrer Rueckkehr am 13.12.): Punkt 4, 8, 9, 10
+    und der Kaufvertrag Uferstrasse.
 
 
 -------------------------------------------------------------------------------
@@ -251,6 +311,9 @@ Rechenskript: berechnung_grob.py (Werte dort anpassen und neu rechnen).
   - Annes 1:1-Vorschlag fuer Postweg und Gifhorn ist ueberholt: Fuer den
     Postweg gibt es einen Wert (300.000 DM), Gifhorn steckt in Klas'
     780.000 DM.
+  - Das Grundstueck Hoeven gehoert noch Hille. Ein Verkauf an die
+    Nachbarn vor ihrem Tod aendert am Zugewinn nichts (Stichtag ist der
+    05.02.2026). Es faellt spaeter in ihren Nachlass, also an Anne und Jan.
   - § 1380 BGB setzt voraus, dass die Zuwendung auf den Zugewinnausgleich
     angerechnet werden soll. Bei groesseren Zuwendungen wird das vermutet
     (§ 1380 Abs. 1 Satz 2 BGB). Ein Ehegattenkauf einer gemeinsam
