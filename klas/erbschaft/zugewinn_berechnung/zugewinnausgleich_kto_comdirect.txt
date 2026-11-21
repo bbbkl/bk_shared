@@ -1,0 +1,367 @@
+===============================================================================
+WAS DER VERLAUF DES COMDIRECT-KONTOS FUER DEN ZUGEWINNAUSGLEICH ZEIGT
+Finanzreporte 06/2001 bis 10/2026 (304 Reports)
+Stand 21.11.2026
+===============================================================================
+
+KURZ GESAGT
+Das comdirect-Konto zeigt deutlich mehr als nur Klas' Vermoegen. Fuer die
+Berechnung wichtig sind vor allem sechs Befunde:
+  1. Der Kauf der Uferstrasse 2004 lief ueber dieses Konto. Klas hat
+     dafuer erheblich eigenes Geld eingesetzt, und Hilles Acker wurde
+     dafuer (zumindest teilweise) verkauft.
+  2. Hille hatte ein eigenes Konto bei der Sparda-Bank, das 2020
+     aufgeloest wurde. Was daraus wurde, ist offen.
+  3. Es gab ein gemeinsames Aktiendepot, das 2013 aufgeloest wurde.
+  4. Die latente Steuer betrifft fast nur das Fisher-Depot. Das comdirect-
+     Depot hat am Todestag kaum unrealisierte Gewinne.
+  5. Zuwendungen in den letzten 10 Jahren vor dem 05.02.2026 lassen sich
+     vollstaendig auflisten (fuer beide Seiten).
+  6. Die Vermoegensstaende 2001 bis 2018 stuetzen das Anfangsvermoegen von
+     Klas und zeigen, wann sein Zugewinn entstanden ist.
+
+KEINE RECHTSBERATUNG. Einschaetzung auf Grundlage der Finanzreporte.
+Mehrere Punkte sind Deutungen der Buchungstexte und als solche markiert.
+
+DATENQUELLE: Alle Werte direkt aus den PDFs gelesen
+(D:\bk\bk_shared\klas\comdirect_kto\*.pdf). NICHT aus finanzreporte.csv:
+Die Buchungen ab 2010 sind dort nicht zuverlaessig zugeordnet.
+
+
+-------------------------------------------------------------------------------
+1. KAUF DER UFERSTRASSE 2003 - 2005 (WICHTIGSTER BEFUND)
+-------------------------------------------------------------------------------
+
+  ANSPAREN AUF DEM COMDIRECT-KONTO (Eingaenge vom LzO-Konto
+  "Klas Krueger / Hille Krueger")
+
+  Datum       |     Betrag | Buchungstext
+  ------------+------------+---------------------------------------------
+  26.02.2003  | +31.500,00 | "UEBERTRAG KAUFPREIS"
+  07.01.2004  |  +2.000,00 | "UEBERTRAG FUER AP.4.01"
+  09.02.2004  |  +2.000,00 | "SPARRATE APP.02.04"
+  08.03.2004  |  +3.000,00 | "UEBERTRAG KAUFPREIS/MAERZ"
+  11.05.2004  |  +4.000,00 | "SPARSUMME.MAI.APPTMT."
+  15.06.2004  | +28.000,00 | "ACKER FUER APPT."
+  21.06.2004  | +91.500,00 | "ACKER ETC. F. CAECILIENHOF"
+  ------------+------------+---------------------------------------------
+  Danach als Fest-/Termingeld angelegt (bis zu 92.000 EUR je Anlage).
+
+  AUSZAHLUNG FUER DEN KAUF (an "HILLE UND KLAS KRUEGER", LzO 11136090)
+
+  Datum       |     Betrag | Herkunft am selben Tag
+  ------------+------------+---------------------------------------------
+  17.12.2004  | -63.400,00 | Termingelder +52.061 / +10.011 aufgeloest
+  21.12.2004  | -67.100,00 | Wertpapierverkauf 17.12.2004: +67.078,14
+  23.12.2004  | -92.000,00 | Termingeld +92.104,80 aufgeloest
+  ------------+------------+---------------------------------------------
+  Summe        -222.500,00
+  19.01.2005  | +40.000,00 | von "KLAS KRUEGER" (nur Klas): "UEBERTRAG
+              |            | REST HAUS"
+
+  Fundstellen: 20030303.02, 20040202.01 bis 20040701.06, 20041231.12,
+  20050201.01 (jeweils .pdf)
+
+  DEUTUNG
+  - Der Kaufpreis der Wohnung im Caecilienhof (Uferstrasse 2) wurde Ende
+    2004 mit ca. 222.500 EUR ueber Klas' comdirect-Konto bereitgestellt.
+  - Davon stammten ca. 119.500 EUR aus dem Verkauf von Acker ("Acker fuer
+    Appt.", "Acker etc."). Der Acker war Hilles Anfangsvermoegen
+    (110.000 DM = ca. 56.200 EUR, vermoegensuebersicht_hille.txt).
+  - Mindestens 67.078 EUR kamen aus Klas' eigenen Wertpapieren
+    (Verkauf 17.12.2004). Der Rest aus gemeinsamen Sparraten und dem
+    Uebertrag "Kaufpreis" 2003, dessen Herkunft offen ist.
+  - "REST HAUS" 2005 (40.000 EUR, nur von Klas): moeglicherweise der Rest
+    aus dem Verkauf eines Hauses (Gifhorn?). Nicht belegt.
+
+  WAS DAS FUER DIE BERECHNUNG BEDEUTET
+  a) Die Uferstrasse steht im Eigentum von Hille (Testament § 4 Nr. 1a)
+     und ist in ihrem Vermoegensverzeichnis enthalten. Klas' Beitrag ist
+     eine Zuwendung an Hille (§ 1380 BGB). Solange die Wohnung in Hilles
+     Endvermoegen steht, ist das RECHNERISCH NEUTRAL (siehe
+     anne_will_pflichtteil_zugewinn_berechnet.txt, Abschnitt 3 A.2).
+  b) Hilles Acker ist (zumindest teilweise) in die Wohnung geflossen.
+     Auch das ist neutral: Anfangsvermoegen Acker, Endvermoegen Wohnung.
+  c) WICHTIG: Der Wert der Wohnung im Endvermoegen muss VOLL bei Hille
+     stehen. Die Belege zeigen, dass sie nicht aus Hilles Mitteln allein
+     bezahlt wurde. Behauptet Hilles Seite, die Wohnung sei aus ihrem
+     Anfangsvermoegen 1992 bezahlt (und deshalb privilegiert), widerlegt
+     das der Kontoverlauf.
+  d) Wurde mit "REST HAUS" das Haus Gifhorn verkauft, belegt der
+     Verkaufspreis den Wert, der in Klas' Anfangsvermoegen steckt.
+
+  NACHFRAGEN
+  [ ] Kaufvertrag Uferstrasse 2: Kaufpreis, Datum, Kaeufer (Hille allein?)
+  [ ] Verkauf des Ackers 2004: welche Flaeche, Preis, Kaeufer
+  [ ] "REST HAUS" 01/2005: welches Haus? Verkaufsvertrag?
+  [ ] "UEBERTRAG KAUFPREIS" 02/2003: Kaufpreis wofuer?
+
+
+-------------------------------------------------------------------------------
+2. HILLES ACKER UND IHR SPARDA-KONTO
+-------------------------------------------------------------------------------
+
+  ACKERPACHT
+  Klas hat von 2010 bis 2020 zweimal jaehrlich "Ackerpacht" an Hille
+  ueberwiesen (Mai 800 EUR, November 665 EUR), auf ihr Konto bei der
+  Sparda-Bank (DE67 4006 0560 0112 3193 57).
+  Letzte Zahlung 04.05.2020: -800,00 EUR, am 05.05.2020 zurueck mit
+  "Rueckgabegrund: Konto erloschen" (20200602.05.pdf). Danach keine
+  Zahlungen mehr.
+
+  DEUTUNG
+  - Nicht der ganze Acker wurde 2004 verkauft ("Acker etc."). Ein Teil
+    war bis mindestens 2020 verpachtet. Warum die Pacht ueber Klas lief,
+    ist offen (vielleicht ging sie auf ein Konto von Klas ein).
+  - Gehoert dieser Rest-Acker Hille noch, steht er mit dem heutigen Wert
+    in ihrem Endvermoegen. Ist er im Verzeichnis ueber ca. 400.000 EUR
+    enthalten?
+  - Wurde er nach 05.02.2016 verschenkt (z. B. an Anne oder Jan), wird er
+    Hilles Endvermoegen hinzugerechnet (§ 1375 Abs. 2 Nr. 1 BGB). Das
+    SENKT die Forderung.
+
+  SPARDA-KONTO
+  - 27.05.2010  -4.900,00 EUR an Hille "SPARANLAGE/HILLE/SPARDA"
+  - 07.06.2013  +5.000,00 EUR "UEBERTRAG SPARDA HILLE"
+  - 05.2020     Konto erloschen
+  Hille hatte also ein eigenes Konto. Es wurde spaetestens im Mai 2020
+  aufgeloest, als Hille vermutlich schon nicht mehr selbst handelte.
+
+  "ACKERGLUECK" 2014 - ERGAENZT 21.11.2026
+  Nach Bernds Erinnerung hat Hille Acker verkauft und den Kindern daraus
+  Schenkungen gemacht ("Ackerglueck"). Im comdirect-Konto findet sich:
+
+  Datum       |     Betrag | Buchung
+  ------------+------------+------------------------------------------------
+  03.03.2014  | -20.000,00 | an BERND KRUEGER (DE83 5405 0110 0100 9028 40),
+              |            | OHNE Verwendungszweck; vorher am selben Tag
+              |            | 20.000,00 vom eigenen Tagesgeld PLUS umgebucht
+              |            | (Saldo 62.007 -> 42.007 EUR). 20140303.02.pdf
+  ------------+------------+------------------------------------------------
+  03.07.2014  |  +9.869,00 | vom LzO-Konto "Klas Krueger Hille Krueger":
+              |            | "Teiluebertrag Buscha KK."      20140804.07.pdf
+  04.07.2014  |  +9.131,00 | dito: "Buscha letzte Rate"      20140804.07.pdf
+  03.12.2014  |  +8.000,00 | dito: "letzter Buscha - Posten" 20150106.12.pdf
+  ------------+------------+------------------------------------------------
+
+  BEFUND
+  - Die 20.000 EUR an Bernd kamen formal von KLAS, aus seinem eigenen
+    Tagesgeld. Ein vorheriger Eingang vom LzO-Konto oder von Hille, der zu
+    einem Ackerverkauf passt, ist im comdirect-Konto NICHT zu sehen.
+  - Zahlungen an Fabian, Anne oder Jan finden sich 06/2013 bis 12/2014
+    im comdirect-Konto nicht. Sie liefen, wenn es sie gab, ueber andere
+    Konten.
+  - Die "Buscha"-Eingaenge 07/2014 ergeben zusammen genau 19.000 EUR, mit
+    12/2014 27.000 EUR. Moeglich ist, dass damit Klas' Vorleistung
+    erstattet wurde. Was "Buscha" ist (Kaeufer, Paechter, etwas
+    anderes), ist offen.
+
+  DEUTUNG (nicht belegt)
+  Klas hat Bernd den Anteil am "Ackerglueck" aus eigenem Geld vorgestreckt
+  oder ausgezahlt; der Erloes des Ackers lief ueber das LzO-Gemeinschafts-
+  konto oder Hilles Sparda-Konto.
+
+  BEDEUTUNG FUER DEN ZUGEWINN
+  - KEINE HINZURECHNUNG: 03.03.2014 liegt 11 Jahre 11 Monate vor dem
+    05.02.2026 (§ 1375 Abs. 3 BGB) - egal ob Klas oder Hille geschenkt
+    hat. Gleiches gilt fuer Schenkungen Hilles an Anne und Jan aus dem
+    Verkauf 2014. Fuer die Rechnung ohne Bedeutung.
+  - INDIREKT WICHTIG: Wurde 2014 Acker verkauft, steht er nicht mehr in
+    Hilles Endvermoegen (passt zu ca. 400.000 EUR). Die Pacht lief aber
+    bis 2020 weiter. Also wurde nur ein Teil verkauft oder es gab mehrere
+    Flurstuecke. Der Verbleib des Rests bleibt offen.
+
+  NACHFRAGEN
+  [ ] Gehoert Hille noch Acker? Wo, wie gross, welcher Wert? Wer erhaelt
+      heute die Pacht?
+  [ ] Sparda-Konto: Stand bei Aufloesung 2020 und wohin das Guthaben ging.
+      Floss es an Anne oder Jan, waere das eine Schenkung innerhalb der
+      10 Jahre (Hinzurechnung bei Hille).
+  [ ] "Ackerglueck" 2014: LzO-Auszuege 2014 (Eingang Verkaufserloes,
+      Zahlungen an Anne und Jan); Kaufvertrag Acker 2014 (Kaeufer, Preis,
+      Flurstueck, ueber Grundakte bzw. Notarin).
+  [ ] Fabian fragen: Hat er 03/2014 auch 20.000 EUR erhalten, von welchem
+      Konto?
+  [ ] "Buscha" klaeren: Kaeufer, Paechter oder etwas anderes?
+
+
+-------------------------------------------------------------------------------
+3. GEMEINSAMES AKTIENDEPOT, AUFGELOEST 2013
+-------------------------------------------------------------------------------
+
+  04.10.2013  +25.681,23 EUR  "GEMEINSCHAFTSKONTO AUSZAHLUNG AKTIEN-DEPOT"
+              (20131101.10.pdf), am 07.10.2013 aufs Tagesgeld PLUS.
+
+  DEUTUNG
+  - Es gab ein gemeinsames Wertpapierdepot von Klas und Hille (bei der
+    LzO). Der Erloes ging 2013 voll auf Klas' Konto.
+  - Fuer den Zugewinn zaehlen nur die Endvermoegen am 05.02.2026. Eine
+    Hinzurechnung kommt nicht in Betracht: 2013 liegt mehr als 10 Jahre
+    zurueck, und es war eine Uebertragung zwischen den Ehegatten.
+  - Hilles Seite koennte argumentieren, die Haelfte (ca. 12.800 EUR) sei
+    ihr zugestanden und stecke heute in Klas' Vermoegen. Rechnerisch ist
+    das fuer den Zugewinnausgleich ohne Bedeutung: Die Uebertragung
+    zwischen Ehegatten verschiebt nur, was bei wem im Endvermoegen steht.
+  - Relevant ist es nur fuer die Frage "Gemeinschaftskonto comdirect".
+    Dort spricht es eher dafuer, dass gemeinsames Geld bewusst auf Klas
+    uebertragen wurde.
+
+
+-------------------------------------------------------------------------------
+4. LATENTE STEUER: FAST NUR BEI FISHER
+-------------------------------------------------------------------------------
+
+  comdirect-Depot am 02.02.2026 (20260202.01.pdf):
+    Kurswert  58.948,58 EUR
+    Kaufwert  56.679,10 EUR
+    Gewinn    +2.269,48 EUR  -> latente Steuer ca. 600 EUR
+
+  FOLGE
+  Der Hebel "latente Steuer" (24_latente_steuer_aktien.txt, ca. 100.000
+  bis 130.000 EUR) liegt praktisch ganz beim Fisher-Depot. Die
+  Einstandskurse muessen also vor allem bei Fisher angefordert werden.
+
+
+-------------------------------------------------------------------------------
+5. ZUWENDUNGEN IN DEN LETZTEN 10 JAHREN (AB 05.02.2016)
+-------------------------------------------------------------------------------
+
+  Schenkungen in den letzten 10 Jahren werden dem Endvermoegen des
+  Schenkenden hinzugerechnet (§ 1375 Abs. 2 Nr. 1, Abs. 3 BGB), ausser
+  bei sittlicher Pflicht oder Anstand. Zuwendungen von KLAS erhoehen die
+  Forderung, Zuwendungen von HILLE senken sie.
+
+  Datum         |     Betrag | Was                          | Wirkung
+  --------------+------------+------------------------------+-----------------
+  03/2016 -     |   ca. 2.000| "Rentenergaenzung" an        | Klas; vermutlich
+  12/2016       | (10 x 200) | Rosemarie Huettner           | sittliche
+                |            |                              | Pflicht, klein
+  --------------+------------+------------------------------+-----------------
+  08.10.2020    |   3.000,00 | an Merle Weniger, "Zuschuss  | Klas; Anstands-
+                |            | zum Haus anlaesslich der     | schenkung zur
+                |            | Hochzeit"                    | Hochzeit, eher
+                |            |                              | nicht hinzu-
+                |            |                              | zurechnen
+  --------------+------------+------------------------------+-----------------
+  12.10.2020 /  |  60.000,00 | Darlehen an Jan Trueper,     | neutral,
+  16.06.2021    |            | zurueckgezahlt               | ausgeglichen
+  --------------+------------+------------------------------+-----------------
+  15.-25.07.    |  24.000,00 | "Teil-Schenkung v. Hille an  | HILLE (gezahlt
+  2022          |            | Jan / an Tochter Anne",      | ueber ihr Konto
+                |            | "Uebertrag fuer Hilles       | 11136090):
+                |            | Schenkung"                   | Hinzurechnung
+                |            |                              | bei Hille,
+                |            |                              | senkt Forderung
+                |            |                              | um ca. 10.500
+  --------------+------------+------------------------------+-----------------
+  05.09.2023    | 166.111,34 | an Fabian, "Rueckzahlung"    | Treuhand
+                |            | (Einzahlung 2018: 100.000)   | (comdirect_
+                |            |                              | konto_bewertung
+                |            |                              | .txt, Abschn. 2)
+  --------------+------------+------------------------------+-----------------
+
+  NICHT ZU BERUECKSICHTIGEN (mehr als 10 Jahre vor dem 05.02.2026)
+  - 04.03.2015: je 49.478,20 EUR an Bernd und Fabian ("vorweggenommenes
+    Erbe"), 30.000 EUR an Fabian ("Spritze fuer Hauserwerb")
+  - 08.04.2015: Korrekturbuchungen dazu
+  Das ist knapp: 10 Jahre und 11 Monate. Die Daten genau belegen.
+
+  ZU DEN 24.000 EUR VON 2022
+  - Die Buchungstexte nennen ausdruecklich Hille als Schenkende. Das
+    Geld ging auf ihr Konto 11136090 und von dort an Anne und Jan.
+  - Fuer Bernd ist die Einordnung "Schenkung Hilles" guenstig
+    (Hinzurechnung bei ihr). Die Gegenseite koennte sagen, eigentlich
+    habe Klas geschenkt (dann Hinzurechnung bei Klas, Forderung steigt
+    um ca. 10.500 EUR). Die Buchungstexte sprechen klar fuer Hille.
+
+  ZUR TREUHAND FABIAN 2018/2023
+  Haelt die Treuhand nicht, waere der Mehrbetrag von 66.111 EUR eine
+  Schenkung von Klas und wuerde seinem Endvermoegen hinzugerechnet
+  (Forderung + ca. 29.000 EUR). Belege dafuer sind deshalb auch fuer den
+  Zugewinn wichtig.
+
+
+-------------------------------------------------------------------------------
+6. VERMOEGENSVERLAUF - STUETZE FUER DAS ANFANGSVERMOEGEN VON KLAS
+-------------------------------------------------------------------------------
+
+  Gesamtsaldo comdirect (Konten + Depot) laut Reports:
+
+  Stichtag     | Gesamtsaldo EUR | Bemerkung
+  -------------+-----------------+---------------------------------------------
+  08.06.2001   |       239.157   | 467.750 DM; erster Report
+  31.12.2001   |       152.186   | 94.000 EUR an LzO-Konto 2001
+  31.12.2003   |       179.815   |
+  31.12.2004   |        89.786   | nach 222.500 EUR fuer die Uferstrasse
+  31.12.2006   |       212.439   |
+  31.12.2008   |       132.366   | Finanzkrise
+  31.12.2009   |       113.640   |
+  31.12.2012   |       155.842   |
+  31.12.2013   |       294.271   | Testament 11/2013: Klas 330.000 EUR
+  31.12.2015   |       408.804   |
+  31.12.2017   |       498.087   |
+  01.10.2018   |       540.301   | danach Uebergang ins Fisher-Depot
+  31.12.2018   |        25.014   |
+  31.12.2021   |       221.124   | Neuaufbau neben Fisher
+  31.12.2023   |        72.119   | nach Rueckzahlung an Fabian
+  02.02.2026   |       110.438   | Todestag 05.02.2026
+  -------------+-----------------+---------------------------------------------
+
+  DEUTUNG
+  - 2001 hatte Klas allein bei comdirect ca. 239.000 EUR (467.750 DM).
+    Das passt zu einem Anfangsvermoegen 1992 von 780.000 DM plus
+    Lebensversicherungen (vermoegensuebersicht_klas.txt), das auch das
+    Haus Gifhorn umfasste. Ein Beleg fuer 1992 ist es nicht, aber eine
+    starke Plausibilitaetsstuetze.
+  - 14.05.2001 "LEBENSVERS.UEBERTRAG.REST" +10.000 DM: Eine
+    Lebensversicherung wurde 2001 ausgezahlt. Das bestaetigt die
+    Lebensversicherungen in Klas' Anfangsvermoegen. Ihr Wert 1992 ist der
+    Rueckkaufswert, nicht die Auszahlung 2001.
+  - Ende 2004 hat Klas ca. 100.000 EUR eigenes Geld in Hilles Wohnung
+    gesteckt (Abschnitt 1). Sein Vermoegen sank dadurch, Hilles stieg.
+    Rechnerisch neutral (§ 1380 BGB), erklaert aber, warum Klas' Vermoegen
+    2004 so niedrig war.
+  - Der grosse Zuwachs liegt 2013 bis 2026: von ca. 294.000 EUR auf
+    ca. 1,44 Mio. EUR (comdirect + Fisher). Das deckt sich mit Binder
+    (19, Z. 49-55) und laesst sich nicht wegargumentieren.
+
+
+-------------------------------------------------------------------------------
+7. WAS DARAUS FOLGT
+-------------------------------------------------------------------------------
+
+  FRAGEN AN HILLES SEITE (sachlich, als Teil der beiderseitigen
+  Offenlegung)
+  [ ] Kaufvertrag Uferstrasse 2 (Kaufpreis, Datum, Eigentuemerin)
+  [ ] Verkauf des Ackers 2004; gehoert Hille heute noch Acker?
+  [ ] Sparda-Konto Hilles: Stand und Verbleib bei Aufloesung 2020
+  [ ] Weitere Schenkungen Hilles seit 05.02.2016
+
+  EIGENE BELEGE
+  [ ] "REST HAUS" 01/2005 und "UEBERTRAG KAUFPREIS" 02/2003 klaeren:
+      Verkauf Haus Gifhorn? Verkaufsvertrag besorgen (Grundakte Gifhorn).
+  [ ] Lebensversicherungen: Policen, Rueckkaufswert 1992
+  [ ] Treuhand Fabian: Fisher-Depotwerte 09/2018 und 09/2023
+  [ ] Einstandskurse Fisher anfordern (latente Steuer)
+  [ ] Daten der Zahlungen vom 04.03. und 08.04.2015 sichern (10-Jahres-
+      Frist)
+
+  NICHT VON SICH AUS HERAUSGEBEN, ABER WAHRHEITSGEMAESS ANTWORTEN
+  Die Kontoauszuege enthalten auch fuer Bernd unguenstige Punkte
+  (Merle 2020, Huettner 2016, Fabian 2023). Auf Nachfrage vollstaendig
+  und richtig antworten (§ 1379 BGB; sonst Anfechtung, § 123 BGB).
+
+
+===============================================================================
+Quellen: comdirect_kto\20010608.05, 20030303.02, 20040202.01-20040701.06,
+         20041231.12, 20050201.01, 20100601.05, 20130701.06, 20131101.10,
+         20140303.02, 20140804.07, 20150106.12,
+         20150401.03, 20150505.04, 20160102.12-20170101.12, 20200602.05,
+         20201102.10, 20210701.06, 20220801.07, 20231003.09,
+         20260202.01 (jeweils .pdf)
+         zugewinn_berechnung\vermoegensuebersicht_klas.txt,
+         vermoegensuebersicht_hille.txt, erbschaft_klas_von_gundula.txt
+         situation\comdirect_konto_bewertung.txt,
+         24_latente_steuer_aktien.txt
+Erstellt: 21.11.2026. Keine Rechtsberatung.
+===============================================================================
