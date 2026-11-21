@@ -1,0 +1,133 @@
+===============================================================================
+STRATEGIE MIT ERBRECHTSANWALT: BERECHNUNG ZUGEWINNAUSGLEICH UND
+WANN WELCHE ZAHLEN GELIEFERT WERDEN
+Stand 21.11.2026
+===============================================================================
+
+KURZ GESAGT
+Belege gleichzeitig und gegenseitig austauschen, die eigenen rechtlichen
+Positionen der Notarin VOR ihrer Rechnung vorlegen, eine eigene Zahl erst
+nennen, wenn ihre Rechnung vorliegt.
+
+KEINE RECHTSBERATUNG. Einschaetzung auf Grundlage der Unterlagen.
+
+
+-------------------------------------------------------------------------------
+1. DEN RICHTIGEN ANWALT WAEHLEN
+-------------------------------------------------------------------------------
+
+  - FACHGEBIET: Fachanwalt fuer Erbrecht, idealerweise mit Erfahrung im
+    Familienrecht. Der Zugewinnausgleich (groesste Position) ist
+    Familienrecht.
+
+  - INTERESSENKONFLIKTE AUSSCHLIESSEN. Nicht infrage kommen:
+    - Kanzlei Kreft, Wehage, Schwackenberg & Freericks (die Notarin rechnet
+      dort, die Kanzlei beschaeftigt zugleich Anwaelte)
+    - RA Binder (Verfahrenspfleger fuer Hille)
+    - Notarin Lockmann (gegen sie wird ggf. eine Haftung geprueft)
+
+  - MOEGLICHE SPANNUNG BERND / FABIAN: Treuhand 2018 - 2023. Haelt sie
+    nicht, trifft das vor allem Fabian. Der Anwalt soll das zu Beginn
+    ansprechen; ggf. klaert Fabian diesen Punkt mit eigenem Berater.
+
+  - FORM DES AUFTRAGS: Beratung im Hintergrund, Stundensatz mit
+    Obergrenze, schriftliche Verguetungsvereinbarung. Nach aussen erst,
+    wenn Anne selbst einen Anwalt nimmt oder die Verhandlung scheitert.
+    So bleibt es bei Fabians Linie ("fair geht vor, kein Gegeneinander").
+
+
+-------------------------------------------------------------------------------
+2. DEN ANWALT VOLLSTAENDIG INFORMIEREN
+-------------------------------------------------------------------------------
+
+  Der Anwalt unterliegt der Schweigepflicht. Er braucht AUCH die
+  unguenstigen Punkte, sonst ist seine Beratung wertlos:
+    - Aufstellung 1992 vollstaendig, auch Hilles mobiles Vermoegen
+    - Treuhand Fabian 2018/2023
+    - Zahlung an Merle 2020
+    - 20.000 EUR an Bernd 03/2014
+
+  Unterlagen und Fragenliste: 25_anwalt_sachverhalt_fragen.txt
+
+
+-------------------------------------------------------------------------------
+3. WANN UND WELCHE ZAHLEN NACH AUSSEN GEHEN
+-------------------------------------------------------------------------------
+
+  Phase              | Zeit            | Was nach aussen geht
+  -------------------+-----------------+----------------------------------------
+  1. INTERN          | jetzt bis ca.   | NICHTS. Belege sammeln: Original
+                     | 13.12.2026      | Aufstellung 1992, Einstandskurse
+                     |                 | Fisher, LzO-Auszuege 2003 - 2010,
+                     |                 | Nachlassakte Luebeck. Anwalt prueft.
+  -------------------+-----------------+----------------------------------------
+  2. VERFAHREN       | nach Annes      | Kurzer Vorschlag an Anne und die
+     VEREINBAREN     | Rueckkehr       | Notarin: LISTE DER POSITIONEN FUER
+                     |                 | BEIDE SEITEN (Anfangsvermoegen,
+                     |                 | Erwerbe in der Ehe, Endvermoegen,
+                     |                 | Schenkungen der letzten 10 Jahre),
+                     |                 | dazu ein gemeinsamer Termin, an dem
+                     |                 | BEIDE SEITEN GLEICHZEITIG ihre Belege
+                     |                 | an die Notarin schicken.
+  -------------------+-----------------+----------------------------------------
+  3. BELEGE UND      | zu diesem       | Tatsachen mit Belegen, OHNE eigene
+     POSITIONEN      | Termin          | Rechnung. Dazu ein kurzes Schreiben
+                     |                 | (Anwalt entwirft, Bernd/Fabian
+                     |                 | schicken) mit den rechtlichen
+                     |                 | Positionen: latente Steuer, § 1380
+                     |                 | BGB, Indexierung.
+                     |                 | WICHTIG: muss VOR der Rechnung der
+                     |                 | Notarin bei ihr sein. Ihre erste Zahl
+                     |                 | wird zum Massstab.
+  -------------------+-----------------+----------------------------------------
+  4. RECHNUNG        | wenn die        | Nichts herausgeben. Anwalt prueft.
+     PRUEFEN         | Notarin         | Einwaende sachlich und begruendet.
+                     | gerechnet hat   |
+  -------------------+-----------------+----------------------------------------
+  5. VERGLEICH       | danach, in      | Erst jetzt eigene Zahl. Zielwert und
+                     | Fall 3 nach     | Obergrenze legt vorher der Anwalt
+                     | Hilles Tod      | fest, beide bleiben intern.
+                     |                 | Schnelligkeit gegen Abschlag
+                     |                 | (24_strategie.txt).
+  -------------------+-----------------+----------------------------------------
+
+  NICHT HERAUSGEBEN
+  - eigene Tabellen und Szenarien, Spannen aus berechnung_grob.txt
+  - interne Einschaetzungen ("Szenario A ist fuer uns schlechter")
+  - Kontoauszuege als Ganzes, solange niemand gezielt danach fragt
+
+  IMMER
+  Wird gezielt gefragt: vollstaendig und wahrheitsgemaess antworten
+  (sonst Anfechtung nach § 123 BGB).
+
+
+-------------------------------------------------------------------------------
+4. ZEIT
+-------------------------------------------------------------------------------
+
+  - Fall 3 ist wahrscheinlich. Die Belege sollten fertig sein, BEVOR
+    Hille stirbt. Wer dann belegte Zahlen hat, bestimmt den Rechenweg.
+  - Nach Hilles Tod haben Anne und Jan mindestens 6 Wochen fuer die
+    Ausschlagung. In dieser Zeit sollte der Vergleichsentwurf stehen.
+  - Nicht auf Zeit spielen: Nach einer Mahnung laufen Verzugszinsen, und
+    Grosszuegigkeit ist nicht zu erwarten.
+
+
+-------------------------------------------------------------------------------
+5. KOSTEN UND WEITERES
+-------------------------------------------------------------------------------
+
+  - Beratung im Hintergrund grob 3.000 - 10.000 EUR, geteilt durch
+    Bernd und Fabian (23c_warum_anwalt.txt).
+  - Fuer latente Steuer und § 35b EStG zusaetzlich ein Steuerberater fuer
+    diese eine Frage.
+  - Neues oder Unguenstiges zuerst mit dem Anwalt besprechen, nicht direkt
+    an Anne oder die Notarin weitergeben.
+
+
+===============================================================================
+Grundlagen: situation\23c_warum_anwalt.txt, 24_strategie.txt,
+            24_latente_steuer_aktien.txt, 24a_schwackenberg_termin.bewertung.txt
+            zugewinn_berechnung\berechnung_grob.txt
+Erstellt: 21.11.2026. Keine Rechtsberatung.
+===============================================================================
