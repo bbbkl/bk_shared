@@ -1,0 +1,165 @@
+===============================================================================
+ERBSCHAFT VON KLAS NACH SEINER SCHWESTER GUNDULA (gest. 05.-10.05.2009)
+Was sich aus den comdirect-Finanzreporten ableiten laesst
+Stand 21.11.2026
+===============================================================================
+
+KURZ GESAGT
+Die Spur laesst sich in den comdirect-Reports gut verfolgen. Eine genaue
+Summe ergibt sich daraus aber nicht, weil das Geld vom Gemeinschaftskonto
+bei der LzO weitergeleitet wurde.
+Grob hat Klas zwischen ca. 35.500 EUR und ca. 89.000 EUR geerbt. Als
+Anfangsvermoegen senkt das die Forderung um ca. 22.000 bis 54.000 EUR.
+
+KEINE RECHTSBERATUNG. Alle Zahlen grob. Kaufkraftfaktor pruefen.
+
+Datenquelle: Die Werte sind direkt aus den PDFs gelesen
+(D:\bk\bk_shared\klas\comdirect_kto\*.pdf), nicht aus finanzreporte.csv.
+Die Buchungen ab 2010 in der CSV sind nicht zuverlaessig.
+
+
+-------------------------------------------------------------------------------
+1. BUCHUNGEN MIT BEZUG ZU GUNDULA
+-------------------------------------------------------------------------------
+
+  Eingehende Betraege kamen alle vom Konto "Klas Krueger / Hille Krueger"
+  bei der LzO auf das comdirect-Verrechnungskonto.
+
+  Datum      |    Betrag | Buchungstext              | Einordnung
+  -----------+-----------+---------------------------+--------------------------
+  10.08.2009 |  +6.000,00| "G.K. RETOUR BZW. 1. RATE"| G.K. = Gundula Krueger.
+             |           |                           | Zum Teil vielleicht nur
+             |           |                           | eine Rueckerstattung,
+             |           |                           | etwa ausgelegter
+             |           |                           | Beerdigungskosten.
+  -----------+-----------+---------------------------+--------------------------
+  29.10.2009 |  +7.625,00| "2.RATE WG.GUNDULA"       | Erbe
+  -----------+-----------+---------------------------+--------------------------
+  02.11.2009 | +50.000,00| "HAUSANTEIL HL"           | WAHRSCHEINLICH Erbe,
+             |           |                           | siehe Abschnitt 2
+  -----------+-----------+---------------------------+--------------------------
+  02.11.2009 |  +8.430,00| "RUECKLAGE ERB.ST."       | Ruecklage fuer die
+             |           |                           | Erbschaftsteuer
+  -----------+-----------+---------------------------+--------------------------
+  04.01.2010 |  +4.148,71| "ERBE GUNDULA/BHW"        | Erbe (Bausparvertrag)
+  -----------+-----------+---------------------------+--------------------------
+  04.01.2010 | +17.736,36| "KRIN/DELPH.V.GK"         | "v. GK" = von Gundula
+             |           |                           | Krueger, wahrscheinlich
+             |           |                           | Erbe
+  -----------+-----------+---------------------------+--------------------------
+  28.10.2010 |    -760,19| an B. Kolkmeyer           | Auszahlung an Miterben
+             |    -760,19| an A.-K. Delaneau,        |
+             |           | "Letzte Rate v. Gundula"  |
+  -----------+-----------+---------------------------+--------------------------
+  14./15.11. |  -2.810,00| an A.-K. Delaneau und     | Auszahlung an Miterben
+  2011       |  -2.810,00| B. Kolkmeyer, "Auszahlg.  |
+             |           | Steuereinbehalt wg.       |
+             |           | Gundula"                  |
+  -----------+-----------+---------------------------+--------------------------
+
+  Fundstellen (Finanzreporte):
+    20090901.08.pdf  (10.08.2009)
+    20091102.10.pdf  (29.10. und 02.11.2009)
+    20100201.01.pdf  (04.01.2010)
+    20101101.10.pdf  (28.10.2010)
+    20111201.11.pdf  (14./15.11.2011)
+
+
+-------------------------------------------------------------------------------
+2. WAS SICH DARAUS ABLEITEN LAESST
+-------------------------------------------------------------------------------
+
+  a) KLAS HAT DEN NACHLASS OFFENBAR ABGEWICKELT und an die Miterben
+     verteilt.
+
+  b) ES GAB WAHRSCHEINLICH DREI GLEICHE ANTEILE
+     Die Steuerruecklage von 8.430 EUR ist genau dreimal 2.810 EUR. Die
+     beiden anderen bekamen je 2.810 EUR, das dritte Drittel blieb
+     vermutlich bei Klas.
+     Das passt zu drei Erbanteilen: Klas und zwei weitere. Kolkmeyer und
+     Delaneau koennten Nichten sein, die fuer ein verstorbenes Geschwister
+     nachruecken. Belegt ist das nicht.
+
+  c) "HAUSANTEIL HL"
+     HL ist das Kennzeichen fuer Luebeck. Dort starb 1998 die Mutter, und
+     Gundula hat vermutlich dort gelebt. 50.000 EUR ein halbes Jahr nach
+     ihrem Tod sprechen fuer Klas' Anteil am Verkauf ihres Hauses oder
+     ihrer Wohnung.
+     Das ist eine gut begruendete Vermutung, aber kein Beleg.
+
+
+-------------------------------------------------------------------------------
+3. GROESSENORDNUNG
+-------------------------------------------------------------------------------
+
+  Kaufkraftfaktor 2009 -> 02/2026 grob ca. 1,4 (genau nach VPI Destatis).
+  Wirkung auf die Forderung: je indexiertem Euro Anfangsvermoegen ca.
+  7/8 x 1/2 = 0,44 EUR weniger.
+
+  Variante                          | Erbe nominal | Indexiert   | Senkt die
+                                    |              | (x ca. 1,4) | Forderung um
+  ----------------------------------+--------------+-------------+-------------
+  Nur Posten, die ausdruecklich     | ca. 35.500   | ca. 50.000  | ca. 22.000
+  Gundula nennen (6.000 + 7.625 +   |              |             |
+  4.149 + 17.736)                   |              |             |
+  ----------------------------------+--------------+-------------+-------------
+  Zusaetzlich "Hausanteil HL"       | ca. 85.500   | ca. 120.000 | ca. 52.000
+  (50.000)                          |              |             |
+  ----------------------------------+--------------+-------------+-------------
+  Zusaetzlich Klas' Drittel der     | ca. 89.000   | ca. 125.000 | ca. 54.000
+  Steuerruecklage und der letzten   |              |             |
+  Rate (2.810 + 760)                |              |             |
+  ----------------------------------+--------------+-------------+-------------
+
+  Die Steuerruecklage selbst zaehlt nicht zum Erbe. Sie war ein
+  Zwischenposten und wurde 2011 wieder ausgezahlt.
+
+
+-------------------------------------------------------------------------------
+4. EINSCHRAENKUNGEN
+-------------------------------------------------------------------------------
+
+  - Das ist nur das, was ueber das comdirect-Konto lief. Das Erbe ist
+    vermutlich zuerst auf dem LzO-GEMEINSCHAFTSKONTO eingegangen und wurde
+    von dort aus weitergeleitet. Der tatsaechliche Anteil von Klas kann
+    hoeher sein.
+
+  - Damit das Erbe als Anfangsvermoegen anerkannt wird (§ 1374 Abs. 2
+    BGB), muss belegt werden, dass es sich um ein Erbe handelt. Die
+    Buchungstexte sind starke Indizien. Ein Erbschein oder Unterlagen aus
+    der Nachlassakte waeren besser.
+
+  - Ging das Geld zunaechst auf das Gemeinschaftskonto, bleibt es trotzdem
+    Anfangsvermoegen von Klas. Die Notarin sollte aber pruefen, ob die
+    Haelfte davon als Zuwendung an Hille gilt (§ 1380 BGB).
+
+
+-------------------------------------------------------------------------------
+5. NAECHSTE SCHRITTE
+-------------------------------------------------------------------------------
+
+  [ ] 1. NACHLASSAKTE VON GUNDULA anfordern, beim Nachlassgericht ihres
+         letzten Wohnorts, vermutlich Amtsgericht Luebeck. Fuer den
+         Nachlass der Mutter ist dort das Aktenzeichen 5 VI 1285/98
+         bekannt. Darin muessten Erbschein, Erbquoten und eventuell ein
+         Nachlassverzeichnis stehen.
+
+  [ ] 2. KONTOAUSZUEGE DES LZO-GEMEINSCHAFTSKONTOS 2009/2010 heraussuchen.
+         Dort steht vermutlich der eigentliche Eingang des Erbes. Das Konto
+         lief auch auf Klas, also sollten Bernd und Fabian als seine Erben
+         Auskunft bekommen koennen.
+
+  [ ] 3. BEI KOLKMEYER UND DELANEAU NACHFRAGEN. Sie haben vermutlich die
+         Abrechnung, die Klas ihnen geschickt hat.
+
+  [ ] 4. Erbe in berechnung_grob.py unter ERWERBE_KLAS eintragen, sobald
+         der Betrag belegt ist (bisher nicht eingetragen).
+
+
+===============================================================================
+Grundlagen: comdirect_kto\20090901.08.pdf, 20091102.10.pdf,
+            20100201.01.pdf, 20101101.10.pdf, 20111201.11.pdf
+            zugewinn_berechnung\vermoegensuebersicht_klas.txt,
+            berechnung_grob.py
+Erstellt: 21.11.2026. Keine Rechtsberatung. Alle Zahlen grob.
+===============================================================================
