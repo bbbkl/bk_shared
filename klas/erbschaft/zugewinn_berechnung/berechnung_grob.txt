@@ -16,6 +16,19 @@ heutigem Stand grob ZWISCHEN 225.000 UND 420.000 EUR.
      ueberschrieben (zaehlt nicht)     | 345.000       | 257.000
   -------------------------------------+---------------+------------------
 
+  EHER SZENARIO A ANNEHMEN (ergaenzt 22.11.2026)
+  Klas' eigene Aufstellung VOR der Eheschliessung fuehrt "Haus Postweg
+  300.000 DM" als Hilles Vermoegen auf. Das spricht dafuer, dass Hille das
+  Haus am 20.11.1992 noch gehoerte. Szenario B ist nur moeglich, wenn die
+  Aufstellung frueher 1992 entstand und das Haus noch vor der Hochzeit
+  uebertragen wurde. Fuer die Planung: ca. 230.000 BIS 420.000 EUR.
+
+  Annes Auszahlung an Jan legt den Wert NICHT fest (spaeterer Stichtag,
+  Familienpreis). Der Wert des Postwegs ist ohnehin kaum ein Hebel: In A
+  ist Hilles Zugewinn 0, ein niedrigerer Wert hilft erst unter grob
+  180.000 DM (ohne § 1380) bzw. 75.000 DM (mit § 1380). In B zaehlt das
+  Haus gar nicht.
+
 NEU GEGENUEBER DEM LETZTEN STAND
   - Der Kauf der Uferstrasse 2004 mit Klas' Geld (§ 1380 BGB) ist jetzt
     eingerechnet. Er senkt die Forderung in Szenario A um ca. 45.000 bis
@@ -255,7 +268,10 @@ Rechenskript: berechnung_grob.py (Werte dort anpassen und neu rechnen).
   -----+------------------------------+---------------------+-------------------
    4   | DATUM UEBERSCHREIBUNG        | ca. -6.000 bis      | Anne: Ueber-
        | POSTWEG                      | -75.000 EUR         | lassungsvertrag
-       |                              | (je nach § 1380)    | an Anne und Jan
+       | (B eher unwahrscheinlich,    | (je nach § 1380)    | an Anne und Jan;
+       | siehe "Eher Szenario A")     |                     | Grundakte AG
+       |                              |                     | Oldenburg; Datum
+       |                              |                     | der Aufstellung
   -----+------------------------------+---------------------+-------------------
    5   | ERBE GUNDULA BELEGEN         | ca. -33.000 EUR     | Nachlassakte
        |                              | (hoch statt         | Luebeck; LzO-
@@ -308,9 +324,11 @@ Rechenskript: berechnung_grob.py (Werte dort anpassen und neu rechnen).
   - Die Aufstellung von 1992 ist fuer Bernd teils unguenstig (Hilles
     mobiles Vermoegen 155.800 DM). Trotzdem vollstaendig vorlegen
     (§ 1379 BGB; sonst Anfechtung nach § 123 BGB).
-  - Annes 1:1-Vorschlag fuer Postweg und Gifhorn ist ueberholt: Fuer den
+  - Annes 1:1-Vorschlag fuer Postweg und Gifhorn NICHT annehmen: Fuer den
     Postweg gibt es einen Wert (300.000 DM), Gifhorn steckt in Klas'
-    780.000 DM.
+    780.000 DM. Zaehlt der Postweg ohnehin bei Hille (Szenario A), wuerde
+    1:1 vor allem Gifhorn aus Klas' Anfangsvermoegen nehmen (grob
+    +50.000 bis +125.000 EUR Forderung).
   - Das Grundstueck Hoeven gehoert noch Hille. Ein Verkauf an die
     Nachbarn vor ihrem Tod aendert am Zugewinn nichts (Stichtag ist der
     05.02.2026). Es faellt spaeter in ihren Nachlass, also an Anne und Jan.
