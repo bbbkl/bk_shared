@@ -40,6 +40,10 @@ NEU GEGENUEBER DEM LETZTEN STAND
   - Annes Mails vom 25.01.2026 (Immobilienfonds SD Plaza, Grundstueck
     Hoeven) aendern die Spanne kaum, werfen aber eine wichtige Frage
     auf: Hille hat waehrend der Ehe vom Vater GEERBT (Abschnitt 1a).
+  - Uferstrasse: Gutachten Ende 2025 mit 380.000 EUR (unvermietet,
+    renoviert). Renovierung ca. 15.000 EUR vom gemeinsamen Konto.
+    Kleine Wirkung; wichtiger ist Klas' Haelfte am gemeinsamen Konto
+    (Abschnitt 1b).
 
 Vergleich: Abfindung aus Vertrag 03: 190.000 EUR.
 
@@ -142,6 +146,68 @@ Rechenskript: berechnung_grob.py (Werte dort anpassen und neu rechnen).
   - Szenario B: Fonds + Hoeven zusammen ca. 10.000 bis 22.000 EUR
     -> Forderung ca. -4.000 bis -10.000 EUR.
   - Im Skript: EV_HILLE_ZUSATZ (bisher 0).
+
+
+-------------------------------------------------------------------------------
+1b. NEU: UFERSTRASSE - GUTACHTEN, RENOVIERUNG, GEMEINSAMES KONTO
+-------------------------------------------------------------------------------
+
+  GUTACHTEN
+  - Ende 2025, 380.000 EUR, Zustand unvermietet und renoviert.
+  - Vermietet erst ab 02/2026 (1.100 EUR kalt). Am Stichtag 05.02.2026
+    also unvermietet: genau der begutachtete Zustand, KEIN Abschlag fuer
+    Vermietung. Mietprobe: 28,8-fache Jahresmiete, plausibel.
+  - Das Gutachten kommt von Hilles Seite. Ein Streit ueber den Wert ist
+    unwahrscheinlich, ein Gegengutachten lohnt nicht.
+  - KORREKTUR: In frueheren Dateien (anne_will_pflichtteil_zugewinn_
+    berechnet.txt, 3 A.1) hiess die Uferstrasse "der groesste Hebel". Das
+    galt, solange Hilles Anfangsvermoegen unbekannt war. In Szenario A
+    (Hilles Zugewinn 0) ist der Wert praktisch ohne Wirkung; erst ueber
+    ca. 535.000 EUR Endvermoegen Hilles (mit § 1380 ca. 640.000 EUR)
+    wuerde ein hoeherer Wert helfen. Nur in Szenario B zaehlt er voll
+    (je 100.000 EUR ca. -44.000 EUR).
+  - Zu klaeren: Kopie des Gutachtens (Stichtag, Gutachter, Zweck) und ob
+    die Wohnung im Verzeichnis 30.09.2025 mit 380.000 EUR oder z. B. mit
+    dem Kaufpreis 2004 (ca. 222.500 EUR) steht.
+
+  RENOVIERUNG (ca. 15.000 EUR, Bernd 22.11.2026)
+  - Bezahlt vom GEMEINSAMEN Konto Hille/Klas. Vermutung: je zur Haelfte
+    (§ 430 BGB). Also ca. 7.500 EUR Hilles eigenes Geld, ca. 7.500 EUR
+    Klas' Anteil = moegliche Zuwendung nach § 1380 BGB.
+  - Mehr als die Haelfte nur, wenn belegt ist, dass Klas das Konto
+    ueberwiegend befuellt hat (z. B. 19.01.2026: 4.000 EUR "Konto-
+    auffuellung von Comdirect").
+  - Gegenargument: Hat Klas bis zuletzt dort gewohnt, kann die
+    Renovierung Familienunterhalt sein (keine anrechenbare Zuwendung).
+  - Wirkung (nur Szenario A, Kosten von 2025 kaum indexiert):
+      Haelfte 7.500 EUR       -> ca. -3.300 EUR
+      voll 15.000 EUR         -> ca. -6.600 EUR
+      Familienunterhalt       -> 0
+    KORREKTUR einer Chat-Aussage: Nicht 6.500 - 7.500 EUR je 10.000 EUR,
+    sondern ca. 4.400 EUR je 10.000 EUR.
+  - Zusaetzlich: 15.01.2026 -3.134,46 EUR von Klas' EIGENEM comdirect-
+    Konto an Meyerdierks ("Rechnung 202610006"). Gehoert sie zur
+    Renovierung oder einer Sonderumlage, ist sie voll eine Zuwendung von
+    Klas: ca. -1.400 EUR.
+  - KLEINER POSTEN. Vom Anwalt mitnehmen lassen, nicht von sich aus
+    verfolgen. Nicht im Skript.
+
+  WICHTIGER: GEMEINSAMES KONTO AM STICHTAG
+  - Gilt die Haelfte-Vermutung, gehoert die HAELFTE DES GUTHABENS am
+    05.02.2026 zu Klas' Nachlass und Endvermoegen, die andere Haelfte zu
+    Hille.
+  - Welches Konto? In den comdirect-Reports: LzO ...1136090 (in Vertrag
+    03 als "Kontoinhaber: Hille Krueger") und ...4587351323 ("Hille u.
+    Klas Krueger").
+  - EHER UNGUENSTIG: Klas' Haelfte erhoeht seinen Zugewinn und den
+    Nachlass (je 10.000 EUR Haelfte ca. +5.600 EUR Forderung). Trotzdem
+    in eine vollstaendige Rechnung; ein unvollstaendiges Nachlass-
+    verzeichnis waere ein Angriffspunkt, und Anne kennt das Konto.
+  - Passt zur comdirect-Linie: Wer dort keine Haelfte fuer Hille gelten
+    laesst, muss hier die Haelfte fuer Klas hinnehmen.
+  - Zu klaeren: Kontostand am 05.02.2026 (LzO-Auszuege, als Erbe
+    anfordern); steht Klas' Haelfte im Nachlassverzeichnis; steht das
+    Konto in Hilles ca. 400.000 EUR voll oder zur Haelfte?
 
 
 -------------------------------------------------------------------------------
@@ -307,14 +373,24 @@ Rechenskript: berechnung_grob.py (Werte dort anpassen und neu rechnen).
   -----+------------------------------+---------------------+-------------------
   11   | GENAUE KAUFKRAFTFAKTOREN     | einige tausend EUR  | Notarin (VPI)
   -----+------------------------------+---------------------+-------------------
+  12   | GEMEINSAMES LZO-KONTO AM     | je 10.000 EUR Klas' | LzO-Auszuege;
+       | STICHTAG (Klas' Haelfte im   | Haelfte ca. +5.600  | Nachlassverzeich-
+       | Nachlass?)                   | (unguenstig, aber   | nis pruefen und
+       |                              | fuer Vollstaendig-  | ggf. ergaenzen
+       |                              | keit noetig)        |
+  -----+------------------------------+---------------------+-------------------
+  13   | RENOVIERUNG UFERSTRASSE      | ca. -1.400 bis      | Anne: Rechnungen,
+       | (§ 1380), Meyerdierks        | -8.000 (nur A)      | Konto; Meyerdierks
+       | 15.01.2026                   |                     | Rechnung 202610006
+  -----+------------------------------+---------------------+-------------------
 
   EMPFEHLUNG FUER DIE REIHENFOLGE
   - SOFORT: Punkt 1 (Original der Aufstellung) und Punkt 2 (Fisher).
     Beide liegen in Bernds Hand und haben die groesste Wirkung.
-  - PARALLEL: Punkt 3 und 5 ueber die LzO-Auszuege 2003 - 2010 - eine
-    Anfrage bei der LzO deckt beide ab.
-  - BEI ANNE ANFRAGEN (nach ihrer Rueckkehr am 13.12.): Punkt 4, 8, 9, 10
-    und der Kaufvertrag Uferstrasse.
+  - PARALLEL: Punkt 3, 5 und 12 ueber die LzO-Auszuege 2003 - 2010 und
+    zum 05.02.2026 - eine Anfrage bei der LzO deckt alle ab.
+  - BEI ANNE ANFRAGEN (nach ihrer Rueckkehr am 13.12.): Punkt 4, 8, 9, 10,
+    13, der Kaufvertrag Uferstrasse und eine Kopie des Gutachtens.
 
 
 -------------------------------------------------------------------------------

@@ -105,6 +105,11 @@ nicht mehr optional.
   A. HILLES SEITE (muss Anne offenlegen, § 1379 BGB gilt beiderseitig)
 
     1. WOHNUNG UFERSTRASSE 2 - DER GROESSTE HEBEL
+       KORREKTUR 22.11.2026: Nicht mehr zutreffend. Mit Hilles Anfangs-
+       vermoegen 1992 (Aufstellung von Klas) ist Hilles Zugewinn in
+       Szenario A 0; der Wert der Wohnung wirkt dann praktisch nicht.
+       Gutachten Ende 2025: 380.000 EUR. Siehe zugewinn_berechnung\
+       berechnung_grob.txt, Abschnitt 1b.
        Nach dem Testament gehoerte sie Hille (Klas erhielt nur den
        Niessbrauch, 01 § 4 Nr. 1a). Gekauft wurde sie waehrend der Ehe
        ("planten/kauften", Trauerrede). Sie gehoert mit dem VERKEHRSWERT
